@@ -573,6 +573,7 @@ function renderLawContext(law, compact = false) {
     ? `Se trabaja especialmente en ${topics.slice(0, 3).map(topic => `Tema ${topic.number}`).join(', ')}${topics.length > 3 ? ' y otros temas.' : '.'}`
     : 'Forma parte del corpus jurídico de consulta de la oposición.';
   const importance = lawPurposeNotes[law.lawId] || topicText;
+  if (compact) return `<span class="law-context law-context-compact"><strong>Por qué importa en M3</strong><span class="law-context-text">${escapeHtml(importance)}${count ? ` (${count} preguntas activas enlazadas.)` : ''}</span></span>`;
   return `<div class="law-context${compact ? ' law-context-compact' : ''}">
     <div><strong>Qué es</strong><p>${escapeHtml(law.legalReference || law.title)}</p></div>
     <div><strong>Por qué importa en M3</strong><p>${escapeHtml(importance)}${count ? ` (${count} preguntas activas enlazadas.)` : ''}</p></div>

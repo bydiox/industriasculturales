@@ -208,8 +208,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .law-context p { margin: 0; color: #c5ced7; font-size: .82rem; line-height: 1.45; }
 .law-context-compact { grid-column: 2; grid-template-columns: 1fr; gap: 6px; margin: 5px 0 0; padding: 8px 9px; border: 0; border-left: 2px solid var(--law-card-color, #5db5ed); border-radius: 0; background: transparent; }
 .law-context-compact strong { font-size: .7rem; }
-.law-context-compact p { font-size: .72rem; }
-.law-context-compact > div:first-child { display: none; }
+.law-context-compact .law-context-text { display: block; color: #aeb9c5; font-size: .72rem; line-height: 1.35; }
 .law-page-content { min-width: 0; padding: 22px clamp(14px, 3vw, 32px); border: 1px solid #303d4c; border-radius: 14px; background: #151c24; }
 .law-page-content main, .law-page-content body { max-width: none; margin: 0; }
 .law-page-content header { display: block; margin: 0 0 26px; padding-bottom: 16px; border-bottom: 1px solid #344252; }
