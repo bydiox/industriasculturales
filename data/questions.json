@@ -5305,5 +5305,145 @@
     "explanation": "La cláusula primera prevé treinta becas para miembros de la Bolsa Instrumentalista de la JONDE, con el fin de apoyar su crecimiento artístico.",
     "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
     "source": { "lawId": "res-jonde-2023-becas", "anchorId": "res-jonde-2023-becas-clausula-1", "reference": "Resolución de 29 de septiembre de 2023, cláusula primera", "url": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf" }
+  },
+  {
+    "id": "m3-centro-035",
+    "topicId": "especifico-04",
+    "prompt": "¿Qué patrimonio debe preservar y difundir el Ballet Nacional de España?",
+    "options": [
+      { "id": "a", "text": "El patrimonio coreográfico español y sus tradiciones." },
+      { "id": "b", "text": "El patrimonio lírico español, especialmente la zarzuela." },
+      { "id": "c", "text": "El teatro contemporáneo español en todas sus lenguas." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1 del Estatuto del BNE menciona el patrimonio coreográfico español y sus formas académica, estilizada, folclore, bolera y flamenca.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3065-2010-bne", "anchorId": "orden-cul-3065-2010-bne-a1", "reference": "Orden CUL/3065/2010, artículo 1", "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065" }
+  },
+  {
+    "id": "m3-centro-036",
+    "topicId": "especifico-04",
+    "prompt": "¿Qué formas de la tradición coreográfica española enumera el Estatuto del BNE?",
+    "options": [
+      { "id": "a", "text": "Académica, estilizada, folclore, bolera y flamenca." },
+      { "id": "b", "text": "Clásica, contemporánea, urbana, experimental y electrónica." },
+      { "id": "c", "text": "Barroca, romántica, impresionista, moderna y posmoderna." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.1 enumera expresamente esas cinco formas como expresión de la pluralidad estilística y las tradiciones del patrimonio coreográfico español.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3065-2010-bne", "anchorId": "orden-cul-3065-2010-bne-a1", "reference": "Orden CUL/3065/2010, artículo 1.1", "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065" }
+  },
+  {
+    "id": "m3-centro-037",
+    "topicId": "especifico-04",
+    "prompt": "¿Qué principios rigen la selección de la Dirección del BNE?",
+    "options": [
+      { "id": "a", "text": "Igualdad, mérito, capacidad, publicidad y concurrencia." },
+      { "id": "b", "text": "Antigüedad, libre designación y confianza institucional." },
+      { "id": "c", "text": "Sorteo, rotación anual y representación territorial." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 8 del Estatuto exige igualdad, mérito y capacidad, junto con publicidad y concurrencia, en el procedimiento de selección.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3065-2010-bne", "anchorId": "orden-cul-3065-2010-bne-a8", "reference": "Orden CUL/3065/2010, artículo 8", "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065" }
+  },
+  {
+    "id": "m3-centro-038",
+    "topicId": "especifico-04",
+    "prompt": "¿Qué órgano participa en la selección de la Dirección del BNE?",
+    "options": [
+      { "id": "a", "text": "El Consejo Artístico de la Danza." },
+      { "id": "b", "text": "El Consejo Artístico del Teatro." },
+      { "id": "c", "text": "La Comisión de Dirección de la OCNE." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 8.4 atribuye la participación en el proceso de selección al Consejo Artístico de la Danza; la designación corresponde a la Dirección General del INAEM.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3065-2010-bne", "anchorId": "orden-cul-3065-2010-bne-a8", "reference": "Orden CUL/3065/2010, artículo 8.4 y 8.7", "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065" }
+  },
+  {
+    "id": "m3-centro-039",
+    "topicId": "especifico-04",
+    "prompt": "¿Qué misión tiene la Compañía Nacional de Danza según su Estatuto?",
+    "options": [
+      { "id": "a", "text": "Danza mediante compañía estable abierta a estilos y lenguajes." },
+      { "id": "b", "text": "Preservar solo el repertorio flamenco histórico." },
+      { "id": "c", "text": "Gestionar la formación técnica de todos los centros del INAEM." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El apartado Primero del Estatuto de la CND define una compañía estable abierta a todos los estilos, lenguajes coreográficos y artes del movimiento, de creación española e internacional.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-1993-2010-cnd", "anchorId": "orden-cul-1993-2010-cnd-a1", "reference": "Orden CUL/1993/2010, apartado Primero", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823" }
+  },
+  {
+    "id": "m3-centro-040",
+    "topicId": "especifico-04",
+    "prompt": "¿Qué órgano asesora al INAEM respecto de la CND?",
+    "options": [
+      { "id": "a", "text": "El Consejo Artístico de la Danza." },
+      { "id": "b", "text": "El Consejo Artístico del Teatro." },
+      { "id": "c", "text": "El Consejo Rector de la OCNE." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El apartado Séptimo del Estatuto de la CND identifica al Consejo Artístico de la Danza como órgano asesor del INAEM respecto de la compañía, con las funciones del Real Decreto 497/2010.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-1993-2010-cnd", "anchorId": "orden-cul-1993-2010-cnd-a7", "reference": "Orden CUL/1993/2010, apartado Séptimo", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823" }
+  },
+  {
+    "id": "m3-centro-041",
+    "topicId": "especifico-04",
+    "prompt": "¿Qué duración inicial tiene el contrato de Dirección del BNE o de la CND?",
+    "options": [
+      { "id": "a", "text": "Cinco años, prorrogable por un máximo de tres." },
+      { "id": "b", "text": "Tres años, prorrogable por un máximo de cinco." },
+      { "id": "c", "text": "Cuatro años, sin prórroga prevista." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Los artículos de duración de ambos estatutos fijan cinco años y una prórroga por un nuevo periodo máximo de tres años, con posibles nuevas prórrogas excepcionales informadas por el Consejo de la Danza.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3065-2010-bne", "anchorId": "orden-cul-3065-2010-bne-a9", "reference": "Orden CUL/3065/2010, artículo 9", "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065" }
+  },
+  {
+    "id": "m3-centro-042",
+    "topicId": "especifico-04",
+    "prompt": "¿Qué instrumentos articulan la planificación global de la CND?",
+    "options": [
+      { "id": "a", "text": "El Plan Director y los planes anuales de actuación." },
+      { "id": "b", "text": "El plan de giras y la memoria económica exclusivamente." },
+      { "id": "c", "text": "El presupuesto anual y el catálogo de repertorio." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El apartado Décimo del Estatuto de la CND establece el Plan Director y los planes anuales de actuación como instrumentos de planificación del proyecto global.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-1993-2010-cnd", "anchorId": "orden-cul-1993-2010-cnd-a10", "reference": "Orden CUL/1993/2010, apartado Décimo", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823" }
+  },
+  {
+    "id": "m3-centro-043",
+    "topicId": "especifico-04",
+    "prompt": "¿Quién aprueba el Plan Director de la CND según su Estatuto?",
+    "options": [
+      { "id": "a", "text": "La Dirección General del INAEM." },
+      { "id": "b", "text": "El Consejo Artístico de la Danza." },
+      { "id": "c", "text": "La persona titular de la Dirección de la CND." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El apartado Duodécimo atribuye al INAEM la elaboración, al Consejo de la Danza la opinión fundada y a la Dirección General del INAEM la aprobación del Plan Director.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-1993-2010-cnd", "anchorId": "orden-cul-1993-2010-cnd-a12", "reference": "Orden CUL/1993/2010, apartado Duodécimo", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823" }
+  },
+  {
+    "id": "m3-centro-044",
+    "topicId": "especifico-04",
+    "prompt": "¿Qué enfoque de públicos aparece en los objetivos de la CND?",
+    "options": [
+      { "id": "a", "text": "Facilitar nuevos públicos e impulsar la proyección nacional e internacional." },
+      { "id": "b", "text": "Limitar la actividad al repertorio de la sede madrileña." },
+      { "id": "c", "text": "Priorizar solo compañías internacionales sin cooperación estatal." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El Estatuto de la CND incorpora el acercamiento de nuevos públicos y la proyección nacional e internacional como elementos de su misión y objetivos estratégicos.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-1993-2010-cnd", "anchorId": "orden-cul-1993-2010-cnd-a1", "reference": "Orden CUL/1993/2010, apartado Primero", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823" }
   }
 ]

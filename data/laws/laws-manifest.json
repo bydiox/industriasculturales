@@ -210,6 +210,26 @@
       "versionDate": "20231009",
       "file": "res-jonde-2023-becas.html",
       "sourceType": "boe-convenio-oficial"
+    },
+    {
+      "lawId": "orden-cul-3065-2010-bne",
+      "slug": "orden-cul-3065-2010-bne",
+      "title": "Orden CUL/3065/2010, de 23 de noviembre, Estatuto del Ballet Nacional de España",
+      "legalReference": "Orden CUL/3065/2010, de 23 de noviembre, por la que se aprueba el Estatuto del Ballet Nacional de España.",
+      "officialUrl": "https://www.boe.es/eli/es/o/2010/11/23/cul3065",
+      "versionDate": "20101125",
+      "file": "orden-cul-3065-2010-bne.html",
+      "sourceType": "boe-consolidado-pre-reforma"
+    },
+    {
+      "lawId": "orden-cul-1993-2010-cnd",
+      "slug": "orden-cul-1993-2010-cnd",
+      "title": "Orden CUL/1993/2010, de 21 de julio, Estatuto de la Compañía Nacional de Danza",
+      "legalReference": "Orden CUL/1993/2010, de 21 de julio, por la que se aprueba el Estatuto de la Compañía Nacional de Danza.",
+      "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823",
+      "versionDate": "20100725",
+      "file": "orden-cul-1993-2010-cnd.html",
+      "sourceType": "boe-oficial-pre-reforma"
     }
   ]
 }
