@@ -95,6 +95,10 @@ La validación comprueba identificadores, temas, unidades, pesos, opciones, resp
 
 Para continuar el desarrollo, lee [`AI_BRIEF.md`](AI_BRIEF.md), [`ARCHITECTURE.md`](ARCHITECTURE.md) y [`AGENTS.md`](AGENTS.md).
 
+## Sincronizacion de progreso
+
+La app usa el cliente de navegador de Supabase y conserva `localStorage` como respaldo. Ejecuta `supabase/schema.sql` en el SQL Editor del proyecto Supabase para crear la tabla remota. La URL de redireccion de Auth debe incluir la URL de produccion de Cloudflare.
+
 ## Preguntas oficiales reutilizables
 
 El campo `active: true` permite que una pregunta oficial historica tambien se use en Libre e Historia sin duplicarla en el examen historico. Se han promovido diez preguntas tecnicas del cuestionario oficial (telon Wagner, chácena, maquinaria, iluminacion, microfonia, sastreria y telon cortafuegos) porque encajan con los temas vigentes. El resto de preguntas oficiales mantiene exclusivamente su caracter historico.

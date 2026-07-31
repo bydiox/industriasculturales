@@ -13,13 +13,28 @@
       <h1>M3</h1><span id="app-version" class="app-version" aria-label="VersiÃ³n de la aplicaciÃ³n">v—</span>
       <div class="header-tools">
         <span id="progress">Cargando progreso…</span>
+        <span id="session-user" class="session-user" hidden></span>
+        <button id="sign-out" class="secondary compact-action" type="button" hidden>Salir</button>
         <button id="open-guide" class="guide-button" type="button" aria-label="Abrir Léeme">
           <span class="guide-icon" aria-hidden="true">i</span>
           <span>Léeme</span>
         </button>
       </div>
     </header>
-    <section data-screen="home">
+    <section data-screen="auth" hidden>
+      <div class="auth-card">
+        <span class="guide-kicker">Acceso personal</span>
+        <h2>Entra en tu espacio de estudio</h2>
+        <p>Escribe el correo autorizado y recibirás un enlace de acceso. El progreso quedará sincronizado entre tus dispositivos.</p>
+        <form id="auth-form" class="auth-form">
+          <label for="auth-email">Correo electrónico</label>
+          <input id="auth-email" name="email" type="email" autocomplete="email" required placeholder="tu-correo@ejemplo.com">
+          <button class="primary" type="submit">Enviar enlace de acceso</button>
+        </form>
+        <p id="auth-message" class="auth-message" role="status"></p>
+      </div>
+    </section>
+    <section data-screen="home" hidden>
       <h2>Tu espacio de preparación</h2>
       <p>Una base personal para preparar la oposición de Gestión de Industrias Culturales y Creativas.</p>
       <nav class="home-menu" aria-label="Secciones principales">
@@ -110,6 +125,7 @@
     </div>
     <div id="guide-content" class="guide-content"></div>
   </dialog>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script type="module" src="src/app.js"></script>
 </body>
 </html>

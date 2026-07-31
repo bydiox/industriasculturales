@@ -1,6 +1,7 @@
 import { loadContent, sampleQuestions } from './questions.js';
 import { examScore, penaltyFraction } from './scoring.js';
 import { progressStore } from './progress-store.js';
+import { allowedEmail, getInitialSession, loadCloudProgress, onAuthStateChange, saveCloudProgress, sendMagicLink, signOut } from './supabase-client.js';
 
 const state = {
   content: null,
@@ -13,6 +14,7 @@ const state = {
   responses: [],
   sessionNotice: '',
   reviewKind: 'inteligente',
+  auth: { user: null, email: '', cloudEnabled: false, error: null },
   index: 0,
   correct: 0,
   answered: 0,
@@ -29,6 +31,77 @@ const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, character =>
   '"': '&quot;',
   "'": '&#039;'
 })[character]);
+
+let cloudSaveTimer = null;
+
+function renderSessionUser() {
+  const user = $('#session-user');
+  const logout = $('#sign-out');
+  if (!user || !logout) return;
+  user.textContent = state.auth.email || '';
+  user.hidden = !state.auth.user;
+  logout.hidden = !state.auth.user;
+}
+
+function scheduleCloudSave(progress) {
+  if (!state.auth.user || !state.auth.cloudEnabled) return;
+  clearTimeout(cloudSaveTimer);
+  cloudSaveTimer = setTimeout(async () => {
+    try {
+      await saveCloudProgress(state.auth.user.id, progress);
+    } catch (error) {
+      state.auth.cloudEnabled = false;
+      progressStore.setRemoteSync(null);
+      state.auth.error = error;
+      announce('No se pudo sincronizar el progreso. Se mantiene guardado localmente.');
+    }
+  }, 350);
+}
+
+async function hydrateCloudProgress(user) {
+  if (!user) return;
+  progressStore.setRemoteSync(null);
+  try {
+    const remoteProgress = await loadCloudProgress(user.id);
+    if (remoteProgress) {
+      state.progress = progressStore.save(remoteProgress);
+    } else {
+      await saveCloudProgress(user.id, state.progress);
+    }
+    state.auth.cloudEnabled = true;
+    progressStore.setRemoteSync(scheduleCloudSave);
+  } catch (error) {
+    state.auth.cloudEnabled = false;
+    state.auth.error = error;
+    progressStore.setRemoteSync(null);
+  }
+}
+
+async function acceptAuthSession(session) {
+  state.auth.user = session?.user || null;
+  state.auth.email = session?.user?.email || '';
+  if (state.auth.user) await hydrateCloudProgress(state.auth.user);
+  else {
+    state.auth.cloudEnabled = false;
+    progressStore.setRemoteSync(null);
+  }
+  renderSessionUser();
+  if (state.content && state.auth.user) {
+    renderProgress();
+    renderStory();
+    show('home');
+  }
+}
+
+async function initAuth() {
+  const { session, error } = await getInitialSession();
+  state.auth.error = error || null;
+  await acceptAuthSession(session);
+  onAuthStateChange(async (_event, nextSession) => {
+    await acceptAuthSession(nextSession);
+    if (!nextSession && state.content) show('auth');
+  });
+}
 
 function sessionLabel(session) {
   if (!session) return '';
@@ -824,6 +897,25 @@ function renderProgress() {
 
 $('#start-free').addEventListener('click', () => start('libre'));
 $('#start-exam').addEventListener('click', () => start('examen', null, $('#exam-type').value));
+$('#auth-form').addEventListener('submit', async event => {
+  event.preventDefault();
+  const email = $('#auth-email').value.trim().toLowerCase();
+  const message = $('#auth-message');
+  if (email !== allowedEmail) {
+    message.textContent = 'Este correo no está autorizado para esta aplicación.';
+    return;
+  }
+  message.textContent = 'Enviando el enlace de acceso…';
+  try {
+    await sendMagicLink(email);
+    message.textContent = 'Enlace enviado. Revisa tu correo y vuelve a esta aplicación.';
+  } catch (error) {
+    message.textContent = `No se pudo enviar el enlace: ${error.message}`;
+  }
+});
+$('#sign-out').addEventListener('click', async () => {
+  await signOut();
+});
 $('#save-question').addEventListener('click', () => {
   const question = state.questions[state.index];
   if (question) toggleQuestionList('savedQuestionIds', question.id);
@@ -911,8 +1003,8 @@ document.querySelectorAll('[data-home-action]').forEach(button => button.addEven
   else if (action === 'official') openHomePanel('home-official');
 }));
 
-loadContent()
-  .then(content => {
+Promise.all([loadContent(), initAuth()])
+  .then(([content]) => {
     state.content = content;
     const appVersion = content.syllabus.app?.version || '0.0.0';
     $('#app-version').textContent = `v${appVersion}`;
@@ -922,7 +1014,12 @@ loadContent()
     renderLawCatalog();
     renderStory();
     renderProgress();
-    show('home');
+    renderSessionUser();
+    if (state.auth.user) show('home');
+    else {
+      if (state.auth.error) $('#auth-message').textContent = 'Necesitas iniciar sesión para sincronizar tu progreso.';
+      show('auth');
+    }
   })
   .catch(error => {
     $('#load-error').textContent = `No se pudo cargar el contenido: ${error.message}`;

@@ -1,4 +1,5 @@
 const STORAGE_KEY = 'skeleton_progress_v1';
+let remoteSync = null;
 
 const emptyProgress = () => ({
   version: 2,
@@ -34,13 +35,26 @@ function normalize(progress = {}) {
 }
 
 export const progressStore = {
+  setRemoteSync(sync) {
+    remoteSync = typeof sync === 'function' ? sync : null;
+  },
   load() {
     try { return normalize(JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}')); } catch { return emptyProgress(); }
   },
   save(progress) {
     const next = { ...normalize(progress), updatedAt: new Date().toISOString() };
     localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+    if (remoteSync) {
+      try { Promise.resolve(remoteSync(next)).catch(() => {}); } catch { /* local storage remains the fallback */ }
+    }
     return next;
   },
-  reset() { const next = emptyProgress(); localStorage.setItem(STORAGE_KEY, JSON.stringify(next)); return next; }
+  reset() {
+    const next = emptyProgress();
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+    if (remoteSync) {
+      try { Promise.resolve(remoteSync(next)).catch(() => {}); } catch { /* local storage remains the fallback */ }
+    }
+    return next;
+  }
 };

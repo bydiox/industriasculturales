@@ -10,6 +10,7 @@ header { display: flex; align-items: baseline; justify-content: space-between; g
 h1, h2, p { margin-top: 0; }
 h1 { letter-spacing: .18em; color: #f0b52d; }
 .app-version { align-self: center; color: #aeb9c5; font-size: .78rem; font-variant-numeric: tabular-nums; }
+.session-user { max-width: 220px; overflow: hidden; color: #f0c96b; font-size: .78rem; text-overflow: ellipsis; white-space: nowrap; }
 button { font: inherit; color: inherit; cursor: pointer; }
 .primary, .secondary, .topic-action, .option { border: 1px solid #3a4655; border-radius: 12px; background: #1b232d; padding: 14px 16px; }
 .primary { background: #d9961f; color: #15171a; border-color: #f5c85e; font-weight: 700; }
@@ -33,6 +34,14 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .exam-choice select { font: inherit; color: #eef2f5; background: #1b232d; border: 1px solid #566476; border-radius: 7px; padding: 5px 8px; }
 .home-notice { border-left: 3px solid #f0b52d; padding: 10px 14px; background: #202a35; }
 .quiz-notice { border-left: 3px solid #f0b52d; padding: 10px 14px; background: #202a35; margin: 12px 0; }
+.auth-card { width: min(520px, 100%); margin: 10vh auto 0; padding: clamp(22px, 5vw, 38px); border: 1px solid #374354; border-radius: 18px; background: #171d25; }
+.auth-card h2 { margin: 8px 0 10px; color: #f0c96b; }
+.auth-card p { color: #b9c4cf; line-height: 1.55; }
+.auth-form { display: grid; gap: 10px; margin-top: 22px; }
+.auth-form label { color: #d0d7df; font-size: .9rem; }
+.auth-form input { width: 100%; border: 1px solid #4a596b; border-radius: 10px; background: #10161d; color: #eef2f5; padding: 13px 14px; font: inherit; }
+.auth-form input:focus { outline: 2px solid #d9961f; outline-offset: 1px; }
+.auth-message { min-height: 1.5em; margin: 14px 0 0; color: #f0c96b !important; }
 .story { margin-top: 34px; }
 .story-heading { display: flex; align-items: start; justify-content: space-between; gap: 24px; margin-bottom: 16px; }
 .story-heading p { max-width: 680px; color: #b9c4cf; }
