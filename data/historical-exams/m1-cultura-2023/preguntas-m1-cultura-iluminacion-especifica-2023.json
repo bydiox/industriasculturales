@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "m1-cultura-iluminacion-2023-31",
+    "topicId": "especifico-06",
+    "prompt": "¿Cuáles son las partes principales que componían un clásico teatro griego?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Orchestra, kerkis y eskené."
+      },
+      {
+        "id": "B",
+        "text": "Orchestra, koilon y eskené."
+      },
+      {
+        "id": "C",
+        "text": "Orchestra, koilon y diazoma."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 31. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 31,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 31
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-32",
+    "topicId": "especifico-31",
+    "prompt": "Utilizando términos teatrales, podríamos definir “proscenio” como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La parte del escenario que hay entre el “telón de boca” y la platea."
+      },
+      {
+        "id": "B",
+        "text": "El espacio del escenario que aisla el escenario del público."
+      },
+      {
+        "id": "C",
+        "text": "La línea imaginaria desde la que saludan al público los actores."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 32. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 32,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 32
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-33",
+    "topicId": "especifico-06",
+    "prompt": "Dentro de los popularmente conocidos como “géneros menores” del teatro nos encontramos el “entremés” que se caracteriza por:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pieza de un solo acto caracterizada por ser una representación Unipersonal."
+      },
+      {
+        "id": "B",
+        "text": "Pieza de un solo acto de carácter cómico representada en el entreacto de una comedia."
+      },
+      {
+        "id": "C",
+        "text": "Pieza de un solo acto en los que se representan escenas bíblicas."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 33. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 33,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 33
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-35",
+    "topicId": "especifico-33",
+    "prompt": "Entre los estilos de tratamiento pictórico de la iluminación encontramos el “claroscuro”, un método en el que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Luz y sombra evocan una singular ilusión de solidez, profundidad y espacio."
+      },
+      {
+        "id": "B",
+        "text": "Se concentra el interés en la silueta del sujeto."
+      },
+      {
+        "id": "C",
+        "text": "Predomina el modelo sobre la forma."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 35. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 35,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 35
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-36",
+    "topicId": "especifico-33",
+    "prompt": "De acuerdo a la Ley de Ohm, ¿cuál es la fórmula correcta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V= I / R"
+      },
+      {
+        "id": "B",
+        "text": "V= I x R"
+      },
+      {
+        "id": "C",
+        "text": "V= R / I"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 36. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 36,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 36
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-38",
+    "topicId": "especifico-33",
+    "prompt": "Unidad de intensidad de la corriente eléctrica de acuerdo al sistema internacional:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Culombio."
+      },
+      {
+        "id": "B",
+        "text": "Amperio."
+      },
+      {
+        "id": "C",
+        "text": "Voltio."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 38. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 38,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 38
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-39",
+    "topicId": "especifico-33",
+    "prompt": "Una asociación de resistencias en paralelo es equivalente a una única resistencia R, en la que se cumple que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "R = R1 x R2 x R3 …"
+      },
+      {
+        "id": "B",
+        "text": "R = R1 + R2 + R3…"
+      },
+      {
+        "id": "C",
+        "text": "1/R = 1/R1 + 1/R2 + 1/R3…"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 39. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 39,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 39
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-40",
+    "topicId": "especifico-33",
+    "prompt": "La potencia eléctrica es una forma de cuantificar cuánta energía está consumiendo un dispositivo electrónico cada instante de tiempo y la podemos calcular de acuerdo a la fórmula:",
+    "options": [
+      {
+        "id": "A",
+        "text": "P = V x I"
+      },
+      {
+        "id": "B",
+        "text": "P = I x R"
+      },
+      {
+        "id": "C",
+        "text": "P = V x R"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 40. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 40,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 40
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-41",
+    "topicId": "especifico-33",
+    "prompt": "Para iluminar un objeto con la técnica conocida como iluminación de tres puntos utilizaremos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Luz principal, luz de borde y luz de decorado."
+      },
+      {
+        "id": "B",
+        "text": "Luz de fondo, luz de relleno y luz de rebote."
+      },
+      {
+        "id": "C",
+        "text": "Luz principal, luz de relleno y contraluz."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 41. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 41,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 41
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-42",
+    "topicId": "especifico-33",
+    "prompt": "Si en una imagen queremos resaltar los contornos, la forma del sujeto y su textura, debemos iluminar con:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Luz difusa, suave."
+      },
+      {
+        "id": "B",
+        "text": "Luz direccional, dura."
+      },
+      {
+        "id": "C",
+        "text": "Luz reflejada, lateral."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 42. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 42,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 42
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-43",
+    "topicId": "especifico-33",
+    "prompt": "El “naturalismo” es una forma básica de entender la iluminación que se caracteriza por:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Seguir la ubicación lógica de las fuentes de luz en una escena."
+      },
+      {
+        "id": "B",
+        "text": "Limitarse a rodar sólo con luz del sol."
+      },
+      {
+        "id": "C",
+        "text": "No tener en cuenta la ubicación lógica con el fin de conseguir un efecto más artístico."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 43. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 43,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 43
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-45",
+    "topicId": "especifico-33",
+    "prompt": "Si necesitásemos en un foco cortar o estrechar el haz de luz de forma selectiva, ¿qué accesorio utilizaríamos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Filtro difusor."
+      },
+      {
+        "id": "B",
+        "text": "Pantalla reflectora."
+      },
+      {
+        "id": "C",
+        "text": "Viseras."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 45. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 45,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 45
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-46",
+    "topicId": "especifico-33",
+    "prompt": "¿Cuál de estos tipos de foco se caracteriza por producir una luz dura y de contorno preciso?:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scoop."
+      },
+      {
+        "id": "B",
+        "text": "Elipsoidal (Leko)."
+      },
+      {
+        "id": "C",
+        "text": "Diabla o batería."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 46. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 46,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 46
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-47",
+    "topicId": "especifico-33",
+    "prompt": "Además de un instrumento de dibujo, si hablamos de un pantógrafo en iluminación nos referimos a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Representación gráfica que recoge la curva de intensidad luminosa que permite al diseñador de iluminación evaluar el tipo de luminaria más adecuado a un propósito de aplicación específico."
+      },
+      {
+        "id": "B",
+        "text": "Soporte que se coloca en el foco para colocar filtros o rejillas que producen diferentes formas en el haz de luz."
+      },
+      {
+        "id": "C",
+        "text": "Accesorio extensible que se coloca entre los raíles de techo y el foco que permite modificar su altura respecto de la parrilla de iluminación."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 47. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 47,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 47
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-48",
+    "topicId": "especifico-41",
+    "prompt": "En los procesos de elevación se usan frecuentemente eslingas textiles, pero ¿se deben utilizar cerca de luces o elementos que alcancen altas temperaturas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, porque tienen poca resistencia al calor."
+      },
+      {
+        "id": "B",
+        "text": "No, porque dificultan la refrigeración de los focos."
+      },
+      {
+        "id": "C",
+        "text": "Sí, se pueden utilizar sin ninguna precaución."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 48,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 48
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-49",
+    "topicId": "especifico-41",
+    "prompt": "Los equipos de elevación deben ser usados de acuerdo a su Carga Máximo de Uso (WLL), pero además:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deben ser manejados por personal formado según instrucciones facilitadas por el comerciante."
+      },
+      {
+        "id": "B",
+        "text": "Deben disponer de registro de revisiones que garanticen un mantenimiento adecuado."
+      },
+      {
+        "id": "C",
+        "text": "A y B son correctas."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 49. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 49,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 49
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-50",
+    "topicId": "especifico-33",
+    "prompt": "Cuando se usan varios motores para la sustentación de equipos de sonido, ¿qué porcentaje del peso del conjunto debe de ser capaz de soportar cada motor, teniendo en cuenta que serán utilizados en montaje/desmontaje?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El 75 %."
+      },
+      {
+        "id": "B",
+        "text": "El 100 %."
+      },
+      {
+        "id": "C",
+        "text": "El porcentaje resultante de dividir el peso total por el número de motores."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 50. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 50,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 50
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-51",
+    "topicId": "especifico-33",
+    "prompt": "Si las necesidades de potencia en un espectáculo requiere la creación de una instalación eléctrica temporal alimentada a través de una acometida general o por grupo electrógeno, ¿cuándo será necesario un proyecto de ejecución elaborado por un técnico competente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nunca, porque ha de ser visada por un organismo de control."
+      },
+      {
+        "id": "B",
+        "text": "Siempre."
+      },
+      {
+        "id": "C",
+        "text": "Cuando la potencia de dicha instalación es superior a 50Kw o la potencia del grupo electrógeno es mayor de 10Kw."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 51. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 51,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 51
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-52",
+    "topicId": "especifico-33",
+    "prompt": "En el ámbito de la producción técnica de un espectáculo, ¿cómo se define el “rigging”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Instalación, desinstalación u otra actividad utilizando equipamiento y/o accesorios de elevación o suspensión en tensión para elevar o soportar las cargas de la producción técnica."
+      },
+      {
+        "id": "B",
+        "text": "Proceso en el que se diseñan las instalaciones necesarias para la puesta en marcha de un espectáculo al aire libre que debe estar protegido de las inclemencias meteorológicas."
+      },
+      {
+        "id": "C",
+        "text": "Tareas previas al inicio de una producción en las que se informa y forma a los trabajadores que van a participar en el montaje de un escenario."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 52. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 52,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 52
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-53",
+    "topicId": "especifico-41",
+    "prompt": "Durante el montaje y desmontaje de la plataforma o planchada de un escenario, si es elevada, los montadores pueden estar expuestos a riesgos de caídas por lo que es obligatorio la adopción de medidas específicas contra dicho riesgo si la altura es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mayor de 1 metro."
+      },
+      {
+        "id": "B",
+        "text": "Mayor de 2 metros."
+      },
+      {
+        "id": "C",
+        "text": "No es obligatorio, pero sí recomendable."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 53. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 53,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 53
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-78",
+    "topicId": "especifico-30",
+    "prompt": "Los espacios efímeros",
+    "options": [
+      {
+        "id": "A",
+        "text": "Por su carácter no producen innovación."
+      },
+      {
+        "id": "B",
+        "text": "Son conservadores y no permiten ganar audacia."
+      },
+      {
+        "id": "C",
+        "text": "Tienen potencial para obtener relevancia cultural y popularidad."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 78. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 78,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 78
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-81",
+    "topicId": "especifico-33",
+    "prompt": "Entre los sistemas de iluminación usados en el teatro, al conjunto de focos pequeños que ha ocupado el lugar de las candilejas se le denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Batería."
+      },
+      {
+        "id": "B",
+        "text": "Diablas."
+      },
+      {
+        "id": "C",
+        "text": "Reflectores."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 81. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 81,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 81
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-82",
+    "topicId": "especifico-33",
+    "prompt": "Cuando alimentamos un equipo debemos saber que el neutro por normativa en España/Europa es de color:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Azul."
+      },
+      {
+        "id": "B",
+        "text": "Marrón."
+      },
+      {
+        "id": "C",
+        "text": "Verde y amarillo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 82. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 82,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 82
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-83",
+    "topicId": "especifico-33",
+    "prompt": "El cable de fase:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lleva la corriente."
+      },
+      {
+        "id": "B",
+        "text": "Cierra el circuito."
+      },
+      {
+        "id": "C",
+        "text": "Protege ante cualquier incidencia."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 83. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 83,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 83
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-84",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué fin tienen las protecciones magnetotérmicas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proteger las instalaciones de una sobrecarga o cortocircuito"
+      },
+      {
+        "id": "B",
+        "text": "Proteger contra derivaciones"
+      },
+      {
+        "id": "C",
+        "text": "Proteger únicamente para sobrecargas"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 84. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 84,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 84
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-85",
+    "topicId": "especifico-33",
+    "prompt": "¿Cuál de los siguientes equipamientos de control de iluminación permite la creación de diferentes escenas, aumenta la comodidad visual y optimiza el consumo de energía?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dimmer."
+      },
+      {
+        "id": "B",
+        "text": "Apagador."
+      },
+      {
+        "id": "C",
+        "text": "Reactancia de doble nivel."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 85. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 85,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 85
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-86",
+    "topicId": "especifico-33",
+    "prompt": "¿Cuál de los siguientes sistemas de control de iluminación NO hace referencia a un tipo de sistema de control automático?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sistemas basados en DALI."
+      },
+      {
+        "id": "B",
+        "text": "Sistema basado en DSI."
+      },
+      {
+        "id": "C",
+        "text": "Sistemas basados en D54."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 86. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 86,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 86
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-87",
+    "topicId": "especifico-33",
+    "prompt": "La Luz Nadir es una fuente de luz que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se coloca por debajo del sujeto, iluminándolo de abajo hacia arriba."
+      },
+      {
+        "id": "B",
+        "text": "Se coloca por encima del sujeto produciendo sombras muy duras y verticales."
+      },
+      {
+        "id": "C",
+        "text": "Rodea al objeto, puede ser natural (ventana) o una luz general de estudio."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 87. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 87,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 87
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-88",
+    "topicId": "especifico-33",
+    "prompt": "A la principal fuente de iluminación direccional, que cae sobre un objeto o área cuya principal función es hacer ver la forma básica de sujeto, se la denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Keylight"
+      },
+      {
+        "id": "B",
+        "text": "Background light"
+      },
+      {
+        "id": "C",
+        "text": "Baselight"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 88. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 88,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 88
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-89",
+    "topicId": "especifico-33",
+    "prompt": "La temperatura de color considerada como estándar para exteriores es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "5600 K."
+      },
+      {
+        "id": "B",
+        "text": "4400 K."
+      },
+      {
+        "id": "C",
+        "text": "3200 K."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 89. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 89,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 89
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-90",
+    "topicId": "especifico-41",
+    "prompt": "Los técnicos especialistas en alturas son los:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rider."
+      },
+      {
+        "id": "B",
+        "text": "Riguer."
+      },
+      {
+        "id": "C",
+        "text": "Climber."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 90. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 90,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 90
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-iluminacion-2023-91",
+    "topicId": "especifico-41",
+    "prompt": "Un SCAFFOLDER es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Persona que realiza el montaje del escenario."
+      },
+      {
+        "id": "B",
+        "text": "Persona encargada de suministrar el material de hierro al personal de montaje de escenario."
+      },
+      {
+        "id": "C",
+        "text": "Responsable de los instrumentos musicales en ruta."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 91. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 91,
+      "label": "M1 Cultura · Iluminación, Captación y Tratamiento de Imagen · 2023",
+      "questionNumber": 91
+    },
+    "active": true,
+    "optionCount": 3
+  }
+]

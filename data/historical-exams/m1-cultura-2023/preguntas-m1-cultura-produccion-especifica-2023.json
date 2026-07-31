@@ -1,0 +1,2962 @@
+[
+  {
+    "id": "m1-cultura-produccion-2023-31",
+    "topicId": "especifico-31",
+    "prompt": "En un espacio escénico, ¿a qué se le denomina BAMBALINÓN?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es la primera bambalina que delimita la altura del espacio escénico y tapa la parte de arriba del telón de boca."
+      },
+      {
+        "id": "B",
+        "text": "Está formado por la arquitectura del escenario, la embocadura, las paredes laterales y la pared del fondo."
+      },
+      {
+        "id": "C",
+        "text": "Línea, visible o imaginaria, que marca el centro del escenario, es perpendicular a la línea del telón y equidistante de los laterales."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 31. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 31,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 31
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-32",
+    "topicId": "especifico-18",
+    "prompt": "En un diagrama de PERT ¿a qué se le denominan NODOS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Representan los eventos del proyecto."
+      },
+      {
+        "id": "B",
+        "text": "Son las herramientas financieras que se usan para fijar el presupuesto de las nóminas de los actores y actrices de una producción."
+      },
+      {
+        "id": "C",
+        "text": "Son herramientas gráficas cuyo objetivo es exponer el tiempo de dedicación para diferentes tareas o actividades a lo largo de un tiempo total determinado."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 32. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 32,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 32
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-33",
+    "topicId": "especifico-13",
+    "prompt": "¿Cuál es el objetivo del Día Mundial del Teatro?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dar a conocer exclusivamente el espectáculo con mayor difusión."
+      },
+      {
+        "id": "B",
+        "text": "Dar a conocer lo que representa el teatro para la cultura a nivel mundial."
+      },
+      {
+        "id": "C",
+        "text": "Dar a conocer exclusivamente el espectáculo con menor difusión."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 33. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 33,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 33
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-34",
+    "topicId": "especifico-12",
+    "prompt": "En un proyecto teatral, ¿a qué nos referimos cuando hablamos de post-producción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Estreno y explotación."
+      },
+      {
+        "id": "B",
+        "text": "Últimos pagos, desmontaje, archivo y evaluación del proyecto."
+      },
+      {
+        "id": "C",
+        "text": "Realización o montaje."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 34. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 34,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 34
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-35",
+    "topicId": "especifico-18",
+    "prompt": "¿Qué se entiende por DAFO?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es una técnica que se usa para identificar las fortalezas, las oportunidades, las debilidades y las amenazas de un proyecto"
+      },
+      {
+        "id": "B",
+        "text": "Es una técnica que se usa para identificar las fuentes, las oportunidades, las debilidades y las amenazas de un proyecto"
+      },
+      {
+        "id": "C",
+        "text": "Es una técnica que se usa para identificar las fortalezas, las opciones, las debilidades y las amenazas de un proyecto"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 35. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 35,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 35
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-36",
+    "topicId": "especifico-06",
+    "prompt": "¿A qué nos referimos cuando hablamos del género teatral DRAMA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al género más tradicional de la historia del teatro. La muerte, destrucción y los desenlaces fatídicos son los principales argumentos y asuntos que se desarrollan a lo largo de estas obras."
+      },
+      {
+        "id": "B",
+        "text": "Al género realista por naturaleza. Busca representar la humanidad desde lo cotidiano, ser el reflejo de la vida misma."
+      },
+      {
+        "id": "C",
+        "text": "A la representación del hombre con todos sus defectos y vicisitudes, desde el crisol de la risa."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 36. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 36,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 36
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-37",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué nombre le damos al género teatral caracterizado por ser una pieza jocosa de corta duración, inferior a un acto, de carácter y argumento popular, en la que se ridiculizan los vicios y convenciones sociales; con o sin canciones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vodevil."
+      },
+      {
+        "id": "B",
+        "text": "Sainete."
+      },
+      {
+        "id": "C",
+        "text": "Farsa."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 37. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 37,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 37
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-38",
+    "topicId": "especifico-30",
+    "prompt": "¿Cómo se llama la parte del escenario que está por delante de la línea del telón y forma parte del proscenio?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuadro."
+      },
+      {
+        "id": "B",
+        "text": "Caja."
+      },
+      {
+        "id": "C",
+        "text": "Corbata."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 38. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 38,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 38
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-39",
+    "topicId": "especifico-12",
+    "prompt": "Según las categorías profesionales recogidas en el Convenio colectivo del Sector de Actores y Actrices de Madrid, el actor/actriz de reparto:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es el que tiene una relevancia determinada en el libreto o en la representación, sin tener las características del actor/actriz protagonista."
+      },
+      {
+        "id": "B",
+        "text": "Son aquellos personajes con una pequeña intervención en el libreto o una pequeña intervención a la representación."
+      },
+      {
+        "id": "C",
+        "text": "Es aquel que tiene un cometido escénico de soporte al entramado general del libreto o de la representación."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 39. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 39,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 39
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-40",
+    "topicId": "especifico-01",
+    "prompt": "En la preparación de un espectáculo teatral ¿quién es la persona responsable de gestionar los medios personales y artísticos necesarios para la producción del espectáculo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Director Técnico."
+      },
+      {
+        "id": "B",
+        "text": "El Director Escénico."
+      },
+      {
+        "id": "C",
+        "text": "El Director de Producción"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 40. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 40,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 40
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-41",
+    "topicId": "especifico-12",
+    "prompt": "En un espectáculo teatral ¿en qué consiste ir a CACHÉ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pagar un porcentaje de los beneficios que se recaude en la sala o teatro por la venta de entradas, una vez descontados todos los gastos."
+      },
+      {
+        "id": "B",
+        "text": "Cerrar un precio por actuación."
+      },
+      {
+        "id": "C",
+        "text": "Pagar un porcentaje de los beneficios que se recaude en la sala o teatro por la venta de entradas, sin descontar los gastos."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 41. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 41,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 41
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-42",
+    "topicId": "especifico-18",
+    "prompt": "¿Para qué se utiliza un diagrama de Gantt?:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es una herramienta que permite detectar dependencias, programar el trabajo y mantener los proyectos al día."
+      },
+      {
+        "id": "B",
+        "text": "Es una herramienta que se emplea para analizar cada tarea necesaria para completar un proyecto."
+      },
+      {
+        "id": "C",
+        "text": "Es una herramienta que se utiliza para ver la relación de gastos e ingresos originados en proyecto."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 42. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 42,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 42
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-43",
+    "topicId": "especifico-01",
+    "prompt": "Se va a organizar un casting para seleccionar al elenco de una producción teatral en una unidad de producción del Instituto Nacional de las Artes Escénicas y de la Música, (en adelante INAEM) ¿quién es la persona que decide qué actores/actrices van a participar en el mismo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Director de Producción."
+      },
+      {
+        "id": "B",
+        "text": "El Director Técnico."
+      },
+      {
+        "id": "C",
+        "text": "El Director de Escena."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 43. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 43,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 43
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-44",
+    "topicId": "especifico-12",
+    "prompt": "En una producción de teatro, ¿quién se encarga de negociar el caché de los actores y actrices del elenco?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Director de Producción."
+      },
+      {
+        "id": "B",
+        "text": "El Director de Personal."
+      },
+      {
+        "id": "C",
+        "text": "El Director Artístico."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 44. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 44,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 44
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-45",
+    "topicId": "especifico-12",
+    "prompt": "¿Quién es el responsable del proceso de desarrollo de un proyecto escénico desde la etapa de pre-producción hasta la etapa final?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Director de Escena."
+      },
+      {
+        "id": "B",
+        "text": "El Director Técnico."
+      },
+      {
+        "id": "C",
+        "text": "El Director de Producción."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 45. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 45,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 45
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-46",
+    "topicId": "especifico-28",
+    "prompt": "Definición de la propiedad intelectual:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conjunto de derechos y deberes que corresponden a los autores y a otros titulares (artistas, productores, organismos de radiodifusión...) respecto de las obras y prestaciones fruto de su creación."
+      },
+      {
+        "id": "B",
+        "text": "Conjunto de deberes que corresponden a los autores y a otros titulares (artistas, productores, organismos de radiodifusión...) respecto de las obras y prestaciones fruto de su creación."
+      },
+      {
+        "id": "C",
+        "text": "Conjunto de derechos que corresponden a los autores y a otros titulares (artistas, productores, organismos de radiodifusión...) respecto de las obras y prestaciones fruto de su creación."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 46. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 46,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 46
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-47",
+    "topicId": "especifico-28",
+    "prompt": "¿Qué regula el Real Decreto Legislativo 1/1996, de 12 de abril?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ley de protección de datos."
+      },
+      {
+        "id": "B",
+        "text": "Ley para la Igualdad efectiva entre hombres y mujeres."
+      },
+      {
+        "id": "C",
+        "text": "Ley de propiedad intelectual."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 47. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 47,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 47
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-48",
+    "topicId": "especifico-01",
+    "prompt": "En una unidad de producción del INAEM, ¿quién se encarga de la contratación del equipo artístico de una producción teatral?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El departamento de producción."
+      },
+      {
+        "id": "B",
+        "text": "El departamento de Gerencia."
+      },
+      {
+        "id": "C",
+        "text": "El departamento técnico."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 48,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 48
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-49",
+    "topicId": "especifico-28",
+    "prompt": "¿Cuándo una obra o prestación está en dominio público?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuando el plazo de protección de los derechos ha expirado, es decir, a los 70 años desde la muerte del autor, o su declaración de fallecimiento."
+      },
+      {
+        "id": "B",
+        "text": "Cuando el plazo de protección de los derechos ha expirado, es decir, a los 50 años desde la muerte del autor, o su declaración de fallecimiento."
+      },
+      {
+        "id": "C",
+        "text": "Cuando el plazo de protección de los derechos ha expirado, es decir, a los 60 años desde la muerte del autor, o su declaración de fallecimiento."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 49. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 49,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 49
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-50",
+    "topicId": "especifico-28",
+    "prompt": "¿A quién le corresponde proponer las medidas, normativas o no, para lograr la adecuada protección de la propiedad intelectual?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A la SGAE."
+      },
+      {
+        "id": "B",
+        "text": "Al propio autor."
+      },
+      {
+        "id": "C",
+        "text": "Al Ministerio de Cultura y Deporte."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 50. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 50,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 50
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-51",
+    "topicId": "especifico-12",
+    "prompt": "¿Qué norma regula la relación laboral especial de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Real Decreto 1436/1985, de 1 de agosto."
+      },
+      {
+        "id": "B",
+        "text": "Real Decreto 1435/1985, de 1 de agosto."
+      },
+      {
+        "id": "C",
+        "text": "Real Decreto 1435/1986, de 1 de agosto."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 51. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 51,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 51
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-52",
+    "topicId": "especifico-28",
+    "prompt": "¿Qué es el Copyright?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es la protección de los derechos patrimoniales y autoría de una obra."
+      },
+      {
+        "id": "B",
+        "text": "Es la protección de los deberes patrimoniales de una obra."
+      },
+      {
+        "id": "C",
+        "text": "Es la reproducción, distribución o adaptación derivada de la creación original."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 52. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 52,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 52
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-53",
+    "topicId": "especifico-28",
+    "prompt": "¿Cuáles son los requisitos que debe reunir una obra para ser considerada objeto de protección a través del derecho de autor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ser una obra original y haber sido expresada por cualquier medio."
+      },
+      {
+        "id": "B",
+        "text": "Ser una copia del original y haber sido expresada por cualquier medio."
+      },
+      {
+        "id": "C",
+        "text": "Ser una obra original y no haberse publicado."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 53. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 53,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 53
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-54",
+    "topicId": "especifico-44",
+    "prompt": "¿Qué es una e-factura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es una factura que se expide y se recibe en soporte electrónico"
+      },
+      {
+        "id": "B",
+        "text": "Es una factura que se expide y se recibe por e-mail"
+      },
+      {
+        "id": "C",
+        "text": "Es una factura que sólo expiden las empresas ecológicas"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 54. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 54,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 54
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-55",
+    "topicId": "especifico-01",
+    "prompt": "¿A través de qué programa informático el INAEM tramita las facturas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DocelWeb"
+      },
+      {
+        "id": "B",
+        "text": "SOROLLA2"
+      },
+      {
+        "id": "C",
+        "text": "RADIX"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 55. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 55,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 55
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-56",
+    "topicId": "especifico-45",
+    "prompt": "¿Qué Ley regula los Contratos del Sector Público?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ley 9/2017, de 9 de diciembre."
+      },
+      {
+        "id": "B",
+        "text": "Ley 9/2017 de 9 de noviembre."
+      },
+      {
+        "id": "C",
+        "text": "Ley 9/2017, de 8 de noviembre."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 56. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 56,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 56
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-57",
+    "topicId": "especifico-44",
+    "prompt": "¿Qué ventajas tiene una factura electrónica frente a una en papel?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No hay ninguna ventaja."
+      },
+      {
+        "id": "B",
+        "text": "La factura electrónica sólo la tramitan aquellas empresas declaradas como ecológicas."
+      },
+      {
+        "id": "C",
+        "text": "La factura electrónica acorta los ciclos de tramitación, incluido el cobro."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 57. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 57,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 57
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-58",
+    "topicId": "especifico-44",
+    "prompt": "¿Cómo se denomina el tributo establecido en España, de carácter directo, que grava la renta obtenida en territorio español por las personas físicas y entidades no residentes en el mismo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "INRR"
+      },
+      {
+        "id": "B",
+        "text": "IRR"
+      },
+      {
+        "id": "C",
+        "text": "IRNR"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 58. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 58,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 58
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-59",
+    "topicId": "especifico-01",
+    "prompt": "En una unidad de producción del INAEM, ¿de qué departamento depende la sección de vestuario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Del Departamento de Personal."
+      },
+      {
+        "id": "B",
+        "text": "Del Departamento de Dirección Técnica."
+      },
+      {
+        "id": "C",
+        "text": "Del Departamento de Producción."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 59. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 59,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 59
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-60",
+    "topicId": "especifico-12",
+    "prompt": "Tenemos contratado a un actor para una producción teatral, su contrato es de 5 meses y 10 días ¿con cuánto tiempo hay que darle el preaviso de fin de contrato?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No es necesario darle un preaviso."
+      },
+      {
+        "id": "B",
+        "text": "10 días naturales de antelación a la fecha de fin de contrato."
+      },
+      {
+        "id": "C",
+        "text": "15 días naturales de antelación a la fecha de fin de contrato."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 60. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 60,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 60
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-61",
+    "topicId": "especifico-12",
+    "prompt": "Se va a contratar a menores para una producción teatral, según el Convenio Colectivo del Sector de Actores y Actrices de la Comunidad de Madrid ¿qué jornada máxima podrán realizar?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Seis horas diarias, con un descanso mínimo de 20 minutos."
+      },
+      {
+        "id": "B",
+        "text": "Cinco horas diarias, con un descanso mínimo de media hora."
+      },
+      {
+        "id": "C",
+        "text": "Seis horas diarias, con un descanso mínimo de media hora."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 61. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 61,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 61
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-62",
+    "topicId": "especifico-01",
+    "prompt": "En una unidad de producción del INAEM, ¿qué departamento/s gestiona/n los ensayos de una producción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Departamento de Gerencia."
+      },
+      {
+        "id": "B",
+        "text": "Departamentos de Producción y Gerencia."
+      },
+      {
+        "id": "C",
+        "text": "Departamentos de Producción y Dirección Técnica."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 62. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 62,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 62
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-63",
+    "topicId": "especifico-44",
+    "prompt": "¿Qué es el Cash-Flow?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Herramienta de gestión que nos permite conocer la disponibilidad de liquidez económica para hacer frente a los pagos en el momento adecuado."
+      },
+      {
+        "id": "B",
+        "text": "Herramienta de gestión que nos permite controlar los ingresos exclusivamente."
+      },
+      {
+        "id": "C",
+        "text": "Herramienta de gestión que nos permite controlar los gastos exclusivamente."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 63. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 63,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 63
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-64",
+    "topicId": "especifico-12",
+    "prompt": "Una unidad de producción del INAEM va a salir de gira con uno de sus espectáculos, según el Convenio Colectivo del Sector de Actores y Actrices de la Comunidad de Madrid ¿qué dieta completa se le debe abonar al actor/actriz contratado/a para la gira?",
+    "options": [
+      {
+        "id": "A",
+        "text": "124,68 €/día."
+      },
+      {
+        "id": "B",
+        "text": "124,69 €/día."
+      },
+      {
+        "id": "C",
+        "text": "124,70 €/día."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 64. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 64,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 64
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-65",
+    "topicId": "especifico-12",
+    "prompt": "En una compañía privada, y según las tarifas 2023 del Convenio Colectivo del Sector de Actores y Actrices de la Comunidad de Madrid ¿qué dieta completa percibirá un actor/actriz en gira?",
+    "options": [
+      {
+        "id": "A",
+        "text": "101,15 €/día"
+      },
+      {
+        "id": "B",
+        "text": "101,10 €/día"
+      },
+      {
+        "id": "C",
+        "text": "101,05 €/día"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 65. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 65,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 65
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-66",
+    "topicId": "especifico-12",
+    "prompt": "En caso de rescisión de contrato por parte de la empresa sin causa justificada, esta deberá abonar al actor/actriz la cantidad de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quince días, independientemente del periodo de contratación"
+      },
+      {
+        "id": "B",
+        "text": "Tres meses de indemnización en contratos de hasta un año"
+      },
+      {
+        "id": "C",
+        "text": "Cinco meses de indemnización en contratos de hasta un año"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 66. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 66,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 66
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-67",
+    "topicId": "especifico-12",
+    "prompt": "Según el Convenio Colectivo del Sector de Actores y Actrices de la Comunidad de Madrid, una actriz contratada para una producción de Teatro con la categoría de FIGURANTE, ¿qué salario mínimo diario deberá percibir?",
+    "options": [
+      {
+        "id": "A",
+        "text": "55,00 €/día."
+      },
+      {
+        "id": "B",
+        "text": "55,11 €/día."
+      },
+      {
+        "id": "C",
+        "text": "66,11 €/día."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 67. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 67,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 67
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-68",
+    "topicId": "especifico-01",
+    "prompt": "Una producción del INAEM va a salir de gira, ¿quién se encarga de la compra de los billetes del departamento de maquinaria que irán en la gira?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Departamento de Producción."
+      },
+      {
+        "id": "B",
+        "text": "La propia sección de Maquinaria."
+      },
+      {
+        "id": "C",
+        "text": "El Departamento de Dirección Técnica."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 68. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 68,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 68
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-69",
+    "topicId": "especifico-44",
+    "prompt": "¿Qué debe contener un balance de gastos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Todas las salidas o egresos de dinero, tanto fijos como variables, que ha derogado la empresa durante el mes, como por ejemplo: pago de alquileres, luz, nómina de pago para el personal, materiales, también se deben incluir los gastos imprevistos."
+      },
+      {
+        "id": "B",
+        "text": "Sólo deberá incluir las salidas fijas de dinero, como por ejemplo: pago de alquileres, luz."
+      },
+      {
+        "id": "C",
+        "text": "Sólo deberá incluir los gastos imprevistos."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 69. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 69,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 69
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-70",
+    "topicId": "especifico-45",
+    "prompt": "Una Unidad de producción del INAEM coproduce un espectáculo con una compañía privada, y la producción ejecutiva la realiza la compañía. El último pago a la compañía deberá estar supeditado a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La justificación total de los gastos realizados durante todo el período de producción"
+      },
+      {
+        "id": "B",
+        "text": "La justificación total de los gastos realizados exclusivamente durante el periodo de ensayos"
+      },
+      {
+        "id": "C",
+        "text": "La justificación total de los gastos realizados exclusivamente durante la exhibición del espectáculo en la sede de la Unidad"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 70. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 70,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 70
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-71",
+    "topicId": "especifico-45",
+    "prompt": "En un contrato de coproducción teatral:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Siempre una de las partes hace una aportación económica y la otra parte sólo deberá aporta su trabajo."
+      },
+      {
+        "id": "B",
+        "text": "No existen las coproducciones teatrales."
+      },
+      {
+        "id": "C",
+        "text": "Se puede considerar aportación en una coproducción el trabajo que realiza una de las partes."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 71. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 71,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 71
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-72",
+    "topicId": "especifico-45",
+    "prompt": "En una coproducción teatral donde una de las partes es una Unidad de producción del INAEM ¿dónde se verá reflejado qué parte se encargará de la producción ejecutiva?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Si la producción ejecutiva la realiza una Unidad de producción del INAEM no es necesario que quede reflejado en ningún sitio."
+      },
+      {
+        "id": "B",
+        "text": "En el contrato de coproducción."
+      },
+      {
+        "id": "C",
+        "text": "En el contrato de coproducción sólo si es una Unidad de producción del INAEM quien realiza la producción ejecutiva del espectáculo."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 72. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 72,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 72
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-73",
+    "topicId": "especifico-45",
+    "prompt": "Una Unidad de producción del INAEM, firma un contrato de coproducción con una empresa privada y ambos deciden que la producción ejecutiva la realizará la empresa privada. ¿Cuándo realizará la Unidad de producción el último pago?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El último pago que la Unidad de producción deba hacer estará sujeto a la justificación de todos los gastos habidos durante todo el periodo de la producción."
+      },
+      {
+        "id": "B",
+        "text": "El último pago que la Unidad de producción deba hacer no está sujeto a ninguna justificación."
+      },
+      {
+        "id": "C",
+        "text": "El último pago que la Unidad de producción deba hacer estará sujeto a la justificación exclusivamente de todos los gastos de contratación de los actores y actrices del elenco."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 73. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 73,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 73
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-74",
+    "topicId": "especifico-45",
+    "prompt": "¿Qué es una coproducción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Especialmente en cine, televisión, música y teatro, producción realizada en común exclusivamente entre particulares."
+      },
+      {
+        "id": "B",
+        "text": "Especialmente en cine, televisión, música y teatro, producción realizada en común exclusivamente entre diversas empresas de diferentes países."
+      },
+      {
+        "id": "C",
+        "text": "Especialmente en cine, televisión, música y teatro, producción realizada en común entre diversas empresas."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 74. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 74,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 74
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-75",
+    "topicId": "especifico-45",
+    "prompt": "Una Unidad de producción del INAEM firma un contrato de coproducción con una productora privada. ¿quién se encarga de contratar a los actores y actrices que participarán en la producción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Siempre les contratará el INAEM."
+      },
+      {
+        "id": "B",
+        "text": "Siempre les contratará la productora privada."
+      },
+      {
+        "id": "C",
+        "text": "Aquella parte que, según el contrato, se encargue de realizar la ejecutiva de la producción."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 75. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 75,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 75
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-76",
+    "topicId": "especifico-13",
+    "prompt": "¿Qué diferencia hay entre el trabajo en equipo y el trabajo en grupo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al no estar involucrados con la planificación del o los objetivos, las personas que trabajan en grupo, y no en equipo, se centran primordialmente en sí mismos."
+      },
+      {
+        "id": "B",
+        "text": "No hay ninguna diferencia."
+      },
+      {
+        "id": "C",
+        "text": "Al no estar involucrados con la planificación del o los objetivos, las personas que trabajan en grupo, y en equipo, se centran primordialmente en sí mismos."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 76. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 76,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 76
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-77",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué firma el Director de producción en una Unidad de producción del INAEM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los calendarios del personal técnico."
+      },
+      {
+        "id": "B",
+        "text": "Los calendarios del personal de producción."
+      },
+      {
+        "id": "C",
+        "text": "Los calendarios del personal técnico y del personal de producción."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 77. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 77,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 77
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-78",
+    "topicId": "comun-13",
+    "prompt": "Según el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, ¿Cuál es la duración máxima de la jornada general de trabajo semanal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "37 horas"
+      },
+      {
+        "id": "B",
+        "text": "37 ½ horas"
+      },
+      {
+        "id": "C",
+        "text": "40 horas"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 78. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 78,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 78
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-79",
+    "topicId": "especifico-13",
+    "prompt": "¿Qué ventajas tiene trabajar en equipo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permite a cada miembro compartir conocimientos y habilidades, lo que puede resultar en soluciones más innovadoras y creativas."
+      },
+      {
+        "id": "B",
+        "text": "Permite a cada miembro trabajar por su cuenta para realizar las tareas más rápido."
+      },
+      {
+        "id": "C",
+        "text": "Fomenta los objetivos personales de cada miembro del equipo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 79. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 79,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 79
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-80",
+    "topicId": "comun-13",
+    "prompt": "Según el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, ¿qué artículo del texto refundido de la Ley del Estatuto de los Trabajadores dispone que el calendario laboral deberá ser expuesto en un lugar visible de cada centro del trabajo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Artículo 32.6"
+      },
+      {
+        "id": "B",
+        "text": "Artículo 33.6"
+      },
+      {
+        "id": "C",
+        "text": "Artículo 34.6"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 80. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 80,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 80
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-81",
+    "topicId": "especifico-18",
+    "prompt": "¿Qué beneficios tiene un plan de trabajo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Poder improvisar y tratar todos los recursos necesarios para poder ejecutar un trabajo."
+      },
+      {
+        "id": "B",
+        "text": "Poder improvisar y gestionar todos los recursos necesarios para poder ejecutar un trabajo."
+      },
+      {
+        "id": "C",
+        "text": "Poder planificar y gestionar todos los recursos necesarios para poder ejecutar un trabajo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 81. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 81,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 81
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-84",
+    "topicId": "especifico-01",
+    "prompt": "¿Cuál es la finalidad del INAEM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Promover y contener la música, la danza, el teatro y el circo en España, así como favorecer su proyección en el exterior."
+      },
+      {
+        "id": "B",
+        "text": "Promover y difundir la música, la danza, el teatro y el circo en España, así como favorecer su proyección en el exterior."
+      },
+      {
+        "id": "C",
+        "text": "Promover la música, la danza y el circo, así como favorecer su proyección exclusivamente en territorio español."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 84. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 84,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 84
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-86",
+    "topicId": "especifico-01",
+    "prompt": "¿Cuál de las siguientes opciones es una Unidad de Producción del INAEM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teatro Español."
+      },
+      {
+        "id": "B",
+        "text": "Ninguna respuesta es correcta."
+      },
+      {
+        "id": "C",
+        "text": "Teatro Lope de Vega."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 86. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 86,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 86
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-88",
+    "topicId": "especifico-41",
+    "prompt": "¿Qué es el Servicio de Prevención de Riesgos Laborales del INAEM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es una unidad asesora de carácter técnico, destinada a inhibirse y promover las medidas que permitan la eliminación de los riesgos inherentes a cualquiera de las actividades de trabajo."
+      },
+      {
+        "id": "B",
+        "text": "Es una unidad asesora de carácter técnico, destinada a proponer y promover las medidas que permitan la eliminación de los riesgos inherentes a cualquiera de las actividades de trabajo."
+      },
+      {
+        "id": "C",
+        "text": "Es una empresa asesora externa de carácter técnico, destinada a proponer y promover las medidas que permitan la eliminación de los riesgos inherentes a cualquiera de las actividades de trabajo."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 88. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 88,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 88
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-89",
+    "topicId": "especifico-41",
+    "prompt": "¿Cuál es la Ley que regula la Prevención de Riesgos Laborales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ley 31/1995, de 5 de noviembre"
+      },
+      {
+        "id": "B",
+        "text": "Ley 31/1995, de 7 de noviembre"
+      },
+      {
+        "id": "C",
+        "text": "Ley 31/1995, de 8 de noviembre"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 89. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 89,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 89
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-90",
+    "topicId": "especifico-41",
+    "prompt": "¿Qué es el Comité de Seguridad y Salud del INAEM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El INAEM no tiene Comité de Seguridad y Salud"
+      },
+      {
+        "id": "B",
+        "text": "Es el órgano de participación destinado a la consulta regular y periódica de las actuaciones del INAEM en materia de prevención de riesgos laborales"
+      },
+      {
+        "id": "C",
+        "text": "Es una empresa externa destinada al estudio sobre las escenografías de las producciones"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 90. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 90,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 90
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-91",
+    "topicId": "especifico-41",
+    "prompt": "¿Cuál es el objeto del Servicio de Prevención de Riesgos Laborales del INAEM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Promover, disgregar, implantar, implementar, mantener e integrar las medidas preventivas necesarias para alcanzar unos niveles adecuados y suficientes en el ámbito de la Salud Laboral de los empleados públicos del INAEM"
+      },
+      {
+        "id": "B",
+        "text": "Promover, desarrollar, revocar, implementar, mantener e integrar las medidas preventivas necesarias para alcanzar unos niveles adecuados y suficientes en el ámbito de la Salud Laboral de los empleados públicos del INAEM"
+      },
+      {
+        "id": "C",
+        "text": "Promover, desarrollar, implantar, implementar, mantener e integrar las medidas preventivas necesarias para alcanzar unos niveles adecuados y suficientes en el ámbito de la Salud Laboral de los empleados públicos del INAEM"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 91. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 91,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 91
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-92",
+    "topicId": "especifico-21",
+    "prompt": "¿Qué descuento tendrán las familias monoparentales en la CNTC?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%"
+      },
+      {
+        "id": "B",
+        "text": "50%"
+      },
+      {
+        "id": "C",
+        "text": "25%"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 92. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 92,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 92
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-93",
+    "topicId": "especifico-04",
+    "prompt": "¿En qué año se fundó el Ballet Nacional de España (BNE), bajo el nombre de Ballet Nacional Español?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1978"
+      },
+      {
+        "id": "B",
+        "text": "1979"
+      },
+      {
+        "id": "C",
+        "text": "1980"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 93. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 93,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 93
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-94",
+    "topicId": "especifico-13",
+    "prompt": "¿Cuál es la misión de la Red de Teatros, Auditorios, Circuitos y Festivales de titularidad pública, (en adelante REDESCENA)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Impulsar el sector de las artes escénicas y de la música, haciéndolo más accesible a toda la población"
+      },
+      {
+        "id": "B",
+        "text": "Contener el sector de las artes escénicas y de la música, haciéndolo más accesible a toda la población"
+      },
+      {
+        "id": "C",
+        "text": "Impulsar el sector de las artes escénicas y de la música, haciéndolo más accesible sólo a la CAM"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 94. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 94,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 94
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-95",
+    "topicId": "especifico-14",
+    "prompt": "¿Cuáles son los valores de REDESCENA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Creatividad, accesibilidad, transparencia, conservación, investigación, eficacia, diversidad y pasión."
+      },
+      {
+        "id": "B",
+        "text": "Creatividad, accesibilidad, transparencia, innovación, investigación, eficacia, diversidad y pasión."
+      },
+      {
+        "id": "C",
+        "text": "Creatividad, accesibilidad, transparencia, innovación, investigación, publicidad, diversidad y pasión."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal. [Corrección del Tribunal Calificador, 22/03/2024, aplicada.]",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 95. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 95,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 95
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-96",
+    "topicId": "especifico-14",
+    "prompt": "¿Cuáles son algunos de los objetivos de REDESCENA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Impulsar y promover una estrecha, permanente y enriquecedora cooperación entre los diferentes teatros, auditorios, circuitos y redes (públicos y privados), tanto nacionales como internacionales."
+      },
+      {
+        "id": "B",
+        "text": "Impulsar y promover una estrecha, permanente y enriquecedora cooperación entre los diferentes teatros, auditorios, circuitos y redes privados, sólo a nivel nacional."
+      },
+      {
+        "id": "C",
+        "text": "Impulsar y promover una estrecha, permanente y enriquecedora cooperación entre los diferentes teatros, auditorios, circuitos y redes públicos, sólo a nivel internacional."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 96. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 96,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 96
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-97",
+    "topicId": "especifico-14",
+    "prompt": "¿Qué tipo de entidad es REDESCENA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fundación"
+      },
+      {
+        "id": "B",
+        "text": "Organismo autónomo"
+      },
+      {
+        "id": "C",
+        "text": "Asociación cultural sin ánimo de lucro"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 97. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 97,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 97
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-98",
+    "topicId": "especifico-14",
+    "prompt": "Indica cuál de las siguientes opciones es un proyecto de REDESCENA",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proyecto lluvia"
+      },
+      {
+        "id": "B",
+        "text": "Píldoras de gestión"
+      },
+      {
+        "id": "C",
+        "text": "Proyecto panda"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 98. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 98,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 98
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-100",
+    "topicId": "especifico-13",
+    "prompt": "¿Cuándo entró en vigor el Plan Estratégico Cuatrienal de IBERESCENA 2022-2025?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2021"
+      },
+      {
+        "id": "B",
+        "text": "2020"
+      },
+      {
+        "id": "C",
+        "text": "2022"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 100. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 100,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 100
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-101",
+    "topicId": "especifico-13",
+    "prompt": "¿En qué ciudad se celebró la cumbre donde en noviembre de 2006 se creó el Fondo de Ayudas para las Artes Escénicas Iberoamericanas, (en adelante IBERESCENA)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Montevideo (Uruguay)"
+      },
+      {
+        "id": "B",
+        "text": "Buenos Aires (Argentina)"
+      },
+      {
+        "id": "C",
+        "text": "Brasilia (Brasil)"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 101. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 101,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 101
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-102",
+    "topicId": "especifico-13",
+    "prompt": "¿Se puede postular a las ayudas que ofrece IBERSESCENA durante 2 convocatorias consecutivas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No"
+      },
+      {
+        "id": "B",
+        "text": "Sí, pero con proyectos diferentes"
+      },
+      {
+        "id": "C",
+        "text": "Sí, pero con el mismo proyecto"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 102. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 102,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 102
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-104",
+    "topicId": "especifico-13",
+    "prompt": "¿Cuándo entró en vigor el último reglamento de funcionamiento del programa de IBERSESCENA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "18 de abril de 2023"
+      },
+      {
+        "id": "B",
+        "text": "19 de abril de 2023"
+      },
+      {
+        "id": "C",
+        "text": "20 de abril de 2023"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 104. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 104,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 104
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-105",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué Real Decreto establece los fines del INAEM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Real Decreto 2491/1996, de 5 de diciembre."
+      },
+      {
+        "id": "B",
+        "text": "Real Decreto. 2491/1995, de 5 de diciembre."
+      },
+      {
+        "id": "C",
+        "text": "Real Decreto. 2491/1997, de 5 de diciembre."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 105. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 105,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 105
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-106",
+    "topicId": "especifico-44",
+    "prompt": "¿Cuáles son los principios que han de regir para las subvenciones concedidas al Teatro en régimen de concurrencia pública?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Publicidad, transparencia, subjetividad, igualdad y no discriminación."
+      },
+      {
+        "id": "B",
+        "text": "Publicidad, transparencia, objetividad, celeridad e igualdad."
+      },
+      {
+        "id": "C",
+        "text": "Publicidad, transparencia, objetividad, igualdad y no discriminación."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 106. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 106,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 106
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-107",
+    "topicId": "especifico-44",
+    "prompt": "¿Se pueden pedir varias subvenciones públicas para una misma producción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, siempre que el importe de las mismas sea de tal cuantía que, aisladamente o en concurrencia con otras subvenciones, no supere el coste de la actividad subvencionada."
+      },
+      {
+        "id": "B",
+        "text": "No, sólo se puede solicitar una ayuda pública por producción."
+      },
+      {
+        "id": "C",
+        "text": "Sí, siempre."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 107. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 107,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 107
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-108",
+    "topicId": "especifico-44",
+    "prompt": "¿Cuál es la Ley General de Subvenciones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ley 39/2003, de 18 de noviembre"
+      },
+      {
+        "id": "B",
+        "text": "Ley 38/2002, de 18 de noviembre"
+      },
+      {
+        "id": "C",
+        "text": "Ley 38/2003, de 17 de noviembre"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 108. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 108,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 108
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-109",
+    "topicId": "especifico-12",
+    "prompt": "¿Qué número máximo de representaciones semanales podrán realizarse en un Teatro Público, según lo establecido en el Convenio Colectivo del Sector de Actores y Actrices de la Comunidad de Madrid?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 109. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 109,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 109
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-produccion-2023-110",
+    "topicId": "especifico-37",
+    "prompt": "En una producción teatral, ¿Qué significa “hacer la pasada”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Verificar que el público está ocupando sus asientos antes de la representación"
+      },
+      {
+        "id": "B",
+        "text": "Verificar que todos los integrantes de la Cía. han llegado al Teatro"
+      },
+      {
+        "id": "C",
+        "text": "Poner a punto el escenario y el equipamiento técnico para la representación"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 110. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Producción de Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 110,
+      "label": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 110
+    },
+    "active": true,
+    "optionCount": 3
+  }
+]

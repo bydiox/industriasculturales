@@ -1,0 +1,3162 @@
+[
+  {
+    "id": "m1-cultura-peluqueria-2023-31",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué tipo de horquilla es la más utilizada para realizar puntos de anclaje para proporcionar un buen soporte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Invisibles."
+      },
+      {
+        "id": "B",
+        "text": "De moño."
+      },
+      {
+        "id": "C",
+        "text": "De clip."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 31. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 31,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 31
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-32",
+    "topicId": "especifico-31",
+    "prompt": "¿Qué es “El Kabuki”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un tipo de teatro japonés."
+      },
+      {
+        "id": "B",
+        "text": "Un peinado japonés."
+      },
+      {
+        "id": "C",
+        "text": "Una obra literaria japonesa."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 32. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 32,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 32
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-33",
+    "topicId": "especifico-35",
+    "prompt": "En el proceso de cambios de forma permanente del cabello, ¿En qué fase se reconstruyen los enlaces cistínicos o disulfurados?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neutralización."
+      },
+      {
+        "id": "B",
+        "text": "Reducción."
+      },
+      {
+        "id": "C",
+        "text": "Saturación."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 33. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 33,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 33
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-34",
+    "topicId": "especifico-06",
+    "prompt": "¿A qué etapa histórica corresponde el estilo de peinado masculino de la típica figura inglesa, conocida con el nombre de “El Dandy”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Romanticismo."
+      },
+      {
+        "id": "B",
+        "text": "Barroco."
+      },
+      {
+        "id": "C",
+        "text": "Renacimiento."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 34. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 34,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 34
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-35",
+    "topicId": "especifico-36",
+    "prompt": "En el teatro, ¿cómo se llama a cada una de las llamadas que se hace a los miembros del elenco antes de que empiece la función?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Advertencias."
+      },
+      {
+        "id": "B",
+        "text": "Anuncios."
+      },
+      {
+        "id": "C",
+        "text": "Avisos."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 35. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 35,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 35
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-36",
+    "topicId": "especifico-35",
+    "prompt": "En la escala universal de tonos del cabello, ¿A qué número corresponde un tono rubio claro?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5."
+      },
+      {
+        "id": "B",
+        "text": "8."
+      },
+      {
+        "id": "C",
+        "text": "6."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 36. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 36,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 36
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-37",
+    "topicId": "especifico-35",
+    "prompt": "¿Para qué se utiliza el hilo de bramante en posticería?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Realizar pestañas."
+      },
+      {
+        "id": "B",
+        "text": "Confeccionar extensiones."
+      },
+      {
+        "id": "C",
+        "text": "Elaborar crepé."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 37. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 37,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 37
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-38",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué tipo de teatro surge a mediados del siglo XVI como oposición al Teatro de los Humanistas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teatro Renacentista."
+      },
+      {
+        "id": "B",
+        "text": "Comedia del Arte."
+      },
+      {
+        "id": "C",
+        "text": "Teatro Negro."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 38. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 38,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 38
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-39",
+    "topicId": "especifico-30",
+    "prompt": "¿Cómo se llama la abertura que enmarca la escena y aloja el telón de boca?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Arco de proscenio."
+      },
+      {
+        "id": "B",
+        "text": "Arco de Carbón."
+      },
+      {
+        "id": "C",
+        "text": "Arco de escenario."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 39. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 39,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 39
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-40",
+    "topicId": "especifico-35",
+    "prompt": "De éstos tres tipos de cepillos, ¿Cuáles deben utilizarse en los procesos de higiene de pelucas y postizos para evitar la carga electroestática?",
+    "options": [
+      {
+        "id": "A",
+        "text": "De metal."
+      },
+      {
+        "id": "B",
+        "text": "De plástico."
+      },
+      {
+        "id": "C",
+        "text": "De cerdas naturales."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 40. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 40,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 40
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-41",
+    "topicId": "especifico-35",
+    "prompt": "¿En qué proceso técnico de alisado permanente en los cabellos se necesita la utilización de plancha para facilitar la introducción y fijación de los cosméticos específicos aplicados previamente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alisado Clásico."
+      },
+      {
+        "id": "B",
+        "text": "Alisado Iónico."
+      },
+      {
+        "id": "C",
+        "text": "Alisado Temporal."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 41. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 41,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 41
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-42",
+    "topicId": "especifico-31",
+    "prompt": "El término de origen italiano “Attrezzo” se utiliza frecuentemente en el teatro en lugar de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sastrería."
+      },
+      {
+        "id": "B",
+        "text": "Peluquería."
+      },
+      {
+        "id": "C",
+        "text": "Utilería."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 42. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 42,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 42
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-43",
+    "topicId": "especifico-30",
+    "prompt": "¿De qué es sinónimo un camerino de escena?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Camerino Principal."
+      },
+      {
+        "id": "B",
+        "text": "Camerino de transformación."
+      },
+      {
+        "id": "C",
+        "text": "Camerino de figuración."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 43. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 43,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 43
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-44",
+    "topicId": "especifico-35",
+    "prompt": "En un proceso de cambio de forma permanente del cabello, ¿Cómo se protegen las puntas de la mecha del pelo durante la fase de enrollado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se aplica alcohol con un algodón."
+      },
+      {
+        "id": "B",
+        "text": "Se aplican gominas o productos fijadores."
+      },
+      {
+        "id": "C",
+        "text": "Se coloca un papel protector."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 44. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 44,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 44
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-45",
+    "topicId": "especifico-06",
+    "prompt": "¿De qué década del siglo XX, son característicos los peinados realizados con el estilo de corte de pelo “A lo Garçon”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1930."
+      },
+      {
+        "id": "B",
+        "text": "1910."
+      },
+      {
+        "id": "C",
+        "text": "1920."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 45. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 45,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 45
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-46",
+    "topicId": "especifico-01",
+    "prompt": "¿Cómo se llama a la persona responsable de la parte del teatro ocupada por el público desde el telón hasta la entrada y taquillas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jefe de Montaje."
+      },
+      {
+        "id": "B",
+        "text": "Jefe de pista."
+      },
+      {
+        "id": "C",
+        "text": "Jefe de Sala."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 46. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 46,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 46
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-47",
+    "topicId": "especifico-35",
+    "prompt": "El H202 al 3% ¿Cuantos volúmenes tiene?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 volúmenes."
+      },
+      {
+        "id": "B",
+        "text": "30 volúmenes."
+      },
+      {
+        "id": "C",
+        "text": "10 volúmenes."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 47. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 47,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 47
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-48",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se llama al mechón de pelo situado en la parte delantera de la cabeza, que cae por la frente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Peluquín."
+      },
+      {
+        "id": "B",
+        "text": "Penacho."
+      },
+      {
+        "id": "C",
+        "text": "Tupé."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 48,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 48
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-49",
+    "topicId": "especifico-35",
+    "prompt": "Para obtener el color verde, ¿Con qué color se debe mezcla el color azul?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Amarillo."
+      },
+      {
+        "id": "B",
+        "text": "Naranja."
+      },
+      {
+        "id": "C",
+        "text": "Rojo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 49. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 49,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 49
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-50",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de estas funciones se realiza en la sección de peluquería?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Colocar postizos faciales."
+      },
+      {
+        "id": "B",
+        "text": "Recoger el pelo para colocar una calota."
+      },
+      {
+        "id": "C",
+        "text": "Peinar la posticería facial."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 50. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 50,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 50
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-51",
+    "topicId": "especifico-06",
+    "prompt": "¿En qué período histórico se crea el estilo de peinado de mujer con la aplicación de la técnica del papillote en los cabellos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Renacimiento."
+      },
+      {
+        "id": "B",
+        "text": "Barroco."
+      },
+      {
+        "id": "C",
+        "text": "Edad Media."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 51. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 51,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 51
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-52",
+    "topicId": "especifico-31",
+    "prompt": "¿Cómo se llama el telón que se encuentra en el último término de la escena, para cubrir el fondo del escenario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Telón de gasa."
+      },
+      {
+        "id": "B",
+        "text": "Telón de Foro."
+      },
+      {
+        "id": "C",
+        "text": "Telón enrollable."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 52. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 52,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 52
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-53",
+    "topicId": "especifico-06",
+    "prompt": "¿En cuál de las antiguas civilizaciones la peluca se consideraba parte integrante de la moda?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Asiática."
+      },
+      {
+        "id": "B",
+        "text": "Egipcia."
+      },
+      {
+        "id": "C",
+        "text": "Griega."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 53. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 53,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 53
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-54",
+    "topicId": "especifico-35",
+    "prompt": ". ¿Qué reflejo se necesita aplicar si se quiere neutralizar un reflejo cobrizo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ceniza violáceo."
+      },
+      {
+        "id": "B",
+        "text": "Ceniza verdoso."
+      },
+      {
+        "id": "C",
+        "text": "Ceniza azulado."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 54. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 54,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 54
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-55",
+    "topicId": "especifico-06",
+    "prompt": "¿En qué etapa histórica se confirma el modelo de teatro “a la italiana”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neoclasicismo."
+      },
+      {
+        "id": "B",
+        "text": "Barroco."
+      },
+      {
+        "id": "C",
+        "text": "Edad Media"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 55. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 55,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 55
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-56",
+    "topicId": "especifico-06",
+    "prompt": "¿En el reinado de qué monarca francés del siglo XVII se funda en Paris el primer Gremio de Barberos y Peluqueros?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Luis XIII."
+      },
+      {
+        "id": "B",
+        "text": "Luis XIV."
+      },
+      {
+        "id": "C",
+        "text": "Luis XV."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 56. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 56,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 56
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-57",
+    "topicId": "especifico-06",
+    "prompt": "¿Cuál de estos estilos de peinados corresponde a la moda del siglo XVIII?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fontange."
+      },
+      {
+        "id": "B",
+        "text": "A la paloma."
+      },
+      {
+        "id": "C",
+        "text": "Hurluberlu."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 57. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 57,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 57
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-58",
+    "topicId": "especifico-30",
+    "prompt": "¿A qué tipos de escenarios han dado lugar los elevadores-montacargas situados en el foso, y que tienen como misión ayudar a los efectos especiales de apariciones y desapariciones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Escenarios sorpresas."
+      },
+      {
+        "id": "B",
+        "text": "Escenarios flotantes."
+      },
+      {
+        "id": "C",
+        "text": "Escenarios ocultos."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 58. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 58,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 58
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-59",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué nombre recibe el peinado griego que consiste en recoger el pelo largo de la nuca y meterlo debajo de una cinta que rodea la cabeza dejando las puntas fuera?",
+    "options": [
+      {
+        "id": "A",
+        "text": "De lampadion."
+      },
+      {
+        "id": "B",
+        "text": "De nudos."
+      },
+      {
+        "id": "C",
+        "text": "Cróbilo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 59. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 59,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 59
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-60",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se llama el moño realizado en forma de rosca?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Italiano."
+      },
+      {
+        "id": "B",
+        "text": "Coca."
+      },
+      {
+        "id": "C",
+        "text": "Rodete."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 60. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 60,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 60
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-61",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de estas numeraciones de tintes corresponde a un tono rubio claro ceniza irisado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8.21."
+      },
+      {
+        "id": "B",
+        "text": "8.12."
+      },
+      {
+        "id": "C",
+        "text": "9.12."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 61. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 61,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 61
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-62",
+    "topicId": "especifico-06",
+    "prompt": "¿Quién fue el peluquero de la reina de Francia del siglo XVIII María Antonieta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Léonard Autier."
+      },
+      {
+        "id": "B",
+        "text": "Legrós Rumigmy."
+      },
+      {
+        "id": "C",
+        "text": "Carlos Nestler."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 62. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 62,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 62
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-63",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué utensilio de metal se utiliza además de un dedal para proteger el dedo al coser una montura de peluca en posticería?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cangrejo."
+      },
+      {
+        "id": "B",
+        "text": "Jockey."
+      },
+      {
+        "id": "C",
+        "text": "Dedil."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 63. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 63,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 63
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-64",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es la proyección de una mecha de cabello con respecto a la cabeza?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es el ángulo formado por la mecha de pelo seleccionada y el cuero cabelludo."
+      },
+      {
+        "id": "B",
+        "text": "Es la línea que divide el cuero cabelludo en dos partes iguales."
+      },
+      {
+        "id": "C",
+        "text": "Son las líneas diagonales para realizar particiones del cabello."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 64. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 64,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 64
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-65",
+    "topicId": "especifico-30",
+    "prompt": "¿Cómo se llaman los espacios del escenario situados a la izquierda y derecha de la embocadura; no visibles por el público?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Patas."
+      },
+      {
+        "id": "B",
+        "text": "Guardamalletas."
+      },
+      {
+        "id": "C",
+        "text": "Hombros."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 65. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 65,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 65
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-66",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de estos peinados es un marcado de rulos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Papillotes."
+      },
+      {
+        "id": "B",
+        "text": "La Mise en Plis."
+      },
+      {
+        "id": "C",
+        "text": "La Toga."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 66. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 66,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 66
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-67",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué monarca francés del siglo XVIII utilizaba la peluca llamada “Binette grand infolio” o “peluca allonge”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Luis XIII."
+      },
+      {
+        "id": "B",
+        "text": "Luis XIV."
+      },
+      {
+        "id": "C",
+        "text": "Luis XVI."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 67. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 67,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 67
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-68",
+    "topicId": "especifico-35",
+    "prompt": "¿Para qué se coloca crepé en la realización de un recogido?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aumentar la densidad del cabello."
+      },
+      {
+        "id": "B",
+        "text": "Prolongar la duración del recogido."
+      },
+      {
+        "id": "C",
+        "text": "Aportar brillo y suavidad al cabello."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 68. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 68,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 68
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-69",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué puentes o enlaces de la queratina intervienen directamente en los cambios de forma temporales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Puentes disulfuro."
+      },
+      {
+        "id": "B",
+        "text": "Puentes salinos."
+      },
+      {
+        "id": "C",
+        "text": "Puentes de hidrógeno."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 69. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 69,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 69
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-70",
+    "topicId": "especifico-36",
+    "prompt": "¿Con qué nombre se denomina a la relación de actores que integran el reparto de una obra?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Elenco."
+      },
+      {
+        "id": "B",
+        "text": "Equipo artístico."
+      },
+      {
+        "id": "C",
+        "text": "Colectivo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 70. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 70,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 70
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-71",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se llama el proceso técnico que consiste en la eliminación de pigmentos artificiales del cabello?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mordentado."
+      },
+      {
+        "id": "B",
+        "text": "Decoloración."
+      },
+      {
+        "id": "C",
+        "text": "Decapado."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 71. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 71,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 71
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-72",
+    "topicId": "especifico-31",
+    "prompt": "¿Cómo se denomina a la trampa grande del tablado en los escenarios a la italiana qué permite la subida a escena de un personaje o pieza del decorado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Escotillón."
+      },
+      {
+        "id": "B",
+        "text": "Escotadura."
+      },
+      {
+        "id": "C",
+        "text": "Escenotécnica."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 72. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 72,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 72
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-73",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué peluquero francés creó la técnica de marcado con anillas o sortijillas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Marcel Grateau."
+      },
+      {
+        "id": "B",
+        "text": "Alexander de Paris."
+      },
+      {
+        "id": "C",
+        "text": "René Rambeaud."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 73. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 73,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 73
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-74",
+    "topicId": "especifico-06",
+    "prompt": "¿En qué época histórica se puso de moda entre las mujeres depilarse el contorno del nacimiento del cabello, en la zona de la frente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En el siglo XVIII."
+      },
+      {
+        "id": "B",
+        "text": "En la Edad Media."
+      },
+      {
+        "id": "C",
+        "text": "En el Renacimiento."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 74. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 74,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 74
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-75",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de estos tipos de pelo es más poroso?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El pelo humano."
+      },
+      {
+        "id": "B",
+        "text": "El pelo sintético."
+      },
+      {
+        "id": "C",
+        "text": "El pelo de Yak."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 75. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 75,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 75
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-76",
+    "topicId": "especifico-31",
+    "prompt": "¿De qué está fabricado el telón que si se ilumina por delante da sensación de opacidad y si se ilumina por detrás permite ver lo que ocurre en una zona del escenario creando un efecto de sombras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gasa."
+      },
+      {
+        "id": "B",
+        "text": "Plástico."
+      },
+      {
+        "id": "C",
+        "text": "Seda."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 76. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 76,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 76
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-77",
+    "topicId": "especifico-35",
+    "prompt": "¿En qué tipos de cortes de pelo está indicado realizarlos especialmente con navaja?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rectos."
+      },
+      {
+        "id": "B",
+        "text": "Desfilados."
+      },
+      {
+        "id": "C",
+        "text": "Corte en seco."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 77. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 77,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 77
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-78",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué técnica de marcado se empleaba en la década de los años 60 para alisar el pelo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los rulos."
+      },
+      {
+        "id": "B",
+        "text": "El secador de mano."
+      },
+      {
+        "id": "C",
+        "text": "La toga."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 78. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 78,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 78
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-79",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se llama a la preparación de los camerinos y espacios de cambio con todo el material necesario antes de la llegada de los actores para la función?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pasada."
+      },
+      {
+        "id": "B",
+        "text": "Servir función."
+      },
+      {
+        "id": "C",
+        "text": "Prefunción."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 79. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 79,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 79
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-80",
+    "topicId": "especifico-35",
+    "prompt": "Al finalizar una producción, ¿Qué se hace con las pelucas que se han utilizado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se lavan y se guardan en un almacén en cajas."
+      },
+      {
+        "id": "B",
+        "text": "Se guardan sin lavar en un almacén en cajas."
+      },
+      {
+        "id": "C",
+        "text": "Se desechan porque la producción acabó."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 80. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 80,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 80
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-81",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de estas funciones las realiza la sección de peluquería en un teatro?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Colocar tocados."
+      },
+      {
+        "id": "B",
+        "text": "Colocar calotas."
+      },
+      {
+        "id": "C",
+        "text": "Aplicar posticería facial."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal. [Corrección del Tribunal Calificador, 22/03/2024, aplicada.]",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 81. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 81,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 81
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-82",
+    "topicId": "especifico-35",
+    "prompt": "En posticería, ¿Qué función tiene el útil llamado “Jockey” cuando se realiza tejeduría en un telar o bastidor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Evitar que se afloje el nudo final realizado."
+      },
+      {
+        "id": "B",
+        "text": "Seleccionar el mechón de pelo para realizar el nudo."
+      },
+      {
+        "id": "C",
+        "text": "Mezclar distintos tonos de pelo antes de realizar el nudo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 82. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 82,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 82
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-83",
+    "topicId": "especifico-35",
+    "prompt": "En posticería ¿Cuántos hilos se deben colocar en un telar o bastidor para realizar entretejido?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2."
+      },
+      {
+        "id": "B",
+        "text": "3."
+      },
+      {
+        "id": "C",
+        "text": "4."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal. [Corrección del Tribunal Calificador, 22/03/2024, aplicada.]",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 83. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 83,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 83
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-84",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de los siguientes métodos de sujeción se utiliza habitualmente para colocar una peluca o postizo parcial, si el actor/cantante tiene el cabello muy corto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cangrejos."
+      },
+      {
+        "id": "B",
+        "text": "Sortijillas planas."
+      },
+      {
+        "id": "C",
+        "text": "Muelles."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 84. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 84,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 84
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-85",
+    "topicId": "especifico-01",
+    "prompt": "¿Quién realiza el diseño de los personajes de una función?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El director técnico."
+      },
+      {
+        "id": "B",
+        "text": "El caracterizador o figurinista."
+      },
+      {
+        "id": "C",
+        "text": "El jefe de producción."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 85. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 85,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 85
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-86",
+    "topicId": "especifico-30",
+    "prompt": "¿Qué zona de un escenario de teatro a la italiana se conoce con el nombre de “corbata escénica”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Panorama."
+      },
+      {
+        "id": "B",
+        "text": "Proscenio."
+      },
+      {
+        "id": "C",
+        "text": "Paño."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 86. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 86,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 86
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-87",
+    "topicId": "especifico-06",
+    "prompt": "¿Cómo llevaban el pelo las mujeres en la Edad Media?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corto, peinado hacia el rostro."
+      },
+      {
+        "id": "B",
+        "text": "Cabellos sueltos o con trenzas."
+      },
+      {
+        "id": "C",
+        "text": "Recogido en la zona alta de la cabeza."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 87. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 87,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 87
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-88",
+    "topicId": "especifico-35",
+    "prompt": "¿En qué parte del cabello se encuentra el pigmento que determina su color natural?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cutícula."
+      },
+      {
+        "id": "B",
+        "text": "Córtex."
+      },
+      {
+        "id": "C",
+        "text": "Médula."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal. [Corrección del Tribunal Calificador, 22/03/2024, aplicada.]",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 88. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 88,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 88
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-89",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué orden debe seguirse para la sujeción de la peluca a los puntos de anclaje realizados previamente en cabeza del actor/cantante?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Patillas, zona frontal y nuca."
+      },
+      {
+        "id": "B",
+        "text": "Coronilla, patillas y zona frontal."
+      },
+      {
+        "id": "C",
+        "text": "Zona frontal, patillas y nuca."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 89. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 89,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 89
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-90",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué sustancia se utiliza para eliminar los restos de adhesivo de una peluca después de su uso?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jabón."
+      },
+      {
+        "id": "B",
+        "text": "Agua."
+      },
+      {
+        "id": "C",
+        "text": "Alcohol."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 90. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 90,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 90
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-91",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se prepara el pelo para la colocación de una calota, si la longitud del cabello del actor/cantante es corta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Engominar el cabello hacia detrás despejando contornos de la cabeza y con una redecilla muy ajustada secar con secador."
+      },
+      {
+        "id": "B",
+        "text": "Humedecer el cabello con agua, despejar contornos de la cabeza y cubrir la cabeza con film."
+      },
+      {
+        "id": "C",
+        "text": "Engominar el cabello hacia detrás despejando contornos de la cabeza y sujetar el cabello con una venda elástica."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 91. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 91,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 91
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-92",
+    "topicId": "especifico-35",
+    "prompt": "¿Para qué se utiliza una plancha “crimper”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Realizar encrespados."
+      },
+      {
+        "id": "B",
+        "text": "Alisar cabellos sintéticos."
+      },
+      {
+        "id": "C",
+        "text": "Realizar ondas marcel."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 92. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 92,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 92
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-93",
+    "topicId": "especifico-30",
+    "prompt": "¿Cómo se llama al segundo foso que está debajo del escenario en aquellos teatros que tienen más de uno?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Contrafoso."
+      },
+      {
+        "id": "B",
+        "text": "Foso Inferior."
+      },
+      {
+        "id": "C",
+        "text": "Bajo foso."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 93. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 93,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 93
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-95",
+    "topicId": "especifico-36",
+    "prompt": "¿Cómo se denomina el documento donde se anotan las entradas y salidas de los actores a escena, los posibles cambios entre escenas y los tiempos de que se dispone para realizarlos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hoja de cambios."
+      },
+      {
+        "id": "B",
+        "text": "Tablilla."
+      },
+      {
+        "id": "C",
+        "text": "Hoja de ensayos."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 95. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 95,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 95
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-96",
+    "topicId": "especifico-35",
+    "prompt": "En un marcado de rulos para un peinado con volumen, ¿cómo deben colocarse los rulos para aportar mayor volumen en la raíz de las mechas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sobre su base. sin desplazamiento."
+      },
+      {
+        "id": "B",
+        "text": "Desplazado de su base hacia detrás."
+      },
+      {
+        "id": "C",
+        "text": "Desplazado de su base hacia delante."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 96. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 96,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 96
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-97",
+    "topicId": "especifico-35",
+    "prompt": "¿Para qué se utiliza la técnica de cardado o crepado en un recogido?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aportar consistencia al peinado y controlar las formas y volúmenes."
+      },
+      {
+        "id": "B",
+        "text": "Aportar brillo al peinado."
+      },
+      {
+        "id": "C",
+        "text": "Reforzar el marcado y aumentar su durabilidad."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 97. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 97,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 97
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-98",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de estos productos cosméticos es un acondicionador para el cabello sin aclarado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mascarilla."
+      },
+      {
+        "id": "B",
+        "text": "Serúm."
+      },
+      {
+        "id": "C",
+        "text": "Laca."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 98. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 98,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 98
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-99",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuáles de estos cosméticos sirven para fijar el cabello y mantener el peinado durante más tiempo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bifásico."
+      },
+      {
+        "id": "B",
+        "text": "Mascarillas."
+      },
+      {
+        "id": "C",
+        "text": "Lacas"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 99. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 99,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 99
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-100",
+    "topicId": "especifico-35",
+    "prompt": "Los instrumentos de corte metálicos ¿Con qué sistema deben esterilizarse antes y después de su uso?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Esterilizador de radiación UV."
+      },
+      {
+        "id": "B",
+        "text": "Esterilizador térmico por calor seco."
+      },
+      {
+        "id": "C",
+        "text": "Por aplicación de alcohol."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 100. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 100,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 100
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-101",
+    "topicId": "especifico-36",
+    "prompt": "Asistir en los camerinos a los actores/cantantes asignados y realizar todos los cambios y refuerzos previstos, así como estar a disposición para cualquier imprevisto durante la función, se conoce como",
+    "options": [
+      {
+        "id": "A",
+        "text": "Estar de guardia."
+      },
+      {
+        "id": "B",
+        "text": "Estar de refuerzo."
+      },
+      {
+        "id": "C",
+        "text": "Servir función."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 101. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 101,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 101
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-102",
+    "topicId": "especifico-35",
+    "prompt": "¿En qué consisten las bases para realizar recogidos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son las separaciones del cabello previas a la realización del recogido."
+      },
+      {
+        "id": "B",
+        "text": "Son estructuras realizadas previas al recogido con ganchos, horquillas y gomas para su sujeción."
+      },
+      {
+        "id": "C",
+        "text": "Son los elementos de posticería que se incorporan al recogido."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 102. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 102,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 102
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-103",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de estos postizos se coloca sobre una zona superior de la cabeza desprovista de cabello?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trenza."
+      },
+      {
+        "id": "B",
+        "text": "Postizo de integración."
+      },
+      {
+        "id": "C",
+        "text": "Bisoñé."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 103. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 103,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 103
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-104",
+    "topicId": "especifico-31",
+    "prompt": "¿Cómo se llama en un teatro, a cada uno de los bastidores verticales, que, en cada lateral junto con el bambalinón, definen la embocadura del escenario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Arlequín."
+      },
+      {
+        "id": "B",
+        "text": "Penacho."
+      },
+      {
+        "id": "C",
+        "text": "Hombro."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 104. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 104,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 104
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-105",
+    "topicId": "especifico-06",
+    "prompt": "¿Cómo se llama cada una de las partes en que pueden dividirse las distintas obras escénicas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Escena."
+      },
+      {
+        "id": "B",
+        "text": "Acto."
+      },
+      {
+        "id": "C",
+        "text": "Escenotécnica."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 105. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 105,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 105
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-106",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se sujeta un bisoñe en la cabeza?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se adhiere directamente al cuero cabelludo con adhesivo."
+      },
+      {
+        "id": "B",
+        "text": "Mediante la aplicación de ganchos y clips."
+      },
+      {
+        "id": "C",
+        "text": "Con la realización previa de puntos de anclaje con sortijillas."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 106. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 106,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 106
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-107",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se llama a la representación que da una compañía de teatro en cualquiera de las poblaciones a donde va de gira?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bolo."
+      },
+      {
+        "id": "B",
+        "text": "Reestreno."
+      },
+      {
+        "id": "C",
+        "text": "Boleto."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 107. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 107,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 107
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-108",
+    "topicId": "especifico-35",
+    "prompt": "En un proceso de cambio de forma permanente del cabello ¿qué método de aplicación de saturación debe llevarse a cabo durante la fase de reducción, si se trata de cabellos teñidos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Método directo."
+      },
+      {
+        "id": "B",
+        "text": "Método indirecto."
+      },
+      {
+        "id": "C",
+        "text": "Método combinado o mixto."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 108. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 108,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 108
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-109",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se llama el tipo de postizo que se utiliza para simular una calva en la zona de la coronilla?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cerquillo."
+      },
+      {
+        "id": "B",
+        "text": "Tonsura."
+      },
+      {
+        "id": "C",
+        "text": "Chignon."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 109. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 109,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 109
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-peluqueria-2023-110",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de estos postizos se confecciona sobre una base?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trenzas."
+      },
+      {
+        "id": "B",
+        "text": "Colas."
+      },
+      {
+        "id": "C",
+        "text": "De integración."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 110. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Estilismo y Dirección de Peluquería",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 110,
+      "label": "M1 Cultura · Estilismo y Dirección de Peluquería · 2023",
+      "questionNumber": 110
+    },
+    "active": true,
+    "optionCount": 3
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "m1-cultura-comun-2023-01",
+    "topicId": "comun-01",
+    "prompt": "¿Qué día entró en vigor la Constitución Española de 1978 (en adelante CE)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El 6 de diciembre."
+      },
+      {
+        "id": "B",
+        "text": "El 28 de diciembre."
+      },
+      {
+        "id": "C",
+        "text": "El 29 de diciembre."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 1. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 1,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 1
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-02",
+    "topicId": "comun-01",
+    "prompt": "¿En qué título de la CE se regula la nacionalidad española?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En el Título preliminar."
+      },
+      {
+        "id": "B",
+        "text": "En el Titulo primero."
+      },
+      {
+        "id": "C",
+        "text": "En el Titulo segundo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 2. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 2,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 2
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-03",
+    "topicId": "comun-01",
+    "prompt": "¿Cuál de los siguientes es uno de los derechos fundamentales y libertades públicas de la sección 1º del Capítulo II del Título I de la CE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El derecho a la producción y creación científica."
+      },
+      {
+        "id": "B",
+        "text": "El derecho a la propiedad privada."
+      },
+      {
+        "id": "C",
+        "text": "El derecho al trabajo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 3. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 3,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 3
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-04",
+    "topicId": "comun-01",
+    "prompt": "Según la CE, contribuyen a la defensa y promoción de los intereses económicos y sociales que le son propios:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los partidos políticos."
+      },
+      {
+        "id": "B",
+        "text": "Los sindicatos de trabajadores y asociaciones empresariales."
+      },
+      {
+        "id": "C",
+        "text": "Las asociaciones de vecinos."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 4. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 4,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 4
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-05",
+    "topicId": "comun-03",
+    "prompt": "El defensor del pueblo es designado por:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Presidente del Gobierno."
+      },
+      {
+        "id": "B",
+        "text": "El Ministerio Fiscal."
+      },
+      {
+        "id": "C",
+        "text": "Las Cortes Generales."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 5. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 5,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 5
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-06",
+    "topicId": "comun-01",
+    "prompt": "Según la CE, en caso de reuniones en lugares de tránsito público y manifestaciones:",
+    "options": [
+      {
+        "id": "A",
+        "text": "No precisan de comunicación previa siempre y cuando sean reuniones o manifestaciones pacíficas y sin armas."
+      },
+      {
+        "id": "B",
+        "text": "Precisarán de comunicación previa a la autoridad."
+      },
+      {
+        "id": "C",
+        "text": "Precisarán de autorización previa de la autoridad."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 6. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 6,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 6
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-07",
+    "topicId": "comun-11",
+    "prompt": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público (en adelante TREBEP), el ejercicio de las funciones que impliquen la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas corresponden a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al personal eventual."
+      },
+      {
+        "id": "B",
+        "text": "Al personal funcionario y laboral."
+      },
+      {
+        "id": "C",
+        "text": "Exclusivamente al personal funcionario."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 7. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 7,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 7
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-08",
+    "topicId": "comun-11",
+    "prompt": "Según el TREBEP, ¿cuál de los siguientes es un derecho de carácter individual de los empleados públicos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El ejercicio de huelga."
+      },
+      {
+        "id": "B",
+        "text": "La movilidad en la condición de funcionario de carrera."
+      },
+      {
+        "id": "C",
+        "text": "La libre asociación profesional."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 8. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 8,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 8
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-09",
+    "topicId": "comun-11",
+    "prompt": "Según el TREBEP el personal laboral es aquel que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "En virtud de contrato de trabajo, está vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente o temporal."
+      },
+      {
+        "id": "B",
+        "text": "En virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral presta servicios retribuidos por las Administraciones Públicas."
+      },
+      {
+        "id": "C",
+        "text": "En virtud de contrato de trabajo formalizado por escrito, y con carácter no permanente, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 9. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 9,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 9
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-10",
+    "topicId": "especifico-16",
+    "prompt": "Según el artículo 64 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el Gobierno aprobará un Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anualmente."
+      },
+      {
+        "id": "B",
+        "text": "Al inicio de cada legislatura."
+      },
+      {
+        "id": "C",
+        "text": "Cada dos años."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 10. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 10,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 10
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-11",
+    "topicId": "especifico-16",
+    "prompt": "Según la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, ¿cómo se considera la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Discriminación directa por razón de sexo."
+      },
+      {
+        "id": "B",
+        "text": "Discriminación indirecta por razón de sexo."
+      },
+      {
+        "id": "C",
+        "text": "Acción positiva."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 11. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 11,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 11
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-12",
+    "topicId": "especifico-16",
+    "prompt": "Actualmente, ¿qué Plan para la igualdad de género en la Administración general del Estado y Organismos Públicos vinculados o dependientes de ella se encuentra vigente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "II Plan para la igualdad de género."
+      },
+      {
+        "id": "B",
+        "text": "III Plan para la igualdad de género."
+      },
+      {
+        "id": "C",
+        "text": "IV Plan para la igualdad de género."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 12. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 12,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 12
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-13",
+    "topicId": "especifico-41",
+    "prompt": "Según el art. 35.1 de la Ley 31/1995, de Prevención de Riesgos Laborales “Los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo” se denominan:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trabajadores encargados de la prevención."
+      },
+      {
+        "id": "B",
+        "text": "Delegados de prevención."
+      },
+      {
+        "id": "C",
+        "text": "Recursos preventivos."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 13. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 13,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 13
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-15",
+    "topicId": "especifico-41",
+    "prompt": "Según el apartado 3.a del Anexo III del Real Decreto 486/1997 de disposiciones mínimas de seguridad y salud en los centros de trabajo, ¿cuál es la temperatura adecuada para efectuar trabajos sedentarios o propios de oficina?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Depende de la humedad existente en el local."
+      },
+      {
+        "id": "B",
+        "text": "Aquella que se diferencie en un máximo de 7ºC respecto a la temperatura exterior."
+      },
+      {
+        "id": "C",
+        "text": "Entre 17 y 27ºC."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 15. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 15,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 15
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-17",
+    "topicId": "especifico-41",
+    "prompt": "Según la tabla del artículo 31.2 de la vigente Ley 31/1995 de Prevención de Riesgos Laborales, si en una empresa se pueden designar hasta 5 delegados de prevención, el número de trabajadores de la misma se encontrará en el intervalo de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "501 a 1000 trabajadores."
+      },
+      {
+        "id": "B",
+        "text": "1.001 a 2.000 trabajadores."
+      },
+      {
+        "id": "C",
+        "text": "2.001 a 3.000 trabajadores."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 17. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 17,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 17
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-18",
+    "topicId": "comun-04",
+    "prompt": "¿Ante quién responde solidariamente el Gobierno de su gestión política?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ante el pueblo español."
+      },
+      {
+        "id": "B",
+        "text": "Ante las Cortes Generales."
+      },
+      {
+        "id": "C",
+        "text": "Ante el Congreso de los Diputados."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 18. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 18,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 18
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-19",
+    "topicId": "comun-04",
+    "prompt": "Según el artículo 113 de la Constitución Española de 1978 el Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción de una moción de censura, de acuerdo con el citado artículo que requisitos se exigen para su interposición:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Debe ser propuesta al menos por una quinta parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno."
+      },
+      {
+        "id": "B",
+        "text": "Debe ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno."
+      },
+      {
+        "id": "C",
+        "text": "Debe ser propuesta al menos por tres quintas partes de los Diputados, sin necesidad de incluir un candidato a la Presidencia del Gobierno."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 19. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 19,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 19
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-20",
+    "topicId": "comun-05",
+    "prompt": "Los Subdirectores Generales son nombrados por:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Real Decreto del Consejo de Ministros, a propuesta del titular del Departamento o del Presidente del Gobierno."
+      },
+      {
+        "id": "B",
+        "text": "Director General del que dependan."
+      },
+      {
+        "id": "C",
+        "text": "Por el Ministro, Secretario de Estado o Subsecretario del que dependan."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 20. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 20,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 20
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-21",
+    "topicId": "comun-04",
+    "prompt": "Señale cuál de las siguientes es una competencia atribuida al Presidente del Gobierno:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Plantear ante el Congreso de los Diputados una moción de censura."
+      },
+      {
+        "id": "B",
+        "text": "Nombrar y separar a los Ministros."
+      },
+      {
+        "id": "C",
+        "text": "Proponer al Rey la convocatoria de un referéndum consultivo, previa autorización del Congreso de los Diputados."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 21. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 21,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 21
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-22",
+    "topicId": "comun-04",
+    "prompt": "Al Consejo de Ministros, como órgano colegiado del Gobierno, le corresponde el ejercicio de las siguientes funciones:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aprobar las proposiciones de ley y su remisión al Congreso de los Diputados o, en su caso, al Senado."
+      },
+      {
+        "id": "B",
+        "text": "Interponer el recurso de inconstitucionalidad."
+      },
+      {
+        "id": "C",
+        "text": "Declarar los Estados de alarma y de excepción y proponer al Congreso de los Diputados la declaración del Estado de sitio."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 22. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 22,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 22
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-23",
+    "topicId": "comun-13",
+    "prompt": "Según lo establecido en IV Convenio colectivo único para el personal laboral de la Administración General del Estado.",
+    "options": [
+      {
+        "id": "A",
+        "text": "El presente Convenio entró en vigor el día 13 de mayo de 2019."
+      },
+      {
+        "id": "B",
+        "text": "Sus efectos económicos regirán desde el día siguiente a su publicación en el «Boletín Oficial del Estado» sin perjuicio de lo establecido en cada caso en el articulado de este Convenio."
+      },
+      {
+        "id": "C",
+        "text": "La vigencia del Convenio se extiende hasta el 31 de diciembre de 2021, pudiendo ser denunciado por cualquiera de las partes, dentro de los dos meses inmediatos anteriores a la terminación de su vigencia."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 23. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 23,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 23
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-24",
+    "topicId": "comun-13",
+    "prompt": "De acuerdo con lo dispuesto en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, el Grupo Profesional E2 se corresponde con:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Título de Bachiller o Técnico o equivalentes."
+      },
+      {
+        "id": "B",
+        "text": "Título clasificado en el Nivel 2 del Marco Español de Cualificaciones para la Educación Superior o equivalentes."
+      },
+      {
+        "id": "C",
+        "text": "Título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico o equivalentes."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 24. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 24,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 24
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-25",
+    "topicId": "comun-13",
+    "prompt": "Según lo dispuesto en el ámbito de aplicación del IV Convenio colectivo único para el personal laboral de la Administración General del Estado, el presente Convenio colectivo será de aplicación al personal laboral de la Administración General del Estado y sus organismos autónomos y al personal laboral que preste servicios en:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La Administración de Justicia transferida."
+      },
+      {
+        "id": "B",
+        "text": "La Administración de la Seguridad Social, excluido, en el caso del Instituto de Gestión Sanitaria (INGESA), al personal laboral que presta servicios en las dependencias de los Servicios Centrales y de las Direcciones Territoriales y/o Provinciales de la entidad y percibe sus retribuciones con cargo a los créditos presupuestarios asignados a dichos centros para esta finalidad."
+      },
+      {
+        "id": "C",
+        "text": "El Museo Nacional Centro de Arte Reina Sofía."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 25. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 25,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 25
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-26",
+    "topicId": "comun-13",
+    "prompt": "Según el artículo 7 del IV Convenio colectivo único para el personal laboral de la Administración General del Estado, el grupo profesional:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Agrupa las aptitudes profesionales, titulaciones y contenido general de la prestación laboral."
+      },
+      {
+        "id": "B",
+        "text": "Agrupa el conjunto de titulaciones, cualificaciones, profesiones, oficios y ocupaciones atendiendo a criterios de afinidad de la competencia profesional."
+      },
+      {
+        "id": "C",
+        "text": "Agrupa el contenido concreto de la prestación laboral y establecen el perfil profesional de cada puesto."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 26. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 26,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 26
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-27",
+    "topicId": "comun-13",
+    "prompt": "La Comisión Paritaria prevista en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es el órgano encargado de la negociación en el marco del Convenio colectivo único."
+      },
+      {
+        "id": "B",
+        "text": "Es el órgano delegado de la Comisión negociadora, creado en el ámbito de cada Departamento."
+      },
+      {
+        "id": "C",
+        "text": "Es el órgano máximo de interpretación, vigilancia, seguimiento, estudio y aplicación de lo pactado en el Convenio durante su vigencia."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 27. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 27,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 27
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-comun-2023-30",
+    "topicId": "especifico-17",
+    "prompt": "Las empresas públicas y privadas que empleen a un número de 50 o más trabajadores vendrán obligadas a que de entre ellos, sean trabajadores con discapacidad al menos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "2%"
+      },
+      {
+        "id": "B",
+        "text": "3%"
+      },
+      {
+        "id": "C",
+        "text": "5%"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica (parte común), turno libre, pregunta 30. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo (parte común, compartida por las 14 especialidades M1)",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 30,
+      "label": "M1 Cultura · Parte común · Ministerio de Cultura y Deporte · 2023",
+      "questionNumber": 30
+    },
+    "active": true,
+    "optionCount": 3
+  }
+]

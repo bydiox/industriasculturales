@@ -1,0 +1,1282 @@
+[
+ {
+  "id": "m3-oficial-igualdad-2023-02",
+  "topicId": "comun-11",
+  "prompt": "¿Cuál de estas infracciones disciplinarias no es considerada muy grave?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La prevalencia de la condición de alto cargo para obtener un beneficio indebido para sí o para otro."
+   },
+   {
+    "id": "B",
+    "text": "La negligencia en la custodia de secretos oficiales, declarados así por Ley o clasificados como tales, que sea causa de su publicación o que provoque su difusión o conocimiento indebido."
+   },
+   {
+    "id": "C",
+    "text": "La emisión de informes y la adopción de acuerdos manifiestamente ilegales cuando causen perjuicio a la Administración o a los ciudadanos y no constituyan infracción muy grave."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 2. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 2
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-05",
+  "topicId": "comun-01",
+  "prompt": "Según el art. 9.2 de la Constitución Española:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Corresponde a la Administración General del Estado promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas."
+   },
+   {
+    "id": "B",
+    "text": "Corresponde al gobierno central promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas."
+   },
+   {
+    "id": "C",
+    "text": "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 5. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 5
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-06",
+  "topicId": "comun-02",
+  "prompt": "Según la Constitución Española, es competencia del Rey:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Refrendar los actos del Presidente de Gobierno."
+   },
+   {
+    "id": "B",
+    "text": "Previa autorización del Presidente de Gobierno, declarar la guerra y hacer la paz."
+   },
+   {
+    "id": "C",
+    "text": "El Alto Patronazgo de las Reales Academias."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 6. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 6
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-07",
+  "topicId": "comun-02",
+  "prompt": "Según el artículo 59 de la Constitución, si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer inmediatamente la Regencia:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El padre o la madre del Rey."
+   },
+   {
+    "id": "B",
+    "text": "El pariente de mayor edad más próximo a suceder en la Corona."
+   },
+   {
+    "id": "C",
+    "text": "El Príncipe heredero de la Corona, si fuese mayor de edad."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 7. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 7
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-08",
+  "topicId": "comun-03",
+  "prompt": "Según el artículo 75 de la Constitución Española, las Cámaras pueden delegar en las Comisiones Legislativas Permanentes:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La aprobación de proyectos o proposiciones de ley."
+   },
+   {
+    "id": "B",
+    "text": "La convalidación de decretos-leyes."
+   },
+   {
+    "id": "C",
+    "text": "La aprobación de proyectos de leyes de bases."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 8. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 8
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-09",
+  "topicId": "comun-04",
+  "prompt": "De conformidad con el artículo 97 de la Constitución Española, corresponde dirigir la política interior y exterior, la Administración civil y militar y la defensa del Estado:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Al Jefe del Estado, por corresponderle el mando supremo de las Fuerzas Armadas."
+   },
+   {
+    "id": "B",
+    "text": "A las Cortes Generales, como representación del pueblo español."
+   },
+   {
+    "id": "C",
+    "text": "Al Gobierno."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 9. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 9
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-10",
+  "topicId": "comun-04",
+  "prompt": "El artículo 108 de la Constitución Española establece que el Gobierno responde solidariamente de su gestión política ante:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Jefe del Estado."
+   },
+   {
+    "id": "B",
+    "text": "El Congreso de los Diputados."
+   },
+   {
+    "id": "C",
+    "text": "Las Cortes Generales."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 10. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 10
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-11",
+  "topicId": "comun-05",
+  "prompt": "De acuerdo con el artículo 141 de la Constitución, las provincias:",
+  "options": [
+   {
+    "id": "A",
+    "text": "No tienen personalidad jurídica."
+   },
+   {
+    "id": "B",
+    "text": "Tienen personalidad jurídica plena."
+   },
+   {
+    "id": "C",
+    "text": "Tienen personalidad jurídica propia."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 11. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 11
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-12",
+  "topicId": "comun-06",
+  "prompt": "¿Cuál era el nombre original de la Unión Europea?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Comunidad Europea del Carbón y el Acero."
+   },
+   {
+    "id": "B",
+    "text": "Los Estados Unidos de Europa."
+   },
+   {
+    "id": "C",
+    "text": "La Comunidad Económica Europea."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 12. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 12
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-13",
+  "topicId": "comun-06",
+  "prompt": "¿En qué año se incorpora España a la Unión Europea?",
+  "options": [
+   {
+    "id": "A",
+    "text": "1984."
+   },
+   {
+    "id": "B",
+    "text": "1986."
+   },
+   {
+    "id": "C",
+    "text": "1991."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 13. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 13
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-14",
+  "topicId": "comun-07",
+  "prompt": "Los actos legislativos adoptados por la Unión Europea con arreglo a un procedimiento legislativo especial serán firmados por:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El presidente del Parlamento Europeo."
+   },
+   {
+    "id": "B",
+    "text": "El presidente del Consejo Europeo."
+   },
+   {
+    "id": "C",
+    "text": "El presidente de la institución que los haya adoptado."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 14. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 14
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-15",
+  "topicId": "comun-08",
+  "prompt": "Las fuentes del ordenamiento jurídico español son:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las leyes y los Reales Decretos."
+   },
+   {
+    "id": "B",
+    "text": "Las leyes y las normas reglamentarias con rango de ley."
+   },
+   {
+    "id": "C",
+    "text": "Las leyes, las costumbres y los principios generales del derecho."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 15. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 15
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-16",
+  "topicId": "comun-08",
+  "prompt": "¿En qué casos el derecho español reconoce como fuente la costumbre?",
+  "options": [
+   {
+    "id": "A",
+    "text": "En defecto de ley aplicable, siempre que no sea contraria a la moral o el orden público, y que resulte probada."
+   },
+   {
+    "id": "B",
+    "text": "En ningún caso, pues el derecho español solo reconoce fuentes escritas."
+   },
+   {
+    "id": "C",
+    "text": "Siempre que haya una fuente escrita que reconozca expresamente esa costumbre."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 16. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 16
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-17",
+  "topicId": "comun-09",
+  "prompt": "Indique cuál de los siguientes actos administrativos NO son nulos de pleno derecho:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los que tengan un contenido imposible."
+   },
+   {
+    "id": "B",
+    "text": "Los que lesionan derechos e intereses legítimos."
+   },
+   {
+    "id": "C",
+    "text": "Los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 17. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 17
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-18",
+  "topicId": "comun-10",
+  "prompt": "¿Cuál de los siguientes tipos de contratos no es calificable según la LCSP?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Contrato de concesión de obras."
+   },
+   {
+    "id": "B",
+    "text": "Contrato de gestión de servicios públicos."
+   },
+   {
+    "id": "C",
+    "text": "Contrato de concesión de servicios."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 18. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 18
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-20",
+  "topicId": "comun-11",
+  "prompt": "Los empleados públicos tienen derecho a la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Fuera del horario laboral."
+   },
+   {
+    "id": "B",
+    "text": "En el centro de trabajo."
+   },
+   {
+    "id": "C",
+    "text": "En horario laboral."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 20. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 20
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-21",
+  "topicId": "comun-12",
+  "prompt": "Según el Reglamento aplicable, ¿a quién corresponde proceder a la convocatoria de los procesos selectivos de acceso?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Al Gobierno."
+   },
+   {
+    "id": "B",
+    "text": "Al Departamento al que figuren adscritas las vacantes a cubrir."
+   },
+   {
+    "id": "C",
+    "text": "Al Ministerio de Administraciones Públicas."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 21. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 21
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-22",
+  "topicId": "comun-12",
+  "prompt": "¿Qué porcentaje de plazas debe reservar cada Administración para ser ocupadas por personas con discapacidad intelectual? El porcentaje será no inferior al:",
+  "options": [
+   {
+    "id": "A",
+    "text": "2%."
+   },
+   {
+    "id": "B",
+    "text": "5%."
+   },
+   {
+    "id": "C",
+    "text": "7%."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 22. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 22
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-23",
+  "topicId": "comun-13",
+  "prompt": "Según el IV Convenio único, la Comisión Paritaria se reunirá con carácter ordinario, al menos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Una vez al mes."
+   },
+   {
+    "id": "B",
+    "text": "Una vez cada trimestre."
+   },
+   {
+    "id": "C",
+    "text": "Una vez cada semestre."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 23. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 23
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-24",
+  "topicId": "comun-12",
+  "prompt": "Según el Estatuto Básico del Empleado Público, el acceso al empleo público al que tienen derecho todos los ciudadanos se producirá de acuerdo con los principios constitucionales de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Igualdad, mérito y capacidad."
+   },
+   {
+    "id": "B",
+    "text": "Mérito, capacidad y publicidad."
+   },
+   {
+    "id": "C",
+    "text": "Libertad, igualdad y fraternidad."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 24. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 24
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-25",
+  "topicId": "comun-14",
+  "prompt": "Los Comités de Empresa ostentarán la representación colectiva del personal laboral en los centros de trabajo que tengan:",
+  "options": [
+   {
+    "id": "A",
+    "text": "20 trabajadores y/o trabajadoras."
+   },
+   {
+    "id": "B",
+    "text": "40 trabajadores y/o trabajadoras."
+   },
+   {
+    "id": "C",
+    "text": "50 o más trabajadores y/o trabajadoras."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 25. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 25
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-26",
+  "topicId": "comun-15",
+  "prompt": "Cuando la huelga afecte a empresas encargadas de cualquier clase de servicios públicos, el preaviso del comienzo de huelga al empresario y a la autoridad laboral habrá de ser, al menos, de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "10 días laborables."
+   },
+   {
+    "id": "B",
+    "text": "10 días hábiles."
+   },
+   {
+    "id": "C",
+    "text": "10 días naturales."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 26. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 26
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-34",
+  "topicId": "comun-01",
+  "prompt": "El artículo 16 de la Constitución Española garantiza:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La libertad ideológica, religiosa y de culto."
+   },
+   {
+    "id": "B",
+    "text": "La libertad sexual y religiosa."
+   },
+   {
+    "id": "C",
+    "text": "La obligación del derecho al voto en las elecciones."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 34. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 34
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-35",
+  "topicId": "comun-01",
+  "prompt": "La Constitución Española propugna como valores superiores de su ordenamiento jurídico:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Libertad, la Justicia, la Seguridad y promover el bien de cuantos la integran."
+   },
+   {
+    "id": "B",
+    "text": "La Soberanía, el Sufragio Universal, la Unidad de la Nación española y el derecho a la autonomía de las nacionalidades y regiones que la integran."
+   },
+   {
+    "id": "C",
+    "text": "La Justicia, el Pluralismo Político, la Igualdad, y la Libertad."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 35. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 35
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-71",
+  "topicId": "comun-02",
+  "prompt": "Según la Constitución Española, la Regencia se ejercerá:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Por mandato constitucional y siempre en nombre del Rey."
+   },
+   {
+    "id": "B",
+    "text": "Por Orden Ministerial."
+   },
+   {
+    "id": "C",
+    "text": "Por mandato constitucional y siempre en nombre del pueblo español."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 71. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 71
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-72",
+  "topicId": "comun-03",
+  "prompt": "El artículo 68 de la Constitución Española dispone que la circunscripción electoral es:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La comunidad autónoma."
+   },
+   {
+    "id": "B",
+    "text": "La provincia."
+   },
+   {
+    "id": "C",
+    "text": "La nación."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 72. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 72
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-73",
+  "topicId": "comun-08",
+  "prompt": "De conformidad con la Constitución Española, las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de Ley. Cuando se trata de que el Gobierno elabore y apruebe textos articulados, esta delegación tiene que otorgarse mediante:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Ley Orgánica."
+   },
+   {
+    "id": "B",
+    "text": "Ley de bases."
+   },
+   {
+    "id": "C",
+    "text": "Ley ordinaria."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 73. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 73
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-01",
+  "topicId": "especifico-16",
+  "prompt": "Las Administraciones públicas, en el ámbito de sus respectivas competencias y en aplicación del principio de igualdad entre mujeres y hombres, deberán:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Facilitar la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional."
+   },
+   {
+    "id": "B",
+    "text": "Fomentar la formación en igualdad en el acceso al empleo público no siendo necesario su fomento a lo largo de la carrera profesional."
+   },
+   {
+    "id": "C",
+    "text": "Facilitar la conciliación de la vida personal, familiar y laboral dependiendo de la promoción profesional."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 1. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 1
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-27",
+  "topicId": "especifico-44",
+  "prompt": "¿Quién elabora el anteproyecto de la ley de Presupuestos Generales del Estado?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Según el artículo 134 de la Constitución, los Presupuestos Generales del Estado son una iniciativa legislativa del Gobierno que necesita ser enmendada y aprobada por el Senado y que tienen carácter anual."
+   },
+   {
+    "id": "B",
+    "text": "Según el artículo 134 de la Constitución, los Presupuestos Generales del Estado son una iniciativa legislativa del Gobierno que necesita ser examinada y enmendada por el Congreso y que tienen carácter anual."
+   },
+   {
+    "id": "C",
+    "text": "Los Presupuestos Generales del Estado son una iniciativa legislativa elaborada por el Gobierno que tiene que ser examinada, enmendada y aprobada por las Cortes Generales y que tienen carácter anual."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 27. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 27
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-28",
+  "topicId": "especifico-44",
+  "prompt": "La Constitución Española de 1978 establece que el Gobierno deberá presentar los Presupuestos Generales:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Ante el Congreso de los Diputados al menos tres meses antes de la expiración de los del año anterior."
+   },
+   {
+    "id": "B",
+    "text": "Ante las Cortes Generales al menos cuatro meses antes de la expiración de los del año anterior."
+   },
+   {
+    "id": "C",
+    "text": "Ante las Cortes Generales al menos dos meses antes de la expiración de los del año anterior."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 28. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 28
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-29",
+  "topicId": "especifico-41",
+  "prompt": "Dentro de las competencias y facultades de los Delegados de Prevención se encuentran:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Tener acceso, sin limitaciones, a la información y documentación relativa a las condiciones de trabajo que sean necesarias para el ejercicio de sus funciones y, en particular, a la prevista en los artículos 18 y 23 de esta Ley."
+   },
+   {
+    "id": "B",
+    "text": "Ser informados por el empresario sobre los daños producidos en la salud de los trabajadores una vez que aquél hubiese tenido conocimiento de ellos, pudiendo presentarse, únicamente durante la jornada laboral, en el lugar de los hechos."
+   },
+   {
+    "id": "C",
+    "text": "Recabar del empresario la adopción de medidas de carácter preventivo y para la mejora de los niveles de protección de la seguridad y la salud, pudiendo efectuar propuestas al empresario y al Comité de Seguridad y Salud."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 29. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 29
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-oficial-igualdad-2023-30",
+  "topicId": "especifico-16",
+  "prompt": "¿Cuál es el concepto y contenido de los planes de igualdad de las empresas?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Son un conjunto ordenado de medidas generales que son adoptadas independientemente de la situación de la empresa."
+   },
+   {
+    "id": "B",
+    "text": "Son un conjunto ordenado de medidas, adoptadas después de realizar un diagnóstico de la situación de la empresa."
+   },
+   {
+    "id": "C",
+    "text": "Los planes de igualdad establecidos están sujetos a establecer sistemas eficaces de seguimiento y no están sujetos a evaluaciones de los objetivos fijados."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 30. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE 31/05/2023)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "cuestionario": "https://www.igualdad.gob.es/wp-content/uploads/Cuestionario-M3-CC-Informacion-Libre.pdf",
+   "plantilla": "https://www.igualdad.gob.es/wp-content/uploads/PLANTILLA-DEFINITIVA-M3-LIBRE-CC-INFORMACION.pdf",
+   "numeroOriginal": 30
+  },
+  "active": true,
+  "optionCount": 3
+ }
+]

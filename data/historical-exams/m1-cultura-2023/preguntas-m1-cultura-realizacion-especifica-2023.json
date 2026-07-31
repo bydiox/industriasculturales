@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "m1-cultura-realizacion-2023-31",
+    "topicId": "especifico-06",
+    "prompt": "¿A qué se denominó “paraskenia” en el teatro griego?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A la zona por donde hacían sus entradas los actores y miembros del coro."
+      },
+      {
+        "id": "B",
+        "text": "Al telón que se utilizaba en la parte posterior y servía para ocultar los cambios de vestuario de los actores, después mutó a una pared de ladrillo o piedra."
+      },
+      {
+        "id": "C",
+        "text": "“Paraskenia” es sinónimo de “proskenion” y de esta palabra derivó finalmente la zona que ahora conocemos como “proscenio."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 31. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 31,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 31
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-32",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué es un “coturno”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En la Antigüedad grecorromana, calzado de suela muy gruesa usado por los actores trágicos para aumentar su estatura."
+      },
+      {
+        "id": "B",
+        "text": "Plataforma móvil que, en el teatro griego, servía para que un actor se subiera y, con ayuda del coro, imitase el movimiento de una barca en el mar."
+      },
+      {
+        "id": "C",
+        "text": "Artilugio, a modo de megáfono que iba insertado en las máscaras del teatro grecorromano."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 32. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 32,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 32
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-33",
+    "topicId": "especifico-06",
+    "prompt": "¿En qué consistía el “ditirambo” en Grecia? Señale LA INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se trataba de un coro cantado por unos cincuenta hombres o niños."
+      },
+      {
+        "id": "B",
+        "text": "Fue un precedente del teatro helénico pues ya encontramos la principal característica, lo fundamental del teatro: gente que mira y gente que actúa."
+      },
+      {
+        "id": "C",
+        "text": "“Ditirambo” es sinónimo de “Corifeo”, que se podría definir como el “primer actor” del teatro griego."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 33. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 33,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 33
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-34",
+    "topicId": "especifico-06",
+    "prompt": "¿A qué se denominó “Mansiones” en el teatro medieval?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eran camerinos ambulantes colocados cerca del tablado donde se representaban los Misterios."
+      },
+      {
+        "id": "B",
+        "text": "Eran espacios escénicos ubicados normalmente en plazas, bastante elevados, separados del público por una barrera."
+      },
+      {
+        "id": "C",
+        "text": "Eran las áreas del templo donde se representaban los Misterios."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 34. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 34,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 34
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-35",
+    "topicId": "especifico-31",
+    "prompt": "¿Cuándo se empezó a utilizar el telón “panorama” en Europa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En el Siglo de Oro ya se utilizaba este telón."
+      },
+      {
+        "id": "B",
+        "text": "Se importó por primera vez a París en 1799."
+      },
+      {
+        "id": "C",
+        "text": "Es un telón que apareció en el siglo XX."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 35. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 35,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 35
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-36",
+    "topicId": "especifico-06",
+    "prompt": "¿Quiénes fueron Adolphe Appia y Gordon Craig?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Escenógrafos de principios del siglo XX, que a través de sus estudios aportaron una nueva visión a la composición de las escenografías a base de “sintetismo” geométrico."
+      },
+      {
+        "id": "B",
+        "text": "Escenógrafos del siglo XIX que importaron a España el “teatro povero”."
+      },
+      {
+        "id": "C",
+        "text": "Escenógrafos de finales del siglo XVIII que dieron una nueva visión de la perspectiva teatral, creando espacios naturalistas."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 36. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 36,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 36
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-37",
+    "topicId": "especifico-06",
+    "prompt": "¿Sería correcto afirmar que la filosofía del teatro expresionista: “rechazará toda maquinaria o artificio moderno que distraiga de las líneas de fuerza del espectáculo y por eso el espectador no entre en el mismo”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No sería correcto, es justo lo contrario, la maquinaria y el artificio dotarían al espectáculo de magia añadida al texto."
+      },
+      {
+        "id": "B",
+        "text": "Es correcto, ya que el rechazo al artificio fue la pretensión constante de los expresionistas."
+      },
+      {
+        "id": "C",
+        "text": "No es correcto, los expresionistas afirmaron; “Nuestros decorados no pueden ser esqueléticos, sin fuerza escenográfica, pero tampoco volver al barroco”."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 37. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 37,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 37
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-38",
+    "topicId": "especifico-36",
+    "prompt": "¿El Segundo Apunte o Traspunte evolucionó a la figura del Regidor en la primera mitad del siglo XX?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, el Regidor es una evolución del Primer apunte."
+      },
+      {
+        "id": "B",
+        "text": "Sí, el Avisador y el Segundo apunte o Traspunte, pasaron a ser el Regidor."
+      },
+      {
+        "id": "C",
+        "text": "No, el Segundo Apunte pasó a ser el Apuntador."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 38. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 38,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 38
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-39",
+    "topicId": "especifico-31",
+    "prompt": "Si las vigas son paralelas a la embocadura, ¿a qué tipo de peine nos referimos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Peine “a la inglesa”."
+      },
+      {
+        "id": "B",
+        "text": "Peine “a la alemana”."
+      },
+      {
+        "id": "C",
+        "text": "Peine “a la italiana”."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 39. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 39,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 39
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-40",
+    "topicId": "especifico-45",
+    "prompt": "¿Qué es un “Rider Técnico”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es sinónimo de “libro de regiduría”, recoge todos los aspectos técnicos de una función para su archivo."
+      },
+      {
+        "id": "B",
+        "text": "Es un documento oficial que describe el desarrollo de los cambios técnicos del espectáculo, se entrega a Prevención de Riesgos Laborales."
+      },
+      {
+        "id": "C",
+        "text": "Es un documento que se utiliza en el ámbito artístico e indica todos los requerimientos técnicos que tiene un espectáculo para poder llevarse a cabo de la mejor manera posible."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 40. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 40,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 40
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-41",
+    "topicId": "especifico-32",
+    "prompt": "¿Cuáles son los elementos que componen un tiro manual?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vara, cuerdas, carrete, desembarque, aspa de amarre."
+      },
+      {
+        "id": "B",
+        "text": "Vara, cuerdas, polea de tiro, desembarque, aspa de amarre."
+      },
+      {
+        "id": "C",
+        "text": "Vara, cuerdas, polea de cabeza, desembarque, aspa de amarre."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 41. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 41,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 41
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-42",
+    "topicId": "especifico-31",
+    "prompt": "¿En qué cotas vienen dadas las medidas del ancho y alto de la embocadura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La cota principal es la del máximo de apertura y como dato importante la del fondo del escenario."
+      },
+      {
+        "id": "B",
+        "text": "El ancho y el alto vendrán dados en dos cotas: máxima y mínima."
+      },
+      {
+        "id": "C",
+        "text": "Depende de cómo esté aforada la embocadura."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 42. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 42,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 42
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-43",
+    "topicId": "especifico-32",
+    "prompt": "¿De cuántos tiros está suspendida una vara normalmente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solo puede estar suspendida de cuatro como máximo."
+      },
+      {
+        "id": "B",
+        "text": "De tres: corta, larga y centro."
+      },
+      {
+        "id": "C",
+        "text": "Entre tres y cinco."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 43. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 43,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 43
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-44",
+    "topicId": "especifico-32",
+    "prompt": "¿Cuántos tipos de frenos hay para varas contrapesadas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tres: manual, mecánico y de tractel."
+      },
+      {
+        "id": "B",
+        "text": "Dos: manual y mecánico."
+      },
+      {
+        "id": "C",
+        "text": "Según el fabricante."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 44. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 44,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 44
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-45",
+    "topicId": "especifico-30",
+    "prompt": "En un teatro, ¿pueden existir varias “Galerías de Carga”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí."
+      },
+      {
+        "id": "B",
+        "text": "No."
+      },
+      {
+        "id": "C",
+        "text": "En todos los teatros con tiros contrapesados debe haber varias galerías de carga."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 45. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 45,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 45
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-46",
+    "topicId": "especifico-32",
+    "prompt": "¿Cómo se denomina al torno provisto de un cable de acero que se enrolla al girar y sirve para levantar grandes pesos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hidráulico enrollable."
+      },
+      {
+        "id": "B",
+        "text": "Cabestrante."
+      },
+      {
+        "id": "C",
+        "text": "Torno de maquinaria."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 46. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 46,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 46
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-47",
+    "topicId": "especifico-31",
+    "prompt": "¿Qué es una “Alcahueta”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pieza que se emplea en los extremos de los telones, en forma de pliegue añadido."
+      },
+      {
+        "id": "B",
+        "text": "Bastidor que afora ambos laterales en primer término de la escena."
+      },
+      {
+        "id": "C",
+        "text": "Telón colgado que afora ambos laterales en primer término de la escena."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 47. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 47,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 47
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-48",
+    "topicId": "especifico-31",
+    "prompt": "¿Qué es un rompimiento? Señale la respuesta INCORRECTA:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Telón recortado."
+      },
+      {
+        "id": "B",
+        "text": "Telón corpóreo."
+      },
+      {
+        "id": "C",
+        "text": "Telón cuya finalidad es cubrir el foro."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 48,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 48
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-49",
+    "topicId": "especifico-30",
+    "prompt": "¿El foro se delimita por el espacio que queda desde el último telón o fondo de decorado hasta la pared del torreón contraria a la embocadura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, el foro se llama al último telón del escenario más lejano del público."
+      },
+      {
+        "id": "B",
+        "text": "No, el foro no es solo un espacio. Lo constituyen el último telón más alejado, la pared contraria a la embocadura y el espacio que queda entre ellos."
+      },
+      {
+        "id": "C",
+        "text": "Sí."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 49. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 49,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 49
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-50",
+    "topicId": "especifico-31",
+    "prompt": "¿A qué decorado se le conoce como “decorado armado”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al fundamentalmente pictórico (telones, telas decoradas, lienzos pintados y envarillados para conformar la aparente tridimensionalidad). Se le conoce también como “decorado a la italiana”."
+      },
+      {
+        "id": "B",
+        "text": "Al que está compuesto por objetos tridimensionales definidos en dos grupos: practicables y bastidores entelados. También se le conoce como “decorado a la francesa”."
+      },
+      {
+        "id": "C",
+        "text": "Al decorado que combina los telones pintados con los corpóreos y juntos forman la tridimensionalidad que se necesita. También se le conoce como “decorado a la alemana”."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 50. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 50,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 50
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-51",
+    "topicId": "especifico-33",
+    "prompt": "Cuando hablamos de “Diabla” en iluminación, ¿a qué nos referimos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A un tipo de colocación de focos que ilumina provocando un contraluz muy intenso."
+      },
+      {
+        "id": "B",
+        "text": "Es un reflector constituido por una fila de lámparas de iguales características con lentes de color."
+      },
+      {
+        "id": "C",
+        "text": "Es un reflector constituido por una fila de lámparas de iguales características, conectadas en serie. No llevan lentes."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 51. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 51,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 51
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-52",
+    "topicId": "especifico-33",
+    "prompt": "En iluminación, ¿qué mide la Intensidad Luminosa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mide la cantidad de flujo luminoso recibido por una superficie."
+      },
+      {
+        "id": "B",
+        "text": "Mide la cantidad de flujo luminoso emitido en una sola dirección correcta."
+      },
+      {
+        "id": "C",
+        "text": "Mide la cantidad de luz emitida por una fuente luminosa durante un segundo."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 52. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 52,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 52
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-53",
+    "topicId": "especifico-33",
+    "prompt": "¿Cuántas lámparas tiene un foco Svoboda?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10."
+      },
+      {
+        "id": "B",
+        "text": "8."
+      },
+      {
+        "id": "C",
+        "text": "9."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 53. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 53,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 53
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-54",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué elementos componen la lámpara tipo Par?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reflector Parabólico Aluminizado, Cristal Difusor, Lámpara episcópica."
+      },
+      {
+        "id": "B",
+        "text": "Reflector Parabólico Aluminizado, Lámpara Halógena, Cristal Difusor."
+      },
+      {
+        "id": "C",
+        "text": "Lámpara Halógena, Cristal Difusor, Lente Condensadora."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 54. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 54,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 54
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-55",
+    "topicId": "especifico-33",
+    "prompt": "¿Un recorte puede incorporar una lámpara LED de 200W de potencia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No."
+      },
+      {
+        "id": "B",
+        "text": "Sí."
+      },
+      {
+        "id": "C",
+        "text": "Depende de su rango de control del haz."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 55. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 55,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 55
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-56",
+    "topicId": "especifico-33",
+    "prompt": "¿Sobre qué parámetro eléctrico actúa un DIMMER?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Directamente sobre la intensidad."
+      },
+      {
+        "id": "B",
+        "text": "Sobre la tensión."
+      },
+      {
+        "id": "C",
+        "text": "Sobre la potencia de las lámparas."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 56. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 56,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 56
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-57",
+    "topicId": "especifico-33",
+    "prompt": "¿En qué se diferencia un foco móvil “Spot” de un foco móvil “Beam”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son similares, pero los “Spot” concentran más la luz que los “Beam”."
+      },
+      {
+        "id": "B",
+        "text": "No se diferencian en nada, son marcas diferentes."
+      },
+      {
+        "id": "C",
+        "text": "Los “Beam” son similares a los “Spot” pero concentran mucho más la luz."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 57. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 57,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 57
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-58",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué son las tomas Cetac?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son tomas de corriente industriales especializadas para instalaciones de baja tensión."
+      },
+      {
+        "id": "B",
+        "text": "Son tomas de corriente industriales especializadas para instalaciones de alta tensión."
+      },
+      {
+        "id": "C",
+        "text": "Son tomas de corriente que también se llaman “Schukos”."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 58. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 58,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 58
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-59",
+    "topicId": "especifico-33",
+    "prompt": "¿Cuántos dispositivos cómo máximo puede conectar una sola línea de DMX?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12."
+      },
+      {
+        "id": "B",
+        "text": "32."
+      },
+      {
+        "id": "C",
+        "text": "75."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 59. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 59,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 59
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-60",
+    "topicId": "especifico-33",
+    "prompt": "¿A qué se refiere el término “formato de color CMYK”? Señale la INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Está basado en la sustracción del blanco usando para ello mezclas de pigmentos. Es lo que se conoce como síntesis sustractiva."
+      },
+      {
+        "id": "B",
+        "text": "Se refiere a un espacio de color que reproduce los colores visibles para los humanos mediante la mezcla aditiva de los tres colores primarios."
+      },
+      {
+        "id": "C",
+        "text": "Al formato que se utiliza mayormente para imágenes y elementos gráficos que necesiten ser impresos sobre un medio físico."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 60. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 60,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 60
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-61",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué es un “crossover”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un estabilizador de señales con demasiadas variaciones de nivel, que viene a ser lo mismo que tener demasiada dinámica."
+      },
+      {
+        "id": "B",
+        "text": "Es una serie de filtros electrónicos que sirve para separar las señales en sus componentes de bajos medios y agudos."
+      },
+      {
+        "id": "C",
+        "text": "Es una serie de efectos de modulación, los más utilizados son el Flanger, el Chorus y el Vibrato."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 61. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 61,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 61
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-62",
+    "topicId": "especifico-33",
+    "prompt": "Si queremos que los espectadores NO noten auditivamente la presencia de altavoces y que piensen que el sonido no está reforzado, ¿cómo debemos situarlos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En la izquierda y derecha del espectador, para que el sonido sea envolvente."
+      },
+      {
+        "id": "B",
+        "text": "En un plano lo más horizontal al escenario, así parecerá que el sonido sale de él y por lo tanto es el que emiten directamente los intérpretes."
+      },
+      {
+        "id": "C",
+        "text": "En el plano vertical con respecto al escenario, así el cerebro no distinguirá si el sonido proviene de los intérpretes o de los altavoces."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 62. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 62,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 62
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-63",
+    "topicId": "especifico-33",
+    "prompt": "En una mesa de sonido ¿para qué sirve el pulsador PFL (Prefader Listen)? Señale la INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al pulsarlo se activa un sistema que nos permite poder asociar canales independientemente de su salida."
+      },
+      {
+        "id": "B",
+        "text": "Al pulsarlo podemos escuchar la entrada por la salida de cascos."
+      },
+      {
+        "id": "C",
+        "text": "Envía la señal a un medidor vúmetro de la zona de masters."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 63. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 63,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 63
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-64",
+    "topicId": "especifico-33",
+    "prompt": "Cuando se habla de proyección DIGITAL (DCP), ¿es correcto decir que existen dos relaciones de aspecto: el “FLAT” y el “SCOPE”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, no son términos que se utilicen en proyecciones digitales."
+      },
+      {
+        "id": "B",
+        "text": "Sí, ambos formatos son correctos."
+      },
+      {
+        "id": "C",
+        "text": "El “Scope” sí, equivale al “Cinemascope”, pero “Flat” no es un término de aspecto de una imagen digital."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 64. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 64,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 64
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-65",
+    "topicId": "especifico-32",
+    "prompt": "¿En qué categorías se clasifica, normalmente, la utilería de un espectáculo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enfática, fija y de pequeña dimensión."
+      },
+      {
+        "id": "B",
+        "text": "Enfática y de escena."
+      },
+      {
+        "id": "C",
+        "text": "Enfática, de personaje y de escena."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 65. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 65,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 65
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-66",
+    "topicId": "especifico-32",
+    "prompt": "En Teatro y para un utilero, ¿qué es un aplique?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es solo una lámpara que se coloca en la pared del decorado."
+      },
+      {
+        "id": "B",
+        "text": "Trasto o cualquier pieza o elemento que se “aplique” a la decoración."
+      },
+      {
+        "id": "C",
+        "text": "Añadido de madera que sirve para que el utilero acceda a sitios más alto."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 66. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 66,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 66
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-67",
+    "topicId": "especifico-41",
+    "prompt": "¿Se puede utilizar alginato para hacer un molde de máscara directamente sobre una persona?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, en ningún caso, el alginato podría causar efectos adversos sobre la piel."
+      },
+      {
+        "id": "B",
+        "text": "Sí, los alginatos se componen de una sal soluble de sodio o potasio de algas marinas o alginas."
+      },
+      {
+        "id": "C",
+        "text": "En algunos casos sí, pero nunca debe estar en contacto con la piel directamente, antes tiene que ser protegida."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 67. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 67,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 67
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-68",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es la “tarlatana “en vestuario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un preparado en polvo que se diluye en agua y forma una pasta para modelar botargas."
+      },
+      {
+        "id": "B",
+        "text": "Se trata de un tejido parecido a la muselina, pero con una consistencia más rígida, para dar soporte y volumen. Suele ser de color blanco natural."
+      },
+      {
+        "id": "C",
+        "text": "Es un tipo de cierre sencillo y seguro que se utiliza en diversos tipos de prendas de vestir."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 68. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 68,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 68
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-69",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es cortar una tela al bies?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cortar en el sentido del hilo del tejido."
+      },
+      {
+        "id": "B",
+        "text": "Cortar un tejido al contra del hilo."
+      },
+      {
+        "id": "C",
+        "text": "Cortar un tejido en la diagonal del hilo y la contra."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 69. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 69,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 69
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-70",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es un margen de costura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es el tiempo que hay entre la pasada de vestuario y la apertura de puertas en una función para revisar las prendas que han sido reparadas."
+      },
+      {
+        "id": "B",
+        "text": "Espacio dejado (de medida variable, aproximadamente 2 cms) al trasladar la forma del patrón a la tela entre la línea de costura y el margen de la tela cortada."
+      },
+      {
+        "id": "C",
+        "text": "Es el margen de anchura de una prenda para poder ser retocada si las medidas del actor/actriz cambian durante el tiempo de exhibición de una función."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 70. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 70,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 70
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-71",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué elemento es base para confeccionar un “promontorio” en peluquería?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un sistema de redecillas."
+      },
+      {
+        "id": "B",
+        "text": "Guata reforzada con tela de gasa."
+      },
+      {
+        "id": "C",
+        "text": "Un armazón de alambre."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 71. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 71,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 71
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-72",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué tejido más utilizado es el que llevan las pelucas y posticerías para pegarlas a la piel?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tul."
+      },
+      {
+        "id": "B",
+        "text": "Gasa."
+      },
+      {
+        "id": "C",
+        "text": "Tafetán."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 72. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 72,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 72
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-73",
+    "topicId": "especifico-37",
+    "prompt": "¿Qué debe hacer un Regidor/a durante los Ensayos Avanzados (en el teatro)? Señale la INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decidir junto al Ayudante de Dirección cuándo comienzan los ensayos y a qué hora acabarán."
+      },
+      {
+        "id": "B",
+        "text": "Anotar en el texto todo lo que se refiere a la parte técnica."
+      },
+      {
+        "id": "C",
+        "text": "Avisar a actores y técnicos para que todos estén en su sitio con todo preparado para comenzar con la máxima puntualidad."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 73. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 73,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 73
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-74",
+    "topicId": "especifico-37",
+    "prompt": "¿Los ensayos técnicos serán coordinados por el Regidor/a y por los tiempos que él/ella necesite?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, siempre en colaboración con las demás secciones y sus necesidades."
+      },
+      {
+        "id": "B",
+        "text": "Los ensayos técnicos sí, pero siempre atendiendo a lo que necesite el director del espectáculo."
+      },
+      {
+        "id": "C",
+        "text": "No, es el director de escena quien los coordina."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 74. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 74,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 74
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-75",
+    "topicId": "especifico-37",
+    "prompt": "¿El regidor/a debe mantener el área de trabajo con el grado de orden y limpieza? Señale la INCORRECTA:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El regidor/a es el encargado todo esté dispuesto para la ejecución de la representación."
+      },
+      {
+        "id": "B",
+        "text": "Sí, forma parte de sus capacidades como profesional."
+      },
+      {
+        "id": "C",
+        "text": "No siempre, dependiendo de la envergadura del montaje puede delegar esta función en cada uno de los departamentos."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 75. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 75,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 75
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-76",
+    "topicId": "especifico-37",
+    "prompt": "En una representación de un espectáculo en vivo caracterizado por una incidencia, ¿qué procedimientos aplicará el Regidor/a para gestionar su solución y así continuar o suspender dicha función? Señale la INCORRECTA:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los procedimientos a seguir en ese momento los tiene que determinar la oficina técnica encargada del espectáculo, para eso, el regidor/a tiene obligación de avisar al encargado de dicha oficina que esté de guardia."
+      },
+      {
+        "id": "B",
+        "text": "El regidor/a tiene que identificar la gravedad y analizar sus posibles soluciones en colaboración con los colectivos implicados."
+      },
+      {
+        "id": "C",
+        "text": "El regidor/a debe decidir el tipo de información que se proporciona al público si la función tiene que ser suspendida momentáneamente o definitivamente."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 76. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 76,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 76
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-77",
+    "topicId": "especifico-37",
+    "prompt": "El ayudante de dirección, ¿puede ordenar la suspensión de una función?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, siguiendo órdenes del director de la función."
+      },
+      {
+        "id": "B",
+        "text": "No, quien puede suspender temporal o definitivamente una función es el regidor/a, pero cuenta con la opinión del ayudante de dirección."
+      },
+      {
+        "id": "C",
+        "text": "No, la última palabra para suspender la tiene el encargado de la oficina técnica que esté de guardia."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 77. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 77,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 77
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-78",
+    "topicId": "especifico-06",
+    "prompt": "¿La Labanotación es un tipo de notación para danza?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, utiliza un cuadro de simbologías para ubicar los movimientos de los bailarines."
+      },
+      {
+        "id": "B",
+        "text": "Sí, pero no es específico para danza y movimiento."
+      },
+      {
+        "id": "C",
+        "text": "No, es un sistema de notación para leer partituras."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 78. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 78,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 78
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-79",
+    "topicId": "especifico-36",
+    "prompt": "¿El Regidor/a, por definición, es el responsable técnico y artístico de cualquier obra de teatro en la que esté implicado y se esté ejecutando?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, como responsable técnico estará el encargado de la Oficina Técnica que esté ese día en la función."
+      },
+      {
+        "id": "B",
+        "text": "No, como responsable artístico estará el Ayudante de Dirección de la obra de teatro."
+      },
+      {
+        "id": "C",
+        "text": "Sí, ya que es el encargado de coordinar a técnicos y actores."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 79. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 79,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 79
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-80",
+    "topicId": "especifico-37",
+    "prompt": "El jefe/a de cada sección tiene potestad para elegir a los técnicos para servir la representación, pero ¿el Regidor/a puede pedir que se sustituya a un técnico por otro de la misma sección?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, no todos los técnicos son iguales y si alguno no realizase su trabajo como el Regidor/a necesita, podría pedir su sustitución."
+      },
+      {
+        "id": "B",
+        "text": "No, la asignación de tareas del jefe/a de sección no puede cambiarse."
+      },
+      {
+        "id": "C",
+        "text": "No, para eso se necesitaría la aprobación de la Oficina Técnica con margen de tiempo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 80. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 80,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 80
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-81",
+    "topicId": "especifico-37",
+    "prompt": "¿Quién marca la duración de los saludos al final de la función?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los propios actores."
+      },
+      {
+        "id": "B",
+        "text": "El regidor/a en base a la cantidad de aplausos del público."
+      },
+      {
+        "id": "C",
+        "text": "El Ayudante de Dirección que ha asistido a la representación."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 81. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 81,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 81
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-82",
+    "topicId": "especifico-37",
+    "prompt": "Si un actor o actriz no llega al teatro y se sabe que no llegará, pero avisa con dos horas de antelación ¿quién pensará qué se puede hacer e intentará llegar a una solución? Señale la INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "El/La Ayudante de Dirección."
+      },
+      {
+        "id": "B",
+        "text": "El/la Ayudante de Dirección que contará también con la opinión del Regidor/a."
+      },
+      {
+        "id": "C",
+        "text": "Producción y Gerencia."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 82. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 82,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 82
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-83",
+    "topicId": "especifico-37",
+    "prompt": "Marque la secuencia adecuada en el caso de tener suspender momentáneamente una función.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bajar el telón, avisar los actores del escenario, avisar a sala, dar luz de sala, informar al público de la incidencia."
+      },
+      {
+        "id": "B",
+        "text": "Avisar a los actores del escenario, bajar el telón, informar al público de la incidencia, dar luz de sala."
+      },
+      {
+        "id": "C",
+        "text": "Avisar a los actores del escenario, bajar el telón, dar luz de sala, informar al público de la incidencia."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 83. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 83,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 83
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-84",
+    "topicId": "especifico-37",
+    "prompt": "¿Cuándo se da por terminada una pasada general del espectáculo antes de abrir las puertas del local de exhibición?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuando cada jefe de sección recibe confirmación de pasada hecha."
+      },
+      {
+        "id": "B",
+        "text": "Media hora antes de abrir a público."
+      },
+      {
+        "id": "C",
+        "text": "Cuando el regidor/a recibe confirmación de todas las secciones sobre la finalización de la pasada."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 84. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 84,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 84
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-85",
+    "topicId": "especifico-37",
+    "prompt": "¿Quién da los avisos a público y la orden de que se puede comenzar la representación cuando se recibe en el teatro a una compañía invitada?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Regidor/a de la compañía en colaboración con el jefe/a de sala y el Regidor/a de Paredes."
+      },
+      {
+        "id": "B",
+        "text": "El Regidor/a de Paredes, anfitrión de la compañía invitada."
+      },
+      {
+        "id": "C",
+        "text": "El Regidor/a de la compañía directamente."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 85. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 85,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 85
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-86",
+    "topicId": "especifico-37",
+    "prompt": "¿Existe un Regidor/a llamado “Regidor de Espacio”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, es aquel que realiza su trabajo en un espacio distinto al habitual."
+      },
+      {
+        "id": "B",
+        "text": "No, Un Regidor/a de Espacio es el nombre que recibe también el Regidor/a de Paredes."
+      },
+      {
+        "id": "C",
+        "text": "No existe el “Regidor de Espacio”."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 86. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 86,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 86
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-87",
+    "topicId": "especifico-41",
+    "prompt": "¿Qué implicación tiene el regidor/a con la normativa en materia de seguridad? Señale la INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conoce la normativa, pero sigue las directrices de la oficina técnica, ya que este, no es su campo directo."
+      },
+      {
+        "id": "B",
+        "text": "La identifica como norma vigente aplicable, valora los riesgos inherentes y determina las medidas compensatorias más adecuadas para su solución."
+      },
+      {
+        "id": "C",
+        "text": "Aplica un plan de evacuación de público y trabajadores, teniendo en cuenta las responsabilidades específicas del ámbito de la regiduría."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 87. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 87,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 87
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-88",
+    "topicId": "especifico-41",
+    "prompt": "Tal y como se establece en el Anexo III del Real Decreto 485/1997, sobre señalización de seguridad y salud en el trabajo, ¿cómo deben ser las señales de señalización sobre la obligación de uso de equipos de protección individual?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deben tener forma redonda, con el pictograma blanco sobre fondo azul (que cubrirá como mínimo el 50% de la superficie de la señal)."
+      },
+      {
+        "id": "B",
+        "text": "Deben tener forma triangular con el pictograma negro sobre fondo amarillo (que cubrirá como mínimo el 50% de la superficie de la señal)."
+      },
+      {
+        "id": "C",
+        "text": "Deben tener forma redonda con el pictograma rojo sobre fondo blanco (que cubrirá como mínimo el 50% de la superficie de la señal)."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 88. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 88,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 88
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-89",
+    "topicId": "especifico-41",
+    "prompt": "¿Cuándo deben utilizarse los equipos de protección individual?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Siempre, son los equipos más eficaces en el trabajo."
+      },
+      {
+        "id": "B",
+        "text": "Cuando existan riesgos para la salud y la seguridad, aunque los medios de protección colectiva estén implantados y sean eficaces."
+      },
+      {
+        "id": "C",
+        "text": "Cuando existan riesgos para la salud y seguridad que no hayan podido evitarse o limitarse suficientemente por medios técnicos de protección colectiva o mediante medidas, métodos y procedimientos de organización del trabajo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 89. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 89,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 89
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-90",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué unidades de producción públicas adoptan diferentes formas de funcionamiento u organización?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Centros de Creación y Productoras de organización pública."
+      },
+      {
+        "id": "B",
+        "text": "Centros de Creación, Compañías y Teatros o Equipamientos Escénicos Públicos."
+      },
+      {
+        "id": "C",
+        "text": "Los Teatros Públicos (estatales, autonómicos o municipales) y las Compañías que dependen de ellos."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 90. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 90,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 90
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-91",
+    "topicId": "especifico-41",
+    "prompt": "La señalización sobre posibles riesgos en el trabajo, ¿constituye en sí el medio suficiente de protección y prevención?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, una debida señalización advierte debidamente de los riesgos al trabajador, además es de obligado cumplimiento."
+      },
+      {
+        "id": "B",
+        "text": "No, complementa la acción preventiva evitando los accidentes al actuar sobre la conducta humana."
+      },
+      {
+        "id": "C",
+        "text": "En casi todos los casos sí, depende del riesgo en sí."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 91. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 91,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 91
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-92",
+    "topicId": "especifico-36",
+    "prompt": "¿Cómo se denominaba a la persona que seguía el curso de los ensayos y representaciones, interviniendo lo necesario ante los fallos de los actores en el teatro griego?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dimotikós"
+      },
+      {
+        "id": "B",
+        "text": "Consueta"
+      },
+      {
+        "id": "C",
+        "text": "Avisador"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 92. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 92,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 92
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-93",
+    "topicId": "especifico-37",
+    "prompt": "¿Qué listados debe conocer y manejar el regidor/a para realizar la pasada previa al inicio de los ensayos y funciones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El de pasada y el técnico."
+      },
+      {
+        "id": "B",
+        "text": "El de cambios y el de actores y sus camerinos."
+      },
+      {
+        "id": "C",
+        "text": "El de pasada, el de cambios y el técnico."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 93. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 93,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 93
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-94",
+    "topicId": "especifico-37",
+    "prompt": "¿Es conveniente añadir el tiempo de entrada y salida de una memoria junto a su número en el texto del regidor/a?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, esto sería saturar el texto del regidor/a, no sería operativo y podría distraer."
+      },
+      {
+        "id": "B",
+        "text": "Sí, este dato permite ajustar su ejecución."
+      },
+      {
+        "id": "C",
+        "text": "Es irrelevante para el regidor/a, ya que esa información puede proporcionarla el operador de luces en el momento de la ejecución."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 94. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 94,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 94
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-95",
+    "topicId": "especifico-06",
+    "prompt": "En Zarzuela, ¿qué es un Ensayo “a la italiana”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un ensayo donde se pasa todo el texto de la Zarzuela y las posiciones de los intérpretes."
+      },
+      {
+        "id": "B",
+        "text": "Es un ensayo rápido en el que participan los cantantes y el maestro repetidor."
+      },
+      {
+        "id": "C",
+        "text": "Es un ensayo musical en el que los cantantes se sitúan sentados sobre el escenario y pasan la pieza acompañados de toda la orquesta."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 95. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 95,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 95
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-96",
+    "topicId": "especifico-37",
+    "prompt": "¿La tablilla diaria, debe ir firmada por la persona responsable de elaborarla?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí."
+      },
+      {
+        "id": "B",
+        "text": "No es necesario."
+      },
+      {
+        "id": "C",
+        "text": "Es irrelevante, ya que es un documento oficial."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 96. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 96,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 96
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-97",
+    "topicId": "especifico-01",
+    "prompt": "En un teatro público, ¿qué departamento es el encargado de asignar los camerinos a los actores?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El regidor/a, es parte de su responsabilidad."
+      },
+      {
+        "id": "B",
+        "text": "El departamento de Producción."
+      },
+      {
+        "id": "C",
+        "text": "La Oficina Técnica."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 97. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 97,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 97
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-98",
+    "topicId": "especifico-37",
+    "prompt": "¿Es tarea del Regidor/a marcar u ordenar marcar las zonas de tránsito de actores y técnicos entre cajas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, en los ensayos avanzados corresponde al departamento de utilería que todos los tránsitos estén en condiciones seguras."
+      },
+      {
+        "id": "B",
+        "text": "El Regidor/a solo supervisará las marcas de los elementos escenográficos y los focos."
+      },
+      {
+        "id": "C",
+        "text": "Sí, es tarea del Regidor/a que el escenario y los hombros estén marcados convenientemente para que el espacio sea lo más seguro posible."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 98. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 98,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 98
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-realizacion-2023-99",
+    "topicId": "especifico-37",
+    "prompt": "El regidor revisará personalmente el estado de limpieza del escenario. Señale la respuesta INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Con un tiempo de una hora y media antes de comenzar la función será suficiente."
+      },
+      {
+        "id": "B",
+        "text": "Podrá pedir una última limpieza en el último momento hábil."
+      },
+      {
+        "id": "C",
+        "text": "Es tarea imprescindible del regidor/a junto a la revisión de las zonas de paso del escenario."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 99. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 99,
+      "label": "M1 Cultura · Realización de Proyectos Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 99
+    },
+    "active": true,
+    "optionCount": 3
+  }
+]

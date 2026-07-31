@@ -1,0 +1,1048 @@
+{
+ "schemaVersion": 1,
+ "note": "Cola de importación. NO es laws-manifest.json: el validador exige que cada ley del manifiesto tenga ya su HTML en data/laws/. Mover aquí -> manifiesto solo tras importar.",
+ "laws": [
+  {
+   "lawId": "ce-1978",
+   "slug": "ce-1978",
+   "shortTitle": "Constitución Española",
+   "title": "Constitución Española de 1978",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+   "verification": "verified-in-session",
+   "examWeight": 16.22,
+   "file": "ce-1978.html",
+   "imported": true,
+   "topics": [
+    "comun-01",
+    "comun-02",
+    "comun-03",
+    "comun-04",
+    "comun-05",
+    "comun-08",
+    "comun-15",
+    "espec-15"
+   ],
+   "boeId": "BOE-A-1978-31229"
+  },
+  {
+   "lawId": "convenio-iv",
+   "slug": "convenio-iv",
+   "shortTitle": "IV Convenio Único",
+   "title": "Resolución de 13 de mayo de 2019, de la Dirección General de Trabajo, por la que se registra y publica el IV Convenio colectivo único para el personal laboral de la AGE",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414",
+   "verification": "verified-in-session",
+   "examWeight": 6.08,
+   "file": "convenio-iv.html",
+   "imported": true,
+   "topics": [
+    "comun-13"
+   ],
+   "boeId": "BOE-A-2019-7414"
+  },
+  {
+   "lawId": "tfue",
+   "slug": "tfue",
+   "shortTitle": "TFUE",
+   "title": "Tratado de Funcionamiento de la Unión Europea",
+   "officialUrl": null,
+   "verification": "needs-source",
+   "examWeight": 5.34,
+   "file": "tfue.html",
+   "imported": false,
+   "topics": [
+    "comun-06",
+    "comun-07"
+   ]
+  },
+  {
+   "lawId": "rd-2491-1996",
+   "slug": "rd-2491-1996",
+   "shortTitle": "RD 2491/1996",
+   "title": "Real Decreto 2491/1996, de 5 de diciembre, estructura y funciones del INAEM",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-28432",
+   "verification": "verified-in-session",
+   "examWeight": 1.49,
+   "file": "rd-2491-1996.html",
+   "imported": true,
+   "topics": [
+    "espec-01",
+    "espec-02",
+    "espec-03",
+    "espec-04",
+    "espec-05"
+   ],
+   "boeId": "BOE-A-1996-28432"
+  },
+  {
+   "lawId": "ley-9-2017",
+   "slug": "ley-9-2017",
+   "shortTitle": "Ley 9/2017",
+   "title": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+   "officialUrl": "https://www.boe.es/eli/es/l/2017/11/08/9/con",
+   "verification": "eli-derived",
+   "examWeight": 4.59,
+   "file": "ley-9-2017.html",
+   "imported": true,
+   "topics": [
+    "comun-10",
+    "espec-45"
+   ],
+   "boeId": "BOE-A-2017-12902"
+  },
+  {
+   "lawId": "ley-39-2015",
+   "slug": "ley-39-2015",
+   "shortTitle": "Ley 39/2015",
+   "title": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+   "officialUrl": "https://www.boe.es/eli/es/l/2015/10/01/39/con",
+   "verification": "eli-derived",
+   "examWeight": 4.31,
+   "file": "ley-39-2015.html",
+   "imported": true,
+   "topics": [
+    "comun-09",
+    "espec-43"
+   ],
+   "boeId": "BOE-A-2015-10565"
+  },
+  {
+   "lawId": "rdleg-2-2015",
+   "slug": "rdleg-2-2015",
+   "shortTitle": "RDLeg 2/2015",
+   "title": "Real Decreto Legislativo 2/2015, de 23 de octubre, Estatuto de los Trabajadores",
+   "officialUrl": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con",
+   "verification": "eli-derived",
+   "examWeight": 3.31,
+   "file": "rdleg-2-2015.html",
+   "imported": true,
+   "topics": [
+    "comun-11",
+    "comun-14",
+    "espec-41"
+   ],
+   "boeId": "BOE-A-2015-11430"
+  },
+  {
+   "lawId": "ley-40-2015",
+   "slug": "ley-40-2015",
+   "shortTitle": "Ley 40/2015",
+   "title": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+   "officialUrl": "https://www.boe.es/eli/es/l/2015/10/01/40/con",
+   "verification": "eli-derived",
+   "examWeight": 2.95,
+   "file": "ley-40-2015.html",
+   "imported": true,
+   "topics": [
+    "comun-05",
+    "espec-43",
+    "espec-44"
+   ],
+   "boeId": "BOE-A-2015-10566"
+  },
+  {
+   "lawId": "rdleg-5-2015",
+   "slug": "rdleg-5-2015",
+   "shortTitle": "RDLeg 5/2015",
+   "title": "Real Decreto Legislativo 5/2015, de 30 de octubre, TREBEP",
+   "officialUrl": "https://www.boe.es/eli/es/rdlg/2015/10/30/5/con",
+   "verification": "eli-derived",
+   "examWeight": 2.14,
+   "file": "rdleg-5-2015.html",
+   "imported": true,
+   "topics": [
+    "comun-11",
+    "comun-12"
+   ],
+   "boeId": "BOE-A-2015-11719"
+  },
+  {
+   "lawId": "ley-31-1995",
+   "slug": "ley-31-1995",
+   "shortTitle": "Ley 31/1995",
+   "title": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+   "officialUrl": "https://www.boe.es/eli/es/l/1995/11/08/31/con",
+   "verification": "eli-derived",
+   "examWeight": 1.9,
+   "file": "ley-31-1995.html",
+   "imported": true,
+   "topics": [
+    "espec-41",
+    "espec-42"
+   ],
+   "boeId": "BOE-A-1995-24292"
+  },
+  {
+   "lawId": "ley-50-1997",
+   "slug": "ley-50-1997",
+   "shortTitle": "Ley 50/1997",
+   "title": "Ley 50/1997, de 27 de noviembre, del Gobierno",
+   "officialUrl": "https://www.boe.es/eli/es/l/1997/11/27/50/con",
+   "verification": "eli-derived",
+   "examWeight": 1.8,
+   "file": "ley-50-1997.html",
+   "imported": true,
+   "topics": [
+    "comun-04"
+   ],
+   "boeId": "BOE-A-1997-25336"
+  },
+  {
+   "lawId": "lo-11-1985",
+   "slug": "lo-11-1985",
+   "shortTitle": "LO 11/1985",
+   "title": "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical",
+   "officialUrl": "https://www.boe.es/eli/es/lo/1985/08/02/11/con",
+   "verification": "eli-derived",
+   "examWeight": 1.74,
+   "file": "lo-11-1985.html",
+   "imported": true,
+   "topics": [
+    "comun-14"
+   ],
+   "boeId": "BOE-A-1985-16660"
+  },
+  {
+   "lawId": "tue",
+   "slug": "tue",
+   "shortTitle": "TUE",
+   "title": "Tratado de la Unión Europea",
+   "officialUrl": null,
+   "verification": "needs-source",
+   "examWeight": 1.4,
+   "file": "tue.html",
+   "imported": false,
+   "topics": [
+    "comun-06"
+   ]
+  },
+  {
+   "lawId": "rdl-17-1977",
+   "slug": "rdl-17-1977",
+   "shortTitle": "RDL 17/1977",
+   "title": "Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo",
+   "officialUrl": "https://www.boe.es/eli/es/rdl/1977/03/04/17/con",
+   "verification": "eli-derived",
+   "examWeight": 1.32,
+   "file": "rdl-17-1977.html",
+   "imported": true,
+   "topics": [
+    "comun-15"
+   ],
+   "boeId": "BOE-A-1977-6061"
+  },
+  {
+   "lawId": "rd-314-2006",
+   "slug": "rd-314-2006",
+   "shortTitle": "RD 314/2006",
+   "title": "Real Decreto 314/2006, de 17 de marzo, Código Técnico de la Edificación",
+   "officialUrl": "https://www.boe.es/eli/es/rd/2006/03/17/314/con",
+   "verification": "eli-derived",
+   "examWeight": 0.42,
+   "file": "rd-314-2006.html",
+   "imported": true,
+   "topics": [
+    "espec-30"
+   ],
+   "boeId": "BOE-A-2006-5515"
+  },
+  {
+   "lawId": "ley-12-1989",
+   "slug": "ley-12-1989",
+   "shortTitle": "Ley 12/1989",
+   "title": "Ley 12/1989, de 9 de mayo, de la Función Estadística Pública",
+   "officialUrl": "https://www.boe.es/eli/es/l/1989/05/09/12/con",
+   "verification": "eli-derived",
+   "examWeight": 1.02,
+   "file": "ley-12-1989.html",
+   "imported": true,
+   "topics": [
+    "espec-20"
+   ],
+   "boeId": "BOE-A-1989-10767"
+  },
+  {
+   "lawId": "ley-49-2002",
+   "slug": "ley-49-2002",
+   "shortTitle": "Ley 49/2002",
+   "title": "Ley 49/2002, de 23 de diciembre, de régimen fiscal de entidades sin fines lucrativos y mecenazgo",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-25039",
+   "verification": "verified-in-session",
+   "examWeight": 0.85,
+   "file": "ley-49-2002.html",
+   "imported": true,
+   "topics": [
+    "espec-14",
+    "espec-26"
+   ],
+   "boeId": "BOE-A-2002-25039"
+  },
+  {
+   "lawId": "rd-607-2026",
+   "slug": "rd-607-2026",
+   "shortTitle": "RD 607/2026",
+   "title": "Real Decreto 607/2026, de 22 de julio, nueva relación laboral especial (deroga RD 1435/1985)",
+   "officialUrl": "https://www.boe.es/eli/es/rd/2026/07/22/607",
+   "verification": "eli-derived",
+   "examWeight": 0.83,
+   "file": "rd-607-2026.html",
+   "imported": true,
+   "topics": [
+    "espec-12",
+    "espec-45"
+   ],
+   "boeId": "BOE-A-2026-16173"
+  },
+  {
+   "lawId": "ley-53-1984",
+   "slug": "ley-53-1984",
+   "shortTitle": "Ley 53/1984",
+   "title": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades",
+   "officialUrl": "https://www.boe.es/eli/es/l/1984/12/26/53/con",
+   "verification": "eli-derived",
+   "examWeight": 0.82,
+   "file": "ley-53-1984.html",
+   "imported": true,
+   "topics": [
+    "comun-12"
+   ],
+   "boeId": "BOE-A-1985-151"
+  },
+  {
+   "lawId": "rd-364-1995",
+   "slug": "rd-364-1995",
+   "shortTitle": "RD 364/1995",
+   "title": "Real Decreto 364/1995, de 10 de marzo, Reglamento General de Ingreso",
+   "officialUrl": "https://www.boe.es/eli/es/rd/1995/03/10/364/con",
+   "verification": "eli-derived",
+   "examWeight": 0.82,
+   "file": "rd-364-1995.html",
+   "imported": true,
+   "topics": [
+    "comun-12"
+   ],
+   "boeId": "BOE-A-1995-8729"
+  },
+  {
+   "lawId": "rd-1435-1985",
+   "slug": "rd-1435-1985",
+   "shortTitle": "RD 1435/1985",
+   "title": "Real Decreto 1435/1985, de 1 de agosto, relación laboral especial de personas artistas",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-17303",
+   "verification": "verified-in-session",
+   "examWeight": 0.51,
+   "file": "rd-1435-1985.html",
+   "imported": true,
+   "topics": [
+    "espec-12"
+   ],
+   "boeId": "BOE-A-1985-17303"
+  },
+  {
+   "lawId": "rdl-6-2023",
+   "slug": "rdl-6-2023",
+   "shortTitle": "RDL 6/2023",
+   "title": "Real Decreto-ley 6/2023, de 19 de diciembre (reforma de la Ley 49/2002)",
+   "officialUrl": "https://www.boe.es/eli/es/rdl/2023/12/19/6/con",
+   "verification": "eli-derived",
+   "examWeight": 0.51,
+   "file": "rdl-6-2023.html",
+   "imported": true,
+   "topics": [
+    "espec-26"
+   ],
+   "boeId": "BOE-A-2023-25758"
+  },
+  {
+   "lawId": "ley-27-2014",
+   "slug": "ley-27-2014",
+   "shortTitle": "Ley 27/2014",
+   "title": "Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades",
+   "officialUrl": "https://www.boe.es/eli/es/l/2014/11/27/27/con",
+   "verification": "eli-derived",
+   "examWeight": 0.51,
+   "file": "ley-27-2014.html",
+   "imported": true,
+   "topics": [
+    "espec-26"
+   ],
+   "boeId": "BOE-A-2014-12328"
+  },
+  {
+   "lawId": "rdleg-1-1996",
+   "slug": "rdleg-1-1996",
+   "shortTitle": "RDLeg 1/1996",
+   "title": "Real Decreto Legislativo 1/1996, de 12 de abril, TRLPI",
+   "officialUrl": "https://www.boe.es/eli/es/rdlg/1996/04/12/1/con",
+   "verification": "eli-derived",
+   "examWeight": 0.51,
+   "file": "rdleg-1-1996.html",
+   "imported": true,
+   "topics": [
+    "espec-28"
+   ],
+   "boeId": "BOE-A-1996-8930"
+  },
+  {
+   "lawId": "rdl-24-2021",
+   "slug": "rdl-24-2021",
+   "shortTitle": "RDL 24/2021",
+   "title": "Real Decreto-ley 24/2021, de 2 de noviembre (Directiva 2019/790, mercado único digital)",
+   "officialUrl": "https://www.boe.es/eli/es/rdl/2021/11/02/24/con",
+   "verification": "eli-derived",
+   "examWeight": 0.51,
+   "file": "rdl-24-2021.html",
+   "imported": true,
+   "topics": [
+    "espec-28"
+   ],
+   "boeId": "BOE-A-2021-17910"
+  },
+  {
+   "lawId": "reg-ue-2024-1689",
+   "slug": "reg-ue-2024-1689",
+   "shortTitle": "Reglamento (UE) 2024/1689",
+   "title": "Reglamento (UE) 2024/1689, de Inteligencia Artificial",
+   "officialUrl": null,
+   "verification": "needs-source",
+   "examWeight": 0.51,
+   "file": "reg-ue-2024-1689.html",
+   "imported": false,
+   "topics": [
+    "espec-28"
+   ]
+  },
+  {
+   "lawId": "ley-47-2003",
+   "slug": "ley-47-2003",
+   "shortTitle": "Ley 47/2003",
+   "title": "Ley 47/2003, de 26 de noviembre, General Presupuestaria",
+   "officialUrl": "https://www.boe.es/eli/es/l/2003/11/26/47/con",
+   "verification": "eli-derived",
+   "examWeight": 0.51,
+   "file": "ley-47-2003.html",
+   "imported": true,
+   "topics": [
+    "espec-44"
+   ],
+   "boeId": "BOE-A-2003-21614"
+  },
+  {
+   "lawId": "ley-38-2003",
+   "slug": "ley-38-2003",
+   "shortTitle": "Ley 38/2003",
+   "title": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+   "officialUrl": "https://www.boe.es/eli/es/l/2003/11/17/38/con",
+   "verification": "eli-derived",
+   "examWeight": 0.51,
+   "file": "ley-38-2003.html",
+   "imported": true,
+   "topics": [
+    "espec-44"
+   ],
+   "boeId": "BOE-A-2003-20977"
+  },
+  {
+   "lawId": "ley-16-1985",
+   "slug": "ley-16-1985",
+   "shortTitle": "Ley 16/1985",
+   "title": "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+   "officialUrl": "https://www.boe.es/eli/es/l/1985/06/25/16/con",
+   "verification": "eli-derived",
+   "examWeight": 0.41,
+   "file": "ley-16-1985.html",
+   "imported": true,
+   "topics": [
+    "espec-11"
+   ],
+   "boeId": "BOE-A-1985-12534"
+  },
+  {
+   "lawId": "ley-10-2015",
+   "slug": "ley-10-2015",
+   "shortTitle": "Ley 10/2015",
+   "title": "Ley 10/2015, de 26 de mayo, para la salvaguardia del Patrimonio Cultural Inmaterial",
+   "officialUrl": "https://www.boe.es/eli/es/l/2015/05/26/10/con",
+   "verification": "eli-derived",
+   "examWeight": 0.41,
+   "file": "ley-10-2015.html",
+   "imported": true,
+   "topics": [
+    "espec-11"
+   ],
+   "boeId": "BOE-A-2015-5794"
+  },
+  {
+   "lawId": "rd-620-1987",
+   "slug": "rd-620-1987",
+   "shortTitle": "RD 620/1987",
+   "title": "Real Decreto 620/1987, de 10 de abril, Reglamento de Museos de Titularidad Estatal",
+   "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-11621",
+   "verification": "verified-in-session",
+   "examWeight": 0.41,
+   "file": "rd-620-1987.html",
+   "imported": true,
+   "topics": [
+    "espec-11"
+   ],
+   "boeId": "BOE-A-1987-11621"
+  },
+  {
+   "lawId": "unesco-2003",
+   "slug": "unesco-2003",
+   "shortTitle": "UNESCO 2003",
+   "title": "Convención UNESCO para la salvaguardia del patrimonio cultural inmaterial",
+   "officialUrl": null,
+   "verification": "needs-source",
+   "examWeight": 0.41,
+   "file": "unesco-2003.html",
+   "imported": false,
+   "topics": [
+    "espec-11"
+   ]
+  },
+  {
+   "lawId": "ley-50-2002",
+   "slug": "ley-50-2002",
+   "shortTitle": "Ley 50/2002",
+   "title": "Ley 50/2002, de 26 de diciembre, de Fundaciones",
+   "officialUrl": "https://www.boe.es/eli/es/l/2002/12/26/50/con",
+   "verification": "eli-derived",
+   "examWeight": 0.34,
+   "file": "ley-50-2002.html",
+   "imported": true,
+   "topics": [
+    "espec-14"
+   ],
+   "boeId": "BOE-A-2002-25180"
+  },
+  {
+   "lawId": "lo-1-2002",
+   "slug": "lo-1-2002",
+   "shortTitle": "LO 1/2002",
+   "title": "Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación",
+   "officialUrl": "https://www.boe.es/eli/es/lo/2002/03/22/1/con",
+   "verification": "eli-derived",
+   "examWeight": 0.34,
+   "file": "lo-1-2002.html",
+   "imported": true,
+   "topics": [
+    "espec-14"
+   ],
+   "boeId": "BOE-A-2002-5852"
+  },
+  {
+   "lawId": "unesco-2005",
+   "slug": "unesco-2005",
+   "shortTitle": "UNESCO 2005",
+   "title": "Convención UNESCO sobre la diversidad de las expresiones culturales",
+   "officialUrl": null,
+   "verification": "needs-source",
+   "examWeight": 0.34,
+   "file": "unesco-2005.html",
+   "imported": false,
+   "topics": [
+    "espec-15"
+   ]
+  },
+  {
+   "lawId": "ley-7-2021",
+   "slug": "ley-7-2021",
+   "shortTitle": "Ley 7/2021",
+   "title": "Ley 7/2021, de 20 de mayo, de cambio climático y transición energética",
+   "officialUrl": "https://www.boe.es/eli/es/l/2021/05/20/7/con",
+   "verification": "eli-derived",
+   "examWeight": 0.34,
+   "file": "ley-7-2021.html",
+   "imported": true,
+   "topics": [
+    "espec-15"
+   ],
+   "boeId": "BOE-A-2021-8447"
+  },
+  {
+   "lawId": "rd-39-1997",
+   "slug": "rd-39-1997",
+   "shortTitle": "RD 39/1997",
+   "title": "Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención",
+   "officialUrl": "https://www.boe.es/eli/es/rd/1997/01/17/39/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "rd-39-1997.html",
+   "imported": true,
+   "topics": [
+    "espec-41"
+   ],
+   "boeId": "BOE-A-1997-1853"
+  },
+  {
+   "lawId": "rd-2177-2004",
+   "slug": "rd-2177-2004",
+   "shortTitle": "RD 2177/2004",
+   "title": "Real Decreto 2177/2004, de 12 de noviembre, trabajos temporales en altura",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-19311",
+   "verification": "verified-in-session",
+   "examWeight": 0.25,
+   "file": "rd-2177-2004.html",
+   "imported": false,
+   "topics": [
+    "espec-41"
+   ],
+   "note": "Norma modificativa del RD 1215/1997; su contenido consta en el consolidado de aquel."
+  },
+  {
+   "lawId": "rd-486-1997",
+   "slug": "rd-486-1997",
+   "shortTitle": "RD 486/1997",
+   "title": "Real Decreto 486/1997, de 14 de abril, lugares de trabajo",
+   "officialUrl": "https://www.boe.es/eli/es/rd/1997/04/14/486/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "rd-486-1997.html",
+   "imported": true,
+   "topics": [
+    "espec-41"
+   ],
+   "boeId": "BOE-A-1997-8669"
+  },
+  {
+   "lawId": "rd-1215-1997",
+   "slug": "rd-1215-1997",
+   "shortTitle": "RD 1215/1997",
+   "title": "Real Decreto 1215/1997, de 18 de julio, equipos de trabajo",
+   "officialUrl": "https://www.boe.es/eli/es/rd/1997/07/18/1215/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "rd-1215-1997.html",
+   "imported": true,
+   "topics": [
+    "espec-41"
+   ],
+   "boeId": "BOE-A-1997-17824"
+  },
+  {
+   "lawId": "rd-773-1997",
+   "slug": "rd-773-1997",
+   "shortTitle": "RD 773/1997",
+   "title": "Real Decreto 773/1997, de 30 de mayo, equipos de protección individual",
+   "officialUrl": "https://www.boe.es/eli/es/rd/1997/05/30/773/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "rd-773-1997.html",
+   "imported": true,
+   "topics": [
+    "espec-41"
+   ],
+   "boeId": "BOE-A-1997-12735"
+  },
+  {
+   "lawId": "rdleg-8-2015",
+   "slug": "rdleg-8-2015",
+   "shortTitle": "RDLeg 8/2015",
+   "title": "Real Decreto Legislativo 8/2015, de 30 de octubre, LGSS",
+   "officialUrl": "https://www.boe.es/eli/es/rdlg/2015/10/30/8/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "rdleg-8-2015.html",
+   "imported": true,
+   "topics": [
+    "espec-41"
+   ],
+   "boeId": "BOE-A-2015-11724"
+  },
+  {
+   "lawId": "rdl-1-2023",
+   "slug": "rdl-1-2023",
+   "shortTitle": "RDL 1/2023",
+   "title": "Real Decreto-ley 1/2023, de 10 de enero, incentivos a la contratación y protección social de personas artistas",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-625",
+   "verification": "verified-in-session",
+   "examWeight": 0.32,
+   "file": "rdl-1-2023.html",
+   "imported": true,
+   "topics": [
+    "espec-45"
+   ],
+   "boeId": "BOE-A-2023-625"
+  },
+  {
+   "lawId": "rdl-5-2022",
+   "slug": "rdl-5-2022",
+   "shortTitle": "RDL 5/2022",
+   "title": "Real Decreto-ley 5/2022, de 22 de marzo, relación laboral de personas artistas",
+   "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4583",
+   "verification": "verified-in-session",
+   "examWeight": 0.32,
+   "file": "rdl-5-2022.html",
+   "imported": true,
+   "topics": [
+    "espec-45"
+   ],
+   "boeId": "BOE-A-2022-4583"
+  },
+  {
+   "lawId": "rd-1028-2025",
+   "slug": "rd-1028-2025",
+   "shortTitle": "RD 1028/2025",
+   "title": "Real Decreto 1028/2025, de 12 de noviembre (reestructuración del INAEM)",
+   "officialUrl": "https://www.boe.es/eli/es/rd/2025/11/12/1028",
+   "verification": "verified-in-session",
+   "examWeight": 0.25,
+   "file": "rd-1028-2025.html",
+   "imported": false,
+   "topics": [
+    "espec-01"
+   ]
+  },
+  {
+   "lawId": "rd-323-2024",
+   "slug": "rd-323-2024",
+   "shortTitle": "RD 323/2024",
+   "title": "Real Decreto 323/2024, de 26 de marzo, estructura orgánica del Ministerio de Cultura",
+   "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-6087",
+   "verification": "verified-in-session",
+   "examWeight": 0.25,
+   "file": "rd-323-2024.html",
+   "imported": true,
+   "topics": [
+    "espec-01"
+   ],
+   "boeId": "BOE-A-2024-6087"
+  },
+  {
+   "lawId": "rd-1009-2023",
+   "slug": "rd-1009-2023",
+   "shortTitle": "RD 1009/2023",
+   "title": "Real Decreto 1009/2023, de 5 de diciembre, estructura orgánica básica de los departamentos",
+   "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24842",
+   "verification": "verified-in-session",
+   "examWeight": 0.25,
+   "file": "rd-1009-2023.html",
+   "imported": true,
+   "topics": [
+    "espec-01"
+   ],
+   "boeId": "BOE-A-2023-24842"
+  },
+  {
+   "lawId": "ley-50-1984",
+   "slug": "ley-50-1984",
+   "shortTitle": "Ley 50/1984",
+   "title": "Ley 50/1984, de 30 de diciembre, PGE 1985 (art. 87.3, creación del INAEM)",
+   "officialUrl": "https://www.boe.es/eli/es/l/1984/12/30/50",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "ley-50-1984.html",
+   "imported": true,
+   "topics": [
+    "espec-01"
+   ],
+   "boeId": "BOE-A-1984-28337"
+  },
+  {
+   "lawId": "lo-3-2007",
+   "slug": "lo-3-2007",
+   "shortTitle": "LO 3/2007",
+   "title": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+   "officialUrl": "https://www.boe.es/eli/es/lo/2007/03/22/3/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "lo-3-2007.html",
+   "imported": true,
+   "topics": [
+    "espec-16"
+   ],
+   "boeId": "BOE-A-2007-6115"
+  },
+  {
+   "lawId": "rd-901-2020",
+   "slug": "rd-901-2020",
+   "shortTitle": "RD 901/2020",
+   "title": "Real Decreto 901/2020, de 13 de octubre, planes de igualdad",
+   "officialUrl": "https://www.boe.es/eli/es/rd/2020/10/13/901/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "rd-901-2020.html",
+   "imported": true,
+   "topics": [
+    "espec-16"
+   ],
+   "boeId": "BOE-A-2020-12214"
+  },
+  {
+   "lawId": "rd-902-2020",
+   "slug": "rd-902-2020",
+   "shortTitle": "RD 902/2020",
+   "title": "Real Decreto 902/2020, de 13 de octubre, igualdad retributiva",
+   "officialUrl": "https://www.boe.es/eli/es/rd/2020/10/13/902/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "rd-902-2020.html",
+   "imported": true,
+   "topics": [
+    "espec-16"
+   ],
+   "boeId": "BOE-A-2020-12215"
+  },
+  {
+   "lawId": "rdleg-1-2013",
+   "slug": "rdleg-1-2013",
+   "shortTitle": "RDLeg 1/2013",
+   "title": "Real Decreto Legislativo 1/2013, de 29 de noviembre, derechos de las personas con discapacidad",
+   "officialUrl": "https://www.boe.es/eli/es/rdlg/2013/11/29/1/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "rdleg-1-2013.html",
+   "imported": true,
+   "topics": [
+    "espec-17"
+   ],
+   "boeId": "BOE-A-2013-12632"
+  },
+  {
+   "lawId": "rd-193-2023",
+   "slug": "rd-193-2023",
+   "shortTitle": "RD 193/2023",
+   "title": "Real Decreto 193/2023, de 21 de marzo, condiciones básicas de accesibilidad",
+   "officialUrl": "https://www.boe.es/eli/es/rd/2023/03/21/193/con",
+   "verification": "eli-derived",
+   "examWeight": 0.25,
+   "file": "rd-193-2023.html",
+   "imported": true,
+   "topics": [
+    "espec-17"
+   ],
+   "boeId": "BOE-A-2023-7417"
+  },
+  {
+   "lawId": "conv-onu-2006",
+   "slug": "conv-onu-2006",
+   "shortTitle": "ONU 2006",
+   "title": "Instrumento de Ratificación de la Convención sobre los derechos de las personas con discapacidad, Nueva York, 13 de diciembre de 2006",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-6963",
+   "verification": "verified-in-session",
+   "examWeight": 0.25,
+   "file": "conv-onu-2006.html",
+   "imported": true,
+   "topics": [
+    "espec-17"
+   ],
+   "boeId": "BOE-A-2008-6963"
+  },
+  {
+   "lawId": "orden-cul-2039-2011",
+   "slug": "orden-cul-2039-2011",
+   "shortTitle": "Estatuto del Centro Dramático Nacional (CDN)",
+   "title": "Orden CUL/2039/2011, de 13 de julio, por la que se aprueba el Estatuto del Centro Dramático Nacional",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-12505",
+   "boeId": "BOE-A-2011-12505",
+   "verification": "verified-in-session",
+   "examWeight": 0.29,
+   "file": "orden-cul-2039-2011.html",
+   "imported": true,
+   "topics": [
+    "espec-02"
+   ]
+  },
+  {
+   "lawId": "orden-cul-3355-2010",
+   "slug": "orden-cul-3355-2010",
+   "shortTitle": "Estatuto de la Compañía Nacional de Teatro Clásico (CNTC)",
+   "title": "Orden CUL/3355/2010, de 21 de diciembre, por la que se aprueba el Estatuto de la Compañía Nacional de Teatro Clásico",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-20013",
+   "boeId": "BOE-A-2010-20013",
+   "verification": "verified-in-session",
+   "examWeight": 0.29,
+   "file": "orden-cul-3355-2010.html",
+   "imported": true,
+   "topics": [
+    "espec-02"
+   ]
+  },
+  {
+   "lawId": "orden-cul-451-2011",
+   "slug": "orden-cul-451-2011",
+   "shortTitle": "Estatuto del Teatro de la Zarzuela",
+   "title": "Orden CUL/451/2011, de 28 de febrero, por la que se aprueba el Estatuto del Teatro de La Zarzuela",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-4122",
+   "boeId": "BOE-A-2011-4122",
+   "verification": "verified-in-session",
+   "examWeight": 0.23,
+   "file": "orden-cul-451-2011.html",
+   "imported": true,
+   "topics": [
+    "espec-03"
+   ]
+  },
+  {
+   "lawId": "orden-cul-3359-2011",
+   "slug": "orden-cul-3359-2011",
+   "shortTitle": "Estatuto del Centro Nacional de Difusión Musical (CNDM)",
+   "title": "Orden CUL/3359/2011, de 30 de noviembre, por la que se aprueba el Estatuto del Centro Nacional de Difusión Musical",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19210",
+   "boeId": "BOE-A-2011-19210",
+   "verification": "verified-in-session",
+   "examWeight": 0.23,
+   "file": "orden-cul-3359-2011.html",
+   "imported": true,
+   "topics": [
+    "espec-03"
+   ]
+  },
+  {
+   "lawId": "orden-cul-3065-2010",
+   "slug": "orden-cul-3065-2010",
+   "shortTitle": "Estatuto del Ballet Nacional de España (BNE)",
+   "title": "Orden CUL/3065/2010, de 23 de noviembre, por la que se aprueba el Estatuto del Ballet Nacional de España",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-18375",
+   "boeId": "BOE-A-2010-18375",
+   "verification": "verified-in-session",
+   "examWeight": 0.29,
+   "file": "orden-cul-3065-2010.html",
+   "imported": true,
+   "topics": [
+    "espec-04"
+   ]
+  },
+  {
+   "lawId": "orden-cul-1993-2010",
+   "slug": "orden-cul-1993-2010",
+   "shortTitle": "Estatuto de la Compañía Nacional de Danza (CND)",
+   "title": "Orden CUL/1993/2010, de 21 de julio, por la que se aprueba el Estatuto de la Compañía Nacional de Danza",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-11823",
+   "boeId": "BOE-A-2010-11823",
+   "verification": "verified-in-session",
+   "examWeight": 0.29,
+   "file": "orden-cul-1993-2010.html",
+   "imported": true,
+   "topics": [
+    "espec-04"
+   ]
+  },
+  {
+   "lawId": "orden-cul-3520-2008",
+   "slug": "orden-cul-3520-2008",
+   "shortTitle": "Código de buenas prácticas del INAEM",
+   "title": "Orden CUL/3520/2008, de 1 de diciembre, por la que se aprueba el Código de buenas prácticas del Instituto Nacional de las Artes Escénicas y de la Música",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-19644",
+   "boeId": "BOE-A-2008-19644",
+   "verification": "verified-in-session",
+   "examWeight": 1.23,
+   "file": "orden-cul-3520-2008.html",
+   "imported": true,
+   "topics": [
+    "espec-02",
+    "espec-03",
+    "espec-04",
+    "espec-05"
+   ]
+  },
+  {
+   "lawId": "rd-992-2014",
+   "slug": "rd-992-2014",
+   "shortTitle": "CTE como Centro de Referencia Nacional",
+   "title": "Real Decreto 992/2014, de 28 de noviembre, por el que se califica como Centro de Referencia Nacional al Centro de Tecnología del Espectáculo",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620",
+   "boeId": "BOE-A-2014-13620",
+   "verification": "verified-in-session",
+   "examWeight": 0.42,
+   "file": "rd-992-2014.html",
+   "imported": true,
+   "topics": [
+    "espec-05"
+   ]
+  },
+  {
+   "lawId": "rd-1245-2002",
+   "slug": "rd-1245-2002",
+   "shortTitle": "Reglamento de Organización y Funcionamiento de la Orquesta Nacional de España",
+   "title": "Real Decreto 1245/2002, de 29 de noviembre, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Orquesta Nacional de España",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-24045",
+   "boeId": "BOE-A-2002-24045",
+   "verification": "verified-in-session",
+   "examWeight": 0.23,
+   "file": "rd-1245-2002.html",
+   "imported": true,
+   "topics": [
+    "espec-03"
+   ]
+  },
+  {
+   "lawId": "orden-17-10-1983",
+   "slug": "orden-17-10-1983",
+   "shortTitle": "Creación de la Joven Orquesta Nacional de España (JONDE)",
+   "title": "Orden de 17 de octubre de 1983 por la que se crea la Joven Orquesta Nacional de España",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1983-28352",
+   "boeId": "BOE-A-1983-28352",
+   "verification": "verified-in-session",
+   "examWeight": 0.23,
+   "file": "orden-17-10-1983.html",
+   "imported": true,
+   "topics": [
+    "espec-03"
+   ]
+  },
+  {
+   "lawId": "rd-2816-1982",
+   "slug": "rd-2816-1982",
+   "shortTitle": "Reglamento General de Policía de Espectáculos Públicos",
+   "title": "Real Decreto 2816/1982, de 27 de agosto, por el que se aprueba el Reglamento General de Policía de Espectáculos Públicos y Actividades Recreativas",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-28915",
+   "boeId": "BOE-A-1982-28915",
+   "verification": "verified-in-session",
+   "examWeight": 0.68,
+   "file": "rd-2816-1982.html",
+   "imported": true,
+   "topics": [
+    "espec-30",
+    "espec-41"
+   ]
+  },
+  {
+   "lawId": "ley-17-1997-cm",
+   "slug": "ley-17-1997-cm",
+   "shortTitle": "Ley 17/1997 de la Comunidad de Madrid, Espectáculos Públicos",
+   "title": "Ley 17/1997, de 4 de julio, de Espectáculos Públicos y Actividades Recreativas de la Comunidad de Madrid",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-9648",
+   "boeId": "BOE-A-1998-9648",
+   "verification": "verified-in-session",
+   "examWeight": 0.68,
+   "file": "ley-17-1997-cm.html",
+   "imported": true,
+   "topics": [
+    "espec-30",
+    "espec-41"
+   ]
+  },
+  {
+   "lawId": "rd-393-2007",
+   "slug": "rd-393-2007",
+   "shortTitle": "Norma Básica de Autoprotección",
+   "title": "Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica de Autoprotección",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6237",
+   "boeId": "BOE-A-2007-6237",
+   "verification": "verified-in-session",
+   "examWeight": 0,
+   "file": "rd-393-2007.html",
+   "imported": true,
+   "topics": [
+    "espec-30",
+    "espec-41"
+   ]
+  },
+  {
+   "lawId": "rd-171-2004",
+   "slug": "rd-171-2004",
+   "shortTitle": "Coordinación de actividades empresariales",
+   "title": "Real Decreto 171/2004, de 30 de enero, por el que se desarrolla el artículo 24 de la Ley 31/1995 en materia de coordinación de actividades empresariales",
+   "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848",
+   "boeId": "BOE-A-2004-1848",
+   "verification": "verified-in-session",
+   "examWeight": 0,
+   "file": "rd-171-2004.html",
+   "imported": true,
+   "topics": [
+    "espec-41"
+   ]
+  }
+ ]
+}

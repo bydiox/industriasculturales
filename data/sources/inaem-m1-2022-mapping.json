@@ -1,0 +1,462 @@
+{
+ "schemaVersion": 1,
+ "sourceId": "inaem-m1-2022",
+ "kind": "referencia",
+ "title": "Temarios técnicos oficiales del INAEM (grupos M1 y 0)",
+ "legalReference": "Resolución de 27 de diciembre de 2022, de la Subsecretaría, proceso selectivo de personal laboral fijo en los grupos profesionales M1 y 0 del INAEM",
+ "boeId": "BOE-A-2022-23830",
+ "officialUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-23830",
+ "file": "inaem-m1-2022.html",
+ "note": "Desglose oficial de contenido técnico escénico publicado en BOE por el mismo organismo convocante. Uso como fuente de referencia, no como norma.",
+ "byTopic": {
+  "especifico-29": [
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t1",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 1,
+    "match": "parcial",
+    "titulo": "Conceptos básicos de historia de las artes escénicas. Géneros y estilos. Espacios escénicos. El edificio teatral. Tipos, características y partes que lo componen. Espacios efímeros"
+   },
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t1",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 1,
+    "match": "parcial",
+    "titulo": "Conceptos de historia de las artes escénicas; géneros y estilos. Espacios escénicos. El edificio teatral. Tipos, características y partes que lo componen. Espacios efímeros del esp"
+   }
+  ],
+  "especifico-30": [
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t1",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 1,
+    "match": "exacta",
+    "titulo": "Conceptos de historia de las artes escénicas; géneros y estilos. Espacios escénicos. El edificio teatral. Tipos, características y partes que lo componen. Espacios efímeros del esp"
+   },
+   {
+    "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t6",
+    "especialidad": "asistencia-a-la-direccion-tecnica-de-e",
+    "tema": 6,
+    "match": "fuerte",
+    "titulo": "Conceptos de maquinaria. Mecánica escénica. Elementos y sistemas de elevación en foso, telar y escenario. Equipamiento escénico móvil. Infraestructura, instalaciones y equipos. Téc"
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t1",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 1,
+    "match": "exacta",
+    "titulo": "Conceptos básicos de historia de las artes escénicas. Géneros y estilos. Espacios escénicos. El edificio teatral. Tipos, características y partes que lo componen. Espacios efímeros"
+   }
+  ],
+  "especifico-31": [
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t3",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 3,
+    "match": "exacta",
+    "titulo": "Conceptos básicos de escenografía. Elementos que lo componen. Implantación de la escenografía. Interpretación de planos."
+   },
+   {
+    "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t9",
+    "especialidad": "asistencia-a-la-direccion-tecnica-de-e",
+    "tema": 9,
+    "match": "exacta",
+    "titulo": "Escenografía. Tipos, características y partes que la componen. Interpretación gráfica. Implantación de la escenografía e interpretación de planos (planta, sección, alzado). Adaptac"
+   },
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t5",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 5,
+    "match": "fuerte",
+    "titulo": "El decorado. Elementos que lo componen. Técnicas de montaje."
+   },
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t7",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 7,
+    "match": "fuerte",
+    "titulo": "Materiales, estructuras e instalaciones de la maquinaria escénica."
+   },
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t8",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 8,
+    "match": "fuerte",
+    "titulo": "Implantación y distribución de la escenografía."
+   }
+  ],
+  "especifico-32": [
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t2",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 2,
+    "match": "exacta",
+    "titulo": "Conceptos básicos de maquinaria. Mecánica escénica. Elementos y sistemas de elevación. Equipamiento escénico móvil."
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t7",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 7,
+    "match": "exacta",
+    "titulo": "Conceptos básicos de la utilería. Utilería teatral: tipos y características. Mobiliario de escena."
+   },
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t2",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 2,
+    "match": "exacta",
+    "titulo": "Mecánica escénica. Elementos y sistemas de elevación.: cortes manuales, contrapesados y/o motorizados. Foso, Telar y Escenario."
+   },
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t3",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 3,
+    "match": "fuerte",
+    "titulo": "Elementos y sistemas de traslación."
+   },
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t4",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 4,
+    "match": "fuerte",
+    "titulo": "Equipamiento escénico móvil."
+   },
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t6",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 6,
+    "match": "fuerte",
+    "titulo": "Elementos de ensamblaje. Mecanismos auxiliares."
+   },
+   {
+    "anchorId": "inaem-m1-2022-utileria-para-el-espectaculo-en-vivo-t2",
+    "especialidad": "utileria-para-el-espectaculo-en-vivo",
+    "tema": 2,
+    "match": "fuerte",
+    "titulo": "Equipamiento escénico."
+   },
+   {
+    "anchorId": "inaem-m1-2022-utileria-para-el-espectaculo-en-vivo-t3",
+    "especialidad": "utileria-para-el-espectaculo-en-vivo",
+    "tema": 3,
+    "match": "exacta",
+    "titulo": "Utilería teatral. Tipos y características."
+   },
+   {
+    "anchorId": "inaem-m1-2022-utileria-para-el-espectaculo-en-vivo-t4",
+    "especialidad": "utileria-para-el-espectaculo-en-vivo",
+    "tema": 4,
+    "match": "fuerte",
+    "titulo": "Mobiliario de escena. Técnicas de mantenimiento."
+   }
+  ],
+  "especifico-33": [
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t4",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 4,
+    "match": "exacta",
+    "titulo": "Conceptos básicos de iluminación. Aparatos de iluminación. Sistemas de sustentación, control, regulación y distribución."
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t5",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 5,
+    "match": "exacta",
+    "titulo": "Conceptos básicos de audiovisuales. Fuentes de sonido. Cajas acústicas. Sistemas de intercomunicación."
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t6",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 6,
+    "match": "exacta",
+    "titulo": "Conceptos básicos de vídeo. Tipos de formatos de proyección. Superficies de proyección."
+   },
+   {
+    "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t8",
+    "especialidad": "asistencia-a-la-direccion-tecnica-de-e",
+    "tema": 8,
+    "match": "exacta",
+    "titulo": "Conceptos audiovisuales. Acústica y electroacústica. Fuentes de sonido. Cajas acústicas. Vídeo: proyectores y monitores de vídeo. Pantallas. Microfonía. Intercomunicación. Planific"
+   },
+   {
+    "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t10",
+    "especialidad": "asistencia-a-la-direccion-tecnica-de-e",
+    "tema": 10,
+    "match": "fuerte",
+    "titulo": "Conceptos de electricidad y electrotecnia. El equipo de iluminación. Instalaciones permanentes y temporales. Conceptos básicos de iluminación. Aparatos de iluminación. Sistemas de "
+   },
+   {
+    "anchorId": "inaem-m1-2022-iluminacion-captacion-y-tratamiento-de-t3",
+    "especialidad": "iluminacion-captacion-y-tratamiento-de",
+    "tema": 3,
+    "match": "fuerte",
+    "titulo": "Electricidad básica. Conceptos y formulación fundamental. Control y distribución de la corriente eléctrica. Mesas de control de iluminación. Conceptos y uso."
+   },
+   {
+    "anchorId": "inaem-m1-2022-iluminacion-captacion-y-tratamiento-de-t4",
+    "especialidad": "iluminacion-captacion-y-tratamiento-de",
+    "tema": 4,
+    "match": "fuerte",
+    "titulo": "Técnicas de iluminación. Técnicas digitales. Efectos especiales. El plano de iluminación: representación gráfica, organización e implantación."
+   },
+   {
+    "anchorId": "inaem-m1-2022-iluminacion-captacion-y-tratamiento-de-t5",
+    "especialidad": "iluminacion-captacion-y-tratamiento-de",
+    "tema": 5,
+    "match": "fuerte",
+    "titulo": "Equipos y materiales de control de luz: Filtros, viseras, bandera. Equipos y materiales de efectos especiales. Aparatos de iluminación y sus accesorios: convencional, robótica y el"
+   },
+   {
+    "anchorId": "inaem-m1-2022-iluminacion-captacion-y-tratamiento-de-t6",
+    "especialidad": "iluminacion-captacion-y-tratamiento-de",
+    "tema": 6,
+    "match": "fuerte",
+    "titulo": "Sistemas de elevación y sustentación. Motorizados. Manuales."
+   },
+   {
+    "anchorId": "inaem-m1-2022-iluminacion-captacion-y-tratamiento-de-t7",
+    "especialidad": "iluminacion-captacion-y-tratamiento-de",
+    "tema": 7,
+    "match": "fuerte",
+    "titulo": "Regulación. Base fundamental del regulador."
+   },
+   {
+    "anchorId": "inaem-m1-2022-sonido-para-audiovisuales-y-espectacul-t2",
+    "especialidad": "sonido-para-audiovisuales-y-espectacul",
+    "tema": 2,
+    "match": "fuerte",
+    "titulo": "Acústica, electroacústica y sistemas de sonido."
+   },
+   {
+    "anchorId": "inaem-m1-2022-sonido-para-audiovisuales-y-espectacul-t6",
+    "especialidad": "sonido-para-audiovisuales-y-espectacul",
+    "tema": 6,
+    "match": "fuerte",
+    "titulo": "Mesas de mezclas y procesado de la señal."
+   },
+   {
+    "anchorId": "inaem-m1-2022-sonido-para-audiovisuales-y-espectacul-t8",
+    "especialidad": "sonido-para-audiovisuales-y-espectacul",
+    "tema": 8,
+    "match": "fuerte",
+    "titulo": "Cajas acústicas y amplificadores."
+   },
+   {
+    "anchorId": "inaem-m1-2022-sonido-para-audiovisuales-y-espectacul-t10",
+    "especialidad": "sonido-para-audiovisuales-y-espectacul",
+    "tema": 10,
+    "match": "fuerte",
+    "titulo": "Proyectores y pantallas led."
+   }
+  ],
+  "especifico-34": [
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t8",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 8,
+    "match": "parcial",
+    "titulo": "Implantación y distribución de la escenografía."
+   },
+   {
+    "anchorId": "inaem-m1-2022-utileria-para-el-espectaculo-en-vivo-t10",
+    "especialidad": "utileria-para-el-espectaculo-en-vivo",
+    "tema": 10,
+    "match": "parcial",
+    "titulo": "Implantación y distribución de la utilería."
+   },
+   {
+    "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t5",
+    "especialidad": "asistencia-a-la-direccion-tecnica-de-e",
+    "tema": 5,
+    "match": "parcial",
+    "titulo": "Coordinación de ensayos, montajes, funciones y giras. Planificación de la carga y descarga."
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t12",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 12,
+    "match": "parcial",
+    "titulo": "El regidor en gira. Coordinación y trabajo en equipo. Adaptaciones a nuevos espacios. Aspectos específicos de PRL en regiduría."
+   }
+  ],
+  "especifico-35": [
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t8",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 8,
+    "match": "exacta",
+    "titulo": "Conceptos básicos de sastrería. Características del vestuario escénico. Nomenclatura e identificación de prendas de uso común en el vestuario escénico."
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t9",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 9,
+    "match": "exacta",
+    "titulo": "Conceptos básicos de maquillaje y peluquería."
+   },
+   {
+    "anchorId": "inaem-m1-2022-gestion-de-sastreria-del-espectaculo-e-t3",
+    "especialidad": "gestion-de-sastreria-del-espectaculo-e",
+    "tema": 3,
+    "match": "exacta",
+    "titulo": "Terminología específica del vestuario de espectáculo: tipos de prendas, accesorios y adornos. Términos y usos de vestuario historicista de distintas épocas."
+   },
+   {
+    "anchorId": "inaem-m1-2022-gestion-de-sastreria-del-espectaculo-e-t2",
+    "especialidad": "gestion-de-sastreria-del-espectaculo-e",
+    "tema": 2,
+    "match": "fuerte",
+    "titulo": "Perfiles profesionales que intervienen en la creación y realización de un vestuario para el espectáculo: funciones e interrelación con las distintas secciones técnicas y artísticas"
+   },
+   {
+    "anchorId": "inaem-m1-2022-caracterizacion-y-maquillaje-profesion-t3",
+    "especialidad": "caracterizacion-y-maquillaje-profesion",
+    "tema": 3,
+    "match": "exacta",
+    "titulo": "El proceso de maquillaje. Productos y útiles."
+   },
+   {
+    "anchorId": "inaem-m1-2022-caracterizacion-y-maquillaje-profesion-t7",
+    "especialidad": "caracterizacion-y-maquillaje-profesion",
+    "tema": 7,
+    "match": "fuerte",
+    "titulo": "Materiales y productos para la caracterización de efectos especiales."
+   },
+   {
+    "anchorId": "inaem-m1-2022-caracterizacion-y-maquillaje-profesion-t8",
+    "especialidad": "caracterizacion-y-maquillaje-profesion",
+    "tema": 8,
+    "match": "fuerte",
+    "titulo": "Técnicas y útiles para la caracterización."
+   },
+   {
+    "anchorId": "inaem-m1-2022-estilismo-y-direccion-de-peluqueria-t7",
+    "especialidad": "estilismo-y-direccion-de-peluqueria",
+    "tema": 7,
+    "match": "fuerte",
+    "titulo": "Pelucas y postizos capilares. Tipos y características. Materiales, productos, útiles y técnicas de manipulación y limpieza de las pelucas y/o posticería capilar."
+   }
+  ],
+  "especifico-36": [
+   {
+    "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t7",
+    "especialidad": "asistencia-a-la-direccion-tecnica-de-e",
+    "tema": 7,
+    "match": "exacta",
+    "titulo": "Conceptos de regiduría. Libreto, partitura. Planificación. Organización del trabajo."
+   },
+   {
+    "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t3",
+    "especialidad": "asistencia-a-la-direccion-tecnica-de-e",
+    "tema": 3,
+    "match": "fuerte",
+    "titulo": "Organización, estructura y jerarquías de un teatro. La relación con otros departamentos: departamento artístico, departamento musical, producción, gerencia, mantenimiento y persona"
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t10",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 10,
+    "match": "exacta",
+    "titulo": "El regidor en ensayos. Planificación de los ensayos. Tipos de ensayos. Funciones del regidor durante los ensayos."
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t11",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 11,
+    "match": "exacta",
+    "titulo": "El regidor en la ejecución de espectáculos en vivo y eventos. Coordinación y trabajo en equipo."
+   }
+  ],
+  "especifico-37": [
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t10",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 10,
+    "match": "fuerte",
+    "titulo": "El regidor en ensayos. Planificación de los ensayos. Tipos de ensayos. Funciones del regidor durante los ensayos."
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t11",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 11,
+    "match": "fuerte",
+    "titulo": "El regidor en la ejecución de espectáculos en vivo y eventos. Coordinación y trabajo en equipo."
+   },
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t13",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 13,
+    "match": "fuerte",
+    "titulo": "Relación del regidor con los diferentes equipos técnicos y artísticos. Relación con otros departamentos."
+   },
+   {
+    "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t14",
+    "especialidad": "asistencia-a-la-direccion-tecnica-de-e",
+    "tema": 14,
+    "match": "fuerte",
+    "titulo": "Coordinación de las distintas secciones técnicas y de sus planes de trabajo. Supervisión de los montajes del escenario. Normas y criterios para la elaboración de calendarios labora"
+   }
+  ],
+  "especifico-38": [
+   {
+    "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t12",
+    "especialidad": "realizacion-de-proyectos-audiovisuales",
+    "tema": 12,
+    "match": "exacta",
+    "titulo": "El regidor en gira. Coordinación y trabajo en equipo. Adaptaciones a nuevos espacios. Aspectos específicos de PRL en regiduría."
+   },
+   {
+    "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t11",
+    "especialidad": "maquinaria-escenica-para-el-espectacul",
+    "tema": 11,
+    "match": "fuerte",
+    "titulo": "Giras. Preparación y realización."
+   },
+   {
+    "anchorId": "inaem-m1-2022-utileria-para-el-espectaculo-en-vivo-t13",
+    "especialidad": "utileria-para-el-espectaculo-en-vivo",
+    "tema": 13,
+    "match": "fuerte",
+    "titulo": "Giras. Preparación y realización. Relación con otros departamentos."
+   },
+   {
+    "anchorId": "inaem-m1-2022-gestion-de-sastreria-del-espectaculo-e-t13",
+    "especialidad": "gestion-de-sastreria-del-espectaculo-e",
+    "tema": 13,
+    "match": "fuerte",
+    "titulo": "El trabajo en gira: preparación, montaje y desmontaje en la sección de sastrería."
+   },
+   {
+    "anchorId": "inaem-m1-2022-sonido-para-audiovisuales-y-espectacul-t12",
+    "especialidad": "sonido-para-audiovisuales-y-espectacul",
+    "tema": 12,
+    "match": "fuerte",
+    "titulo": "Giras, preparación y realización."
+   }
+  ],
+  "especifico-40": [
+   {
+    "anchorId": "inaem-m1-2022-iluminacion-captacion-y-tratamiento-de-t10",
+    "especialidad": "iluminacion-captacion-y-tratamiento-de",
+    "tema": 10,
+    "match": "parcial",
+    "titulo": "Imagen digital y edición. Conceptos básicos: píxel, profundidad de bits, rango dinámico, tamaño, resolución óptica e interpolada, formatos, metadatos técnicos, estándares de aplica"
+   },
+   {
+    "anchorId": "inaem-m1-2022-sonido-para-audiovisuales-y-espectacul-t9",
+    "especialidad": "sonido-para-audiovisuales-y-espectacul",
+    "tema": 9,
+    "match": "parcial",
+    "titulo": "Vídeo. Conceptos y equipos."
+   },
+   {
+    "anchorId": "inaem-m1-2022-sonido-para-audiovisuales-y-espectacul-t10",
+    "especialidad": "sonido-para-audiovisuales-y-espectacul",
+    "tema": 10,
+    "match": "parcial",
+    "titulo": "Proyectores y pantallas led."
+   }
+  ]
+ }
+}

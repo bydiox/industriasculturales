@@ -4,6 +4,11 @@ const emptyProgress = () => ({
   version: 2,
   completedTopics: [],
   completedUnits: [],
+  readUnits: [],
+  activeSession: null,
+  questionStats: {},
+  savedQuestionIds: [],
+  doubtfulQuestionIds: [],
   currentTopicId: null,
   currentUnitId: null,
   answered: 0,
@@ -19,7 +24,12 @@ function normalize(progress = {}) {
     ...progress,
     version: 2,
     completedTopics: Array.isArray(progress.completedTopics) ? [...new Set(progress.completedTopics)] : [],
-    completedUnits: Array.isArray(progress.completedUnits) ? [...new Set(progress.completedUnits)] : []
+    completedUnits: Array.isArray(progress.completedUnits) ? [...new Set(progress.completedUnits)] : [],
+    readUnits: Array.isArray(progress.readUnits) ? [...new Set(progress.readUnits)] : [],
+    activeSession: progress.activeSession && typeof progress.activeSession === 'object' ? progress.activeSession : null,
+    questionStats: progress.questionStats && typeof progress.questionStats === 'object' ? progress.questionStats : {},
+    savedQuestionIds: Array.isArray(progress.savedQuestionIds) ? [...new Set(progress.savedQuestionIds)] : [],
+    doubtfulQuestionIds: Array.isArray(progress.doubtfulQuestionIds) ? [...new Set(progress.doubtfulQuestionIds)] : []
   };
 }
 

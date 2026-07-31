@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "m1-cultura-sonido-2023-31",
+    "topicId": "especifico-06",
+    "prompt": "Los géneros teatrales que dieron lugar al teatro occidental en la antigua Grecia fueron:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La comedia y el auto sacramental"
+      },
+      {
+        "id": "B",
+        "text": "La tragedia y la epopeya"
+      },
+      {
+        "id": "C",
+        "text": "La comedia y la tragedia"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 31. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 31,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 31
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-33",
+    "topicId": "especifico-31",
+    "prompt": "Qué es un bambalinón:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un telón de gasa que se sitúa en cualquier parte del escenario."
+      },
+      {
+        "id": "B",
+        "text": "Es la primera bambalina, situada en la embocadura del escenario."
+      },
+      {
+        "id": "C",
+        "text": "Es la primera bambalina, situada al fondo del escenario."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 33. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 33,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 33
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-34",
+    "topicId": "especifico-30",
+    "prompt": "El teatro a la italiana está relacionado con:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La tradición de la comedia del arte"
+      },
+      {
+        "id": "B",
+        "text": "El arco del proscenio"
+      },
+      {
+        "id": "C",
+        "text": "La influencia de Luigi Pirandello"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 34. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 34,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 34
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-35",
+    "topicId": "especifico-30",
+    "prompt": "Una parte fundamental de la arquitectura teatral greco-romana es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La cuarta pared"
+      },
+      {
+        "id": "B",
+        "text": "Los palcos de autoridades"
+      },
+      {
+        "id": "C",
+        "text": "La orquesta"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 35. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 35,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 35
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-37",
+    "topicId": "especifico-30",
+    "prompt": "En arquitectura teatral llamamos peine:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A las varas y la estructura que las sostienen donde se cuelgan los focos"
+      },
+      {
+        "id": "B",
+        "text": "A las varas y la estructura que las sostienen donde se cuelgan fondos y escenografías"
+      },
+      {
+        "id": "C",
+        "text": "A la parrilla sobre el escenario propia de los teatros de ópera y zarzuela"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 37. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 37,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 37
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-38",
+    "topicId": "especifico-30",
+    "prompt": "Si hablamos del espacio rectangular situado al fondo del escenario que se utiliza como almacén de decorados y mobiliario. Suele tener una puerta que comunica directamente con el exterior, a través de la cual se efectúan las labores de carga y descarga. A veces también es utilizado en las representaciones como prolongación de la escena visible al público. En los teatros que disponen de espacio suficiente existe, además, un almacén de decorados, situado fuera del escenario, donde se guardan los que no están siendo utilizados por el momento, hablamos de",
+    "options": [
+      {
+        "id": "A",
+        "text": ".el foro"
+      },
+      {
+        "id": "B",
+        "text": ".el chácena"
+      },
+      {
+        "id": "C",
+        "text": ".el hombro"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 38. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 38,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 38
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-39",
+    "topicId": "especifico-32",
+    "prompt": "Si hablamos de la maquinaria escénica para figurar transformaciones mágicas, cambios de escenografía o para realizar ciertos desplazamientos de los actores, de la que existen varias clases: giratorias, de elevación vertical, de vuelo horizontal y de vuelo diagonal, hablamos de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Caja escénica"
+      },
+      {
+        "id": "B",
+        "text": "Puente de maniobras"
+      },
+      {
+        "id": "C",
+        "text": "Tramoya"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 39. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 39,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 39
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-40",
+    "topicId": "especifico-06",
+    "prompt": "Los corrales de comedias en los siglos XVI y XVII eran lugares de representación teatral:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alojados originalmente en los patios de vecinos de edificios residenciales"
+      },
+      {
+        "id": "B",
+        "text": "Los corrales de comedias no corresponden a los siglos XVI XVII y además no eran espacios de representación sino de ensayo para las primeras compañías estables"
+      },
+      {
+        "id": "C",
+        "text": "Construidos específicamente en lugares relevantes los centros de las ciudades con influencia de la arquitectura palaciega italianizante se llaman corrales por el elevado número de localidades disponibles para el público"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 40. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 40,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 40
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-42",
+    "topicId": "especifico-33",
+    "prompt": "Consideramos el espectro audible para el oído humano:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Entre 20 Hz y 20 kHz"
+      },
+      {
+        "id": "B",
+        "text": "Entre 20 kHz y 20 MHz"
+      },
+      {
+        "id": "C",
+        "text": "Entre 200 Hz y 2000 Hz"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 42. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 42,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 42
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-44",
+    "topicId": "especifico-33",
+    "prompt": "La respuesta sensorial del oído humano a la misma presión sonora:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es prácticamente lineal para todo el espectro de frecuencias"
+      },
+      {
+        "id": "B",
+        "text": "Es mayor en el rango aproximado entre 2 y 5 kHz con un pico de resonancia en torno a los 9 Khz"
+      },
+      {
+        "id": "C",
+        "text": "Es mayor en los extremos más graves y agudos del espectro audible (curvas de Fletcher– Munson)"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 44. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 44,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 44
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-45",
+    "topicId": "especifico-33",
+    "prompt": "En electroacústica llamamos transductores a aquellos dispositivos que transforman la energía de naturaleza acústica en energía de naturaleza eléctrica y viceversa. En cuales de las siguientes opciones hay un elemento que NO es un transductor:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pastillas (picks-up), agujas de tocadiscos"
+      },
+      {
+        "id": "B",
+        "text": "Micrófonos, altavoces y amplificadores"
+      },
+      {
+        "id": "C",
+        "text": "Emisores y captadores de ultrasonidos"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 45. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 45,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 45
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-46",
+    "topicId": "especifico-33",
+    "prompt": "En sistemas de audio / video, un bucle de masa o lazo de tierra (ground loop) :",
+    "options": [
+      {
+        "id": "A",
+        "text": "Produce interferencias, pero no es un fenómeno que afecte a los sistemas de vídeo y únicamente es apreciable en los de audio"
+      },
+      {
+        "id": "B",
+        "text": "Puede producir peligro eléctrico para el operario"
+      },
+      {
+        "id": "C",
+        "text": "Produce hum o ruido"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal. [Corrección del Tribunal Calificador, 22/03/2024, aplicada.]",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 46. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 46,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 46
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-47",
+    "topicId": "especifico-33",
+    "prompt": "Phantom power:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es siempre 48 V AC"
+      },
+      {
+        "id": "B",
+        "text": "Puede ser bien 48 V AC o bien 12V AC"
+      },
+      {
+        "id": "C",
+        "text": "Ninguna de las anteriores es correcta"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 47. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 47,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 47
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-48",
+    "topicId": "especifico-33",
+    "prompt": "El flujo de corriente eléctrica genera un campo magnético alrededor del conductor. Este fenómeno lo conocemos como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inductancia"
+      },
+      {
+        "id": "B",
+        "text": "Capacitancia"
+      },
+      {
+        "id": "C",
+        "text": "Resistencia"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 48,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 48
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-49",
+    "topicId": "especifico-33",
+    "prompt": "Medimos la potencia de un aparato eléctrico:",
+    "options": [
+      {
+        "id": "A",
+        "text": "En watios (W)"
+      },
+      {
+        "id": "B",
+        "text": "En voltios (V)"
+      },
+      {
+        "id": "C",
+        "text": "Ambas son correctas"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 49. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 49,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 49
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-51",
+    "topicId": "especifico-33",
+    "prompt": "Un micrófono formado por un imán y una bobina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un micrófono dinámico"
+      },
+      {
+        "id": "B",
+        "text": "Es un micrófono de condensador"
+      },
+      {
+        "id": "C",
+        "text": "Es un micrófono pizoeléctrico"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 51. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 51,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 51
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-52",
+    "topicId": "especifico-33",
+    "prompt": "Los micrófonos originalmente patentados por Crown como PZM (Pressure Zone Microphones) conocidos como boundary microphones (micrófonos de límite):",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son micrófonos de cinta (ribon) de alta sensibilidad"
+      },
+      {
+        "id": "B",
+        "text": "Son micrófonos de contacto para colocar próximos a la fuente de sonido"
+      },
+      {
+        "id": "C",
+        "text": "Son micrófonos de condensador con la cápsula muy cercana a la membrana y así poder ser eficaces a distancias mayores de la fuente de sonido"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 52. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 52,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 52
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-53",
+    "topicId": "especifico-33",
+    "prompt": "Un micrófono que tiene la misma respuesta en 0º y en 180º es un micrófono:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Omnidireccional"
+      },
+      {
+        "id": "B",
+        "text": "Unidireccional"
+      },
+      {
+        "id": "C",
+        "text": "Ninguna respuesta es correcta"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 53. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 53,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 53
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-54",
+    "topicId": "especifico-33",
+    "prompt": "Los altavoces convierten la energía eléctrica en energía acústica y en función de la tecnología que utilizan para dicha transducción los podemos clasificar como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Electrodinámicos, electroestáticos, pizoeléctricos"
+      },
+      {
+        "id": "B",
+        "text": "De caja abierta y caja cerrada"
+      },
+      {
+        "id": "C",
+        "text": "De vía simple, doble vía y arrays"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 54. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 54,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 54
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-55",
+    "topicId": "especifico-33",
+    "prompt": "Desde la ingeniería eléctrica llamamos impedancia:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A la relación entre voltaje y corriente en circuitos DC"
+      },
+      {
+        "id": "B",
+        "text": "Al campo eléctrico inducido por un elemento magnético"
+      },
+      {
+        "id": "C",
+        "text": "Ninguna de las anteriores es correcta"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 55. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 55,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 55
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-56",
+    "topicId": "especifico-33",
+    "prompt": "Georg Simon Ohm (1789–1854) definió la relación entre diferencia de potencial (V), corriente (I) y resistencia eléctrica (R) en la conocida como “Ley de Ohm “según la cual:",
+    "options": [
+      {
+        "id": "A",
+        "text": "V = R x I"
+      },
+      {
+        "id": "B",
+        "text": "R = V x I"
+      },
+      {
+        "id": "C",
+        "text": "I = V x R"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 56. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 56,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 56
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-57",
+    "topicId": "especifico-33",
+    "prompt": "Qué tipo de amplificador de audio se caracteriza por tener un consumo constante independientemente de la señal de entrada y por lo tanto, a pesar de ser conocidos por su linearidad tienen un alto consumo energético y alta producción de calor:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Clase A"
+      },
+      {
+        "id": "B",
+        "text": "Clase B"
+      },
+      {
+        "id": "C",
+        "text": "Clase D"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 57. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 57,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 57
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-59",
+    "topicId": "especifico-33",
+    "prompt": "Conocemos por “total harmonic distortion” (total de distorsión armónica) abreviado THD:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La especificación más común para medir la linealidad de un sistema de audio expresada en porcentaje de desviación entre la entrada y la salida"
+      },
+      {
+        "id": "B",
+        "text": "La THD no es pertinente para medir la respuesta de un amplificador, es un parámetro para medir la distorsión en armónicos de una fuente primaria de sonido (voz, instrumento…)"
+      },
+      {
+        "id": "C",
+        "text": "Ninguna de las anteriores es correcta"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 59. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 59,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 59
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-60",
+    "topicId": "especifico-33",
+    "prompt": "Para acoplar la impedancia de un micrófono a la de un preamplificador, utilizaríamos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bien un transistor o una válvula"
+      },
+      {
+        "id": "B",
+        "text": "Una combinación de resistencias y condensadores"
+      },
+      {
+        "id": "C",
+        "text": "Un transformador"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 60. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 60,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 60
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-65",
+    "topicId": "especifico-33",
+    "prompt": "Llamamos lumen :",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al flujo luminoso: a la medida de la potencia luminosa percibida"
+      },
+      {
+        "id": "B",
+        "text": "A la intensidad luminosa: a la cantidad de flujo luminoso, propagándose en una dirección dada, que emerge, atraviesa o incide sobre una superficie por unidad de ángulo sólido."
+      },
+      {
+        "id": "C",
+        "text": "A la iluminancia: a la incidencia de luz sobre una superficie por unidad de área"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 65. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 65,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 65
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-73",
+    "topicId": "especifico-33",
+    "prompt": "Qué tipo de señal utilizarías para ecualizar la respuesta acústica de un espacio o para calibrar la respuesta de un sistema de altavoces:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ruido rosa"
+      },
+      {
+        "id": "B",
+        "text": "Ruido blanco"
+      },
+      {
+        "id": "C",
+        "text": "440Hz"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 73. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 73,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 73
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-74",
+    "topicId": "especifico-33",
+    "prompt": "La razón por la que de una fuente sonora lejana nos llegan más prominentes las frecuencias graves tiene que ver con:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Con la difusión del sonido: en las longitudes de onda más cortas es más predominante el efecto de la difusión"
+      },
+      {
+        "id": "B",
+        "text": "Con la difracción del sonido: en las longitudes de onda más largas es más predominante el efecto de la difracción"
+      },
+      {
+        "id": "C",
+        "text": "Con la reflexión del sonido: en las longitudes de onda más largas es más predominante el efecto de la reflexión"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 74. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 74,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 74
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-75",
+    "topicId": "especifico-33",
+    "prompt": "Para medir en segundos la reverberación de un local podemos utilizar la fórmula de Sabine, T60 = 0,161 * (V/A) en la que T60 indica que es en segundos, 0,161 es un factor en segundos —si las medidas son en sistema métrico— basado en la velocidad del sonido, V el es el volumen del espacio en metros cúbicos, y A :",
+    "options": [
+      {
+        "id": "A",
+        "text": "El tiempo de decay"
+      },
+      {
+        "id": "B",
+        "text": "El área de absorción acústica, calculada en sabinas métricas"
+      },
+      {
+        "id": "C",
+        "text": "La fórmula de Sabine no es pertinente para medir los tiempos de reverberación en segundos. Para medir la reverberación podemos utilizar la fórmula de Eyring y/o la fórmula de Millington"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 75. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 75,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 75
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-76",
+    "topicId": "especifico-33",
+    "prompt": "En una consola de mezclas de audio, un punto de inserción:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mezcla la señal existente con la señal procesada"
+      },
+      {
+        "id": "B",
+        "text": "Sustituye la señal existente por la señal procesada"
+      },
+      {
+        "id": "C",
+        "text": "Depende de si el canal es pre-fader, caso en el que la respuesta correcta sería la primera, o post-fader, en cuyo caso la respuesta correcta sería la segunda"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 76. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 76,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 76
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-77",
+    "topicId": "especifico-33",
+    "prompt": "En un ecualizador paramétrico, el llamado factor Q (Quality):",
+    "options": [
+      {
+        "id": "A",
+        "text": "Indica el rango de ganancia a aumentar o disminuir para la frecuencia indicada"
+      },
+      {
+        "id": "B",
+        "text": "Indica la proporción de mezcla entre la señal procesada con respecto a la señal original"
+      },
+      {
+        "id": "C",
+        "text": "Indica el ancho de banda del efecto de ganancia que corresponda para la frecuencia indicada"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 77. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 77,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 77
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-78",
+    "topicId": "especifico-33",
+    "prompt": "Un compresor de audio con un ratio 4:1 y un thresold (umbral) de -10dB indica que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Que para cada 4dB de entrada se obtendrá una reducción de 10dB"
+      },
+      {
+        "id": "B",
+        "text": "Que para cada 4dB de entrada se obtendrá una salida de 1dB únicamente para señales superiores a 10dB"
+      },
+      {
+        "id": "C",
+        "text": "Ninguna de las anteriores es correcta"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 78. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 78,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 78
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-79",
+    "topicId": "especifico-33",
+    "prompt": "Reverb, chorus, flanger, hablamos de :",
+    "options": [
+      {
+        "id": "A",
+        "text": "Efectos de audio basados en el tiempo"
+      },
+      {
+        "id": "B",
+        "text": "Efectos de audio basados en el pitch"
+      },
+      {
+        "id": "C",
+        "text": "Procesadores de rango dinámicos"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 79. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 79,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 79
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-89",
+    "topicId": "especifico-33",
+    "prompt": "Dante:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un protocolo open source de transmisión de audio digital mediante paquetes TCP"
+      },
+      {
+        "id": "B",
+        "text": "Es un protocolo de transmisión de audio digital mediante paquetes UDP"
+      },
+      {
+        "id": "C",
+        "text": "Ambas respuestas son correctas"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 89. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 89,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 89
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-92",
+    "topicId": "especifico-41",
+    "prompt": "Las vías de circulación habituales en lugares de trabajo, tanto las situadas en el exterior de los edificios y locales como en el interior de los mismos, incluidas las puertas, pasillos, escaleras, escalas fijas, rampas y muelles de carga, deben tener niveles de iluminación de acuerdo al Anexo IV del Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo",
+    "options": [
+      {
+        "id": "A",
+        "text": "50 lux."
+      },
+      {
+        "id": "B",
+        "text": "100 lux."
+      },
+      {
+        "id": "C",
+        "text": "A un nivel que facilite la correcta visibilidad de los obstáculos."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 92. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 92,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 92
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-93",
+    "topicId": "especifico-41",
+    "prompt": "Según el Real Decreto 1215/1997, de 18 de julio, por el que se establecen las disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo y las normas UNE-EN 280 sobre “Plataformas elevadoras móviles de personal”, la conducción de equipos de trabajo automotores estará reservada a los trabajadores que hayan recibido una formación específica. Dicha certificación:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tiene una vigencia de 3 años desde su expedición. Para llevar a cabo la renovación, el operario debe volver a realizar la formación específica."
+      },
+      {
+        "id": "B",
+        "text": "Tiene una vigencia de 5 años desde su expedición Para llevar a cabo la renovación, el operario debe volver a realizar la formación específica."
+      },
+      {
+        "id": "C",
+        "text": "Tiene una vigencia de 5 años desde su expedición. Para llevar a cabo la renovación, el operario debe demostrar un uso continuado del equipo y realizar un curso de actualización."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 93. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 93,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 93
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-94",
+    "topicId": "especifico-41",
+    "prompt": "Según Ley 54/2003, de 12 de diciembre, de reforma del marco normativo de la prevención de riesgos laborales, la presencia en el centro de trabajo de los recursos preventivos, cualquiera que sea la modalidad de organización de dichos recursos, será necesaria en los siguientes casos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuando se realicen actividades o procesos que sean considerados como peligrosos o con riesgos especiales de acuerdo con la Ley"
+      },
+      {
+        "id": "B",
+        "text": "Cuando la necesidad de dicha presencia sea requerida por la Inspección de Trabajo y Seguridad Social, en cualquier caso."
+      },
+      {
+        "id": "C",
+        "text": "Cuando los riesgos puedan verse agravados o modificados en el desarrollo del proceso o la actividad, por la concurrencia de operaciones diversas que se desarrollan sucesiva o simultáneamente y que hagan preciso el control de la correcta aplicación de los métodos de trabajo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 94. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 94,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 94
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-95",
+    "topicId": "especifico-41",
+    "prompt": "Según la clasificación de los láseres en función de las categorías de riesgos según la norma UNE EN 60825-1, en el caso de utilización de equipos láser de las clases más peligrosas (Clase 3 B y Clase 4)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las medidas preventivas establecidas deberán garantizar el establecimiento de un área controlada. Además, los operadores de estos equipos láser deben haber recibido formación específica para su utilización segura."
+      },
+      {
+        "id": "B",
+        "text": "Se seleccionarán, preferentemente, los equipos láser de clase más baja para su utilización en el desarrollo del evento, evitando el uso de los equipos de clase 4. Es recomendable la designación de un “responsable de seguridad láser” cuya presencia sería sustitutoria de la figura del técnico de prevención."
+      },
+      {
+        "id": "C",
+        "text": "Ambas son correctas."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 95. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 95,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 95
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-97",
+    "topicId": "especifico-39",
+    "prompt": "¿Es posible funcionar el software Qlab v3.X con una licencia 4.X?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, a partir de la v 3.2 QLab puede conectarse al administrador de licencias y sí es posible"
+      },
+      {
+        "id": "B",
+        "text": "No, no es posible. Las licencias de las v 4.X no son compatibles con las versiones anteriores por el nuevo sistema de administración de las mismas"
+      },
+      {
+        "id": "C",
+        "text": "Las licencias de Qlab son válidas para todas las versiones"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 97. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 97,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 97
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-98",
+    "topicId": "especifico-39",
+    "prompt": "En Qlab, los grupos de cues:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Siempre ejecutan todos los hijos simultáneamente avanzando el puntero al siguiente cue después del grupo, por lo que es importante asignar tiempos de prewait dentro del mismo"
+      },
+      {
+        "id": "B",
+        "text": "Es posible seleccionar si queremos que todos los hijos se ejecuten simultáneamente como también podemos elegir si queremos que se ejecute el primer hijo, en cuyo caso el puntero avanzará al siguiente cue, ejecutando los demás hijos del grupo SÓLO si están en autocontinue o autofollow"
+      },
+      {
+        "id": "C",
+        "text": "Ninguna de las anteriores es correcta"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 98. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 98,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 98
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-99",
+    "topicId": "especifico-39",
+    "prompt": "Para activar las funcionalidades MIDI, networking, show control, scripting, y workflow, necesitamos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cualquier licencia"
+      },
+      {
+        "id": "B",
+        "text": "Únicamente con la licencia de Audio"
+      },
+      {
+        "id": "C",
+        "text": "Las funcionalidades MIDI, networking, show control se activan con cualquier licencia, pero show control, scripting, y workflow sólo se activan con el producto en propiedad: no están disponibles en el modo “rent to own”"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 99. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 99,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 99
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-100",
+    "topicId": "especifico-39",
+    "prompt": "En las configuraciones del workspace de Qlab, con respecto a los mensajes MIDI Show Control:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es posible elegir si se quieren utilizar controles musicales en lugar de mensajes MSC pero siempre se envían broadcast a todos los canales MIDI (any)"
+      },
+      {
+        "id": "B",
+        "text": "Únicamente es posible utilizar mensajes específicos de Control de Show, pero se puede elegir a qué canal se envían así como también elegir el modo “any”"
+      },
+      {
+        "id": "C",
+        "text": "Ninguna de las anteriores es correcta"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 100. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 100,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 100
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-101",
+    "topicId": "especifico-39",
+    "prompt": "¿Es posible controlar Qlab mediante comandos OSC?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, Qlab puede enviar como recibir mensajes de control via OSC."
+      },
+      {
+        "id": "B",
+        "text": "No, no es posible. Qlab sólo puede enviar mensajes de control OSC."
+      },
+      {
+        "id": "C",
+        "text": "Únicamente a partir de la versión 4."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 101. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 101,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 101
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-102",
+    "topicId": "especifico-39",
+    "prompt": "Con respecto al audio en QLab",
+    "options": [
+      {
+        "id": "A",
+        "text": "La asignación de salidas de audio se corresponde a las seleccionadas a nivel sistema operativo"
+      },
+      {
+        "id": "B",
+        "text": "El patch de ruteo permite asignar la salida general de audio del programa a las distintas salidas del dispositivo seleccionado"
+      },
+      {
+        "id": "C",
+        "text": "El patch de ruteo permite asignar las salidas de cada cue a las distintas salidas del dispositivo seleccionado"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 102. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 102,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 102
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-103",
+    "topicId": "especifico-36",
+    "prompt": "La figura que se encarga de determinar las necesidades, supervisar y regir los procesos técnicos y artísticos durante los ensayos y representaciones de espectáculos en vivo y eventos de acuerdo al proyecto artístico y a los criterios de calidad y seguridad establecidos, las características del espacio escénico y los condicionantes técnicos, económicos, humanos y de seguridad, para artistas, técnicos y público asistente, es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El ayudante de producción"
+      },
+      {
+        "id": "B",
+        "text": "El regidor"
+      },
+      {
+        "id": "C",
+        "text": "El jefe de producción"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 103. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 103,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 103
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-104",
+    "topicId": "especifico-01",
+    "prompt": "El título de Técnico Superior en Producción de Audiovisuales y Espectáculos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un título de formación profesional de grado superior"
+      },
+      {
+        "id": "B",
+        "text": "Es un grado universitario implantado en el Espacio Europeo de Educación Superior después del Plan Bolonia"
+      },
+      {
+        "id": "C",
+        "text": "En el currículo nacional. No existe el título de Técnico Superior en Producción de Audiovisuales y Espectáculos, únicamente los de Técnico Superior en Producción de Audiovisuales, Radio y Espectáculos y Técnico Especialista en Producción de Programas, rama Imagen y Sonido"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 104. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 104,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 104
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-105",
+    "topicId": "especifico-32",
+    "prompt": "Quien se encarga de montar y gestionar la escenografía en un espectáculo en vivo en condiciones cambiantes de explotación, de acuerdo al proyecto artístico, las características del local de representación, los condicionantes técnicos, económicos, humanos y de seguridad para el público asistente, artistas y trabajadores, organizando, supervisando, instalando, realizando labores de mantenimiento y operando los equipos y sistemas, es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El equipo de maquinaria escénica"
+      },
+      {
+        "id": "B",
+        "text": "El escenógrafo"
+      },
+      {
+        "id": "C",
+        "text": "El equipo de utilería"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 105. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 105,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 105
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-106",
+    "topicId": "especifico-33",
+    "prompt": "A los sonidos que forman parte de un espectáculo y cuya emisión no puede ubicarse en el espacio representado los conocemos como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sonidos no realistas"
+      },
+      {
+        "id": "B",
+        "text": "Efectos especiales (FX)"
+      },
+      {
+        "id": "C",
+        "text": "Sonidos extradiegéticos"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 106. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 106,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 106
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-107",
+    "topicId": "especifico-37",
+    "prompt": "A la hoja que se realiza el día anterior donde figura el programa de trabajo, avisos y convocatorias o cualquier información relevante para la compañía, que prima ante cualquier calendario o disposición de trabajo y que se coloca, de manera física, en un lugar visible para todos los que vayan a intervenir en dichos trabajos, la conocemos como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tablilla"
+      },
+      {
+        "id": "B",
+        "text": "Citación"
+      },
+      {
+        "id": "C",
+        "text": "Llamada"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 107. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 107,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 107
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-108",
+    "topicId": "especifico-37",
+    "prompt": "Un ensayo de movimiento y cambios (de escena, de iluminación, de videoescena, sonido...), es decir, de todos los elementos técnicos que intervienen en la puesta en escena: luces, maquinaria, utilería, sonido, video, etc., terminados y montados, se llama:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ensayo técnico"
+      },
+      {
+        "id": "B",
+        "text": "Ensayo a la italiana"
+      },
+      {
+        "id": "C",
+        "text": "Pasada"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 108. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 108,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 108
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-109",
+    "topicId": "especifico-30",
+    "prompt": "El documento que detalla las necesidades y especificaciones técnicas de un espectáculo para su adecuada realización, se llama:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rider técnico"
+      },
+      {
+        "id": "B",
+        "text": "Cuaderno de dirección"
+      },
+      {
+        "id": "C",
+        "text": "Script"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 109. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 109,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 109
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sonido-2023-110",
+    "topicId": "especifico-38",
+    "prompt": "Las competencias de coordinar los aspectos técnicos y logísticos de la representación de un espectáculo en vivo o evento en los ámbitos de las necesidades de los artistas y las relativas al público, participando en el establecimiento del proyecto técnico de exhibición; desarrollando los procesos de planificación y supervisión del montaje, servicio a función y desmontaje; así como el mantenimiento y almacenamiento de los medios técnicos, garantizando la seguridad, la fidelidad al proyecto artístico y el respeto al marco económico de producción en condiciones cambiantes de explotación, corresponden a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La asistencia a la dirección técnica"
+      },
+      {
+        "id": "B",
+        "text": "La ayudantía de dirección"
+      },
+      {
+        "id": "C",
+        "text": "La jefatura de producción"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 110. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Sonido para Audiovisuales y Espectáculos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 110,
+      "label": "M1 Cultura · Sonido para Audiovisuales y Espectáculos · 2023",
+      "questionNumber": 110
+    },
+    "active": true,
+    "optionCount": 3
+  }
+]

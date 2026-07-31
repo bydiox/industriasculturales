@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "m1-cultura-sastreria-2023-31",
+    "topicId": "especifico-06",
+    "prompt": "¿Con qué oficio escénico se puede relacionar el nombre de Bob Wilson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Director de escena"
+      },
+      {
+        "id": "B",
+        "text": "Diseñador de vestuario"
+      },
+      {
+        "id": "C",
+        "text": "Actor"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 31. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 31,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 31
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-32",
+    "topicId": "especifico-35",
+    "prompt": "En una puesta en escena, piden a la sección de Sastrería preparar un cambio de vestuario en el proscenio. Esto significa que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El vestuario debe situarse en la parte posterior del escenario."
+      },
+      {
+        "id": "B",
+        "text": "Los cambios de vestuario se preparan siempre fuera de la vista del público, luego esa indicación es errónea."
+      },
+      {
+        "id": "C",
+        "text": "El vestuario debe situarse en la parte del escenario que se encuentra más próxima al público."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 32. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 32,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 32
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-33",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál es la aportación principal del diseñador de vestuario INIGO JONES al diseño de vestuario europeo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sentó las bases de la mascarada de corte en Inglaterra en el siglo XVII."
+      },
+      {
+        "id": "B",
+        "text": "Desarrolló el vestuario para el ballet en el siglo XVIII."
+      },
+      {
+        "id": "C",
+        "text": "Diseñó vestuarios para las puestas en escena de los Ballets rusos de Diaghilev, a principios del siglo XX."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 33. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 33,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 33
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-34",
+    "topicId": "especifico-35",
+    "prompt": "Dentro del equipo técnico de un teatro, a qué sección corresponde el mantenimiento, la limpieza, el planchado y la reparación de las patas y las bambalinas.",
+    "options": [
+      {
+        "id": "A",
+        "text": "A la Sección de Maquinaria."
+      },
+      {
+        "id": "B",
+        "text": "A la Sección de Sastrería."
+      },
+      {
+        "id": "C",
+        "text": "A la Sección de Utilería."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 34. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 34,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 34
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-35",
+    "topicId": "especifico-35",
+    "prompt": "Durante el proceso de realización de un vestuario escénico, ¿Debe asistir el figurinista a las pruebas de vestuario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, ya que el figurinista se encarga únicamente del dibujo y diseño de los trajes, y el taller de realización de vestuario debe resolver todo lo referente a la confección."
+      },
+      {
+        "id": "B",
+        "text": "No, con el equipo de sastrería del teatro y el personal del taller de realización es suficiente."
+      },
+      {
+        "id": "C",
+        "text": "Sí, ya que las decisiones que se tomen en las pruebas de vestuario serán fundamentales."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 35. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 35,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 35
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-36",
+    "topicId": "especifico-31",
+    "prompt": "Qué es un bambalinón:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un telón de gasa que se sitúa en cualquier parte del escenario."
+      },
+      {
+        "id": "B",
+        "text": "Es la primera bambalina, situada en la embocadura del escenario."
+      },
+      {
+        "id": "C",
+        "text": "Es la primera bambalina, situada al fondo del escenario."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 36. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 36,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 36
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-37",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué debe hacer el personal de sastrería si estando entre cajas observa que un intérprete no lleva correctamente colocado el vestuario unos minutos antes de salir a escena?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Avisar a la regidora de escenario para que hable con él y no vuelva a suceder."
+      },
+      {
+        "id": "B",
+        "text": "Preguntar al intérprete por qué lleva el vestuario puesto de forma incorrecta y pedirle que la próxima vez lo haga bien."
+      },
+      {
+        "id": "C",
+        "text": "Colocarle el vestuario de forma correcta lo más rápidamente posible para que salga a escena vestido conforme al proyecto de vestuario."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 37. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 37,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 37
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-38",
+    "topicId": "especifico-38",
+    "prompt": "Estando de gira, cerca de la finalización de la jornada, el jefe/a técnico/a solicita el plan de trabajo del día siguiente al personal de sastrería para realizar la tablilla diaria. ¿Es correcto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No es correcto porque durante las giras, las tablillas diarias se realizan según el plan previo de trabajo previsto por el departamento de producción con varios meses de antelación."
+      },
+      {
+        "id": "B",
+        "text": "No es correcto porque no es competencia de sastrería realizar la estimación de horarios de la sección."
+      },
+      {
+        "id": "C",
+        "text": "Sí es correcto, porque es competencia del personal de sastrería comunicar el plan de trabajo del día siguiente según el formato establecido."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 38. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 38,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 38
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-39",
+    "topicId": "especifico-35",
+    "prompt": "Durante los ensayos con vestuario de un nuevo montaje, a requerimiento del equipo artístico, un cantante va a necesitar llevar una petaca de sonido que debería ir oculta en el traje y que no estaba prevista. En este caso el equipo de sastrería:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trabajará en coordinación con el personal técnico de sonido y de acuerdo con el figurinista si hubiera que realizar cambios en el diseño."
+      },
+      {
+        "id": "B",
+        "text": "No debe permitir que se hagan cambios en el vestuario ya que está terminado y debería haberse previsto con anterioridad."
+      },
+      {
+        "id": "C",
+        "text": "No es necesario que haga nada, ya que es competencia del personal técnico de sonido que se coordinará con el figurinista."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 39. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 39,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 39
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-40",
+    "topicId": "especifico-06",
+    "prompt": "¿En qué momento histórico se sitúa el nacimiento de la Ópera como género teatral?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Finales del siglo XIV, en Venecia."
+      },
+      {
+        "id": "B",
+        "text": "A principios del siglo XVIII, en Italia."
+      },
+      {
+        "id": "C",
+        "text": "A finales del siglo XVI o comienzos del siglo XVII en Italia."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 40. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 40,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 40
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-41",
+    "topicId": "especifico-35",
+    "prompt": "En el espectáculo en vivo, cuando se inician las representaciones: ¿Cuál de los siguientes perfiles profesionales se ocupa de controlar la llegada al lugar de representación de todo el personal técnico y artístico a la hora de la convocatoria?:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El jefe/a de sala."
+      },
+      {
+        "id": "B",
+        "text": "El personal de portería."
+      },
+      {
+        "id": "C",
+        "text": "El regidor/a."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 41. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 41,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 41
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-42",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es un coleto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un abrigo largo de cuero, de época clásica."
+      },
+      {
+        "id": "B",
+        "text": "Un tipo de sombrero de ala ancha, utilizado en el siglo XVII en la indumentaria civil."
+      },
+      {
+        "id": "C",
+        "text": "Una prenda superior de cuero, con o sin mangas que se utilizaba en torno al siglo XVI."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal. [Corrección del Tribunal Calificador, 22/03/2024, aplicada.]",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 42. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 42,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 42
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-43",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué entendemos por REDINGOTE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prenda de abrigo masculina y femenina, procedente del término riding-coat, muy utilizado en los siglos XIV y XV, acolchado."
+      },
+      {
+        "id": "B",
+        "text": "Abrigo masculino del siglo XVIII, procedente del término riding-coat, cuyo uso se extendió hasta la primera guerra mundial."
+      },
+      {
+        "id": "C",
+        "text": "Pantalón masculino del siglo XVIII, procedente del término riding-coat, cuyo uso se extendió hasta la primera guerra mundial."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal. [Corrección del Tribunal Calificador, 22/03/2024, aplicada.]",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 43. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 43,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 43
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-44",
+    "topicId": "especifico-35",
+    "prompt": "Durante la función, a un bailarín se le rompe la cremallera del pantalón y tiene unos minutos para salir a escena. ¿Qué debe hacer el personal de sastrería en este caso?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coser lo más rápidamente posible la cremallera de forma provisional para que pueda salir a escena y apuntar en el cuaderno de vestuario la revisión y reparación del pantalón para la próxima función."
+      },
+      {
+        "id": "B",
+        "text": "Sujetar con alfileres la cremallera, porque el material de costura está en sastrería, y apuntar en el cuaderno de vestuario la revisión y reparación del pantalón para la próxima función."
+      },
+      {
+        "id": "C",
+        "text": "Avisar rápidamente a regiduría de vestuario para que lo resuelva y a producción para que compre una cremallera."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal. [Corrección del Tribunal Calificador, 22/03/2024, aplicada.]",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 44. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 44,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 44
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-45",
+    "topicId": "especifico-35",
+    "prompt": "Para confeccionar unos adornos, el figurinista nos ha pedido elegir una tela no tejida. ¿Cuál de las siguientes elegiremos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chintz."
+      },
+      {
+        "id": "B",
+        "text": "Gamuza."
+      },
+      {
+        "id": "C",
+        "text": "Fieltro."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 45. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 45,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 45
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-46",
+    "topicId": "especifico-35",
+    "prompt": "Las medidas de los trazados de un patrón base:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se corresponden directamente con las medidas del cuerpo."
+      },
+      {
+        "id": "B",
+        "text": "Se corresponden con las medidas del cuerpo incluyendo el margen de costura estándar."
+      },
+      {
+        "id": "C",
+        "text": "Se corresponden con los trazados del cuerpo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 46. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 46,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 46
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-47",
+    "topicId": "especifico-35",
+    "prompt": "En la elaboración del proyecto de vestuario:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El mantenimiento y limpieza de vestuario se planifica de acuerdo a las características, ubicación y dotación de la sección de sastrería, entre otros condicionantes."
+      },
+      {
+        "id": "B",
+        "text": "El mantenimiento y limpieza de vestuario se planifica de acuerdo a lo establecido en los figurines previamente, entre otros condicionantes, así como de acuerdo al presupuesto total asignado a la partida de vestuario."
+      },
+      {
+        "id": "C",
+        "text": "El mantenimiento y limpieza de vestuario se planifica estrictamente de acuerdo al presupuesto asignado y al número de intérpretes de dicho proyecto."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 47. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 47,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 47
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-48",
+    "topicId": "especifico-35",
+    "prompt": "Identifica la definición correcta acerca del diseño de vestuario escénico:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El diseño de vestuario escénico se considera la parte más importante del proyecto escénico."
+      },
+      {
+        "id": "B",
+        "text": "El diseño de vestuario escénico se considera parte de otra disciplina: el diseño escénico."
+      },
+      {
+        "id": "C",
+        "text": "El diseño de vestuario escénico y el diseño escénico son disciplinas autónomas e independientes."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 48,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 48
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-49",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es un ESMOQUIN?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un tipo de traje de etiqueta masculino que consta de chaqueta y pantalón negro, aparecido a finales del siglo XIX, y que pervive en el traje contemporáneo."
+      },
+      {
+        "id": "B",
+        "text": "Es un tipo de traje masculino que surge a finales del siglo XVIII, entallado y con largos faldones por detrás."
+      },
+      {
+        "id": "C",
+        "text": "Es un tipo de traje de ceremonia, aparecido a finales del siglo XIX, que consta de chaqueta con faldones y pantalón rayado."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 49. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 49,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 49
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-50",
+    "topicId": "especifico-35",
+    "prompt": "Señala la definición correcta:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El bambalinón y los arlequines son elementos de decorado fijos y forman parte del arco de proscenio."
+      },
+      {
+        "id": "B",
+        "text": "El bambalinón y los arlequines forman parte del telón de boca."
+      },
+      {
+        "id": "C",
+        "text": "El bambalinón y los arlequines son elementos de decorado móviles y forman parte de la embocadura regulable."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 50. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 50,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 50
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-51",
+    "topicId": "especifico-35",
+    "prompt": "¿A qué temperatura debo poner la lavadora para lavar un jersey de punto de lana 100%?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La temperatura idónea es 60 grados para esponjar el tejido."
+      },
+      {
+        "id": "B",
+        "text": "Sin temperatura, es decir, que entre el agua de la red a la temperatura a la que esté para evitar cambios bruscos de temperatura en el lavado y el aclarado."
+      },
+      {
+        "id": "C",
+        "text": "El punto de lana no se puede lavar a máquina."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 51. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 51,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 51
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-52",
+    "topicId": "especifico-35",
+    "prompt": "En el proyecto de realización de un nuevo vestuario, la toma de medidas forma parte de las tareas de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El equipo o taller de realización de vestuario."
+      },
+      {
+        "id": "B",
+        "text": "El personal del teatro donde se estrenará la producción."
+      },
+      {
+        "id": "C",
+        "text": "El diseñador o diseñadora de vestuario."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 52. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 52,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 52
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-53",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se toma la medida del largo de hombro para hacer un patrón base?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Desde el hueco de las clavículas hasta el hueso del hombro."
+      },
+      {
+        "id": "B",
+        "text": "Midiendo de hombro a hombro y dividiendo entre dos."
+      },
+      {
+        "id": "C",
+        "text": "Desde el punto escote hombro hasta el hueso del hombro."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 53. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 53,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 53
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-54",
+    "topicId": "especifico-35",
+    "prompt": "Para hacer un patrón base del cuerpo delantero: ¿qué medidas utilizaré para dibujar el rectángulo inicial?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Largo del talle delantero y ½ del ancho delantero."
+      },
+      {
+        "id": "B",
+        "text": "Largo hasta la cintura y ½ del talle delantero."
+      },
+      {
+        "id": "C",
+        "text": "Largo del talle delantero y ¼ del contorno de pecho."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 54. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 54,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 54
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-55",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se corta un patrón al contra del hilo del tejido?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Colocando el hilo del patrón en la misma dirección al hilo del tejido."
+      },
+      {
+        "id": "B",
+        "text": "Colocando el hilo del patrón perpendicular al hilo del tejido."
+      },
+      {
+        "id": "C",
+        "text": "Colocando el hilo del patrón de manera vertical al hilo del tejido."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 55. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 55,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 55
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-56",
+    "topicId": "especifico-35",
+    "prompt": "¿A qué prenda o pieza nos referimos cuando hablamos de BRAHONES?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A unas piezas con forma de rollos que, colocadas en la unión del hombro con el brazo, producen el efecto de hombros más anchos, muy presente en el traje europeo desde el siglo XV al XVIII."
+      },
+      {
+        "id": "B",
+        "text": "A unas piezas que, colocadas desde la base del jubón o del cuerpo del vestido, cubren parcialmente la cadera, a modo de faldón, muy presentes en el traje europeo entre los siglos XV y XVII."
+      },
+      {
+        "id": "C",
+        "text": "A unas piezas que, colocadas por debajo de la sisa del jubón o del cuerpo del vestido, facilitan el movimiento del intérprete."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 56. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 56,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 56
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-57",
+    "topicId": "especifico-35",
+    "prompt": "Para realizar un patrón base, las medidas de contorno de pecho, cintura y cadera se tomarán:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lo más recto posible dejando como mínimo 1 cm de holgura entre el cuerpo y la cinta métrica."
+      },
+      {
+        "id": "B",
+        "text": "Lo más recto posible y ajustado, pero sin oprimir el cuerpo con la cinta métrica."
+      },
+      {
+        "id": "C",
+        "text": "Lo más recto y holgado posible entre el cuerpo y la cinta métrica."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 57. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 57,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 57
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-58",
+    "topicId": "especifico-06",
+    "prompt": "¿Con qué corriente escénica se puede relacionar al “Living Theatre”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teatro naturalista de mediados del siglo XX, en Londres."
+      },
+      {
+        "id": "B",
+        "text": "Teatro de los años 60 en Nueva York, relacionado con el happening y con el compromiso político."
+      },
+      {
+        "id": "C",
+        "text": "Teatro simbolista de principios del siglo XX, ubicado en París."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 58. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 58,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 58
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-59",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué se entiende en el patronaje a medida por “líneas de construcción”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son los aplomos verticales y horizontales de la prenda."
+      },
+      {
+        "id": "B",
+        "text": "Son las líneas que dan la forma deseada a la prenda."
+      },
+      {
+        "id": "C",
+        "text": "Son las líneas estructurales que se trazan al patronar."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 59. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 59,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 59
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-60",
+    "topicId": "especifico-35",
+    "prompt": "Señale la definición correcta:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los tejidos se comportan de diferente manera según la dirección en que se cortan; el bies es la parte más elástica y el contra la más resistente."
+      },
+      {
+        "id": "B",
+        "text": "Todos los tejidos cambian de brillo en función de su dirección de corte."
+      },
+      {
+        "id": "C",
+        "text": "Los tejidos se comportan de diferente manera según la dirección en que se cortan; el bies es la parte más elástica y el hilo la más resistente."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 60. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 60,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 60
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-61",
+    "topicId": "especifico-35",
+    "prompt": "Para la confección de una falda fruncida con cinturilla, de un tejido muy delicado, el figurinista nos ha pedido que cosamos a mano. ¿Qué técnica de costura utilizaremos para evitar que se formen pliegues?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Frunciremos a máquina apretando el tornillo del canillero, asegurando bien el inicio y uniremos a la cinturilla a mano con cuidado de que no se formen pliegues."
+      },
+      {
+        "id": "B",
+        "text": "Haremos 2 costuras con puntadas pequeñas con hilo doble, asegurando bien el inicio en dos líneas paralelas con 2 agujas, uniendo la falda y la cinturilla entre ambas líneas de frunce."
+      },
+      {
+        "id": "C",
+        "text": "Daremos puntadas largas con hilo doble asegurando bien el inicio y uniremos falda y cinturilla mediante la técnica de cosido y vuelto."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 61. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 61,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 61
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-62",
+    "topicId": "especifico-35",
+    "prompt": "Los tejidos correspondientes a los figurines de un proyecto de vestuario:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son definidos y escogidos por el diseñador o diseñadora o por el jefe o jefa de taller, indistintamente, y aceptados por el jefe de producción."
+      },
+      {
+        "id": "B",
+        "text": "Son definidos y elegidos por el diseñador o diseñadora. Para ello, puede contar con el asesoramiento del taller."
+      },
+      {
+        "id": "C",
+        "text": "Son definidos por el equipo de sastrería, a partir de los figurines diseñados."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 62. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 62,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 62
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-63",
+    "topicId": "especifico-35",
+    "prompt": "Estamos confeccionando un corsé con ballenas, y necesitamos sujetar las ballenas forradas al forro interior. ¿Cuál es la puntada Idónea para ello?:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Crucetilla."
+      },
+      {
+        "id": "B",
+        "text": "Puntada atrás."
+      },
+      {
+        "id": "C",
+        "text": "Punto escondido."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 63. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 63,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 63
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-64",
+    "topicId": "especifico-35",
+    "prompt": "En el desglose de figurines del proyecto de vestuario:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se especifican las prendas que se ven en el figurín, sin incluir tocados y calzado."
+      },
+      {
+        "id": "B",
+        "text": "Se especifican todas las prendas de cada figurín, incluyendo las interiores, aunque no se vean, además de tocados y calzado."
+      },
+      {
+        "id": "C",
+        "text": "No es necesario especificar las prendas, porque para ello están los figurines."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 64. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 64,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 64
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-65",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué material de los siguientes es el adecuado a la hora de realizar una estructura de verdugado para conservar la forma circular de la base?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La ballena de goma eva encintada."
+      },
+      {
+        "id": "B",
+        "text": "La ballena de acero forrada."
+      },
+      {
+        "id": "C",
+        "text": "La ballena de pvc reforzada."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 65. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 65,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 65
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-66",
+    "topicId": "especifico-35",
+    "prompt": "Por un cambio en el elenco tenemos que entallar un jubón de piel. ¿Cuál de las siguientes máquinas de coser sería la idónea para pasar la costura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La máquina de coser semi-industrial con aguja de punta de bola."
+      },
+      {
+        "id": "B",
+        "text": "La máquina recubridora."
+      },
+      {
+        "id": "C",
+        "text": "La máquina de coser de doble o triple arrastre."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 66. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 66,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 66
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-67",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es un “tontillo”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un elemento ahuecador, en forma de cono, que aparece en las faldas del traje femenino a finales del s. XV."
+      },
+      {
+        "id": "B",
+        "text": "Es un elemento ahuecador, utilizado en las faldas del traje femenino del siglo XVIII."
+      },
+      {
+        "id": "C",
+        "text": "Es un sombrero masculino de fieltro, de ala ancha y copa circular, usado en el s. XVII."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 67. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 67,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 67
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-68",
+    "topicId": "especifico-35",
+    "prompt": "Para evitar plagas de insectos en el almacén de vestuario entre otras actuaciones conviene:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Realizar inspecciones sistemáticas y periódicas."
+      },
+      {
+        "id": "B",
+        "text": "Almacenar los textiles en fundas de plástico herméticamente cerradas."
+      },
+      {
+        "id": "C",
+        "text": "Aumentar y disminuir bruscamente la temperatura del almacén sistemática y periódicamente para matar las posibles larvas."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 68. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 68,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 68
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-69",
+    "topicId": "especifico-35",
+    "prompt": "Los cambios de vestuario de personajes entre escenas y actos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deben ser definidos por el equipo de sastrería o por la persona responsable del mismo."
+      },
+      {
+        "id": "B",
+        "text": "Deben ser definidos por la dirección técnica del teatro."
+      },
+      {
+        "id": "C",
+        "text": "Deben ser definidos por el diseñador de vestuario en acuerdo con la dirección de escena."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 69. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 69,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 69
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-70",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de las siguientes puntadas se utiliza para marcar dos piezas de tejido al mismo tiempo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Puntos flojos."
+      },
+      {
+        "id": "B",
+        "text": "Hilos sueltos."
+      },
+      {
+        "id": "C",
+        "text": "Crucetilla floja."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 70. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 70,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 70
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-71",
+    "topicId": "especifico-35",
+    "prompt": "Realizar un seguimiento de los ensayos durante todo el proceso es una labor propia de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El equipo de realización de vestuario."
+      },
+      {
+        "id": "B",
+        "text": "La diseñadora o el diseñador de vestuario."
+      },
+      {
+        "id": "C",
+        "text": "El equipo de producción de ese montaje."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 71. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 71,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 71
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-72",
+    "topicId": "especifico-35",
+    "prompt": "Durante el montaje de un nuevo vestuario, el figurinista nos pregunta si tenemos algún retal lo más parecido posible a un pantalón que ha teñido con “índigo”, ¿qué gama de colores buscaremos en nuestro almacén de retales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Amarillos."
+      },
+      {
+        "id": "B",
+        "text": "Rojos."
+      },
+      {
+        "id": "C",
+        "text": "Azules."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 72. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 72,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 72
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-73",
+    "topicId": "especifico-35",
+    "prompt": "Por necesidades de la producción, tenemos que adaptar una chaqueta a un actor más grande que el actor original y aunque hemos sacado todas las costuras la manga sigue quedando estrecha. Disponemos de algo de tejido igual al del traje para el arreglo. ¿Cuál de las siguientes es una posible solución eficaz para ensancharla?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Añadir quillas del tejido en la costura."
+      },
+      {
+        "id": "B",
+        "text": "Cortar una manga más grande de tejido similar."
+      },
+      {
+        "id": "C",
+        "text": "Añadir más recorrido en la sisa, la copa y la bocamanga."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 73. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 73,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 73
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-74",
+    "topicId": "especifico-35",
+    "prompt": "¿A qué prenda o pieza nos referimos cuando hablamos de “brial”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es una coraza ligera realizada con tejidos fuertes o con piel y reforzada con elementos metálicos, propia de la Edad Media."
+      },
+      {
+        "id": "B",
+        "text": "Es un sobretodo aparecido en Castilla en la segunda mitad del s. XV, asociada al luto, a los letrados y a los doctores."
+      },
+      {
+        "id": "C",
+        "text": "Es una túnica talar con mangas estrechas, hecha con tejidos ricos, utilizada por hombres y mujeres en la Edad Media y que pervive hasta el s. XV."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 74. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 74,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 74
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-75",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de las siguientes afirmaciones es correcta para la toma de medidas de los intérpretes en la sastrería de un teatro?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se debe establecer un formato y aplicarse por todo el equipo de la sastrería."
+      },
+      {
+        "id": "B",
+        "text": "No es necesario establecer un formato, ya que la toma de medidas ya está formalizada y es de uso común."
+      },
+      {
+        "id": "C",
+        "text": "No es competencia del personal de sastrería de los teatros la toma de medidas de los intérpretes."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 75. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 75,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 75
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-76",
+    "topicId": "especifico-35",
+    "prompt": "A la hora de adaptar a un nuevo intérprete una camisa con manga acampanada, se tendrá en cuenta entre otras cosas:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El punto de quiebre de la línea de la silueta a partir del que se genera el volumen."
+      },
+      {
+        "id": "B",
+        "text": "El punto de torsión de la silueta de campana a partir del que se genera el ancho."
+      },
+      {
+        "id": "C",
+        "text": "El punto de quiebre de la línea de la silueta para poder cortar el volumen."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 76. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 76,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 76
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-77",
+    "topicId": "especifico-35",
+    "prompt": "¿A qué parte del zapato se refiere el figurinista si nos dice que quiere teñir la pala del zapato?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A la parte superior del zapato."
+      },
+      {
+        "id": "B",
+        "text": "A la lengüeta."
+      },
+      {
+        "id": "C",
+        "text": "A la puntera."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 77. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 77,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 77
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-78",
+    "topicId": "especifico-35",
+    "prompt": "Estamos de gira en una plaza donde NO tenemos disponible servicio de tintorería o limpieza en seco. Una camisa de seda de color blanco necesita limpiarse y plancharse porque se ha utilizado en varias funciones y tiene que pasar a otro intérprete. ¿Cuál sería la mejor forma de proceder para ello?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Limpiaremos la zona de las axilas con un paño mojado en agua caliente con amoniaco, para evitar el olor a transpiración; aplicaremos agua con suavizante en spray en el resto de la prenda para mantener el apresto, secaremos la prenda al aire y después, plancharemos a máxima temperatura."
+      },
+      {
+        "id": "B",
+        "text": "Lavaremos la prenda en un programa largo, a 60º, añadiendo un tapón de lejía en el cajetín del detergente y plancharemos del revés a máxima temperatura abriendo las costuras. Al terminar daremos un repaso por la parte exterior de la prenda."
+      },
+      {
+        "id": "C",
+        "text": "Lavaremos la prenda a mano o a máquina en un programa de lana con detergente neutro y después de envolverla en una toalla, la plancharemos húmeda, con el regulador de temperatura de la plancha en posición seda o temperatura media, empezando por el revés, levantando las costuras para que no se marquen por el otro lado. Al terminar daremos un repaso por la parte exterior de la prenda."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 78. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 78,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 78
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-79",
+    "topicId": "especifico-35",
+    "prompt": "¿A qué nos referimos cuando hablamos de una guía de madera, asta, metal u otro material rígido, que cubre y refuerza el contrafuerte interior del talón mientras el pie se introduce en el zapato?:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al cambrillón."
+      },
+      {
+        "id": "B",
+        "text": "A la cañeta."
+      },
+      {
+        "id": "C",
+        "text": "Al calzador."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 79. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 79,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 79
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-80",
+    "topicId": "especifico-35",
+    "prompt": "En un vestuario, tenemos varias camisas de color azul oscuro que necesitan lavado diario ¿Cómo podemos lavarlas para avivar el color y evitar que con los lavados vaya perdiendo intensidad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lavaremos con un detergente con blanqueante en un programa delicado y añadiremos suavizante en el último aclarado."
+      },
+      {
+        "id": "B",
+        "text": "Lavaremos con un detergente sin ningún tipo de blanqueante, añadiendo un vasito de vinagre en el último aclarado."
+      },
+      {
+        "id": "C",
+        "text": "Lavaremos con detergente sin ningún tipo de blanqueante y añadiremos amoniaco en el último aclarado, en lugar de suavizante."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 80. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 80,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 80
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-81",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es una “GOLILLA”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es una pieza de tela transparente aplicada al traje femenino que adornaba y cubría el cuello y el pecho, en el siglo XVII."
+      },
+      {
+        "id": "B",
+        "text": "Es un soporte de cartón forrado con tela sobre el que se colocaba la valona, en el siglo XVII."
+      },
+      {
+        "id": "C",
+        "text": "Es un remate del cuello o cabezón de la camisa, rizado, plisado o fruncido, que sobresalía por el escote, originado en el siglo XVI y que poco a poco se convirtió en un elemento independiente."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 81. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 81,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 81
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-82",
+    "topicId": "especifico-35",
+    "prompt": "Tenemos que realizar un miriñaque con ballena o varilla en rollo. Para ello:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Forraremos el rollo de ballena o varilla con bies doble y después cortaremos ambos materiales a la medida necesaria."
+      },
+      {
+        "id": "B",
+        "text": "Cortaremos las ballenas o varillas y después forraremos cada pieza con bies doble o con una funda que existe en el mercado para ello, dejando un margen de costura."
+      },
+      {
+        "id": "C",
+        "text": "Cortaremos las ballenas o varillas a la medida necesaria y después las uniremos con pegamento especial que existe en el mercado para ello."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 82. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 82,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 82
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-83",
+    "topicId": "especifico-35",
+    "prompt": "Durante los ensayos de un montaje de época, en el que el calzado se ha hecho a medida en un taller especializado, un intérprete nos indica que sus zapatos le oprimen porque le quedan estrechos y se encuentra incómodo. Para solucionarlo, habrá que llevarlo al taller para que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los introduzcan en la horma extendedora."
+      },
+      {
+        "id": "B",
+        "text": "Los introduzcan en la horma tensora."
+      },
+      {
+        "id": "C",
+        "text": "Los introduzcan en la horma asimétrica."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 83. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 83,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 83
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-84",
+    "topicId": "especifico-38",
+    "prompt": "Durante las giras: ¿Se aplican las medidas de conservación preventiva de vestuario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Siempre se hace una excepción en las giras por los condicionantes de tiempo."
+      },
+      {
+        "id": "B",
+        "text": "Se aplican las medidas preventivas que se hayan determinado en el proyecto."
+      },
+      {
+        "id": "C",
+        "text": "Se solicita permiso a Oficina Técnica para aplicar las medidas determinadas en el proyecto si el tiempo es insuficiente."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 84. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 84,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 84
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-85",
+    "topicId": "especifico-35",
+    "prompt": "Para pulir y recuperar el color de un zapato de piel, el procedimiento adecuado es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teñir de nuevo y aplicar barniz incoloro."
+      },
+      {
+        "id": "B",
+        "text": "Aplicar finas capas de betún a tono, con un paño enrollado en el dedo en movimientos circulares, aplicando 3 o 4 capas y esperando 15 minutos entre ellas para que penetre. Después frotar con un cepillo suave y con un paño de franela o similar."
+      },
+      {
+        "id": "C",
+        "text": "Lijar toda la superficie, aplicar acetona y por último frotar grasa de caballo aplicando 3 o 4 capas y esperando 15 minutos entre ellas para que penetre."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 85. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 85,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 85
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-86",
+    "topicId": "especifico-35",
+    "prompt": "Uno de los condicionantes a tener en cuenta por la sección de sastrería para elaborar el plan de trabajo de la sección es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El cumplimiento de la normativa de seguridad y prevención de riesgos."
+      },
+      {
+        "id": "B",
+        "text": "El plan económico."
+      },
+      {
+        "id": "C",
+        "text": "El diseño del plan de emergencias."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 86. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 86,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 86
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-87",
+    "topicId": "especifico-35",
+    "prompt": "En la tablilla técnica de mañana, leemos en el tramo horario de 20:00 a 20:30, “pasada técnica”. Por ello el personal de sastrería:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se asegurará de que no más tarde de las 20:30 esté todo el vestuario necesario distribuido y listo para el inicio de la función, comprobándolo en el tramo horario de 20:00 a 20:30."
+      },
+      {
+        "id": "B",
+        "text": "Procurará hacer la pasada cuando más le convenga a la sección para optimizar tiempos ya que la sección de sastrería suele tener horarios diferentes al resto de las secciones técnicas."
+      },
+      {
+        "id": "C",
+        "text": "Distribuirá el vestuario en el escenario antes de las 20:00, y tendrá hasta las 20:30 para hacer la pasada de camerinos."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 87. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 87,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 87
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-88",
+    "topicId": "especifico-35",
+    "prompt": "En el proceso de teñido con tintes naturales, ¿a qué nos referimos con “mordiente”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es una sustancia empleada para fijar permanentemente los tintes a los tejidos."
+      },
+      {
+        "id": "B",
+        "text": "Es una sustancia empleada para eliminar permanentemente los tintes de los tejidos."
+      },
+      {
+        "id": "C",
+        "text": "Es una sustancia empleada para facilitar la acción del asistente."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 88. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 88,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 88
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-89",
+    "topicId": "especifico-35",
+    "prompt": "Para preparar los camerinos de transformación diariamente para la función, tendremos en cuenta:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El espacio, la visibilidad y las sugerencias del intérprete."
+      },
+      {
+        "id": "B",
+        "text": "La documentación oportuna generada durante los ensayos para asegurar su reproducción diaria."
+      },
+      {
+        "id": "C",
+        "text": "El sentido común y el espacio disponible."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 89. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 89,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 89
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-90",
+    "topicId": "especifico-35",
+    "prompt": "Durante la representación, la sección de sastrería realizará la ayuda a los intérpretes para vestirse y desvestirse en:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diversas ubicaciones, según la documentación generada y la experiencia de los ensayos."
+      },
+      {
+        "id": "B",
+        "text": "Únicamente en los camerinos de transformación, donde se centralizan las mutaciones de vestuario."
+      },
+      {
+        "id": "C",
+        "text": "La sastrería, ya que no se permite la entrada de personal no autorizado al escenario."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 90. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 90,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 90
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-91",
+    "topicId": "especifico-35",
+    "prompt": "Tenemos que lavar y secar unos maillots de elastano de color blanco. ¿Cuál sería el procedimiento más adecuado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lavar a baja temperatura, con cualquier detergente y dejar secar al aire."
+      },
+      {
+        "id": "B",
+        "text": "Lavar a alta temperatura añadiendo lejía para blanquear y secar en secadora para esponjar la fibra."
+      },
+      {
+        "id": "C",
+        "text": "Lavar a cualquier temperatura con detergente alcalino y secar en secadora para esponjar la fibra."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 91. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 91,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 91
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-92",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es descrudar un tejido?:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aplicar permanganato para matar el color blanco."
+      },
+      {
+        "id": "B",
+        "text": "Eliminar el apresto de las telas nuevas con agua caliente y un tensoactivo."
+      },
+      {
+        "id": "C",
+        "text": "Matizar el aspecto del textil con el proceso de ambientación."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 92. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 92,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 92
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-93",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuándo se realiza la verificación del etiquetado y comprobación de las prendas del vestuario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al hacer la pasada diaria."
+      },
+      {
+        "id": "B",
+        "text": "Antes del montaje."
+      },
+      {
+        "id": "C",
+        "text": "Antes de la primera prueba de vestuario."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 93. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 93,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 93
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-94",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué significa el término “pasada de vestuario”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es el listado de vestuario donde vienen indicados los cambios de trajes y el tiempo que se necesita para hacerlos."
+      },
+      {
+        "id": "B",
+        "text": "Es el trabajo que hacen los/las técnicos/as de la sección de sastrería para poner a punto el vestuario para el inicio de la representación."
+      },
+      {
+        "id": "C",
+        "text": "Es el término referido al número de trajes de una producción, cuando sobrepasa los 10 intérpretes."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 94. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 94,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 94
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-95",
+    "topicId": "especifico-38",
+    "prompt": "Para poder realizar una correcta ejecución del montaje y desmontaje del vestuario en las giras:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El equipo de sastrería debe disponer de un listado de los trajes con las prendas detalladas de cada uno de los personajes."
+      },
+      {
+        "id": "B",
+        "text": "El director/a técnico/a debe hacer un listado completo de los trajes y todas las prendas que lo componen para planificar la recogida."
+      },
+      {
+        "id": "C",
+        "text": "El personal de carga y descarga del espacio de acogida debe disponer de un listado de los trajes con las prendas detalladas de cada uno de los personajes."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 95. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 95,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 95
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-96",
+    "topicId": "especifico-35",
+    "prompt": "A la hora de planificar la ubicación y almacenaje del vestuario escénico en el almacén, tendremos en cuenta que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los textiles se pueden almacenar con diferentes sistemas: almacenaje plano, almacenaje enrollado y almacenaje vertical."
+      },
+      {
+        "id": "B",
+        "text": "Los textiles siempre se deben guardar mediante almacenaje vertical."
+      },
+      {
+        "id": "C",
+        "text": "Los textiles no se pueden guardar mediante almacenaje enrollado."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 96. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 96,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 96
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-97",
+    "topicId": "especifico-38",
+    "prompt": "Durante las giras, el personal de sastrería:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tiene la obligación de leer la tablilla del día siguiente antes de salir del lugar de representación."
+      },
+      {
+        "id": "B",
+        "text": "Tiene la obligación de realizar la tablilla del día siguiente al llegar al lugar de representación."
+      },
+      {
+        "id": "C",
+        "text": "Tiene la obligación de formalizar la tablilla del día siguiente en el lugar de representación."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 97. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 97,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 97
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-98",
+    "topicId": "especifico-35",
+    "prompt": "Los tipos de costadillo que existen son:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Redondo, francés, italiano y Chanel."
+      },
+      {
+        "id": "B",
+        "text": "Redondo, francés, italiano y portugués."
+      },
+      {
+        "id": "C",
+        "text": "Redondo, inglés, francés y Chanel."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 98. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 98,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 98
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-99",
+    "topicId": "especifico-35",
+    "prompt": "A la hora de decidir la necesidad de incluir en la carga de vestuario percheros móviles para la próxima gira, la sección de sastrería:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se coordinará con la oficina técnica, quien proporcionará la información técnica necesaria sobre el espacio de acogida."
+      },
+      {
+        "id": "B",
+        "text": "Se coordinará con la empresa de transportes de manera independiente ya que forma parte de sus funciones."
+      },
+      {
+        "id": "C",
+        "text": "Se coordinará con la sección de producción para todo lo referente al espacio de acogida ya que así lo establece el protocolo de gira del espectáculo en vivo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 99. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 99,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 99
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-100",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo se puede recuperar la forma original de una pluma apelmazada?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se sumerge en agua hirviendo, se escurre y se seca al aire."
+      },
+      {
+        "id": "B",
+        "text": "Se cepilla y se le aplica unas gotas de suavizante."
+      },
+      {
+        "id": "C",
+        "text": "Se sumerge en agua fría, se escurre y se seca con secador."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 100. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 100,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 100
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-101",
+    "topicId": "especifico-35",
+    "prompt": "En un desmontaje, hay varios sombreros de copa que deben guardarse en el almacén de vestuario. ¿Cómo deberíamos colocarlos para evitar que se deformen?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En plano, con el ala hacia abajo, y rellenando la copa con abundante papel de forma que quede como suspendido."
+      },
+      {
+        "id": "B",
+        "text": "En plano, con la copa hacia abajo, y rellenando la copa con abundante papel de forma que quede como suspendido."
+      },
+      {
+        "id": "C",
+        "text": "En vertical colgado de una cinta de algodón de forma que quede como suspendido."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 101. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 101,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 101
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-102",
+    "topicId": "especifico-35",
+    "prompt": "La manera adecuada de aplicar el betún al calzado de piel es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mediante una capa fina y uniforme, esperando 10 minutos para que penetre antes de cepillar."
+      },
+      {
+        "id": "B",
+        "text": "Limpiar el zapato previamente con acetona y aplicar una capa fina después, cepillando a continuación."
+      },
+      {
+        "id": "C",
+        "text": "Aplicar una capa fina y uniforme de betún y cepillar con un cepillo suave enseguida para evitar el secado y distribuirlo de manera uniforme."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 102. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 102,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 102
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-103",
+    "topicId": "especifico-35",
+    "prompt": "En un almacén de vestuario los contenedores del mismo deben ser de un material y unas dimensiones:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Que permitan la circulación del aire para evitar la concentración de humedad."
+      },
+      {
+        "id": "B",
+        "text": "Que eviten la circulación del aire para aumentar la concentración de humedad."
+      },
+      {
+        "id": "C",
+        "text": "Que corten la circulación del aire para evitar la concentración de humedad."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 103. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 103,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 103
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-104",
+    "topicId": "especifico-06",
+    "prompt": "¿Cuál es la contribución de Adolph Appia a la puesta en escena europea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sus teorías sobre el vestuario y su relación con la puesta en escena, a mediados del siglo XX."
+      },
+      {
+        "id": "B",
+        "text": "Sus teorías sobre las nuevas formas de canto a principios del siglo XX."
+      },
+      {
+        "id": "C",
+        "text": "Sus teorías sobre la escenografía y la iluminación y su papel dramático, en la segunda mitad del s. XIX."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 104. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 104,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 104
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-105",
+    "topicId": "especifico-38",
+    "prompt": "La labor de ejecutar el correcto embalaje en contenedores adecuados del vestuario para su transporte en las giras, corresponde a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La empresa de transporte."
+      },
+      {
+        "id": "B",
+        "text": "La sección de producción."
+      },
+      {
+        "id": "C",
+        "text": "La sección de sastrería."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 105. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 105,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 105
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-106",
+    "topicId": "especifico-35",
+    "prompt": "En el costadillo francés:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los costadillos de delantero y espalda se unen en una sola pieza."
+      },
+      {
+        "id": "B",
+        "text": "El corte se lleva hasta un punto intermedio de la sisa."
+      },
+      {
+        "id": "C",
+        "text": "La pinza de costado se traslada al hombro."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 106. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 106,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 106
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-107",
+    "topicId": "especifico-35",
+    "prompt": "Para guardar el calzado en el almacén de vestuario, lo más adecuado es hacerlo:",
+    "options": [
+      {
+        "id": "A",
+        "text": "En plano, por pares, dejando un espacio entre ambos zapatos, y rellenarlos de papel libre de ácidos."
+      },
+      {
+        "id": "B",
+        "text": "En vertical por pares, en bolsa de algodón descrudado y junto al traje al que pertenecen."
+      },
+      {
+        "id": "C",
+        "text": "Enrollados en papel libre de ácido por unidad y en contenedores herméticos."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 107. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 107,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 107
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-108",
+    "topicId": "especifico-35",
+    "prompt": "Para realizar el patrón de una gola de 5 cms de altura comenzaremos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dibujando una tirilla de 5 cms de altura con el contorno necesario y sumando el cruce."
+      },
+      {
+        "id": "B",
+        "text": "Modelando la gola sobre un maniquí, con la altura y el contorno previsto."
+      },
+      {
+        "id": "C",
+        "text": "Dibujando un cuello marcando a 5 cms cada vuelta."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 108. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 108,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 108
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-109",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué son los “zaragüelles”?:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Calzones muy anchos, que solían ser confeccionados con género blanco, en especial lienzo o lino."
+      },
+      {
+        "id": "B",
+        "text": "Calzones hechos de paño, abombachados, que se ceñían por debajo de las rodillas."
+      },
+      {
+        "id": "C",
+        "text": "Cordones de cuero, colocados en la parte posterior del calzón, que adornan los trajes regionales del norte de la península."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 109. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 109,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 109
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-sastreria-2023-110",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es un TAHALÍ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un tipo de casco de perfil curvo partido, con cimera, utilizado en el siglo XVI."
+      },
+      {
+        "id": "B",
+        "text": "Nombre del calzón ceñido del torero, con botones en la parte baja de la pernera."
+      },
+      {
+        "id": "C",
+        "text": "Cinto con tirantes de cuero del que colgaba la vaina del sable o la bayoneta."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 110. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 110,
+      "label": "M1 Cultura · Gestión de Sastrería del Espectáculo en Vivo · 2023",
+      "questionNumber": 110
+    },
+    "active": true,
+    "optionCount": 3
+  }
+]

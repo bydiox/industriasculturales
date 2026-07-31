@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "m1-cultura-asistencia-2023-31",
+    "topicId": "especifico-06",
+    "prompt": "¿Quiénes son los tres grandes autores de la tragedia griega?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sófocles, Aristófanes y Eurípides."
+      },
+      {
+        "id": "B",
+        "text": "Eurípides, Aristófanes y Menandro."
+      },
+      {
+        "id": "C",
+        "text": "Esquilo, Sófocles y Eurípides."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 31. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 31,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 31
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-32",
+    "topicId": "especifico-06",
+    "prompt": "¿Cuáles de las siguientes partes de un teatro griego pertenecen a la escena o skena?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El theologeion (tejado donde se colocaban los dioses)."
+      },
+      {
+        "id": "B",
+        "text": "Orquestra (área en forma circular)."
+      },
+      {
+        "id": "C",
+        "text": "Kerkides (escaleras)."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 32. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 32,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 32
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-33",
+    "topicId": "especifico-06",
+    "prompt": "Según Guillermo Díaz-Plaja, en la obra de Shakespeare se distinguen tres períodos. ¿A cuál de ellos pertenece la obra La Tempestad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Período optimista, de juventud."
+      },
+      {
+        "id": "B",
+        "text": "Período sombrío, de madurez."
+      },
+      {
+        "id": "C",
+        "text": "Período de serenidad final."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 33. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 33,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 33
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-34",
+    "topicId": "especifico-06",
+    "prompt": "¿Cuál fue el seudónimo del fraile mercedario Gabriel Téllez?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lope de Vega."
+      },
+      {
+        "id": "B",
+        "text": "Tirso de Molina."
+      },
+      {
+        "id": "C",
+        "text": "Calderón de la Barca."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 34. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 34,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 34
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-35",
+    "topicId": "especifico-31",
+    "prompt": "Según Javier López de Guereñu, en su libro Decorado y Tramoya, uno de los requisitos más deseables en un escenario es que el suelo sea:",
+    "options": [
+      {
+        "id": "A",
+        "text": "De madera de pino con un grosor mínimo de 32 mm."
+      },
+      {
+        "id": "B",
+        "text": "De madera de haya con un grosor mínimo de 50 mm."
+      },
+      {
+        "id": "C",
+        "text": "De madera conglomerada de serrín prensado con un grosor mínimo de 26 mm."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 35. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 35,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 35
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-36",
+    "topicId": "especifico-06",
+    "prompt": "¿Dónde se situaba “la tertulia” en los corrales de comedias?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En unas tribunas situadas en los laterales del patio."
+      },
+      {
+        "id": "B",
+        "text": "En frente del escenario, encima de la alojería."
+      },
+      {
+        "id": "C",
+        "text": "En la parte más alta del corral, encima de la cazuela."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 36. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 36,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 36
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-37",
+    "topicId": "especifico-12",
+    "prompt": "¿A qué área de gestión pertenece el marketing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Área de Medios de Producción."
+      },
+      {
+        "id": "B",
+        "text": "Área de Financiación."
+      },
+      {
+        "id": "C",
+        "text": "Área de Explotación."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 37. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 37,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 37
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-38",
+    "topicId": "especifico-12",
+    "prompt": "Entre las principales ratios aplicables a las artes escénicas se encuentra la eficiencia. ¿Qué es?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es el porcentaje de lo conseguido respecto a lo planificado. Mide la capacidad de alcanza lo que nos proponemos."
+      },
+      {
+        "id": "B",
+        "text": "Es la relación porcentual entre el beneficio y el total de facturación."
+      },
+      {
+        "id": "C",
+        "text": "Es la relación entre lo conseguido y el esfuerzo realizado."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 38. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 38,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 38
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-39",
+    "topicId": "especifico-12",
+    "prompt": "¿Cuál de las siguientes es una característica del modelo de producción de las compañías independientes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Volumen de producción escaso y nunca simultáneo."
+      },
+      {
+        "id": "B",
+        "text": "Estructura empresarial estable."
+      },
+      {
+        "id": "C",
+        "text": "Especialización en espectáculos de gran formato."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 39. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 39,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 39
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-40",
+    "topicId": "especifico-36",
+    "prompt": "Según el Instituto Nacional de las Cualificaciones Profesionales, ¿qué departamento debería elaborar la ficha técnica del espectáculo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El departamento de producción."
+      },
+      {
+        "id": "B",
+        "text": "El departamento de dirección técnica."
+      },
+      {
+        "id": "C",
+        "text": "El departamento de regiduría."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 40. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 40,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 40
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-41",
+    "topicId": "especifico-36",
+    "prompt": "Según el Instituto Nacional de las Cualificaciones Profesionales, ¿qué departamento debería introducir en el dossier la información relevante del espectáculo proveniente de los distintos departamentos implicados?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El departamento de producción."
+      },
+      {
+        "id": "B",
+        "text": "El departamento de dirección técnica."
+      },
+      {
+        "id": "C",
+        "text": "El departamento de regiduría."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 41. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 41,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 41
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-42",
+    "topicId": "especifico-36",
+    "prompt": "¿Para qué sirve la ficha técnica EN EL ESPECTÁCULO EN VIVO?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Para calcular la rentabilidad del espectáculo y su posible contratación."
+      },
+      {
+        "id": "B",
+        "text": "Para documentar y comunicar a terceros las características y condiciones técnicas de explotación."
+      },
+      {
+        "id": "C",
+        "text": "Para la tramitación de los visados y permisos necesarios para su explotación."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 42. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 42,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 42
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-43",
+    "topicId": "especifico-36",
+    "prompt": "¿De qué se encarga el departamento de regiduría?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se encarga de controlar el escenario durante los ensayos y las representaciones con la responsabilidad de dar las señales que coordinan el trabajo de los actores y técnicos (iluminación, sonido, maquinaria, etc.)."
+      },
+      {
+        "id": "B",
+        "text": "Tiene la responsabilidad general de la organización técnica de la producción, incluyendo la supervisión de escenarios y los ensayos técnicos."
+      },
+      {
+        "id": "C",
+        "text": "Se encarga de coordinar y supervisar el trabajo de los actores durante los ensayos y haciendo correcciones, marcando los movimientos en escena."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 43. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 43,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 43
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-44",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué departamento se encarga de las políticas de comunicación y ventas en un teatro?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Departamento de Financiación."
+      },
+      {
+        "id": "B",
+        "text": "Departamento de Producción."
+      },
+      {
+        "id": "C",
+        "text": "Departamento de Marketing."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 44. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 44,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 44
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-45",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué personal está incluido en la “ficha artística” del programa de mano?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Actores, músicos, escenógrafos."
+      },
+      {
+        "id": "B",
+        "text": "Tramoyistas, músicos, peluqueros."
+      },
+      {
+        "id": "C",
+        "text": "Director, actores, técnicos de sonido."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 45. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 45,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 45
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-46",
+    "topicId": "especifico-01",
+    "prompt": "En el organigrama de una compañía teatral, ¿a qué equipo de trabajo pertenece regiduría?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al equipo técnico."
+      },
+      {
+        "id": "B",
+        "text": "Al equipo artístico."
+      },
+      {
+        "id": "C",
+        "text": "Al equipo de producción."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 46. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 46,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 46
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-47",
+    "topicId": "especifico-01",
+    "prompt": "En el organigrama de un teatro, ¿a qué equipo de trabajo pertenece el personal de sala?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al equipo técnico."
+      },
+      {
+        "id": "B",
+        "text": "Al equipo de dirección técnica."
+      },
+      {
+        "id": "C",
+        "text": "Al equipo de gerencia."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 47. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 47,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 47
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-48",
+    "topicId": "especifico-41",
+    "prompt": "¿A quién corresponde la función de la vigilancia y control de la normativa sobre prevención de riesgos laborales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al Instituto Nacional de Seguridad e Higiene en el Trabajo."
+      },
+      {
+        "id": "B",
+        "text": "A la Inspección de Trabajo y Seguridad Social."
+      },
+      {
+        "id": "C",
+        "text": "A la Comisión Nacional de Seguridad y Salud en el Trabajo."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 48,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 48
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-49",
+    "topicId": "especifico-41",
+    "prompt": "¿Cuál de los siguientes NO es un principio de la actividad preventiva?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Evitar los riesgos."
+      },
+      {
+        "id": "B",
+        "text": "Evaluar los riesgos que no se puedan evitar."
+      },
+      {
+        "id": "C",
+        "text": "Adoptar medidas que antepongan la protección individual a la colectiva."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 49. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 49,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 49
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-50",
+    "topicId": "especifico-41",
+    "prompt": "¿Quién adoptará las medidas necesarias para que aquellos equipos de trabajo sometidos a influencias susceptibles de ocasionar deterioros, que puedan generar situaciones peligrosas, estén sujetos a comprobaciones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El empresario."
+      },
+      {
+        "id": "B",
+        "text": "El delegado de prevención."
+      },
+      {
+        "id": "C",
+        "text": "El trabajador."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 50. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 50,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 50
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-51",
+    "topicId": "especifico-41",
+    "prompt": "Según la normativa de seguridad y prevención de riesgos laborales, ¿cuál de las siguientes es una obligación de los trabajadores?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La paralización de la actividad en caso de riesgo grave o inminente."
+      },
+      {
+        "id": "B",
+        "text": "Usar adecuadamente los medios y equipos de protección y los dispositivos de seguridad existentes."
+      },
+      {
+        "id": "C",
+        "text": "La evaluación de riesgos del puesto de trabajo."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 51. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 51,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 51
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-52",
+    "topicId": "especifico-41",
+    "prompt": "Cuando en un mismo centro de trabajo desarrollen actividades trabajadores de varias empresas y/o trabajadores autónomos, éstas deberán:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Informarse al finalizar las actividades."
+      },
+      {
+        "id": "B",
+        "text": "Cooperar en la aplicación de la normativa."
+      },
+      {
+        "id": "C",
+        "text": "Flexibilizar la aplicación de las medidas."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 52. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 52,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 52
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-53",
+    "topicId": "especifico-41",
+    "prompt": "El mantenimiento que consiste en programar las intervenciones o cambios de algunos componentes o piezas según intervalos predeterminados de tiempo, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mantenimiento correctivo."
+      },
+      {
+        "id": "B",
+        "text": "Mantenimiento predictivo."
+      },
+      {
+        "id": "C",
+        "text": "Mantenimiento preventivo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 53. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 53,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 53
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-54",
+    "topicId": "especifico-41",
+    "prompt": "La relación que existe entre la altura a la que se puede caer una persona y la longitud de la cuerda que parará la caída, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Factor de caída."
+      },
+      {
+        "id": "B",
+        "text": "Factor de seguridad."
+      },
+      {
+        "id": "C",
+        "text": "Factor de protección."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 54. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 54,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 54
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-55",
+    "topicId": "especifico-41",
+    "prompt": "Al trabajador designado o asignado con unos conocimientos, cualificación, experiencia y dotado con medios suficientes para vigilar el cumplimiento de las actividades preventivas en determinados supuestos y situaciones de especial riesgo y peligrosidad, se le denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coordinador de actividades preventivas."
+      },
+      {
+        "id": "B",
+        "text": "Coordinador de seguridad y salud"
+      },
+      {
+        "id": "C",
+        "text": "Recurso preventivo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 55. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 55,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 55
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-56",
+    "topicId": "especifico-36",
+    "prompt": "¿Qué es el cuaderno ATA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un cuaderno donde el actor conserva los textos correspondientes a su papel y en el que puede hacer anotaciones."
+      },
+      {
+        "id": "B",
+        "text": "Es un documento aduanero internacional que puede utilizarse para la administración temporal de mercancías, exentas de derechos de importación y libres de impuestos."
+      },
+      {
+        "id": "C",
+        "text": "Es el cuaderno que reúne las fichas técnicas de la producción escénica."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 56. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 56,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 56
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-57",
+    "topicId": "especifico-38",
+    "prompt": "¿Quién se ocupa de coordinar la entrada de los espectadores?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El regidor y el jefe de sala."
+      },
+      {
+        "id": "B",
+        "text": "El gerente y el jefe de sala."
+      },
+      {
+        "id": "C",
+        "text": "El ayudante de dirección técnica y el jefe de sala."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 57. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 57,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 57
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-58",
+    "topicId": "especifico-06",
+    "prompt": "En el género lírico, ¿qué es un ensayo antepiano?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ensayo general en el que se pasa el espectáculo al completo, incluido el vestuario y la caracterización, pero que aún no cuenta con la participación de la orquesta."
+      },
+      {
+        "id": "B",
+        "text": "Ensayo anterior al ensayo general en el que participa el segundo elenco y la orquesta."
+      },
+      {
+        "id": "C",
+        "text": "Ensayo musical en el que todos los cantantes de la producción se sitúan sentados sobre el escenario y cantan toda la pieza acompañados de la orquesta al completo situada en el foso."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 58. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 58,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 58
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-59",
+    "topicId": "especifico-34",
+    "prompt": "¿Cuál es el elemento más habitual de almacenaje de los equipos de iluminación, audiovisual, utilería y vestuario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los Igloo."
+      },
+      {
+        "id": "B",
+        "text": "Los Unit Load Device (ULD)."
+      },
+      {
+        "id": "C",
+        "text": "Los flight case."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 59. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 59,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 59
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-60",
+    "topicId": "especifico-38",
+    "prompt": "¿Cuál es una de las tareas primordiales a tener en cuenta cuando se va de gira para el departamento de dirección técnica?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La contratación de los recursos humanos necesarios."
+      },
+      {
+        "id": "B",
+        "text": "La adaptación de los planes de trabajo."
+      },
+      {
+        "id": "C",
+        "text": "La citación del personal y el control de asistencia."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 60. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 60,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 60
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-61",
+    "topicId": "especifico-38",
+    "prompt": "¿Quién convoca y dirige la reunión previa al desmontaje de todos los participantes en el mismo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los responsables de los distintos departamentos."
+      },
+      {
+        "id": "B",
+        "text": "El departamento de regiduría."
+      },
+      {
+        "id": "C",
+        "text": "El departamento de dirección técnica."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 61. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 61,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 61
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-62",
+    "topicId": "especifico-36",
+    "prompt": "¿Qué departamento controla el reparto de materiales en escenario, sala, sastrería, camerinos y demás espacios anexos, verificando que se realiza según el orden previsto y en los espacios habilitados para cada sección?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El de carga y descarga."
+      },
+      {
+        "id": "B",
+        "text": "El de dirección técnica."
+      },
+      {
+        "id": "C",
+        "text": "El de producción."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 62. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 62,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 62
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-63",
+    "topicId": "especifico-30",
+    "prompt": "¿Qué es la chácena?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un mecanismo de rueda acanalada en su circunferencia y móvil alrededor de un eje."
+      },
+      {
+        "id": "B",
+        "text": "Es un área provista de raíles para transportar la maquinaria escénica."
+      },
+      {
+        "id": "C",
+        "text": "Es un área de techo alto de almacenamiento de decorados, bastidores y trastos."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 63. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 63,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 63
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-64",
+    "topicId": "especifico-31",
+    "prompt": "En el ámbito de la maquinaria y espacio escénico, ¿qué es una alcahueta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Superficie de madera o metálica con ruedas para colocar en ella decorados u otros elementos de la escenografía."
+      },
+      {
+        "id": "B",
+        "text": "Telón de grandes dimensiones que cubre todo el fondo de la escena."
+      },
+      {
+        "id": "C",
+        "text": "Bastidor que afora ambos laterales en primer término de la escena."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 64. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 64,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 64
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-65",
+    "topicId": "especifico-31",
+    "prompt": "El telón recortado, de forma que se revela parcialmente la escenografía que está detrás, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ferma."
+      },
+      {
+        "id": "B",
+        "text": "Rompimiento."
+      },
+      {
+        "id": "C",
+        "text": "Telón a la italiana."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 65. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 65,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 65
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-66",
+    "topicId": "especifico-32",
+    "prompt": "¿Qué es la soldadura autógena?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un tipo de soldadura que no necesita de un aporte de otro material."
+      },
+      {
+        "id": "B",
+        "text": "Es un tipo de soldadura que necesita un material de aporte como electrodos."
+      },
+      {
+        "id": "C",
+        "text": "Es un tipo de soldadura en el cual el arco se genera inmerso en un fluido."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 66. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 66,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 66
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-67",
+    "topicId": "especifico-31",
+    "prompt": "En un sistema de americana, ¿qué es un carrito?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una de las poleas que hacen que el sistema se mueva."
+      },
+      {
+        "id": "B",
+        "text": "Una de las piezas que sirve para tensar la cuerda."
+      },
+      {
+        "id": "C",
+        "text": "Una de las muchas piezas de donde se suspenden los telones o cortinas."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 67. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 67,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 67
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-68",
+    "topicId": "especifico-32",
+    "prompt": "Son tareas propias de la maquinaria escénica:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La planificación del mantenimiento de los equipos."
+      },
+      {
+        "id": "B",
+        "text": "La detección y reparación de los desperfectos de los cortinajes."
+      },
+      {
+        "id": "C",
+        "text": "La contratación de los servicios externos del mantenimiento."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 68. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 68,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 68
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-69",
+    "topicId": "especifico-36",
+    "prompt": "Según la cualificación profesional de regiduría de espectáculos en vivo y eventos, ¿qué es la tablilla?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Documento diario que hace al finalizar el espectáculo y en el que se reflejan los desperfectos ocurridos durante el mismo, para arreglarlos antes del próximo espectáculo."
+      },
+      {
+        "id": "B",
+        "text": "Documento diario en el que se describe el trabajo del día siguiente, se anotan los arreglos, las notas de dirección y producción, además de cualquier detalle de interés para todo el equipo."
+      },
+      {
+        "id": "C",
+        "text": "Documento diario que sirve para hacer las convocatorias del personal para el día siguiente, describir el trabajo a realizar, establecer las necesidades técnicas y apuntar las incidencias que se producen durante la jornada laboral."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 69. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 69,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 69
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-70",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué departamento puede resolver las situaciones inesperadas tanto técnicas como artísticas que puedan surgir durante la función?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Regiduría."
+      },
+      {
+        "id": "B",
+        "text": "Dirección artística."
+      },
+      {
+        "id": "C",
+        "text": "Dirección técnica."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 70. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 70,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 70
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-71",
+    "topicId": "especifico-36",
+    "prompt": "¿Para qué se utiliza el “primer aviso o llamada”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Para comunicar a artistas, técnicos que falta media hora para el inicio de la función."
+      },
+      {
+        "id": "B",
+        "text": "Para comunicar a artistas, técnicos y público que faltan cinco minutos para el inicio de la función."
+      },
+      {
+        "id": "C",
+        "text": "Para comunicar a artistas, técnicos que falta una hora para el inicio de la función."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 71. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 71,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 71
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-72",
+    "topicId": "especifico-36",
+    "prompt": "¿Cuándo se escucha la palabra “prevenido” durante un espectáculo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Únicamente cuando el regidor comunica a las secciones de maquinaria o iluminación que se preparen."
+      },
+      {
+        "id": "B",
+        "text": "Cuando el regidor se pone en contacto con uno de los técnicos para comunicarles que se prepare y cuando el técnico le contesta."
+      },
+      {
+        "id": "C",
+        "text": "Cuando el jefe de sala le comunica al regidor que se puede empezar el espectáculo."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 72. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 72,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 72
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-73",
+    "topicId": "especifico-06",
+    "prompt": "Cada una de las partes en que se divide un acto en el que intervienen los mismos personajes, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuadro."
+      },
+      {
+        "id": "B",
+        "text": "Escena."
+      },
+      {
+        "id": "C",
+        "text": "Entreacto."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 73. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 73,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 73
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-74",
+    "topicId": "especifico-38",
+    "prompt": "La puesta a punto del escenario y del equipamiento técnico para la representación, con la revisión de todos los elementos escenográficos, aparatos de luces, sonido, maquinaria y efectos, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Comprobación."
+      },
+      {
+        "id": "B",
+        "text": "Preparación."
+      },
+      {
+        "id": "C",
+        "text": "Pasada."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 74. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 74,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 74
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-75",
+    "topicId": "especifico-33",
+    "prompt": "Dependiendo de las condiciones de un evento las cajas acústicas se pueden colocar de diferentes formas ¿Cuál de las siguientes definiciones corresponde a un sistema multicelular de cajas acústicas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aquel en el que se colocan las cajas una encima de otra de manera que en la parte inferior se sitúan las cajas de subgraves y en la superior las cajas full range."
+      },
+      {
+        "id": "B",
+        "text": "Aquel que está constituido por sistemas independientes e individualizados; que permiten la reproducción del sonido en áreas cercanas y lejanas."
+      },
+      {
+        "id": "C",
+        "text": "Aquel que emplea diferentes cajas agrupadas de forma que pueden cubrir toda el área de escucha, siendo capaz de reproducir todo el rango de frecuencias."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 75. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 75,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 75
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-76",
+    "topicId": "especifico-36",
+    "prompt": "¿Qué es el sistema “Cue Light”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sistema para la iluminación y efectos de luz en el escenario que consiste en diferentes fuentes de luz dirigida hacia los objetos en la zona de actuación y que se ubica en los puentes y varales de iluminación."
+      },
+      {
+        "id": "B",
+        "text": "Sistema de iluminación cenital fijado cuyo objetivo es crear atmósferas irreales."
+      },
+      {
+        "id": "C",
+        "text": "Sistema de avisos que utiliza el regidor basado en dos señales luminosas de color rojo y verde que indican la prevención y la ejecución de la orden respectivamente."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 76. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 76,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 76
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-77",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué es la impedancia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es el margen en dB entre el nivel más fuerte y el más débil de un sonido que transporta una señal eléctrica producida por un micrófono."
+      },
+      {
+        "id": "B",
+        "text": "Es la característica que tiene un elemento de oponer resistencia al paso de la corriente alterna. Se mide en ohmios (Ω) para una frecuencia patrón de 1KHz."
+      },
+      {
+        "id": "C",
+        "text": "Conjunto de señales que surgen en la salida de un sistema y que no estaban en la entrada, por lo que no modifica la señal útil. Viene recogida por el parámetro TDH o distorsión armónica total."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 77. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 77,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 77
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-78",
+    "topicId": "especifico-33",
+    "prompt": "El sonido es una onda y posee las características del movimiento ondulatorio: frecuencia, período, amplitud y longitud de onda. ¿Cuál de las siguientes es la definición de frecuencia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es la distancia entre dos crestas consecutivas de una onda o el espacio que ocupa la onda completa."
+      },
+      {
+        "id": "B",
+        "text": "Es el número de ciclos o vibraciones completas realizadas por una onda en un segundo."
+      },
+      {
+        "id": "C",
+        "text": "Es el valor máximo que alcanza la perturbación en un punto en el medio elástico; indica el nivel de potencia a la que se ha producido una oscilación."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 78. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 78,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 78
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-79",
+    "topicId": "especifico-33",
+    "prompt": "¿A qué velocidad se propaga el sonido en el aire?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1600 m/s"
+      },
+      {
+        "id": "B",
+        "text": "3900 m/s"
+      },
+      {
+        "id": "C",
+        "text": "340 m/s"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 79. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 79,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 79
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-80",
+    "topicId": "especifico-33",
+    "prompt": "El efecto que se produce cuando un micrófono capta demasiada señal acústica procedente de los altavoces, produciéndose una retroalimentación, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Amplificación."
+      },
+      {
+        "id": "B",
+        "text": "Distorsión."
+      },
+      {
+        "id": "C",
+        "text": "Acople."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 80. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 80,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 80
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-81",
+    "topicId": "especifico-33",
+    "prompt": "En sonido, a todas las señales de origen eléctrico no deseadas y que están unidas a la señal principal, o útil, de manera que la pueden alterar produciendo efectos que pueden ser más o menos perjudiciales, se denominan:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Parásitos."
+      },
+      {
+        "id": "B",
+        "text": "Resonancias."
+      },
+      {
+        "id": "C",
+        "text": "Trimadores."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 81. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 81,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 81
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-82",
+    "topicId": "especifico-30",
+    "prompt": "¿Qué es un decorado a la italiana?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decorado que se cuelga de la parrilla y puede ser levantado hasta el telar para retirarlo de la escena."
+      },
+      {
+        "id": "B",
+        "text": "Decorado compuesto por trastos y practicables, consiguiendo un efecto tridimensional."
+      },
+      {
+        "id": "C",
+        "text": "Decorado compuesto por trastos y bastidores que pueden ser armados y desarmados con rapidez sobre la escena."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 82. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 82,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 82
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-83",
+    "topicId": "especifico-31",
+    "prompt": "¿Qué es un jabalcón?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Madero de armadura, ensamblado en uno vertical para apear otro horizontal o inclinado."
+      },
+      {
+        "id": "B",
+        "text": "Cada palo o barrote que se pone a lo largo de una obra en carpintería."
+      },
+      {
+        "id": "C",
+        "text": "Madero que atraviesa diagonalmente de una carrera a otra."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 83. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 83,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 83
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-84",
+    "topicId": "especifico-31",
+    "prompt": "¿Qué es una gatera?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un espacio o hueco que se produce entre dos trastos o piezas del decorado cuando estas no ajustan perfectamente y dejan filtrar luz o movimientos que no deberían ser vistos."
+      },
+      {
+        "id": "B",
+        "text": "Es un vano o una ventana abierta en el techo o en la parte superior de las paredes."
+      },
+      {
+        "id": "C",
+        "text": "Es un elemento escénico que forma parte de la cámara y delimita los laterales del espacio escénico."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 84. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 84,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 84
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-85",
+    "topicId": "especifico-01",
+    "prompt": "¿A qué equipo pertenece el escenógrafo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al equipo de producción."
+      },
+      {
+        "id": "B",
+        "text": "Al equipo de dirección técnica."
+      },
+      {
+        "id": "C",
+        "text": "Al equipo de dirección artística."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 85. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 85,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 85
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-86",
+    "topicId": "especifico-31",
+    "prompt": "¿Qué es un plano acotado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Plano con las alturas de las secciones longitudinal y transversal del escenario."
+      },
+      {
+        "id": "B",
+        "text": "Plano que recoge todos los elementos suspendidos de la parrilla."
+      },
+      {
+        "id": "C",
+        "text": "Plano en el que están indicadas las dimensiones de los elementos que contiene."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 86. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 86,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 86
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-87",
+    "topicId": "especifico-31",
+    "prompt": "Un decorado que tiene un trampantojo es aquel que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Está ornamentado de modo que parece real lo que solo está pintado."
+      },
+      {
+        "id": "B",
+        "text": "Tiene una apertura que deja ver el resto de la escena y que se empleaba durante el Siglo de Oro."
+      },
+      {
+        "id": "C",
+        "text": "Tiene un espacio hueco o vacío en un muro, como puertas o ventanas."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 87. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 87,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 87
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-88",
+    "topicId": "especifico-33",
+    "prompt": "En un cuadro eléctrico ¿qué es un interruptor general automático (IGA)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un interruptor que consta de un botón de testeo que permite proteger las instalaciones de posibles derivaciones eléctricas."
+      },
+      {
+        "id": "B",
+        "text": "Es el interruptor que impide el paso de la corriente eléctrica cuando se excede la capacidad nominal del interruptor."
+      },
+      {
+        "id": "C",
+        "text": "Es el interruptor que impide el paso de la corriente eléctrica cuando se supera la potencia contratada."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 88. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 88,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 88
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-89",
+    "topicId": "especifico-33",
+    "prompt": "Las unidades eléctricas, insertadas en un circuito de iluminación, que permiten a las luces de escena ser reguladas de manera suave, desde cero a su intensidad máxima, se denominan:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Puntos de acceso del protocolo DMX."
+      },
+      {
+        "id": "B",
+        "text": "Dimmer."
+      },
+      {
+        "id": "C",
+        "text": "Patch."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 89. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 89,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 89
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-90",
+    "topicId": "especifico-33",
+    "prompt": "¿Cuál de las siguientes lámparas presenta un menor rango de temperatura de color?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lámpara incandescente."
+      },
+      {
+        "id": "B",
+        "text": "Lámpara de vapor de sodio de alta presión."
+      },
+      {
+        "id": "C",
+        "text": "Lámpara fluorescente."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 90. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 90,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 90
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-91",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué es un Fresnel?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proyector de luz intensa."
+      },
+      {
+        "id": "B",
+        "text": "Proyector de luz difusa en los bordes."
+      },
+      {
+        "id": "C",
+        "text": "Proyector de luz concentrada."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 91. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 91,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 91
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-92",
+    "topicId": "especifico-33",
+    "prompt": "De los indicados a continuación, ¿cuál es un cable conductor de fase?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son de color verde y amarillo. Su función es protectora de instalaciones y personas y minimiza el ruido electromagnético favoreciendo la calidad de la señal."
+      },
+      {
+        "id": "B",
+        "text": "Son de color marrón, negro o gris y tiene como función principal conducir la electricidad."
+      },
+      {
+        "id": "C",
+        "text": "Son de color azul claro y su función es retornar la corriente eléctrica."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 92. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 92,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 92
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-93",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué es un svoboda?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un proyector de iluminación que lanza destellos intermitentes."
+      },
+      {
+        "id": "B",
+        "text": "Un proyector de iluminación que proporciona una densa cortina de luz."
+      },
+      {
+        "id": "C",
+        "text": "Un proyector de iluminación con boca cuadrada que encierra en su interior un reflector y una lámpara halógena lineal."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 93. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 93,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 93
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-94",
+    "topicId": "especifico-33",
+    "prompt": "¿Cómo se llama el conector para la señal Digital MultipleX?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conector XRL."
+      },
+      {
+        "id": "B",
+        "text": "Cetac."
+      },
+      {
+        "id": "C",
+        "text": "Schuko."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 94. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 94,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 94
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-95",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué es un sombrero chambergo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sombreo rígido de fieltro con una copa redondeada y un ala estrecha."
+      },
+      {
+        "id": "B",
+        "text": "Sombrero de ala vuelta hacia arriba y copa comúnmente baja en forma de cono truncado."
+      },
+      {
+        "id": "C",
+        "text": "Sombrero de copa más o menos acampanada y de ala ancha levantada por un lado y sujeto con presilla."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 95. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 95,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 95
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-96",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué es un chitón?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Túnica griega con o sin mangas que se envolvía y plegaba alrededor del cuerpo."
+      },
+      {
+        "id": "B",
+        "text": "Guarnición de encaje que se colocaba en la apertura de la camisola por la parte del pecho."
+      },
+      {
+        "id": "C",
+        "text": "Parte del vestido que cubría el tronco, con cuatro faldillas y mangas ajustadas."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 96. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 96,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 96
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-97",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué es una cáliga?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Calzado que llega hasta arriba del tobillo, abierto por delante, que se ajusta por medio de correas."
+      },
+      {
+        "id": "B",
+        "text": "Especie de sandalia guarnecida de clavos que usaban los soldados romanos."
+      },
+      {
+        "id": "C",
+        "text": "Calzado de suela gruesa que cubría el pie y la pierna hasta la pantorrilla sujetándose con un cordón pasado por ojetes."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 97. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 97,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 97
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-98",
+    "topicId": "especifico-35",
+    "prompt": "¿Cómo es una manga afollada?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Manga ancha, amplia, usada en el último tercio del S. XIX, fruncida en la parte superior y ajustada en los puños."
+      },
+      {
+        "id": "B",
+        "text": "Manga ajustada de la muñeca al codo; se abre desde el codo hacia el hombro donde se plisa hacia el corpiño o blusa."
+      },
+      {
+        "id": "C",
+        "text": "Manga estilo tres cuartos o media manga, con volantes hasta el codo, donde se ensancha en varias filas de faralás o en un faralá grande que se pliega."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 98. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 98,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 98
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-99",
+    "topicId": "especifico-35",
+    "prompt": "Para la realización o modificación de una falda o pantalón ¿cómo se debe medir el tiro?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Con la persona sentada, se mide por el costado desde la cintura hasta la superficie donde esté sentada."
+      },
+      {
+        "id": "B",
+        "text": "Con la persona agachada, se mide por la espalda desde la cintura hasta el coxis."
+      },
+      {
+        "id": "C",
+        "text": "Con la persona de pie, se mide por la parte delantera desde la cintura hasta la parte más ancha del muslo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 99. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 99,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 99
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-100",
+    "topicId": "especifico-32",
+    "prompt": "¿Qué es la utilería de escena, fija o de adorno?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Elementos decorativos no funcionales añadidos a un decorado."
+      },
+      {
+        "id": "B",
+        "text": "Elementos decorativos imprescindibles para la puesta en escena."
+      },
+      {
+        "id": "C",
+        "text": "Elementos decorativos pequeños manejados o portados por los actores."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 100. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 100,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 100
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-101",
+    "topicId": "especifico-32",
+    "prompt": "¿Qué es la utilería enfática?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aquellos objetos o enseres que utilizan los actores de manera casual durante la representación."
+      },
+      {
+        "id": "B",
+        "text": "Hace referencia a los objetos que resultan indispensables para el desarrollo de la acción, la comprensión de la trama o la psicología de un personaje."
+      },
+      {
+        "id": "C",
+        "text": "Hace referencia a los objetos más llamativos por su color o forma."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 101. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 101,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 101
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-102",
+    "topicId": "especifico-06",
+    "prompt": "Al mueble con una superficie para escribir, que se complementa con compartimentos para el recado de escribir y los papeles, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bargueño."
+      },
+      {
+        "id": "B",
+        "text": "Cómoda."
+      },
+      {
+        "id": "C",
+        "text": "Ataifor."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 102. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 102,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 102
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-103",
+    "topicId": "especifico-06",
+    "prompt": "La técnica de tapizado formada por un acolchado cuyo relleno está sujeto con botones formando dibujos regulares en relieve, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Basteado."
+      },
+      {
+        "id": "B",
+        "text": "De pelote."
+      },
+      {
+        "id": "C",
+        "text": "Capitoné."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 103. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 103,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 103
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-104",
+    "topicId": "especifico-06",
+    "prompt": "El paño que se coloca en la parte superior de un respaldo para preservarlo del roce de la cabeza, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hazaleja."
+      },
+      {
+        "id": "B",
+        "text": "Antimacasar."
+      },
+      {
+        "id": "C",
+        "text": "Trébedes."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 104. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 104,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 104
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-105",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué diferencia fundamental existe entre un sofá y un sillón?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El sillón es para una persona y el sofá para dos o más."
+      },
+      {
+        "id": "B",
+        "text": "El sofá es para una persona y el sillón para dos o más."
+      },
+      {
+        "id": "C",
+        "text": "En el sillón se puede reclinar el respaldo y en el sofá el respaldo es fijo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 105. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 105,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 105
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-106",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuál de los siguientes productos usados para obtener moldes no es tóxico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El glatzan."
+      },
+      {
+        "id": "B",
+        "text": "El alginato."
+      },
+      {
+        "id": "C",
+        "text": "El látex."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 106. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 106,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 106
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-107",
+    "topicId": "especifico-35",
+    "prompt": "¿Para qué se utiliza una calota?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tapar un tatuaje."
+      },
+      {
+        "id": "B",
+        "text": "Hacer la plantilla para una barba."
+      },
+      {
+        "id": "C",
+        "text": "Simular una calva."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 107. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 107,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 107
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-108",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué material se utiliza para garantizar la adherencia de las prótesis en las zonas de mayor movilidad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prosaide."
+      },
+      {
+        "id": "B",
+        "text": "Mastic."
+      },
+      {
+        "id": "C",
+        "text": "Silicona."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 108. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 108,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 108
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-109",
+    "topicId": "especifico-35",
+    "prompt": "¿Cuáles son los puntos clave donde siempre tendrá que haber unas sortijillas, para poder colocar una peluca?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una frontal, una en cada patilla y una en cada lado de la nuca."
+      },
+      {
+        "id": "B",
+        "text": "Una en cada lado de la frente, una detrás de cada oreja y una en el centro de la nuca."
+      },
+      {
+        "id": "C",
+        "text": "Una en cada lado de la frente, una en cada sien, una en la nuca y una en la coronilla."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 109. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 109,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 109
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m1-cultura-asistencia-2023-110",
+    "topicId": "especifico-35",
+    "prompt": "En el espectáculo en vivo, ¿qué es un promontorio?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Advertencia que comunica acciones o precisiones sobre algunos efectos en el libreto."
+      },
+      {
+        "id": "B",
+        "text": "Pieza o estructura de alambre que se utiliza para dar volumen a un peinado."
+      },
+      {
+        "id": "C",
+        "text": "Técnica de maquillaje que consiste en levantar y resaltar la forma del ojo para que parezca mucho más prominente."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 110. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M1",
+      "especialidad": "Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos",
+      "turno": "libre",
+      "fecha": "2023-11-25",
+      "numeroOriginal": 110,
+      "label": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023",
+      "questionNumber": 110
+    },
+    "active": true,
+    "optionCount": 3
+  }
+]

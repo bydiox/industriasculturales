@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "status": "active",
+  "note": "Suelo de pool por tema. perExam = preguntas por examen de 100; poolK = perExam multiplicado por K simulacros sin repetición. El banco puede superar estos suelos y no se eliminan preguntas válidas.",
+  "sourceNote": "IDs espec-XX del documento de origen normalizados aquí como especifico-XX para coincidir con el syllabus.",
+  "byTopic": {
+    "comun-01": {
+      "perExam": 2.97,
+      "pool3": 9,
+      "pool5": 15,
+      "pool8": 24
+    },
+    "comun-02": {
+      "perExam": 2.3,
+      "pool3": 7,
+      "pool5": 12,
+      "pool8": 18
+    },
+    "comun-03": {
+      "perExam": 3.61,
+      "pool3": 11,
+      "pool5": 18,
+      "pool8": 29
+    },
+    "comun-04": {
+      "perExam": 3.61,
+      "pool3": 11,
+      "pool5": 18,
+      "pool8": 29
+    },
+    "comun-05": {
+      "perExam": 3.47,
+      "pool3": 10,
+      "pool5": 17,
+      "pool8": 28
+    },
+    "comun-06": {
+      "perExam": 2.8,
+      "pool3": 8,
+      "pool5": 14,
+      "pool8": 22
+    },
+    "comun-07": {
+      "perExam": 3.94,
+      "pool3": 12,
+      "pool5": 20,
+      "pool8": 32
+    },
+    "comun-08": {
+      "perExam": 2.14,
+      "pool3": 6,
+      "pool5": 11,
+      "pool8": 17
+    },
+    "comun-09": {
+      "perExam": 3.61,
+      "pool3": 11,
+      "pool5": 18,
+      "pool8": 29
+    },
+    "comun-10": {
+      "perExam": 4.27,
+      "pool3": 13,
+      "pool5": 21,
+      "pool8": 34
+    },
+    "comun-11": {
+      "perExam": 2.64,
+      "pool3": 8,
+      "pool5": 13,
+      "pool8": 21
+    },
+    "comun-12": {
+      "perExam": 2.47,
+      "pool3": 7,
+      "pool5": 12,
+      "pool8": 20
+    },
+    "comun-13": {
+      "perExam": 6.08,
+      "pool3": 18,
+      "pool5": 30,
+      "pool8": 49
+    },
+    "comun-14": {
+      "perExam": 3.47,
+      "pool3": 10,
+      "pool5": 17,
+      "pool8": 28
+    },
+    "comun-15": {
+      "perExam": 2.64,
+      "pool3": 8,
+      "pool5": 13,
+      "pool8": 21
+    },
+    "especifico-01": {
+      "perExam": 1.27,
+      "pool3": 4,
+      "pool5": 6,
+      "pool8": 10
+    },
+    "especifico-02": {
+      "perExam": 1.15,
+      "pool3": 3,
+      "pool5": 6,
+      "pool8": 9
+    },
+    "especifico-03": {
+      "perExam": 1.4,
+      "pool3": 4,
+      "pool5": 7,
+      "pool8": 11
+    },
+    "especifico-04": {
+      "perExam": 1.15,
+      "pool3": 3,
+      "pool5": 6,
+      "pool8": 9
+    },
+    "especifico-05": {
+      "perExam": 1.27,
+      "pool3": 4,
+      "pool5": 6,
+      "pool8": 10
+    },
+    "especifico-06": {
+      "perExam": 1.15,
+      "pool3": 3,
+      "pool5": 6,
+      "pool8": 9
+    },
+    "especifico-07": {
+      "perExam": 1.15,
+      "pool3": 3,
+      "pool5": 6,
+      "pool8": 9
+    },
+    "especifico-08": {
+      "perExam": 0.89,
+      "pool3": 3,
+      "pool5": 4,
+      "pool8": 7
+    },
+    "especifico-09": {
+      "perExam": 0.51,
+      "pool3": 2,
+      "pool5": 3,
+      "pool8": 4
+    },
+    "especifico-10": {
+      "perExam": 1.02,
+      "pool3": 3,
+      "pool5": 5,
+      "pool8": 8
+    },
+    "especifico-11": {
+      "perExam": 1.65,
+      "pool3": 5,
+      "pool5": 8,
+      "pool8": 13
+    },
+    "especifico-12": {
+      "perExam": 1.02,
+      "pool3": 3,
+      "pool5": 5,
+      "pool8": 8
+    },
+    "especifico-13": {
+      "perExam": 1.15,
+      "pool3": 3,
+      "pool5": 6,
+      "pool8": 9
+    },
+    "especifico-14": {
+      "perExam": 1.02,
+      "pool3": 3,
+      "pool5": 5,
+      "pool8": 8
+    },
+    "especifico-15": {
+      "perExam": 1.02,
+      "pool3": 3,
+      "pool5": 5,
+      "pool8": 8
+    },
+    "especifico-16": {
+      "perExam": 0.76,
+      "pool3": 2,
+      "pool5": 4,
+      "pool8": 6
+    },
+    "especifico-17": {
+      "perExam": 0.76,
+      "pool3": 2,
+      "pool5": 4,
+      "pool8": 6
+    },
+    "especifico-18": {
+      "perExam": 1.4,
+      "pool3": 4,
+      "pool5": 7,
+      "pool8": 11
+    },
+    "especifico-19": {
+      "perExam": 1.02,
+      "pool3": 3,
+      "pool5": 5,
+      "pool8": 8
+    },
+    "especifico-20": {
+      "perExam": 1.02,
+      "pool3": 3,
+      "pool5": 5,
+      "pool8": 8
+    },
+    "especifico-21": {
+      "perExam": 0.76,
+      "pool3": 2,
+      "pool5": 4,
+      "pool8": 6
+    },
+    "especifico-22": {
+      "perExam": 0.64,
+      "pool3": 2,
+      "pool5": 3,
+      "pool8": 5
+    },
+    "especifico-23": {
+      "perExam": 0.51,
+      "pool3": 2,
+      "pool5": 3,
+      "pool8": 4
+    },
+    "especifico-24": {
+      "perExam": 0.64,
+      "pool3": 2,
+      "pool5": 3,
+      "pool8": 5
+    },
+    "especifico-25": {
+      "perExam": 1.15,
+      "pool3": 3,
+      "pool5": 6,
+      "pool8": 9
+    },
+    "especifico-26": {
+      "perExam": 1.53,
+      "pool3": 5,
+      "pool5": 8,
+      "pool8": 12
+    },
+    "especifico-27": {
+      "perExam": 1.02,
+      "pool3": 3,
+      "pool5": 5,
+      "pool8": 8
+    },
+    "especifico-28": {
+      "perExam": 1.53,
+      "pool3": 5,
+      "pool5": 8,
+      "pool8": 12
+    },
+    "especifico-29": {
+      "perExam": 0.51,
+      "pool3": 2,
+      "pool5": 3,
+      "pool8": 4
+    },
+    "especifico-30": {
+      "perExam": 1.27,
+      "pool3": 4,
+      "pool5": 6,
+      "pool8": 10
+    },
+    "especifico-31": {
+      "perExam": 1.4,
+      "pool3": 4,
+      "pool5": 7,
+      "pool8": 11
+    },
+    "especifico-32": {
+      "perExam": 0.89,
+      "pool3": 3,
+      "pool5": 4,
+      "pool8": 7
+    },
+    "especifico-33": {
+      "perExam": 2.29,
+      "pool3": 7,
+      "pool5": 11,
+      "pool8": 18
+    },
+    "especifico-34": {
+      "perExam": 0.76,
+      "pool3": 2,
+      "pool5": 4,
+      "pool8": 6
+    },
+    "especifico-35": {
+      "perExam": 0.76,
+      "pool3": 2,
+      "pool5": 4,
+      "pool8": 6
+    },
+    "especifico-36": {
+      "perExam": 1.27,
+      "pool3": 4,
+      "pool5": 6,
+      "pool8": 10
+    },
+    "especifico-37": {
+      "perExam": 0.89,
+      "pool3": 3,
+      "pool5": 4,
+      "pool8": 7
+    },
+    "especifico-38": {
+      "perExam": 0.64,
+      "pool3": 2,
+      "pool5": 3,
+      "pool8": 5
+    },
+    "especifico-39": {
+      "perExam": 0.89,
+      "pool3": 3,
+      "pool5": 4,
+      "pool8": 7
+    },
+    "especifico-40": {
+      "perExam": 0.51,
+      "pool3": 2,
+      "pool5": 3,
+      "pool8": 4
+    },
+    "especifico-41": {
+      "perExam": 2.54,
+      "pool3": 8,
+      "pool5": 13,
+      "pool8": 20
+    },
+    "especifico-42": {
+      "perExam": 1.65,
+      "pool3": 5,
+      "pool5": 8,
+      "pool8": 13
+    },
+    "especifico-43": {
+      "perExam": 1.4,
+      "pool3": 4,
+      "pool5": 7,
+      "pool8": 11
+    },
+    "especifico-44": {
+      "perExam": 1.53,
+      "pool3": 5,
+      "pool5": 8,
+      "pool8": 12
+    },
+    "especifico-45": {
+      "perExam": 1.27,
+      "pool3": 4,
+      "pool5": 6,
+      "pool8": 10
+    }
+  }
+}

@@ -13,18 +13,28 @@
       <h1>M3</h1>
       <div class="header-tools">
         <span id="progress">Cargando progreso…</span>
-        <button id="open-guide" class="guide-button" type="button" aria-haspopup="dialog" aria-controls="orientation-guide">
+        <button id="open-guide" class="guide-button" type="button" aria-label="Abrir Léeme">
           <span class="guide-icon" aria-hidden="true">i</span>
-          <span>Explicación</span>
+          <span>Léeme</span>
         </button>
       </div>
     </header>
     <section data-screen="home">
       <h2>Tu espacio de preparación</h2>
       <p>Una base personal para preparar la oposición de Gestión de Industrias Culturales y Creativas.</p>
-      <div class="actions"><button class="primary" id="start-free">Práctica libre</button><label class="exam-choice" for="exam-type">Examen <select id="exam-type"><option value="aleatorio" selected>Aleatorio</option><option value="historico">Histórico oficial 2021</option></select></label><button class="secondary" id="start-exam">Empezar examen</button><button class="secondary" id="reset-progress">Borrar progreso</button></div>
+      <nav class="home-menu" aria-label="Secciones principales">
+        <button class="home-menu-card" type="button" data-home-action="readme"><span class="home-menu-icon" aria-hidden="true">?</span><span class="home-menu-label">Léeme</span><small>Antes de empezar: cómo usar la app y el recorrido.</small></button>
+        <button class="home-menu-card" type="button" data-home-action="story"><span class="home-menu-icon" aria-hidden="true">H</span><span class="home-menu-label">Modo historia</span><small>Avanza por unidades y desbloquea cada cuestionario.</small></button>
+        <button class="home-menu-card is-primary" id="start-free" type="button"><span class="home-menu-icon" aria-hidden="true">P</span><span class="home-menu-label">Práctica libre</span><small>Preguntas del banco completo, sin orden obligatorio.</small></button>
+        <button class="home-menu-card" id="start-exam" type="button"><span class="home-menu-icon" aria-hidden="true">E</span><span class="home-menu-label">Modo examen</span><small>Simulacro proporcional con la configuración elegida.</small></button>
+        <button class="home-menu-card" type="button" data-home-action="review"><span class="home-menu-icon" aria-hidden="true">R</span><span class="home-menu-label">Repaso</span><small>Fallos, blancos y preguntas marcadas como dudosas.</small></button>
+        <button class="home-menu-card" type="button" data-home-action="practico"><span class="home-menu-icon" aria-hidden="true">◆</span><span class="home-menu-label">Supuesto práctico</span><small>Dossier, planos, protocolos y entrenamiento escrito.</small></button>
+        <button class="home-menu-card" type="button" data-home-action="laws"><span class="home-menu-icon" aria-hidden="true">L</span><span class="home-menu-label">Leyes</span><small>Normas completas, anclas y fuentes oficiales.</small></button>
+        <button class="home-menu-card" type="button" data-home-action="official"><span class="home-menu-icon" aria-hidden="true">M</span><span class="home-menu-label">Material oficial</span><small>Exámenes anteriores y documentos de referencia.</small></button>
+      </nav>
+      <div class="home-controls"><label class="exam-choice" for="exam-type">Tipo de examen <select id="exam-type"><option value="aleatorio" selected>Aleatorio</option><option value="historico">Históricos oficiales</option></select></label><div class="home-control-actions"><button class="primary compact-action" id="resume-session" type="button" hidden>Continuar sesión</button><button class="secondary compact-action" id="discard-session" type="button" hidden>Descartar sesión guardada</button><button class="secondary compact-action" id="reset-progress">Borrar progreso</button></div></div>
       <p id="home-notice" class="home-notice" role="status" hidden></p>
-      <section class="story">
+      <section id="home-story" class="story home-panel" hidden>
         <div class="story-heading">
           <div>
             <h2>Modo Historia</h2>
@@ -34,12 +44,63 @@
         </div>
         <div id="unit-list" class="unit-list"></div>
       </section>
-      <section class="official-material"><h2>Material oficial anterior</h2><p>Estas preguntas y documentos proceden de la convocatoria M3 de 2021. Se conservan para practicar y comparar; el temario puede haber cambiado.</p><ul><li><a href="data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf" target="_blank" rel="noreferrer">Cuestionario oficial · primer ejercicio</a></li><li><a href="data/official-exams/m3-2021/plantilla-respuestas.pdf" target="_blank" rel="noreferrer">Plantilla oficial de respuestas</a></li><li><a href="data/official-exams/m3-2021/supuesto-practico-3er-ejercicio.pdf" target="_blank" rel="noreferrer">Supuesto práctico oficial</a></li></ul></section>
+      <section id="home-official" class="official-material home-panel" hidden><h2>Material oficial anterior</h2><p>El selector histórico reúne cuestionarios oficiales M3 y material técnico M1 del Ministerio de Cultura. Se conservan para practicar y comparar; no sustituyen al temario M3 ni al formato vigente.</p><ul><li><a href="data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf" target="_blank" rel="noreferrer">Cuestionario oficial M3 · 2021</a></li><li><a href="data/official-exams/m3-2021/plantilla-respuestas.pdf" target="_blank" rel="noreferrer">Plantilla oficial M3 · 2021</a></li><li><a href="data/official-exams/m3-2021/supuesto-practico-3er-ejercicio.pdf" target="_blank" rel="noreferrer">Supuesto práctico oficial M3</a></li><li><a href="data/historical-exams/m1-cultura-2023/README.md" target="_blank" rel="noreferrer">Cuestionarios técnicos M1 Cultura · 2023</a></li></ul></section>
+      <section id="home-practical" class="practical-material home-panel" hidden>
+        <p><a href="docs/practico_dossier_estudio.md" target="_blank" rel="noreferrer">Dossier de estudio del supuesto práctico</a>: hipótesis histórica, plantillas de resolución y entrenamiento.</p>
+        <h2>Material práctico · espacio escénico</h2>
+        <p>Planos del supuesto de 2022 y esquemas didácticos para trabajar el vocabulario de los temas 30–32 y la prevención del tema 41.</p>
+        <div class="practical-grid">
+          <figure><img src="assets/practico/esquema_teatro_italiana.svg" alt="Esquema de un teatro a la italiana con vocabulario técnico" loading="lazy"><figcaption>Esquema didáctico · teatro a la italiana</figcaption></figure>
+          <figure><img src="assets/practico/esquema_configuracion_invertida.svg" alt="Esquema de configuración invertida con evacuación y telón cortafuegos" loading="lazy"><figcaption>Esquema didáctico · configuración invertida</figcaption></figure>
+          <figure><img src="assets/practico/plano_zarzuela_normal_2022.png" alt="Plano del Teatro de la Zarzuela en configuración normal" loading="lazy"><figcaption>Plano real · configuración normal</figcaption></figure>
+          <figure><img src="assets/practico/plano_zarzuela_la_gatita_2022.png" alt="Plano del Teatro de la Zarzuela durante La Gatita" loading="lazy"><figcaption>Plano real · configuración de La Gatita</figcaption></figure>
+        </div>
+        <p class="practical-note">Los planos reales se conservan para uso personal y como ejercicio de lectura del supuesto práctico. Los esquemas didácticos son material original.</p>
+      </section>
+      <section id="home-library" class="study-library home-panel" hidden>
+        <h2>Biblioteca de estudio</h2>
+        <p>Documentos explicativos para estudiar el temario, entender las fuentes y preparar el supuesto práctico.</p>
+        <div id="study-category-grid" class="study-category-grid"></div>
+      </section>
+    </section>
+    <section data-screen="study" hidden>
+      <div id="study-catalog-view" class="study-catalog-view" hidden>
+        <div class="study-reader-toolbar"><button id="back-home-study-catalog" class="secondary" type="button">← Volver al inicio</button></div>
+        <header class="study-reader-title"><span class="guide-kicker">Biblioteca de estudio</span><h2 id="study-category-title"></h2><p id="study-category-subtitle"></p></header>
+        <div id="study-catalog-list" class="study-doc-list"></div>
+      </div>
+      <div id="study-document-view" class="study-reader-page" hidden>
+        <div class="study-reader-toolbar">
+          <div class="study-reader-nav"><button id="study-back-catalog" class="secondary" type="button">← Categoría</button><button id="back-home-study" class="secondary" type="button">Inicio</button></div>
+          <div class="study-reader-nav">
+            <button id="study-prev" class="secondary" type="button">← Documento anterior</button>
+            <button id="study-next" class="secondary" type="button">Documento siguiente →</button>
+          </div>
+        </div>
+        <header class="study-reader-title"><span class="guide-kicker">Biblioteca de estudio</span><h2 id="study-page-title"></h2><p id="study-page-subtitle"></p></header>
+        <div class="study-reader-layout">
+          <aside class="study-toc" aria-label="Apartados del documento"><h3>En este documento</h3><nav id="study-toc-list"></nav></aside>
+          <article id="study-page-content" class="study-page-content"></article>
+        </div>
+        <div class="study-reader-bottom"><button id="study-prev-bottom" class="secondary" type="button">← Documento anterior</button><button id="study-next-bottom" class="secondary" type="button">Documento siguiente →</button></div>
+      </div>
+    </section>
+    <section data-screen="law" hidden>
+      <div id="law-catalog-view" class="law-catalog-view" hidden>
+        <div class="study-reader-toolbar"><button id="back-home-laws" class="secondary" type="button">← Volver al inicio</button></div>
+        <header class="study-reader-title"><span class="guide-kicker">Legislación</span><h2>Normas del temario</h2><p>Consulta el texto completo con sus títulos, artículos y anclas estables.</p></header>
+        <div id="law-catalog-grid" class="law-catalog-grid"></div>
+      </div>
+      <div id="law-document-view" class="law-reader-page" hidden>
+        <div class="study-reader-toolbar"><div class="study-reader-nav"><button id="law-back-catalog" class="secondary" type="button">← Leyes</button><button id="back-home-law" class="secondary" type="button">Inicio</button></div></div>
+        <header class="study-reader-title"><span class="guide-kicker">Texto jurídico</span><h2 id="law-page-title"></h2><p id="law-page-subtitle"></p></header>
+        <article id="law-page-content" class="law-page-content"></article>
+      </div>
     </section>
     <section data-screen="quiz" hidden>
-      <div class="quiz-card"><div class="quiz-meta"><span id="mode-label"></span><span id="question-count"></span></div><div id="question-origin" class="question-origin" hidden></div><h2 id="question-text"></h2><div id="options" class="options"></div><div id="feedback" class="feedback" hidden></div><div class="actions"><button id="next" class="primary" hidden>Siguiente</button><button id="back-home-quiz" class="secondary">Salir</button></div></div>
+      <div class="quiz-card"><div class="quiz-meta"><span id="mode-label"></span><span id="question-count"></span></div><p id="quiz-notice" class="quiz-notice" role="status" hidden></p><div id="question-origin" class="question-origin" hidden></div><h2 id="question-text"></h2><div id="options" class="options"></div><div id="feedback" class="feedback" hidden></div><div class="question-tools"><button id="save-question" class="secondary" type="button">Guardar pregunta</button><button id="doubt-question" class="secondary" type="button">Marcar dudosa</button></div><div class="actions"><button id="next" class="primary" hidden>Siguiente</button><button id="blank" class="secondary">Dejar en blanco</button><button id="pause-session" class="secondary">Guardar y salir</button></div></div>
     </section>
-    <section data-screen="result" hidden><div class="result-card"><h2 id="result-title"></h2><p id="result-summary"></p><p id="result-detail"></p><button id="back-home-result" class="primary">Volver al inicio</button></div></section>
+    <section data-screen="result" hidden><div class="result-card"><h2 id="result-title"></h2><p id="result-summary"></p><p id="result-detail"></p><p id="result-notice" class="quiz-notice" role="status" hidden></p><button id="back-home-result" class="primary">Volver al inicio</button></div></section>
     <section data-screen="error" hidden><h2>No se pudo iniciar</h2><p id="load-error"></p></section>
   </main>
   <dialog id="orientation-guide" class="guide-dialog" aria-labelledby="guide-title">

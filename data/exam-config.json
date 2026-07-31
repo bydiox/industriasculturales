@@ -15,6 +15,13 @@
     "minutes": 100,
     "maximumPoints": 40,
     "minimumPoints": 20,
+    "partialExamMinimumCoverage": 0.5,
+    "partialExamMilestones": [
+      { "topicsMigrated": 6, "coverage": 0.25 },
+      { "topicsMigrated": 15, "coverage": 0.5 },
+      { "topicsMigrated": 32, "coverage": 0.75 },
+      { "topicsMigrated": 48, "coverage": 0.8934 }
+    ],
     "wrongAnswerPenalty": "one_third_of_correct_answer",
     "blankPenalty": 0
   },

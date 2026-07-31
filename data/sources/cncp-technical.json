@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "sourceSetId": "cncp-technical-m3",
+  "title": "CNECP/CNCP: estándares técnicos para escena y producción",
+  "kind": "bibliografia-oficial",
+  "status": "official-reference-not-normative",
+  "consultedDate": "2026-07-31",
+  "editorialNote": "Desde 2025 el catálogo vigente es el Catálogo Nacional de Estándares de Competencias Profesionales (CNECP). Las disposiciones anteriores se conservan como fuente histórica del contenido y sus unidades de competencia quedan asimiladas a estándares conforme al RD 69/2025. No son legislación aplicable al puesto ni regulan por sí mismas el ejercicio profesional. Las preguntas deben citar el apartado técnico concreto y no presentarlas como un deber jurídico.",
+  "file": "sources/cncp-technical.html",
+  "sources": [
+    {
+      "sourceId": "cncp-rd1957-2009-imagen-sonido",
+      "reference": "Real Decreto 1957/2009, de 18 de diciembre, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales mediante el establecimiento de nueve cualificaciones profesionales de la familia profesional Imagen y Sonido.",
+      "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
+      "publicationDate": "2009-12-18",
+      "topics": ["especifico-36", "especifico-37", "especifico-38", "especifico-39"],
+      "anchors": ["cncp-ims437-3-contenidos", "cncp-ims442-3-contenidos", "cncp-ims436-2-contenidos", "cncp-ims439-3-contenidos"]
+    },
+    {
+      "sourceId": "cncp-rd145-2011-artes-artesanias",
+      "reference": "Real Decreto 145/2011, de 4 de febrero, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales, mediante el establecimiento de diez cualificaciones profesionales de la Familia Profesional Artes y Artesanías.",
+      "officialUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-3634",
+      "publicationDate": "2011-02-04",
+      "topics": ["especifico-29", "especifico-31", "especifico-32", "especifico-35"],
+      "anchors": ["cncp-art524-3-contenidos", "cncp-art523-3-contenidos"]
+    },
+    {
+      "sourceId": "cncp-rd295-2004-ims075",
+      "reference": "Real Decreto 295/2004, de 20 de febrero, por el que se establecen determinadas cualificaciones profesionales de la familia profesional Imagen y Sonido.",
+      "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2004-4219",
+      "publicationDate": "2004-02-20",
+      "topics": ["especifico-33"],
+      "anchors": ["cncp-ims075-3-contenidos"]
+    },
+    {
+      "sourceId": "cncp-rd1200-2007-actualizacion-ims075",
+      "reference": "Real Decreto 1200/2007, de 14 de septiembre, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales y se actualizan determinadas cualificaciones.",
+      "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16898",
+      "publicationDate": "2007-09-14",
+      "topics": ["especifico-33"],
+      "anchors": ["cncp-ims075-3-contenidos"]
+    },
+    {
+      "sourceId": "cncp-pci477-2019",
+      "reference": "Orden PCI/477/2019, de 12 de abril, por la que se actualizan cualificaciones profesionales de la familia profesional Imagen y Sonido, recogidas en el Catálogo Nacional de Cualificaciones Profesionales, establecidas por el Real Decreto 1957/2009, de 18 de diciembre.",
+      "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6274",
+      "publicationDate": "2019-04-12",
+      "topics": ["especifico-34", "especifico-36", "especifico-37", "especifico-38"],
+      "anchors": ["cncp-ims437-3-contenidos", "cncp-ims442-3-contenidos"]
+    },
+    {
+      "sourceId": "cncp-pci797-2019",
+      "reference": "Orden PCI/797/2019, de 18 de julio, por la que se actualizan cualificaciones profesionales de la familia profesional Imagen y Sonido, recogidas en el Catálogo Nacional de Cualificaciones Profesionales, establecidas por el Real Decreto 295/2004, de 20 de febrero, y el Real Decreto 1228/2006, de 27 de octubre.",
+      "officialUrl": "https://www.boe.es/eli/es/o/2019/07/18/pci797",
+      "publicationDate": "2019-07-18",
+      "topics": ["especifico-33"],
+      "anchors": ["cncp-ims075-3-contenidos"]
+    },
+    {
+      "sourceId": "cncp-rd918-2024-video-escena",
+      "reference": "Real Decreto 918/2024, de 17 de septiembre, por el que se establecen dos cualificaciones profesionales de la familia profesional Imagen y Sonido, que se incluyen en el Catálogo Nacional de Cualificaciones Profesionales, y se actualizan determinadas cualificaciones profesionales de la familia profesional Textil, Confección y Piel, recogidas en el Catálogo Nacional de Cualificaciones Profesionales.",
+      "officialUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-20759",
+      "publicationDate": "2024-09-17",
+      "topics": ["especifico-33", "especifico-39", "especifico-40"],
+      "anchors": ["cncp-video-escena-2024"]
+    },
+    {
+      "sourceId": "cncp-rd532-2025-integracion",
+      "reference": "Real Decreto 532/2025, de 24 de junio, por el que se incluyen determinados estándares de competencias profesionales y se integran los estándares derivados de antiguas unidades de competencia en el Catálogo Nacional de Estándares de Competencias Profesionales.",
+      "officialUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-13147",
+      "publicationDate": "2025-06-24",
+      "topics": ["especifico-33", "especifico-36", "especifico-37", "especifico-38", "especifico-39", "especifico-40"],
+      "anchors": ["cncp-rd532-2025-integracion"]
+    },
+    {
+      "sourceId": "cnecp-rd69-2025-marco",
+      "reference": "Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, y se modifica el Real Decreto 375/1999.",
+      "officialUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-2039",
+      "publicationDate": "2025-02-04",
+      "topics": ["especifico-33", "especifico-36", "especifico-37", "especifico-38", "especifico-39", "especifico-40"],
+      "anchors": ["cnecp-rd69-2025-marco"]
+    },
+    {
+      "sourceId": "cnecp-rd532-2025-correccion",
+      "reference": "Corrección de errores del Real Decreto 532/2025, de 24 de junio, publicada el 22 de noviembre de 2025.",
+      "officialUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-23619",
+      "publicationDate": "2025-11-22",
+      "topics": ["especifico-33", "especifico-36", "especifico-37", "especifico-38", "especifico-39", "especifico-40"],
+      "anchors": ["cnecp-rd532-2025-correccion"]
+    }
+  ]
+}

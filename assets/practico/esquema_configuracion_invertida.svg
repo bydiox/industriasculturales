@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 920" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="gEvac" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1a7f37"/>
+    </marker>
+    <marker id="gRed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#c62828"/>
+    </marker>
+  </defs>
+
+  <rect width="1400" height="920" fill="#fbfaf7"/>
+  <text x="700" y="38" text-anchor="middle" font-size="26" font-weight="bold" fill="#222">Configuración invertida: la trampa del supuesto de 2022</text>
+  <text x="700" y="62" text-anchor="middle" font-size="14" fill="#666">Escena en la platea, público sobre el escenario — esquema didáctico del caso "La Gatita" (Teatro de la Zarzuela)</text>
+
+  <!-- Envolvente -->
+  <rect x="60" y="95" width="1280" height="700" fill="#ffffff" stroke="#333" stroke-width="3"/>
+  <text x="700" y="118" text-anchor="middle" font-size="13" font-weight="bold" fill="#8a6d00">LADO ZORRILLA</text>
+  <text x="700" y="786" text-anchor="middle" font-size="13" font-weight="bold" fill="#8a6d00">LADO MADRAZO</text>
+
+  <!-- Vestíbulo -->
+  <rect x="60" y="95" width="120" height="700" fill="#eef2f7" stroke="#333" stroke-width="1.5"/>
+  <text x="120" y="445" text-anchor="middle" font-size="15" fill="#334" transform="rotate(-90 120 445)">VESTÍBULO · ACCESO DEL PÚBLICO</text>
+
+  <!-- ====== SALA convertida en ZONA DE REPRESENTACIÓN ====== -->
+  <path d="M 300 190 A 275 275 0 0 0 300 730 L 660 730 L 660 190 Z" fill="#fdf1e0" stroke="#8a6d1a" stroke-width="2"/>
+  <text x="430" y="176" text-anchor="middle" font-size="14" font-weight="bold" fill="#7a5c00">ZONA DE REPRESENTACIÓN (antigua platea)</text>
+
+  <!-- Giratorio -->
+  <circle cx="470" cy="460" r="130" fill="#f6dfb8" stroke="#8a6d1a" stroke-width="3"/>
+  <circle cx="470" cy="460" r="130" fill="none" stroke="#8a6d1a" stroke-width="1" stroke-dasharray="6 8"/>
+  <text x="470" y="452" text-anchor="middle" font-size="16" font-weight="bold" fill="#6b4e00">GIRATORIO</text>
+  <text x="470" y="472" text-anchor="middle" font-size="11" fill="#7a5c00">(coro y ballet encima en el</text>
+  <text x="470" y="486" text-anchor="middle" font-size="11" fill="#7a5c00">momento del incidente 2)</text>
+  <!-- Trampilla bajo giratorio -->
+  <rect x="435" y="545" width="70" height="26" fill="none" stroke="#8a6d1a" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="470" y="590" text-anchor="middle" font-size="10" fill="#8a6d1a">trampilla (2 maquinistas bajo el giratorio)</text>
+
+  <!-- Orquesta bajo el techo del primer piso -->
+  <rect x="255" y="330" width="80" height="260" fill="#cdd8e6" stroke="#334" stroke-width="1.5"/>
+  <text x="295" y="462" text-anchor="middle" font-size="12" font-weight="bold" fill="#234" transform="rotate(-90 295 462)">ORQUESTA</text>
+  <text x="313" y="462" text-anchor="middle" font-size="9" fill="#456" transform="rotate(-90 313 462)">bajo techo del 1er piso · puerta central de uso exclusivo</text>
+  <rect x="238" y="440" width="16" height="40" fill="#1a7f37"/>
+  <text x="230" y="500" font-size="10" fill="#1a7f37" transform="rotate(-90 230 500)">puerta central platea</text>
+
+  <!-- Puertas laterales herradura -->
+  <rect x="300" y="176" width="40" height="14" fill="#666"/>
+  <text x="348" y="168" font-size="10" fill="#555">puerta lateral herradura (Zorrilla): regidor de apoyo</text>
+  <rect x="300" y="730" width="40" height="14" fill="#666"/>
+  <text x="348" y="762" font-size="10" fill="#555">puerta lateral herradura (Madrazo): regidor de apoyo · acceso del maestro</text>
+
+  <!-- ====== TELÓN CORTAFUEGOS: LA TRAMPA ====== -->
+  <line x1="672" y1="230" x2="672" y2="690" stroke="#c62828" stroke-width="9" stroke-dasharray="18 10"/>
+  <rect x="560" y="238" width="224" height="58" fill="#fdeaea" stroke="#c62828" stroke-width="2" rx="6"/>
+  <text x="672" y="261" text-anchor="middle" font-size="12" font-weight="bold" fill="#c62828">⚠ TELÓN CORTAFUEGOS</text>
+  <text x="672" y="277" text-anchor="middle" font-size="10" fill="#a02222">Bajarlo ahora separa al PÚBLICO (caja)</text>
+  <text x="672" y="290" text-anchor="middle" font-size="10" fill="#a02222">de la salida por platea… con el fuego a su espalda.</text>
+
+  <!-- ====== CAJA con GRADAS DE PÚBLICO ====== -->
+  <rect x="686" y="150" width="450" height="620" fill="#fdf6ec" stroke="#333" stroke-width="2"/>
+  <!-- Gradas: cuña de asientos -->
+  <g fill="#8a93a6">
+    <rect x="720" y="250" width="330" height="16"/>
+    <rect x="740" y="286" width="310" height="16"/>
+    <rect x="760" y="322" width="290" height="16"/>
+    <rect x="780" y="358" width="270" height="16"/>
+    <rect x="800" y="394" width="250" height="16"/>
+    <rect x="820" y="430" width="230" height="16"/>
+    <rect x="840" y="466" width="210" height="16"/>
+    <rect x="860" y="502" width="190" height="16"/>
+    <rect x="880" y="538" width="170" height="16"/>
+    <rect x="900" y="574" width="150" height="16"/>
+  </g>
+  <text x="885" y="230" text-anchor="middle" font-size="15" font-weight="bold" fill="#334">GRADAS DE PÚBLICO (sobre el antiguo escenario)</text>
+  <text x="885" y="620" text-anchor="middle" font-size="11" fill="#556">personal de sala en cada escalera de grada (2 laterales + 1 central)</text>
+
+  <!-- Cuarto de drapería = camerino de transformación, con fuego -->
+  <rect x="1150" y="150" width="174" height="150" fill="#e0e8e0" stroke="#555"/>
+  <text x="1237" y="200" text-anchor="middle" font-size="11" fill="#2a3a2a">CUARTO DE DRAPERÍA</text>
+  <text x="1237" y="216" text-anchor="middle" font-size="10" fill="#4a5a4a">adaptado a CAMERINO DE</text>
+  <text x="1237" y="230" text-anchor="middle" font-size="10" fill="#4a5a4a">TRANSFORMACIÓN (4 personas)</text>
+  <!-- Fuego -->
+  <path d="M 1237 258 c -10 -16 -4 -26 4 -34 c -2 10 6 12 8 20 c 6 -6 4 -12 2 -18 c 10 8 14 22 4 32 c -6 6 -14 6 -18 0 z" fill="#e25822" stroke="#a02222" stroke-width="1.5"/>
+  <text x="1237" y="288" text-anchor="middle" font-size="11" font-weight="bold" fill="#c62828">FOCO DEL INCENDIO</text>
+  <text x="1237" y="302" text-anchor="middle" font-size="10" fill="#a02222">"no logran pararlo" → art. 21 LPRL</text>
+  <rect x="1134" y="95" width="206" height="700" fill="none" stroke="#333" stroke-width="1.5"/>
+  <text x="1237" y="460" text-anchor="middle" font-size="11" fill="#2a3a2a" transform="rotate(-90 1237 460)">ZONA POSTERIOR: camerinos · sastrería · muelle</text>
+
+  <!-- Flecha roja: el fuego está PEGADO al público -->
+  <line x1="1180" y1="290" x2="1060" y2="330" stroke="#c62828" stroke-width="3.5" stroke-dasharray="8 6" marker-end="url(#gRed)"/>
+  <text x="1115" y="352" font-size="10" fill="#c62828">el humo avanza hacia la grada</text>
+
+  <!-- ====== EVACUACIÓN CORRECTA ====== -->
+  <!-- Desde gradas hacia Madrazo (hombro) -->
+  <line x1="920" y1="640" x2="920" y2="750" stroke="#1a7f37" stroke-width="4" marker-end="url(#gEvac)"/>
+  <circle cx="920" cy="772" r="20" fill="#fff" stroke="#1a7f37" stroke-width="3"/>
+  <text x="920" y="778" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a7f37">AE4</text>
+  <text x="1000" y="700" font-size="11" fill="#1a7f37">salidas del hombro Madrazo</text>
+  <text x="1000" y="714" font-size="11" fill="#1a7f37">(1er término y foro) — ¡despejar</text>
+  <text x="1000" y="728" font-size="11" fill="#1a7f37">el material escénico de las puertas!</text>
+  <!-- Desde gradas hacia platea y laterales -->
+  <line x1="760" y1="460" x2="560" y2="640" stroke="#1a7f37" stroke-width="4" marker-end="url(#gEvac)"/>
+  <line x1="470" y1="690" x2="330" y2="738" stroke="#1a7f37" stroke-width="4" marker-end="url(#gEvac)"/>
+  <circle cx="300" cy="772" r="20" fill="#fff" stroke="#1a7f37" stroke-width="3"/>
+  <text x="300" y="778" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a7f37">AE3</text>
+  <line x1="250" y1="445" x2="95" y2="445" stroke="#1a7f37" stroke-width="4" marker-end="url(#gEvac)"/>
+  <circle cx="60" cy="445" r="20" fill="#fff" stroke="#1a7f37" stroke-width="3"/>
+  <text x="60" y="451" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a7f37">AE1</text>
+  <!-- Dirección general: ALEJARSE del fondo Zorrilla -->
+  <text x="700" y="672" font-size="12" font-weight="bold" fill="#1a7f37">EVACUAR ALEJÁNDOSE DEL FOCO: hacia Madrazo y hacia platea</text>
+
+  <!-- ====== PANEL DE LECTURA ====== -->
+  <rect x="60" y="815" width="1280" height="85" fill="#ffffff" stroke="#999"/>
+  <text x="80" y="840" font-size="13" font-weight="bold" fill="#222">POR QUÉ ES UNA TRAMPA</text>
+  <text x="80" y="862" font-size="12" fill="#333">En condiciones normales el telón cortafuegos protege a la sala del fuego de la caja. Invertida la disposición, el público está EN la caja y el fuego a su espalda:</text>
+  <text x="80" y="882" font-size="12" fill="#333">bajar el telón antes de evacuar la caja lo encerraría en el sector del incendio. Sectorizar SOLO tras evacuación completa. Regla: primero leer el plano, después aplicar el manual.</text>
+</svg>

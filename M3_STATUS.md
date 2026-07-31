@@ -8,6 +8,10 @@
 
 ## Banco incorporado
 
+Actualización: el banco histórico incluye también 32 preguntas oficiales M3 del Ministerio de Igualdad (2023). Se conservan con tres opciones, se identifican por su convocatoria y no entran en el examen aleatorio vigente.
+
+Se han incorporado 571 preguntas oficiales M1 del Ministerio de Cultura (2023), procedentes de nueve cuestionarios técnicos y sus plantillas definitivas. Se conservan con tres opciones y procedencia M1; el examen aleatorio vigente las excluye por formato, mientras que Libre, Historia y el selector de históricos las pueden mostrar.
+
 Se han importado 70 preguntas del primer ejercicio oficial de la convocatoria de 2021:
 
 - Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública.
@@ -31,6 +35,8 @@ Estas preguntas se conservan fuera del modo Historia y están disponibles median
 ## Material oficial conservado
 
 `data/official-exams/m3-2021/` contiene el cuestionario, la plantilla de respuestas y el supuesto práctico de la documentación recibida.
+
+Se ha incorporado además el desglose técnico oficial del INAEM publicado en 2022 (`data/sources/inaem-m1-2022.html`) y su mapa de correspondencias editoriales con los temas técnicos M3 (`data/sources/inaem-m1-2022-mapping.json`). Es material profesional de referencia, no legislación ni una ampliación del temario M3.
 
 ## Verificaciones ejecutadas
 

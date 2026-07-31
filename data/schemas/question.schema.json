@@ -8,10 +8,29 @@
     "prompt": { "type": "string", "minLength": 1 },
     "options": { "type": "array", "minItems": 2, "items": { "type": "object", "required": ["id", "text"], "properties": { "id": { "type": "string" }, "text": { "type": "string" } } } },
     "correctOptionId": { "type": "string" },
+    "active": { "type": "boolean" },
     "explanation": { "type": "string" },
     "editorialRuleIds": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
     "temporalContext": { "type": "string", "enum": ["vigente-hasta-2027-05-24", "prospectivo-hasta-2027-05-24", "vigente-desde-2027-05-25"] },
-    "source": { "type": "object", "required": ["lawId", "anchorId", "reference"], "properties": { "lawId": { "type": "string" }, "anchorId": { "type": "string" }, "reference": { "type": "string" }, "url": { "type": "string" } } },
+    "source": {
+      "oneOf": [
+        {
+          "type": "object",
+          "required": ["lawId", "anchorId", "reference"],
+          "properties": { "lawId": { "type": "string" }, "anchorId": { "type": "string" }, "reference": { "type": "string" }, "url": { "type": "string" }, "kind": { "type": "string" } }
+        },
+        {
+          "type": "object",
+          "required": ["kind", "reference"],
+          "properties": { "kind": { "const": "bibliografia" }, "reference": { "type": "string" }, "locator": { "type": "string" }, "url": { "type": "string" } }
+        },
+        {
+          "type": "object",
+          "required": ["kind", "reference"],
+          "properties": { "kind": { "const": "referencia" }, "reference": { "type": "string" }, "locator": { "type": "string" }, "author": { "type": "string" }, "edition": { "type": "string" }, "url": { "type": "string" }, "note": { "type": "string" } }
+        }
+      ]
+    },
     "origin": { "type": "object", "required": ["type", "label", "questionNumber"], "properties": { "type": { "type": "string" }, "label": { "type": "string" }, "resolution": { "type": "string" }, "questionNumber": { "type": "integer" }, "part": { "type": "string" }, "page": { "type": "integer" }, "historical": { "type": "boolean" }, "questionnaire": { "type": "string" }, "answerKey": { "type": "string" } } }
   }
 }

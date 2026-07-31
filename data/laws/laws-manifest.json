@@ -62,6 +62,16 @@
       "sourceType": "boe-consolidado"
     },
     {
+      "lawId": "rd-171-2004",
+      "slug": "rd-171-2004",
+      "title": "Real Decreto 171/2004, de 30 de enero, coordinación de actividades empresariales",
+      "legalReference": "Real Decreto 171/2004, de 30 de enero, por el que se desarrolla el artículo 24 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en materia de coordinación de actividades empresariales.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848",
+      "versionDate": "20040310",
+      "file": "rd-171-2004.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
       "lawId": "rd-1215-1997",
       "slug": "rd-1215-1997",
       "title": "Real Decreto 1215/1997, de 18 de julio, equipos de trabajo",
@@ -125,9 +135,9 @@
       "lawId": "eu-teu-2012",
       "slug": "eu-teu-2012",
       "title": "Tratado de la Unión Europea — versión consolidada",
-      "legalReference": "Tratado de la Unión Europea, versión consolidada publicada en el DOUE C 326 de 26 de octubre de 2012.",
-      "officialUrl": "https://eur-lex.europa.eu/eli/treaty/teu_2012/oj?locale=es",
-      "versionDate": "20121026",
+      "legalReference": "Tratado de la Unión Europea, versión consolidada publicada en el DOUE C 202 de 7 de junio de 2016.",
+      "officialUrl": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12016M%2FTXT",
+      "versionDate": "20160607",
       "file": "eu-teu-2012.html",
       "sourceType": "eur-lex-consolidado"
     },
@@ -135,9 +145,9 @@
       "lawId": "eu-tfeu-2012",
       "slug": "eu-tfeu-2012",
       "title": "Tratado de Funcionamiento de la Unión Europea — versión consolidada",
-      "legalReference": "Tratado de Funcionamiento de la Unión Europea, versión consolidada publicada en el DOUE C 326 de 26 de octubre de 2012.",
-      "officialUrl": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT",
-      "versionDate": "20121026",
+      "legalReference": "Tratado de Funcionamiento de la Unión Europea, versión consolidada publicada en el DOUE C 202 de 7 de junio de 2016.",
+      "officialUrl": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12016E%2FTXT",
+      "versionDate": "20160607",
       "file": "eu-tfeu-2012.html",
       "sourceType": "eur-lex-consolidado"
     },
@@ -149,7 +159,10 @@
       "officialUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "versionDate": "20251114",
       "file": "rd-1028-2025.html",
-      "sourceType": "boe-oficial"
+      "sourceType": "boe-oficial",
+      "entryType": "amending-norm",
+      "scope": "reforma-organizativa-2025",
+      "note": "Norma modificativa: sus cambios se leen junto con los textos consolidados que modifica."
     },
     {
       "lawId": "orden-cul-2039-2011-cdn",
@@ -199,7 +212,11 @@
       "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-22645",
       "versionDate": "19780902",
       "file": "rd-2084-1978-ocne.html",
-      "sourceType": "boe-oficial-historico"
+      "sourceType": "boe-oficial-historico",
+      "active": false,
+      "historical": true,
+      "status": "historical-reference-not-for-active-exams",
+      "note": "Norma histórica de la OCNE, desplazada por la creación del INAEM y sustituida para el estudio vigente por el Real Decreto 1245/2002."
     },
     {
       "lawId": "res-jonde-2023-becas",
@@ -249,7 +266,11 @@
       "officialUrl": "https://www.cultura.gob.es/cultura/artesescenicas/contenedora-noticias-prensa/a2025/junio/reapertura-magalia.html",
       "versionDate": "20250606",
       "file": "cultura-magalia-2025.html",
-      "sourceType": "ministerio-informacion-oficial"
+      "sourceType": "institutional-context",
+      "entryType": "institutional",
+      "legalStatus": "not-normative",
+      "anchorPolicy": "document-section",
+      "note": "Fuente institucional informativa; no contiene articulado y no debe usarse como sustituto de una norma jurídica."
     },
     {
       "lawId": "cultura-inaem-centros-2026",
@@ -259,7 +280,11 @@
       "officialUrl": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html",
       "versionDate": "20260611",
       "file": "cultura-inaem-centros-2026.html",
-      "sourceType": "ministerio-informacion-oficial"
+      "sourceType": "institutional-context",
+      "entryType": "institutional",
+      "legalStatus": "not-normative",
+      "anchorPolicy": "document-section",
+      "note": "Fuente institucional informativa; no contiene articulado y no debe usarse como sustituto de una norma jurídica."
     },
     {
       "lawId": "rdleg-2-2015-et",
@@ -310,6 +335,376 @@
       "versionDate": "20260725",
       "file": "rd-607-2026-artistas.html",
       "sourceType": "boe-oficial-futuro"
+    },
+    {
+      "lawId": "rd-2491-1996",
+      "slug": "rd-2491-1996",
+      "title": "Real Decreto 2491/1996, de 5 de diciembre, estructura y funciones del INAEM",
+      "legalReference": "Real Decreto 2491/1996, de 5 de diciembre, estructura y funciones del INAEM",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-28432",
+      "versionDate": "20251218",
+      "file": "rd-2491-1996.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-31-1995",
+      "slug": "ley-31-1995",
+      "title": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "legalReference": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292",
+      "versionDate": "20260622",
+      "file": "ley-31-1995.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-50-1997",
+      "slug": "ley-50-1997",
+      "title": "Ley 50/1997, de 27 de noviembre, del Gobierno",
+      "legalReference": "Ley 50/1997, de 27 de noviembre, del Gobierno",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336",
+      "versionDate": "20260720",
+      "file": "ley-50-1997.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rdl-17-1977",
+      "slug": "rdl-17-1977",
+      "title": "Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo",
+      "legalReference": "Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1977-6061",
+      "versionDate": "20251216",
+      "file": "rdl-17-1977.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-12-1989",
+      "slug": "ley-12-1989",
+      "title": "Ley 12/1989, de 9 de mayo, de la Función Estadística Pública",
+      "legalReference": "Ley 12/1989, de 9 de mayo, de la Función Estadística Pública",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1989-10767",
+      "versionDate": "20260204",
+      "file": "ley-12-1989.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-49-2002",
+      "slug": "ley-49-2002",
+      "title": "Ley 49/2002, de 23 de diciembre, de régimen fiscal de entidades sin fines lucrativos y mecenazgo",
+      "legalReference": "Ley 49/2002, de 23 de diciembre, de régimen fiscal de entidades sin fines lucrativos y mecenazgo",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-25039",
+      "versionDate": "20260527",
+      "file": "ley-49-2002.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-364-1995",
+      "slug": "rd-364-1995",
+      "title": "Real Decreto 364/1995, de 10 de marzo, Reglamento General de Ingreso",
+      "legalReference": "Real Decreto 364/1995, de 10 de marzo, Reglamento General de Ingreso",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-8729",
+      "versionDate": "20251218",
+      "file": "rd-364-1995.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rdl-6-2023",
+      "slug": "rdl-6-2023",
+      "title": "Real Decreto-ley 6/2023, de 19 de diciembre (reforma de la Ley 49/2002)",
+      "legalReference": "Real Decreto-ley 6/2023, de 19 de diciembre (reforma de la Ley 49/2002)",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-25758",
+      "versionDate": "20260507",
+      "file": "rdl-6-2023.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-27-2014",
+      "slug": "ley-27-2014",
+      "title": "Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades",
+      "legalReference": "Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-12328",
+      "versionDate": "20260529",
+      "file": "ley-27-2014.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rdleg-1-1996",
+      "slug": "rdleg-1-1996",
+      "title": "Real Decreto Legislativo 1/1996, de 12 de abril, TRLPI",
+      "legalReference": "Real Decreto Legislativo 1/1996, de 12 de abril, TRLPI",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930",
+      "versionDate": "20260713",
+      "file": "rdleg-1-1996.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rdl-24-2021",
+      "slug": "rdl-24-2021",
+      "title": "Real Decreto-ley 24/2021, de 2 de noviembre (Directiva 2019/790, mercado único digital)",
+      "legalReference": "Real Decreto-ley 24/2021, de 2 de noviembre (Directiva 2019/790, mercado único digital)",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-17910",
+      "versionDate": "20251220",
+      "file": "rdl-24-2021.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-47-2003",
+      "slug": "ley-47-2003",
+      "title": "Ley 47/2003, de 26 de noviembre, General Presupuestaria",
+      "legalReference": "Ley 47/2003, de 26 de noviembre, General Presupuestaria",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614",
+      "versionDate": "20260630",
+      "file": "ley-47-2003.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-38-2003",
+      "slug": "ley-38-2003",
+      "title": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "legalReference": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977",
+      "versionDate": "20260730",
+      "file": "ley-38-2003.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-16-1985",
+      "slug": "ley-16-1985",
+      "title": "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+      "legalReference": "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12534",
+      "versionDate": "20260527",
+      "file": "ley-16-1985.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-10-2015",
+      "slug": "ley-10-2015",
+      "title": "Ley 10/2015, de 26 de mayo, para la salvaguardia del Patrimonio Cultural Inmaterial",
+      "legalReference": "Ley 10/2015, de 26 de mayo, para la salvaguardia del Patrimonio Cultural Inmaterial",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5794",
+      "versionDate": "20251219",
+      "file": "ley-10-2015.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-620-1987",
+      "slug": "rd-620-1987",
+      "title": "Real Decreto 620/1987, de 10 de abril, Reglamento de Museos de Titularidad Estatal",
+      "legalReference": "Real Decreto 620/1987, de 10 de abril, Reglamento de Museos de Titularidad Estatal",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-11621",
+      "versionDate": "20251217",
+      "file": "rd-620-1987.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-50-2002",
+      "slug": "ley-50-2002",
+      "title": "Ley 50/2002, de 26 de diciembre, de Fundaciones",
+      "legalReference": "Ley 50/2002, de 26 de diciembre, de Fundaciones",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-25180",
+      "versionDate": "20260225",
+      "file": "ley-50-2002.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "lo-1-2002",
+      "slug": "lo-1-2002",
+      "title": "Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación",
+      "legalReference": "Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-5852",
+      "versionDate": "20251218",
+      "file": "lo-1-2002.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-7-2021",
+      "slug": "ley-7-2021",
+      "title": "Ley 7/2021, de 20 de mayo, de cambio climático y transición energética",
+      "legalReference": "Ley 7/2021, de 20 de mayo, de cambio climático y transición energética",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447",
+      "versionDate": "20260723",
+      "file": "ley-7-2021.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-39-1997",
+      "slug": "rd-39-1997",
+      "title": "Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención",
+      "legalReference": "Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853",
+      "versionDate": "20251218",
+      "file": "rd-39-1997.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rdleg-8-2015",
+      "slug": "rdleg-8-2015",
+      "title": "Real Decreto Legislativo 8/2015, de 30 de octubre, LGSS",
+      "legalReference": "Real Decreto Legislativo 8/2015, de 30 de octubre, LGSS",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724",
+      "versionDate": "20260730",
+      "file": "rdleg-8-2015.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rdl-1-2023",
+      "slug": "rdl-1-2023",
+      "title": "Real Decreto-ley 1/2023, de 10 de enero, incentivos a la contratación y protección social de personas artistas",
+      "legalReference": "Real Decreto-ley 1/2023, de 10 de enero, incentivos a la contratación y protección social de personas artistas",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-625",
+      "versionDate": "20260508",
+      "file": "rdl-1-2023.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rdl-5-2022",
+      "slug": "rdl-5-2022",
+      "title": "Real Decreto-ley 5/2022, de 22 de marzo, relación laboral de personas artistas",
+      "legalReference": "Real Decreto-ley 5/2022, de 22 de marzo, relación laboral de personas artistas",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-4583",
+      "versionDate": "20260727",
+      "file": "rdl-5-2022.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-323-2024",
+      "slug": "rd-323-2024",
+      "title": "Real Decreto 323/2024, de 26 de marzo, estructura orgánica del Ministerio de Cultura",
+      "legalReference": "Real Decreto 323/2024, de 26 de marzo, estructura orgánica del Ministerio de Cultura",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-6087",
+      "versionDate": "20260723",
+      "file": "rd-323-2024.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-1009-2023",
+      "slug": "rd-1009-2023",
+      "title": "Real Decreto 1009/2023, de 5 de diciembre, estructura orgánica básica de los departamentos",
+      "legalReference": "Real Decreto 1009/2023, de 5 de diciembre, estructura orgánica básica de los departamentos",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-24842",
+      "versionDate": "20260729",
+      "file": "rd-1009-2023.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-50-1984",
+      "slug": "ley-50-1984",
+      "title": "Ley 50/1984, de 30 de diciembre, PGE 1985 (art. 87.3, creación del INAEM)",
+      "legalReference": "Ley 50/1984, de 30 de diciembre, PGE 1985 (art. 87.3, creación del INAEM)",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-28337",
+      "versionDate": "20251216",
+      "file": "ley-50-1984.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "lo-3-2007",
+      "slug": "lo-3-2007",
+      "title": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "legalReference": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115",
+      "versionDate": "20251219",
+      "file": "lo-3-2007.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-901-2020",
+      "slug": "rd-901-2020",
+      "title": "Real Decreto 901/2020, de 13 de octubre, planes de igualdad",
+      "legalReference": "Real Decreto 901/2020, de 13 de octubre, planes de igualdad",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12214",
+      "versionDate": "20251220",
+      "file": "rd-901-2020.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-902-2020",
+      "slug": "rd-902-2020",
+      "title": "Real Decreto 902/2020, de 13 de octubre, igualdad retributiva",
+      "legalReference": "Real Decreto 902/2020, de 13 de octubre, igualdad retributiva",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12215",
+      "versionDate": "20251220",
+      "file": "rd-902-2020.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rdleg-1-2013",
+      "slug": "rdleg-1-2013",
+      "title": "Real Decreto Legislativo 1/2013, de 29 de noviembre, derechos de las personas con discapacidad",
+      "legalReference": "Real Decreto Legislativo 1/2013, de 29 de noviembre, derechos de las personas con discapacidad",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632",
+      "versionDate": "20251219",
+      "file": "rdleg-1-2013.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-193-2023",
+      "slug": "rd-193-2023",
+      "title": "Real Decreto 193/2023, de 21 de marzo, condiciones básicas de accesibilidad",
+      "legalReference": "Real Decreto 193/2023, de 21 de marzo, condiciones básicas de accesibilidad",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7417",
+      "versionDate": "20251229",
+      "file": "rd-193-2023.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "orden-cul-3520-2008",
+      "slug": "orden-cul-3520-2008",
+      "title": "Orden CUL/3520/2008, de 1 de diciembre, por la que se aprueba el Código de buenas prácticas del Instituto Nacional de las Artes Escénicas y de la Música",
+      "legalReference": "Orden CUL/3520/2008, de 1 de diciembre, por la que se aprueba el Código de buenas prácticas del Instituto Nacional de las Artes Escénicas y de la Música",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-19644",
+      "versionDate": "20251219",
+      "file": "orden-cul-3520-2008.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-1245-2002",
+      "slug": "rd-1245-2002",
+      "title": "Real Decreto 1245/2002, de 29 de noviembre, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Orquesta Nacional de España",
+      "legalReference": "Real Decreto 1245/2002, de 29 de noviembre, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Orquesta Nacional de España",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-24045",
+      "versionDate": "20251218",
+      "file": "rd-1245-2002.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "orden-17-10-1983",
+      "slug": "orden-17-10-1983",
+      "title": "Orden de 17 de octubre de 1983 por la que se crea la Joven Orquesta Nacional de España",
+      "legalReference": "Orden de 17 de octubre de 1983 por la que se crea la Joven Orquesta Nacional de España",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1983-28352",
+      "versionDate": "20251216",
+      "file": "orden-17-10-1983.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "conv-onu-2006",
+      "slug": "conv-onu-2006",
+      "title": "Instrumento de Ratificación de la Convención sobre los derechos de las personas con discapacidad, Nueva York, 13 de diciembre de 2006",
+      "legalReference": "Instrumento de Ratificación de la Convención sobre los derechos de las personas con discapacidad, Nueva York, 13 de diciembre de 2006",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-6963",
+      "versionDate": "20260331",
+      "file": "conv-onu-2006.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-17-1997-cm",
+      "slug": "ley-17-1997-cm",
+      "title": "Ley 17/1997, de 4 de julio, de Espectáculos Públicos y Actividades Recreativas de la Comunidad de Madrid",
+      "legalReference": "Ley 17/1997, de 4 de julio, de Espectáculos Públicos y Actividades Recreativas de la Comunidad de Madrid",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-9648",
+      "versionDate": "20260511",
+      "file": "ley-17-1997-cm.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-393-2007",
+      "slug": "rd-393-2007",
+      "title": "Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica de Autoprotección",
+      "legalReference": "Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica de Autoprotección",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6237",
+      "versionDate": "20251219",
+      "file": "rd-393-2007.html",
+      "sourceType": "boe-consolidado"
     }
   ]
 }
