@@ -545,13 +545,13 @@ function openStudyCategory(categoryId) {
 }
 
 async function openStudyDocument(documentId, focusId = null) {
-  const document = studyDocuments.find(item => item.id === documentId);
-  if (!document) return;
-  activeStudyCategory = documentCategory(document.id);
+  const studyDocument = studyDocuments.find(item => item.id === documentId);
+  if (!studyDocument) return;
+  activeStudyCategory = documentCategory(studyDocument.id);
   const categoryDocuments = studyDocuments.filter(item => documentCategory(item.id) === activeStudyCategory);
   const index = categoryDocuments.findIndex(item => item.id === documentId);
-  $('#study-page-title').textContent = document.title;
-  $('#study-page-subtitle').textContent = document.summary;
+  $('#study-page-title').textContent = studyDocument.title;
+  $('#study-page-subtitle').textContent = studyDocument.summary;
   $('#study-page-content').innerHTML = '<p>Cargando documento…</p>';
   $('#study-toc-list').innerHTML = '';
   $('#study-prev').disabled = index <= 0;
@@ -566,7 +566,7 @@ async function openStudyDocument(documentId, focusId = null) {
   $('#study-document-view').hidden = false;
   show('study');
   try {
-    const response = await fetch(document.file);
+    const response = await fetch(studyDocument.file);
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const rendered = markdownToHtml(await response.text());
     $('#study-page-content').innerHTML = rendered.html;
