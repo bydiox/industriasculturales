@@ -1,0 +1,166 @@
+[
+ {
+  "id": "m1-desempate-maquinaria-2021-01",
+  "topicId": "especifico-30",
+  "prompt": "Si estás situado en el centro de un escenario a la italiana, mirando al público, indica de la lista propuesta qué partes se encontrarán delante y detrás de ti respectivamente:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Hombro izquierdo y hombro derecho."
+   },
+   {
+    "id": "B",
+    "text": "Boca y foro."
+   },
+   {
+    "id": "C",
+    "text": "Telar y foso."
+   }
+  ],
+  "correctOptionId": null,
+  "explanation": "PENDIENTE: verificar contra la plantilla de respuestas oficial antes de activar.",
+  "source": {
+   "kind": "official_exam_snippet",
+   "reference": "Examen de desempate, Maquinaria Escénica para el Espectáculo en Vivo, M1, pregunta 1. Ministerio de Cultura, 2021."
+  },
+  "origin": {
+   "type": "official_exam_snippet",
+   "historical": true,
+   "convocatoria": "Resolución de 28 de julio de 2021, Secretaría de Estado de Función Pública (BOE 31/07/2021)",
+   "ministerio": "Ministerio de Cultura y Deporte (extinto)",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "tipo_prueba": "Examen de desempate, turno libre",
+   "fecha_publicacion_web": "2024-02-15",
+   "cuestionario_url": "https://www.cultura.gob.es/ca/dam/jcr:4af52115-ac9d-496c-8e11-9792dbcda36e/maquinaria-esc-nica--examen-dsempate.pdf",
+   "plantilla_url": null,
+   "estado": "PENDIENTE_VERIFICACION — respuesta correcta no confirmada; no promover a active sin comprobar la plantilla oficial",
+   "numeroOriginal": 1
+  },
+  "active": false,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-desempate-maquinaria-2021-02",
+  "topicId": "especifico-06",
+  "prompt": "El espacio escénico tipo «Corral de comedias» apareció durante:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Antigua Roma."
+   },
+   {
+    "id": "B",
+    "text": "Época Medieval."
+   },
+   {
+    "id": "C",
+    "text": "El siglo de Oro Español."
+   }
+  ],
+  "correctOptionId": null,
+  "explanation": "PENDIENTE: verificar contra la plantilla de respuestas oficial antes de activar.",
+  "source": {
+   "kind": "official_exam_snippet",
+   "reference": "Examen de desempate, Maquinaria Escénica para el Espectáculo en Vivo, M1, pregunta 2. Ministerio de Cultura, 2021."
+  },
+  "origin": {
+   "type": "official_exam_snippet",
+   "historical": true,
+   "convocatoria": "Resolución de 28 de julio de 2021, Secretaría de Estado de Función Pública (BOE 31/07/2021)",
+   "ministerio": "Ministerio de Cultura y Deporte (extinto)",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "tipo_prueba": "Examen de desempate, turno libre",
+   "fecha_publicacion_web": "2024-02-15",
+   "cuestionario_url": "https://www.cultura.gob.es/ca/dam/jcr:4af52115-ac9d-496c-8e11-9792dbcda36e/maquinaria-esc-nica--examen-dsempate.pdf",
+   "plantilla_url": null,
+   "estado": "PENDIENTE_VERIFICACION — respuesta correcta no confirmada; no promover a active sin comprobar la plantilla oficial",
+   "numeroOriginal": 2
+  },
+  "active": false,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-desempate-maquinaria-2021-03",
+  "topicId": "especifico-31",
+  "prompt": "Indica cuál de los siguientes listados de aperturas de telón realizan un juego vertical:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Americana, Veneciana y Alemana."
+   },
+   {
+    "id": "B",
+    "text": "Alemana, Veneciana y Francesa."
+   },
+   {
+    "id": "C",
+    "text": "Alemana, Veneciana y Brechtiana."
+   }
+  ],
+  "correctOptionId": null,
+  "explanation": "PENDIENTE: verificar contra la plantilla de respuestas oficial antes de activar.",
+  "source": {
+   "kind": "official_exam_snippet",
+   "reference": "Examen de desempate, Maquinaria Escénica para el Espectáculo en Vivo, M1, pregunta 3. Ministerio de Cultura, 2021."
+  },
+  "origin": {
+   "type": "official_exam_snippet",
+   "historical": true,
+   "convocatoria": "Resolución de 28 de julio de 2021, Secretaría de Estado de Función Pública (BOE 31/07/2021)",
+   "ministerio": "Ministerio de Cultura y Deporte (extinto)",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "tipo_prueba": "Examen de desempate, turno libre",
+   "fecha_publicacion_web": "2024-02-15",
+   "cuestionario_url": "https://www.cultura.gob.es/ca/dam/jcr:4af52115-ac9d-496c-8e11-9792dbcda36e/maquinaria-esc-nica--examen-dsempate.pdf",
+   "plantilla_url": null,
+   "estado": "PENDIENTE_VERIFICACION — respuesta correcta no confirmada; no promover a active sin comprobar la plantilla oficial",
+   "numeroOriginal": 3
+  },
+  "active": false,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-desempate-maquinaria-2021-04",
+  "topicId": "especifico-32",
+  "prompt": "Para nivelar una bambalina suspendida de cuatro tiros, ¿cómo llamarás a cada tiro, empezando desde el más lejano al más cercano al puente de maniobra?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Corta, Centro Corta, Centro Larga y Larga."
+   },
+   {
+    "id": "B",
+    "text": "[opciones B y C no capturadas en el fragmento disponible]"
+   },
+   {
+    "id": "C",
+    "text": "[opciones B y C no capturadas en el fragmento disponible]"
+   }
+  ],
+  "correctOptionId": null,
+  "explanation": "PENDIENTE: verificar contra la plantilla de respuestas oficial antes de activar.",
+  "source": {
+   "kind": "official_exam_snippet",
+   "reference": "Examen de desempate, Maquinaria Escénica para el Espectáculo en Vivo, M1, pregunta 4. Ministerio de Cultura, 2021."
+  },
+  "origin": {
+   "type": "official_exam_snippet",
+   "historical": true,
+   "convocatoria": "Resolución de 28 de julio de 2021, Secretaría de Estado de Función Pública (BOE 31/07/2021)",
+   "ministerio": "Ministerio de Cultura y Deporte (extinto)",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "tipo_prueba": "Examen de desempate, turno libre",
+   "fecha_publicacion_web": "2024-02-15",
+   "cuestionario_url": "https://www.cultura.gob.es/ca/dam/jcr:4af52115-ac9d-496c-8e11-9792dbcda36e/maquinaria-esc-nica--examen-dsempate.pdf",
+   "plantilla_url": null,
+   "estado": "PENDIENTE_VERIFICACION — respuesta correcta no confirmada; no promover a active sin comprobar la plantilla oficial",
+   "numeroOriginal": 4
+  },
+  "active": false,
+  "optionCount": 3
+ }
+]

@@ -1,0 +1,736 @@
+{
+  "schemaVersion": 1,
+  "status": "active",
+  "note": "Déficit operativo de preguntas activas con cuatro opciones frente a pool5. El bloque byTopic es la línea base previa a la migración; postMigrationByTopic refleja el estado resultante. Las preguntas históricas de tres opciones no se cuentan.",
+  "generatedAt": "2026-07-31",
+  "baselineBeforeMigration": {
+    "deficitTopics": 57,
+    "deficitQuestions": 297,
+    "activeFourOptionQuestions": 204
+  },
+  "byTopic": {
+    "comun-01": {
+      "pool5": 15,
+      "activeCount": 9,
+      "deficit": 6
+    },
+    "comun-02": {
+      "pool5": 12,
+      "activeCount": 7,
+      "deficit": 5
+    },
+    "comun-03": {
+      "pool5": 18,
+      "activeCount": 11,
+      "deficit": 7
+    },
+    "comun-04": {
+      "pool5": 18,
+      "activeCount": 11,
+      "deficit": 7
+    },
+    "comun-05": {
+      "pool5": 17,
+      "activeCount": 10,
+      "deficit": 7
+    },
+    "comun-06": {
+      "pool5": 14,
+      "activeCount": 8,
+      "deficit": 6
+    },
+    "comun-07": {
+      "pool5": 20,
+      "activeCount": 12,
+      "deficit": 8
+    },
+    "comun-08": {
+      "pool5": 11,
+      "activeCount": 6,
+      "deficit": 5
+    },
+    "comun-09": {
+      "pool5": 18,
+      "activeCount": 15,
+      "deficit": 3
+    },
+    "comun-10": {
+      "pool5": 21,
+      "activeCount": 14,
+      "deficit": 7
+    },
+    "comun-11": {
+      "pool5": 13,
+      "activeCount": 12,
+      "deficit": 1
+    },
+    "comun-12": {
+      "pool5": 12,
+      "activeCount": 13,
+      "deficit": 0
+    },
+    "comun-13": {
+      "pool5": 30,
+      "activeCount": 21,
+      "deficit": 9
+    },
+    "comun-14": {
+      "pool5": 17,
+      "activeCount": 14,
+      "deficit": 3
+    },
+    "comun-15": {
+      "pool5": 13,
+      "activeCount": 12,
+      "deficit": 1
+    },
+    "especifico-01": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-02": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-03": {
+      "pool5": 7,
+      "activeCount": 0,
+      "deficit": 7
+    },
+    "especifico-04": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-05": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-06": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-07": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-08": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-09": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-10": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-11": {
+      "pool5": 8,
+      "activeCount": 0,
+      "deficit": 8
+    },
+    "especifico-12": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-13": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-14": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-15": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-16": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-17": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-18": {
+      "pool5": 7,
+      "activeCount": 0,
+      "deficit": 7
+    },
+    "especifico-19": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-20": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-21": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-22": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-23": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-24": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-25": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-26": {
+      "pool5": 8,
+      "activeCount": 5,
+      "deficit": 3
+    },
+    "especifico-27": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-28": {
+      "pool5": 8,
+      "activeCount": 6,
+      "deficit": 2
+    },
+    "especifico-29": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-30": {
+      "pool5": 6,
+      "activeCount": 4,
+      "deficit": 2
+    },
+    "especifico-31": {
+      "pool5": 7,
+      "activeCount": 0,
+      "deficit": 7
+    },
+    "especifico-32": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-33": {
+      "pool5": 11,
+      "activeCount": 0,
+      "deficit": 11
+    },
+    "especifico-34": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-35": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-36": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-37": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-38": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-39": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-40": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-41": {
+      "pool5": 13,
+      "activeCount": 0,
+      "deficit": 13
+    },
+    "especifico-42": {
+      "pool5": 8,
+      "activeCount": 0,
+      "deficit": 8
+    },
+    "especifico-43": {
+      "pool5": 7,
+      "activeCount": 8,
+      "deficit": 0
+    },
+    "especifico-44": {
+      "pool5": 8,
+      "activeCount": 0,
+      "deficit": 8
+    },
+    "especifico-45": {
+      "pool5": 6,
+      "activeCount": 6,
+      "deficit": 0
+    }
+  },
+  "deficitTopics": [
+    "comun-01",
+    "comun-02",
+    "comun-03",
+    "comun-04",
+    "comun-05",
+    "comun-06",
+    "comun-07",
+    "comun-08",
+    "comun-09",
+    "comun-10",
+    "comun-11",
+    "comun-13",
+    "comun-14",
+    "comun-15",
+    "especifico-01",
+    "especifico-02",
+    "especifico-03",
+    "especifico-04",
+    "especifico-05",
+    "especifico-06",
+    "especifico-07",
+    "especifico-08",
+    "especifico-09",
+    "especifico-10",
+    "especifico-11",
+    "especifico-12",
+    "especifico-13",
+    "especifico-14",
+    "especifico-15",
+    "especifico-16",
+    "especifico-17",
+    "especifico-18",
+    "especifico-19",
+    "especifico-20",
+    "especifico-21",
+    "especifico-22",
+    "especifico-23",
+    "especifico-24",
+    "especifico-25",
+    "especifico-26",
+    "especifico-27",
+    "especifico-28",
+    "especifico-29",
+    "especifico-30",
+    "especifico-31",
+    "especifico-32",
+    "especifico-33",
+    "especifico-34",
+    "especifico-35",
+    "especifico-36",
+    "especifico-37",
+    "especifico-38",
+    "especifico-39",
+    "especifico-40",
+    "especifico-41",
+    "especifico-42",
+    "especifico-44"
+  ],
+  "migration": {
+    "source": "m1-cultura-2023",
+    "migratedQuestions": 45,
+    "strategy": "curated-distractors",
+    "remainingDeficitTopics": 53,
+    "remainingDeficitQuestions": 252
+  },
+  "postMigrationByTopic": {
+    "comun-01": {
+      "pool5": 15,
+      "activeCount": 9,
+      "deficit": 6
+    },
+    "comun-02": {
+      "pool5": 12,
+      "activeCount": 7,
+      "deficit": 5
+    },
+    "comun-03": {
+      "pool5": 18,
+      "activeCount": 11,
+      "deficit": 7
+    },
+    "comun-04": {
+      "pool5": 18,
+      "activeCount": 11,
+      "deficit": 7
+    },
+    "comun-05": {
+      "pool5": 17,
+      "activeCount": 10,
+      "deficit": 7
+    },
+    "comun-06": {
+      "pool5": 14,
+      "activeCount": 8,
+      "deficit": 6
+    },
+    "comun-07": {
+      "pool5": 20,
+      "activeCount": 12,
+      "deficit": 8
+    },
+    "comun-08": {
+      "pool5": 11,
+      "activeCount": 6,
+      "deficit": 5
+    },
+    "comun-09": {
+      "pool5": 18,
+      "activeCount": 15,
+      "deficit": 3
+    },
+    "comun-10": {
+      "pool5": 21,
+      "activeCount": 14,
+      "deficit": 7
+    },
+    "comun-11": {
+      "pool5": 13,
+      "activeCount": 12,
+      "deficit": 1
+    },
+    "comun-12": {
+      "pool5": 12,
+      "activeCount": 13,
+      "deficit": 0
+    },
+    "comun-13": {
+      "pool5": 30,
+      "activeCount": 28,
+      "deficit": 2
+    },
+    "comun-14": {
+      "pool5": 17,
+      "activeCount": 14,
+      "deficit": 3
+    },
+    "comun-15": {
+      "pool5": 13,
+      "activeCount": 12,
+      "deficit": 1
+    },
+    "especifico-01": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-02": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-03": {
+      "pool5": 7,
+      "activeCount": 0,
+      "deficit": 7
+    },
+    "especifico-04": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-05": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-06": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-07": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-08": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-09": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-10": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-11": {
+      "pool5": 8,
+      "activeCount": 0,
+      "deficit": 8
+    },
+    "especifico-12": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-13": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-14": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-15": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-16": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-17": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-18": {
+      "pool5": 7,
+      "activeCount": 0,
+      "deficit": 7
+    },
+    "especifico-19": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-20": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-21": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-22": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-23": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-24": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-25": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-26": {
+      "pool5": 8,
+      "activeCount": 5,
+      "deficit": 3
+    },
+    "especifico-27": {
+      "pool5": 5,
+      "activeCount": 0,
+      "deficit": 5
+    },
+    "especifico-28": {
+      "pool5": 8,
+      "activeCount": 6,
+      "deficit": 2
+    },
+    "especifico-29": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-30": {
+      "pool5": 6,
+      "activeCount": 6,
+      "deficit": 0
+    },
+    "especifico-31": {
+      "pool5": 7,
+      "activeCount": 3,
+      "deficit": 4
+    },
+    "especifico-32": {
+      "pool5": 4,
+      "activeCount": 1,
+      "deficit": 3
+    },
+    "especifico-33": {
+      "pool5": 11,
+      "activeCount": 11,
+      "deficit": 0
+    },
+    "especifico-34": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-35": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-36": {
+      "pool5": 6,
+      "activeCount": 0,
+      "deficit": 6
+    },
+    "especifico-37": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-38": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-39": {
+      "pool5": 4,
+      "activeCount": 0,
+      "deficit": 4
+    },
+    "especifico-40": {
+      "pool5": 3,
+      "activeCount": 0,
+      "deficit": 3
+    },
+    "especifico-41": {
+      "pool5": 13,
+      "activeCount": 13,
+      "deficit": 0
+    },
+    "especifico-42": {
+      "pool5": 8,
+      "activeCount": 0,
+      "deficit": 8
+    },
+    "especifico-43": {
+      "pool5": 7,
+      "activeCount": 8,
+      "deficit": 0
+    },
+    "especifico-44": {
+      "pool5": 8,
+      "activeCount": 8,
+      "deficit": 0
+    },
+    "especifico-45": {
+      "pool5": 6,
+      "activeCount": 6,
+      "deficit": 0
+    }
+  },
+  "remainingDeficitTopics": [
+    "comun-01",
+    "comun-02",
+    "comun-03",
+    "comun-04",
+    "comun-05",
+    "comun-06",
+    "comun-07",
+    "comun-08",
+    "comun-09",
+    "comun-10",
+    "comun-11",
+    "comun-13",
+    "comun-14",
+    "comun-15",
+    "especifico-01",
+    "especifico-02",
+    "especifico-03",
+    "especifico-04",
+    "especifico-05",
+    "especifico-06",
+    "especifico-07",
+    "especifico-08",
+    "especifico-09",
+    "especifico-10",
+    "especifico-11",
+    "especifico-12",
+    "especifico-13",
+    "especifico-14",
+    "especifico-15",
+    "especifico-16",
+    "especifico-17",
+    "especifico-18",
+    "especifico-19",
+    "especifico-20",
+    "especifico-21",
+    "especifico-22",
+    "especifico-23",
+    "especifico-24",
+    "especifico-25",
+    "especifico-26",
+    "especifico-27",
+    "especifico-28",
+    "especifico-29",
+    "especifico-31",
+    "especifico-32",
+    "especifico-34",
+    "especifico-35",
+    "especifico-36",
+    "especifico-37",
+    "especifico-38",
+    "especifico-39",
+    "especifico-40",
+    "especifico-42"
+  ]
+}

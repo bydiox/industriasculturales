@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "description": "Política editorial de pertinencia de fuentes para los temas técnicos auditados.",
+  "topics": {
+    "especifico-29": { "mode": "bibliographic", "allowedLawIds": [], "note": "El espacio escénico como comunicación artística requiere bibliografía técnica; el CNCP aporta contenidos de decorado, maquinaria y producción, pero no sustituye la teoría escénica." },
+    "especifico-30": { "mode": "normative", "allowedLawIds": ["rd-2816-1982", "rd-314-2006", "ley-17-1997-cm", "rd-393-2007"], "note": "Edificio teatral, infraestructuras, espectáculos y autoprotección." },
+    "especifico-31": { "mode": "bibliographic", "allowedLawIds": [], "note": "Escenografía, materiales, implantación, planos y maquetas requieren bibliografía específica; el CNCP aporta estándares de decorado y maquinaria." },
+    "especifico-32": { "mode": "bibliographic", "allowedLawIds": [], "note": "Maquinaria y utilería escénicas no se justifican con una norma preventiva general; el CNCP aporta el estándar profesional ART524_3." },
+    "especifico-33": { "mode": "bibliographic", "allowedLawIds": [], "note": "Iluminación artística, sonido, vídeo y microfonía requieren manuales y estándares técnicos; el RD 486/1997 solo regula iluminación de lugares de trabajo." },
+    "especifico-34": { "mode": "bibliographic", "allowedLawIds": [], "note": "Adaptación de planta, marcado y logística de producción se documentan con los estándares CNCP de producción y adaptación de espacios." },
+    "especifico-35": { "mode": "bibliographic", "allowedLawIds": [], "note": "Sastrería, maquillaje y peluquería requieren bibliografía profesional específica; el CNCP aporta estándares complementarios de escena." },
+    "especifico-36": { "mode": "bibliographic", "allowedLawIds": [], "note": "Dirección de escenario y regiduría se documentan con IMS442_3 e IMS437_3 del CNCP; no se fuerza una norma jurídica." },
+    "especifico-37": { "mode": "bibliographic", "allowedLawIds": [], "note": "Dirección de escenario en teatro y circo requiere estándares profesionales de regiduría y producción." },
+    "especifico-38": { "mode": "bibliographic", "allowedLawIds": [], "note": "La coordinación de gira se apoya en los estándares CNCP de producción y regiduría; la prevención se cita separadamente cuando corresponda." },
+    "especifico-39": { "mode": "bibliographic", "allowedLawIds": [], "note": "El CNCP documenta flujos de producción, regiduría y tecnología; las aplicaciones comerciales concretas se tratarán con fuentes del fabricante si se incorporan." },
+    "especifico-40": { "mode": "bibliographic", "allowedLawIds": [], "note": "Tecnología de vídeo y software escénico: RD 918/2024 como estándar profesional, no como obligación jurídica." },
+    "especifico-12": { "mode": "mixed", "allowedLawIds": ["rd-1435-1985"], "note": "El régimen laboral artístico sirve para el marco de producción y roles; el contenido de gestión debe ampliarse con bibliografía sectorial." },
+    "especifico-14": { "mode": "normative", "allowedLawIds": ["lo-1-2002", "ley-50-2002", "ley-49-2002"], "note": "Asociaciones, fundaciones y régimen fiscal del tercer sector." },
+    "especifico-15": { "mode": "normative", "allowedLawIds": ["ce-1978", "conv-onu-2006", "ley-7-2021"], "note": "Derechos culturales, inclusión y sostenibilidad desde las fuentes incorporadas." },
+    "especifico-20": { "mode": "mixed", "allowedLawIds": ["ley-12-1989"], "note": "La Ley 12/1989 aporta el marco estadístico; el Anuario y la Cuenta Satélite aportan resultados y metodología cultural." },
+    "especifico-42": { "mode": "mixed", "allowedLawIds": ["ley-31-1995"], "note": "La Ley 31/1995 aporta el marco preventivo y las NTP del INSST el contenido técnico sobre carga mental y estrés." }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "questionIds": [
+        "m3-stage-001", "m3-stage-002", "m3-stage-003",
+        "m3-stage-007", "m3-stage-008", "m3-stage-009", "m3-stage-010", "m3-stage-011",
+        "m3-stage-012", "m3-stage-013", "m3-stage-014",
+        "m3-stage-015", "m3-stage-016", "m3-stage-017",
+        "m3-stage-018", "m3-stage-019", "m3-stage-020", "m3-stage-021"
+      ],
+      "status": "rejected-forced-source",
+      "reason": "La fuente normativa trata seguridad general o prevención, pero no responde al contenido técnico-artístico del tema. Deben sustituirse por preguntas basadas en bibliografía profesional o material docente específico.",
+      "topics": ["especifico-29", "especifico-31", "especifico-32", "especifico-33", "especifico-34", "especifico-35"]
+    },
+    {
+      "questionIds": ["m3-stage-004", "m3-stage-006"],
+      "status": "rejected-forced-source",
+      "reason": "El RD 486/1997 regula lugares de trabajo y evacuación preventiva, pero no es la fuente del contenido sobre edificio teatral e infraestructuras escénicas del tema 30.",
+      "topics": ["especifico-30"]
+    }
+  ]
+}
