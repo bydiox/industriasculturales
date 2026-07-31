@@ -339,6 +339,7 @@ const documentCategory = documentId => ({ readme: 'readme', practico: 'practico'
 let activeLawId = null;
 let activeLawAnchorId = null;
 let lawReturnToStory = false;
+let lawReferencePreviousFocus = null;
 
 function inlineMarkdown(value) {
   return escapeHtml(value)
@@ -510,6 +511,50 @@ async function openLawDocument(lawId, anchorId = null, fromStory = false) {
     else window.scrollTo(0, 0);
   } catch (error) {
     $('#law-page-content').innerHTML = `<p>No se pudo cargar esta ley: ${escapeHtml(error.message)}</p>`;
+  }
+}
+
+function closeLawReferenceModal() {
+  const modal = $('#law-reference-modal');
+  if (!modal) return;
+  modal.hidden = true;
+  document.body.classList.remove('law-reference-open');
+  $('#law-reference-body').innerHTML = '';
+  const previousFocus = lawReferencePreviousFocus;
+  lawReferencePreviousFocus = null;
+  if (previousFocus && typeof previousFocus.focus === 'function') previousFocus.focus();
+}
+
+async function openLawReferenceModal(lawId, anchorId = null, trigger = null) {
+  const law = state.content.lawsById?.[lawId];
+  const modal = $('#law-reference-modal');
+  const body = $('#law-reference-body');
+  if (!law || !modal || !body) return;
+  lawReferencePreviousFocus = trigger || document.activeElement;
+  $('#law-reference-title').textContent = law.title;
+  $('#law-reference-subtitle').textContent = `${law.legalReference || ''}${law.versionDate ? ` · versión ${law.versionDate}` : ''}`;
+  body.innerHTML = '<p>Cargando texto jurídico…</p>';
+  modal.hidden = false;
+  document.body.classList.add('law-reference-open');
+  $('#law-reference-close').focus();
+  try {
+    const response = await fetch(`data/laws/${law.file}`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const source = await response.text();
+    const parsed = new DOMParser().parseFromString(source, 'text/html');
+    const main = parsed.querySelector('main') || parsed.body;
+    main.querySelectorAll('script, style').forEach(node => node.remove());
+    body.innerHTML = main.innerHTML;
+    const target = anchorId
+      ? Array.from(body.querySelectorAll('[id]')).find(node => node.id === anchorId)
+      : null;
+    body.querySelectorAll('.law-ref-highlight').forEach(node => node.classList.remove('law-ref-highlight'));
+    if (target) {
+      target.classList.add('law-ref-highlight');
+      window.requestAnimationFrame(() => target.scrollIntoView({ block: 'center', behavior: 'smooth' }));
+    } else body.scrollTop = 0;
+  } catch (error) {
+    body.innerHTML = `<p>No se pudo cargar esta ley: ${escapeHtml(error.message)}</p>`;
   }
 }
 
@@ -963,7 +1008,7 @@ document.addEventListener('click', event => {
   const lawLink = event.target.closest('a[data-law-id]');
   if (lawLink) {
     event.preventDefault();
-    openLawDocument(lawLink.dataset.lawId, lawLink.dataset.lawAnchor || null);
+    openLawReferenceModal(lawLink.dataset.lawId, lawLink.dataset.lawAnchor || null, lawLink);
     return;
   }
   const link = event.target.closest('a[href^="docs/"]');
@@ -972,6 +1017,13 @@ document.addEventListener('click', event => {
     event.preventDefault();
     openStudyDocument(documentItem.id);
   }
+});
+$('#law-reference-close').addEventListener('click', closeLawReferenceModal);
+$('#law-reference-modal').addEventListener('click', event => {
+  if (event.target === $('#law-reference-modal')) closeLawReferenceModal();
+});
+document.addEventListener('keydown', event => {
+  if (event.key === 'Escape' && !$('#law-reference-modal').hidden) closeLawReferenceModal();
 });
 $('#back-home-study-catalog').addEventListener('click', returnHome);
 $('#study-back-catalog').addEventListener('click', () => openStudyCategory(activeStudyCategory));

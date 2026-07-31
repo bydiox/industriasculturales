@@ -125,6 +125,19 @@
     </div>
     <div id="guide-content" class="guide-content"></div>
   </dialog>
+  <div id="law-reference-modal" class="law-reference-overlay" hidden>
+    <div class="law-reference-sheet" role="dialog" aria-modal="true" aria-labelledby="law-reference-title">
+      <div class="law-reference-head">
+        <div>
+          <span class="guide-kicker">Referencia legal</span>
+          <h2 id="law-reference-title">Norma</h2>
+          <p id="law-reference-subtitle"></p>
+        </div>
+        <button id="law-reference-close" class="secondary compact-action" type="button">Cerrar</button>
+      </div>
+      <article id="law-reference-body" class="law-reference-body"></article>
+    </div>
+  </div>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script type="module" src="src/app.js"></script>
 </body>
