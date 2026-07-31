@@ -120,6 +120,26 @@
       "versionDate": "20260729",
       "file": "ley-40-2015.html",
       "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "eu-teu-2012",
+      "slug": "eu-teu-2012",
+      "title": "Tratado de la Unión Europea — versión consolidada",
+      "legalReference": "Tratado de la Unión Europea, versión consolidada publicada en el DOUE C 326 de 26 de octubre de 2012.",
+      "officialUrl": "https://eur-lex.europa.eu/eli/treaty/teu_2012/oj?locale=es",
+      "versionDate": "20121026",
+      "file": "eu-teu-2012.html",
+      "sourceType": "eur-lex-consolidado"
+    },
+    {
+      "lawId": "eu-tfeu-2012",
+      "slug": "eu-tfeu-2012",
+      "title": "Tratado de Funcionamiento de la Unión Europea — versión consolidada",
+      "legalReference": "Tratado de Funcionamiento de la Unión Europea, versión consolidada publicada en el DOUE C 326 de 26 de octubre de 2012.",
+      "officialUrl": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT",
+      "versionDate": "20121026",
+      "file": "eu-tfeu-2012.html",
+      "sourceType": "eur-lex-consolidado"
     }
   ]
 }

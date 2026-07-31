@@ -4199,5 +4199,293 @@
       "reference": "Ley 40/2015, artículo 98.1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
     }
+  },
+  {
+    "id": "m3-eu-001",
+    "topicId": "comun-06",
+    "prompt": "¿Qué valor jurídico tienen el TUE y el TFUE según el artículo 1 del TUE?",
+    "options": [
+      { "id": "a", "text": "El TUE prevalece y el TFUE solo tiene valor interpretativo." },
+      { "id": "b", "text": "Ambos Tratados tienen el mismo valor jurídico." },
+      { "id": "c", "text": "El TFUE prevalece en todo caso sobre el TUE." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 1 del TUE establece que la Unión se fundamenta en el TUE y el TFUE y que ambos Tratados tienen el mismo valor jurídico.",
+    "source": {
+      "lawId": "eu-teu-2012",
+      "anchorId": "eu-teu-2012-a1",
+      "reference": "TUE, artículo 1",
+      "url": "https://eur-lex.europa.eu/eli/treaty/teu_2012/oj?locale=es"
+    }
+  },
+  {
+    "id": "m3-eu-002",
+    "topicId": "comun-06",
+    "prompt": "¿Cuál de estos valores está expresamente incluido en el artículo 2 del TUE?",
+    "options": [
+      { "id": "a", "text": "El respeto de la dignidad humana y del Estado de Derecho." },
+      { "id": "b", "text": "La uniformidad cultural y la centralización administrativa." },
+      { "id": "c", "text": "La primacía de los intereses económicos nacionales." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 2 del TUE enumera, entre otros, dignidad humana, libertad, democracia, igualdad, Estado de Derecho y derechos humanos, incluidos los de las minorías.",
+    "source": {
+      "lawId": "eu-teu-2012",
+      "anchorId": "eu-teu-2012-a2",
+      "reference": "TUE, artículo 2",
+      "url": "https://eur-lex.europa.eu/eli/treaty/teu_2012/oj?locale=es"
+    }
+  },
+  {
+    "id": "m3-eu-003",
+    "topicId": "comun-06",
+    "prompt": "¿Qué espacio debe ofrecer la Unión a sus ciudadanos conforme al artículo 3 del TUE?",
+    "options": [
+      { "id": "a", "text": "Un espacio de libertad, seguridad y justicia sin fronteras interiores." },
+      { "id": "b", "text": "Un espacio económico sin libre circulación de personas." },
+      { "id": "c", "text": "Un espacio judicial reservado a las instituciones de la Unión." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 3.2 del TUE prevé un espacio de libertad, seguridad y justicia sin fronteras interiores, con libre circulación de personas y medidas comunes en fronteras, asilo, inmigración y delincuencia.",
+    "source": {
+      "lawId": "eu-teu-2012",
+      "anchorId": "eu-teu-2012-a3",
+      "reference": "TUE, artículo 3.2",
+      "url": "https://eur-lex.europa.eu/eli/treaty/teu_2012/oj?locale=es"
+    }
+  },
+  {
+    "id": "m3-eu-004",
+    "topicId": "comun-06",
+    "prompt": "¿Qué principios rigen el ejercicio de las competencias de la Unión?",
+    "options": [
+      { "id": "a", "text": "Atribución, subsidiariedad y proporcionalidad." },
+      { "id": "b", "text": "Jerarquía, centralización y uniformidad territorial." },
+      { "id": "c", "text": "Oportunidad, discrecionalidad y reserva nacional." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 5 del TUE distingue el principio de atribución para delimitar competencias y los principios de subsidiariedad y proporcionalidad para su ejercicio.",
+    "source": {
+      "lawId": "eu-teu-2012",
+      "anchorId": "eu-teu-2012-a5",
+      "reference": "TUE, artículo 5",
+      "url": "https://eur-lex.europa.eu/eli/treaty/teu_2012/oj?locale=es"
+    }
+  },
+  {
+    "id": "m3-eu-005",
+    "topicId": "comun-06",
+    "prompt": "¿Cuál de estas instituciones forma parte del marco institucional de la Unión?",
+    "options": [
+      { "id": "a", "text": "El Parlamento Europeo, el Consejo y la Comisión Europea." },
+      { "id": "b", "text": "Solo el Consejo Europeo y los parlamentos nacionales." },
+      { "id": "c", "text": "La Comisión, la OTAN y el Tribunal Europeo de Derechos Humanos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 13.1 del TUE incluye, entre las instituciones de la Unión, Parlamento Europeo, Consejo Europeo, Consejo, Comisión, Tribunal de Justicia, BCE y Tribunal de Cuentas.",
+    "source": {
+      "lawId": "eu-teu-2012",
+      "anchorId": "eu-teu-2012-a13",
+      "reference": "TUE, artículo 13.1",
+      "url": "https://eur-lex.europa.eu/eli/treaty/teu_2012/oj?locale=es"
+    }
+  },
+  {
+    "id": "m3-eu-006",
+    "topicId": "comun-06",
+    "prompt": "¿Qué función ejerce conjuntamente el Parlamento Europeo con el Consejo?",
+    "options": [
+      { "id": "a", "text": "La función legislativa y la función presupuestaria." },
+      { "id": "b", "text": "La dirección de la política monetaria de la zona euro." },
+      { "id": "c", "text": "La representación judicial de todos los Estados miembros." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 14.1 del TUE atribuye conjuntamente al Parlamento Europeo y al Consejo las funciones legislativa y presupuestaria; el Parlamento ejerce además control político y funciones consultivas.",
+    "source": {
+      "lawId": "eu-teu-2012",
+      "anchorId": "eu-teu-2012-a14",
+      "reference": "TUE, artículo 14.1",
+      "url": "https://eur-lex.europa.eu/eli/treaty/teu_2012/oj?locale=es"
+    }
+  },
+  {
+    "id": "m3-eu-007",
+    "topicId": "comun-07",
+    "prompt": "¿Qué actos jurídicos pueden adoptar las instituciones de la Unión conforme al artículo 288 TFUE?",
+    "options": [
+      { "id": "a", "text": "Reglamentos, directivas, decisiones, recomendaciones y dictámenes." },
+      { "id": "b", "text": "Leyes orgánicas, decretos-leyes, reglamentos y circulares." },
+      { "id": "c", "text": "Tratados, constituciones, sentencias y órdenes ministeriales." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 288 TFUE enumera reglamentos, directivas, decisiones, recomendaciones y dictámenes.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a288",
+      "reference": "TFUE, artículo 288",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
+  },
+  {
+    "id": "m3-eu-008",
+    "topicId": "comun-07",
+    "prompt": "¿Qué caracteriza al reglamento de la Unión?",
+    "options": [
+      { "id": "a", "text": "Alcance general, obligatorio y directamente aplicable." },
+      { "id": "b", "text": "Obligación sobre el resultado y elección nacional de medios." },
+      { "id": "c", "text": "Carácter no vinculante y función meramente orientativa." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 288 TFUE define el reglamento como un acto de alcance general, obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a288",
+      "reference": "TFUE, artículo 288, párrafo segundo",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
+  },
+  {
+    "id": "m3-eu-009",
+    "topicId": "comun-07",
+    "prompt": "¿Qué deja a las autoridades nacionales una directiva?",
+    "options": [
+      { "id": "a", "text": "La elección de la forma y los medios para lograr el resultado exigido." },
+      { "id": "b", "text": "La posibilidad de decidir si el resultado es vinculante." },
+      { "id": "c", "text": "La facultad de aplicar la directiva sin destinatario estatal." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 288 TFUE establece que la directiva obliga en cuanto al resultado, pero deja a las autoridades nacionales la elección de la forma y de los medios.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a288",
+      "reference": "TFUE, artículo 288, párrafo tercero",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
+  },
+  {
+    "id": "m3-eu-010",
+    "topicId": "comun-07",
+    "prompt": "¿Qué efecto tiene una decisión cuando designa destinatarios concretos?",
+    "options": [
+      { "id": "a", "text": "Es obligatoria en todos sus elementos solo para esos destinatarios." },
+      { "id": "b", "text": "Carece de fuerza vinculante frente a los destinatarios." },
+      { "id": "c", "text": "Tiene alcance general y exige siempre transposición nacional." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 288 TFUE dispone que la decisión es obligatoria en todos sus elementos y, cuando designa destinatarios, solo es obligatoria para estos.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a288",
+      "reference": "TFUE, artículo 288, párrafo cuarto",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
+  },
+  {
+    "id": "m3-eu-011",
+    "topicId": "comun-07",
+    "prompt": "¿Son vinculantes las recomendaciones y los dictámenes de la Unión?",
+    "options": [
+      { "id": "a", "text": "Sí, pero solo para los Estados miembros que los acepten." },
+      { "id": "b", "text": "No, el artículo 288 TFUE les niega carácter vinculante." },
+      { "id": "c", "text": "Sí, siempre que los adopte la Comisión Europea." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El último párrafo del artículo 288 TFUE establece que recomendaciones y dictámenes no serán vinculantes.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a288",
+      "reference": "TFUE, artículo 288, párrafo quinto",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
+  },
+  {
+    "id": "m3-eu-012",
+    "topicId": "comun-07",
+    "prompt": "¿En qué consiste el procedimiento legislativo ordinario?",
+    "options": [
+      { "id": "a", "text": "En la adopción conjunta por Parlamento y Consejo, a propuesta de la Comisión." },
+      { "id": "b", "text": "En la adopción exclusiva por la Comisión, con consulta posterior." },
+      { "id": "c", "text": "En la adopción por el Consejo sin intervención del Parlamento." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 289.1 TFUE define el procedimiento legislativo ordinario como la adopción conjunta por el Parlamento Europeo y el Consejo, a propuesta de la Comisión.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a289",
+      "reference": "TFUE, artículo 289.1",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
+  },
+  {
+    "id": "m3-eu-013",
+    "topicId": "comun-07",
+    "prompt": "¿A quién puede delegar un acto legislativo poderes para adoptar actos delegados?",
+    "options": [
+      { "id": "a", "text": "A la Comisión, para completar o modificar elementos no esenciales." },
+      { "id": "b", "text": "A cualquier Estado miembro, para modificar elementos esenciales." },
+      { "id": "c", "text": "Al Tribunal de Justicia, para aprobar actos legislativos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 290.1 TFUE permite delegar en la Comisión poderes para adoptar actos no legislativos de alcance general que completen o modifiquen elementos no esenciales.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a290",
+      "reference": "TFUE, artículo 290.1",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
+  },
+  {
+    "id": "m3-eu-014",
+    "topicId": "comun-07",
+    "prompt": "¿Qué deben hacer los Estados miembros para ejecutar actos jurídicamente vinculantes de la Unión?",
+    "options": [
+      { "id": "a", "text": "Adoptar todas las medidas de Derecho interno necesarias para su ejecución." },
+      { "id": "b", "text": "Esperar siempre a una decisión del Tribunal de Justicia." },
+      { "id": "c", "text": "Transponer también los reglamentos antes de aplicarlos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 291.1 TFUE impone a los Estados miembros la adopción de todas las medidas de Derecho interno necesarias para ejecutar los actos jurídicamente vinculantes de la Unión.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a291",
+      "reference": "TFUE, artículo 291.1",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
+  },
+  {
+    "id": "m3-eu-015",
+    "topicId": "comun-07",
+    "prompt": "¿Cuándo puede conferirse una competencia de ejecución a la Comisión?",
+    "options": [
+      { "id": "a", "text": "Cuando se requieran condiciones uniformes de ejecución." },
+      { "id": "b", "text": "Siempre que una directiva no tenga destinatarios concretos." },
+      { "id": "c", "text": "Solo cuando lo solicite un parlamento nacional." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 291.2 TFUE prevé competencias de ejecución para la Comisión o, en casos específicos, para el Consejo cuando se requieran condiciones uniformes de ejecución.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a291",
+      "reference": "TFUE, artículo 291.2",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
+  },
+  {
+    "id": "m3-eu-016",
+    "topicId": "comun-07",
+    "prompt": "¿Qué diferencia básica existe entre derecho originario y derecho derivado de la Unión?",
+    "options": [
+      { "id": "a", "text": "Los Tratados son originarios; los actos institucionales, derivados." },
+      { "id": "b", "text": "El originario son directivas; el derivado son únicamente tratados." },
+      { "id": "c", "text": "No existe diferencia jurídica entre ambos conceptos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El TUE y el TFUE constituyen el núcleo del derecho originario; los reglamentos, directivas, decisiones y demás actos del artículo 288 TFUE integran el derecho derivado.",
+    "source": {
+      "lawId": "eu-tfeu-2012",
+      "anchorId": "eu-tfeu-2012-a288",
+      "reference": "TFUE, artículo 288; TUE, artículo 1",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
+    }
   }
 ]
