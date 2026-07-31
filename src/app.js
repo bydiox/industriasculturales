@@ -209,8 +209,14 @@ function renderQuestionTools() {
   if (!question) return;
   const saved = state.progress.savedQuestionIds.includes(question.id);
   const doubtful = state.progress.doubtfulQuestionIds.includes(question.id);
-  $('#save-question').textContent = saved ? 'Quitar de guardadas' : 'Guardar pregunta';
-  $('#doubt-question').textContent = doubtful ? 'Quitar marca dudosa' : 'Marcar dudosa';
+  const saveLabel = saved ? 'Quitar de guardadas' : 'Guardar pregunta';
+  const doubtLabel = doubtful ? 'Quitar marca dudosa' : 'Marcar dudosa';
+  $('#save-question').innerHTML = `<span class="question-tool-icon" aria-hidden="true">★</span><span>${saveLabel}</span>`;
+  $('#doubt-question').innerHTML = `<span class="question-tool-icon" aria-hidden="true">?</span><span>${doubtLabel}</span>`;
+  $('#save-question').title = saveLabel;
+  $('#doubt-question').title = doubtLabel;
+  $('#save-question').setAttribute('aria-label', saveLabel);
+  $('#doubt-question').setAttribute('aria-label', doubtLabel);
   $('#save-question').classList.toggle('is-selected', saved);
   $('#doubt-question').classList.toggle('is-selected', doubtful);
 }
@@ -344,14 +350,14 @@ let studyTocCleanup = null;
 
 function renderHomeMenu() {
   $('#home-menu').innerHTML = `
-    <button class="home-menu-card menu-guide" type="button" data-home-action="guide"><span class="home-menu-icon">G</span><span class="home-menu-label">Gu&#237;a</span><small>La ruta de estudio preparada para Mar&#237;a.</small></button>
-    <button class="home-menu-card menu-story" type="button" data-home-action="story"><span class="home-menu-icon">H</span><span class="home-menu-label">Modo historia</span><small>Avanza por unidades y desbloquea cada cuestionario.</small></button>
-    <button class="home-menu-card menu-free is-primary" id="start-free" type="button"><span class="home-menu-icon">P</span><span class="home-menu-label">Pr&#225;ctica libre</span><small>Preguntas del banco completo, sin orden obligatorio.</small></button>
-    <button class="home-menu-card menu-exam" id="start-exam" type="button"><span class="home-menu-icon">E</span><span class="home-menu-label">Modo examen</span><small>Simulacro proporcional con la configuraci&#243;n elegida.</small></button>
-    <button class="home-menu-card menu-review" type="button" data-home-action="review"><span class="home-menu-icon">R</span><span class="home-menu-label">Repaso</span><small>Fallos, blancos y preguntas marcadas como dudosas.</small></button>
-    <button class="home-menu-card menu-practical" type="button" data-home-action="practico"><span class="home-menu-icon">◆</span><span class="home-menu-label">Supuesto pr&#225;ctico</span><small>Qu&#233; es, hist&#243;rico y supuestos para entrenar.</small></button>
-    <button class="home-menu-card menu-laws" type="button" data-home-action="laws"><span class="home-menu-icon">L</span><span class="home-menu-label">Leyes</span><small>Normas completas, anclas y fuentes oficiales.</small></button>
-    <button class="home-menu-card menu-official" type="button" data-home-action="official"><span class="home-menu-icon">M</span><span class="home-menu-label">Material oficial</span><small>Ex&#225;menes anteriores y documentos de referencia.</small></button>`;
+    <button class="home-menu-card menu-guide" type="button" data-home-action="guide"><span class="home-menu-icon" aria-hidden="true">✦</span><span class="home-menu-label">Gu&#237;a</span><small>La ruta de estudio preparada para Mar&#237;a.</small></button>
+    <button class="home-menu-card menu-story" type="button" data-home-action="story"><span class="home-menu-icon" aria-hidden="true">◈</span><span class="home-menu-label">Modo historia</span><small>Avanza por unidades y desbloquea cada cuestionario.</small></button>
+    <button class="home-menu-card menu-free is-primary" id="start-free" type="button"><span class="home-menu-icon" aria-hidden="true">☷</span><span class="home-menu-label">Pr&#225;ctica libre</span><small>Preguntas del banco completo, sin orden obligatorio.</small></button>
+    <button class="home-menu-card menu-exam" id="start-exam" type="button"><span class="home-menu-icon" aria-hidden="true">⏱</span><span class="home-menu-label">Modo examen</span><small>Simulacro proporcional con la configuraci&#243;n elegida.</small></button>
+    <button class="home-menu-card menu-review" type="button" data-home-action="review"><span class="home-menu-icon" aria-hidden="true">↻</span><span class="home-menu-label">Repaso</span><small>Fallos, blancos y preguntas marcadas como dudosas.</small></button>
+    <button class="home-menu-card menu-practical" type="button" data-home-action="practico"><span class="home-menu-icon" aria-hidden="true">◆</span><span class="home-menu-label">Supuesto pr&#225;ctico</span><small>Qu&#233; es, hist&#243;rico y supuestos para entrenar.</small></button>
+    <button class="home-menu-card menu-laws" type="button" data-home-action="laws"><span class="home-menu-icon" aria-hidden="true">§</span><span class="home-menu-label">Leyes</span><small>Normas completas, anclas y fuentes oficiales.</small></button>
+    <button class="home-menu-card menu-official" type="button" data-home-action="official"><span class="home-menu-icon" aria-hidden="true">▣</span><span class="home-menu-label">Material oficial</span><small>Ex&#225;menes anteriores y documentos de referencia.</small></button>`;
 }
 
 function renderPracticalPanel() {
