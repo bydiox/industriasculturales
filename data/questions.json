@@ -2351,7 +2351,7 @@
     "prompt": "¿Cuál es la forma política del Estado español conforme al artículo 1.3 de la Constitución?",
     "options": [
       { "id": "a", "text": "República parlamentaria." },
-      { "id": "b", "text": "Monarquía constitucional directa." },
+      { "id": "b", "text": "Monarquía constitucional." },
       { "id": "c", "text": "Monarquía parlamentaria." }
     ],
     "correctOptionId": "c",
@@ -2388,7 +2388,7 @@
     "options": [
       { "id": "a", "text": "No puede conceder indultos generales." },
       { "id": "b", "text": "No puede conceder indultos individuales." },
-      { "id": "c", "text": "Solo puede ejercerlo con autorización del Tribunal Constitucional." }
+      { "id": "c", "text": "Requiere autorización del Congreso." }
     ],
     "correctOptionId": "a",
     "explanation": "El artículo 62.i permite al Rey ejercer el derecho de gracia con arreglo a la ley, pero excluye los indultos generales.",
@@ -2405,9 +2405,9 @@
     "topicId": "comun-02",
     "prompt": "¿Cómo deben resolverse las abdicaciones, renuncias y dudas sobre el orden de sucesión a la Corona?",
     "options": [
-      { "id": "a", "text": "Mediante una ley ordinaria aprobada por el Gobierno." },
+      { "id": "a", "text": "Mediante una ley." },
       { "id": "b", "text": "Mediante una ley orgánica." },
-      { "id": "c", "text": "Mediante un real decreto del Consejo de Ministros." }
+      { "id": "c", "text": "Mediante un decreto." }
     ],
     "correctOptionId": "b",
     "explanation": "El artículo 57.5 remite a una ley orgánica para resolver esas situaciones relativas al orden de sucesión.",
@@ -2477,8 +2477,8 @@
     "topicId": "comun-04",
     "prompt": "¿Qué funciones atribuye el artículo 97 de la Constitución al Gobierno?",
     "options": [
-      { "id": "a", "text": "Dirigir la política, ejercer la función ejecutiva y la potestad reglamentaria." },
-      { "id": "b", "text": "Aprobar los Presupuestos, juzgar y ejecutar lo juzgado." },
+      { "id": "a", "text": "Dirigir la política y ejercer función ejecutiva y reglamentaria." },
+      { "id": "b", "text": "Aprobar los Presupuestos y controlar la acción del Gobierno." },
       { "id": "c", "text": "Representar al pueblo, legislar y controlar al Tribunal Constitucional." }
     ],
     "correctOptionId": "a",
@@ -2549,9 +2549,9 @@
     "topicId": "comun-05",
     "prompt": "¿Qué materia pueden asumir las Comunidades Autónomas conforme al artículo 148.1.17.ª?",
     "options": [
-      { "id": "a", "text": "La defensa y las Fuerzas Armadas." },
-      { "id": "b", "text": "El fomento de la cultura y de la investigación." },
-      { "id": "c", "text": "La legislación mercantil y penal completa." }
+      { "id": "a", "text": "La defensa y las Fuerzas Armadas estatales." },
+      { "id": "b", "text": "El fomento de la cultura y la investigación." },
+      { "id": "c", "text": "La legislación mercantil y penal estatal." }
     ],
     "correctOptionId": "b",
     "explanation": "El artículo 148.1.17.ª incluye el fomento de la cultura, de la investigación y, en su caso, de la enseñanza de la lengua de la Comunidad Autónoma.",
@@ -2567,9 +2567,9 @@
     "topicId": "comun-05",
     "prompt": "Para aplicar el artículo 155, ¿qué requisito parlamentario se exige si el requerimiento al Presidente autonómico no es atendido?",
     "options": [
-      { "id": "a", "text": "La mayoría simple del Congreso de los Diputados." },
-      { "id": "b", "text": "La mayoría absoluta del Senado." },
-      { "id": "c", "text": "La unanimidad de las dos Cámaras." }
+      { "id": "a", "text": "Mayoría absoluta del Congreso." },
+      { "id": "b", "text": "Mayoría absoluta del Senado." },
+      { "id": "c", "text": "Unanimidad de ambas Cámaras." }
     ],
     "correctOptionId": "b",
     "explanation": "El artículo 155.1 exige, además del requerimiento previo, la aprobación por mayoría absoluta del Senado cuando aquel no sea atendido.",
@@ -2585,9 +2585,9 @@
     "topicId": "comun-01",
     "prompt": "¿A quién vinculan directamente la Constitución y el resto del ordenamiento jurídico según el artículo 9.1?",
     "options": [
-      { "id": "a", "text": "Solo a los poderes públicos, por su especial posición institucional." },
-      { "id": "b", "text": "A los ciudadanos y a los poderes públicos." },
-      { "id": "c", "text": "Solo a quienes ejercen funciones administrativas." }
+      { "id": "a", "text": "Solo a los poderes públicos." },
+      { "id": "b", "text": "A ciudadanos y poderes públicos." },
+      { "id": "c", "text": "Solo a las Administraciones." }
     ],
     "correctOptionId": "b",
     "explanation": "El artículo 9.1 dispone que los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.",
@@ -2621,9 +2621,9 @@
     "topicId": "comun-01",
     "prompt": "¿En qué supuesto mantiene la Constitución la posibilidad de pena de muerte?",
     "options": [
-      { "id": "a", "text": "En ningún supuesto, porque está abolida sin excepción." },
-      { "id": "b", "text": "En los casos que pueda prever la legislación penal ordinaria." },
-      { "id": "c", "text": "En lo que pueda disponer la legislación penal militar para tiempos de guerra." }
+      { "id": "a", "text": "En ningún supuesto, porque queda abolida." },
+      { "id": "b", "text": "En la legislación penal ordinaria." },
+      { "id": "c", "text": "En leyes penales militares para tiempos de guerra." }
     ],
     "correctOptionId": "c",
     "explanation": "El artículo 15 abole la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
@@ -2639,9 +2639,9 @@
     "topicId": "comun-02",
     "prompt": "¿Qué establece el artículo 16.3 sobre la relación entre el Estado y las confesiones religiosas?",
     "options": [
-      { "id": "a", "text": "El Estado reconoce una religión oficial y coopera con las demás." },
-      { "id": "b", "text": "Ninguna confesión tendrá carácter estatal, sin perjuicio de la cooperación prevista." },
-      { "id": "c", "text": "Las confesiones religiosas carecen de reconocimiento constitucional." }
+      { "id": "a", "text": "El Estado reconoce una religión oficial." },
+      { "id": "b", "text": "Ninguna confesión será estatal; habrá cooperación." },
+      { "id": "c", "text": "Las confesiones carecen de reconocimiento." }
     ],
     "correctOptionId": "b",
     "explanation": "El artículo 16.3 afirma que ninguna confesión tendrá carácter estatal y prevé que los poderes públicos mantengan relaciones de cooperación con las confesiones.",
@@ -2657,7 +2657,7 @@
     "topicId": "comun-02",
     "prompt": "¿Cuál es el plazo máximo de la detención preventiva que establece el artículo 17.2?",
     "options": [
-      { "id": "a", "text": "Setenta y dos horas, tras las cuales debe quedar en libertad o a disposición judicial." },
+      { "id": "a", "text": "Setenta y dos horas, sin prórroga automática." },
       { "id": "b", "text": "Cuarenta y ocho horas, prorrogables por autorización judicial." },
       { "id": "c", "text": "Setenta y dos horas, prorrogables automáticamente por otras cuarenta y ocho." }
     ],
@@ -2675,9 +2675,9 @@
     "topicId": "comun-02",
     "prompt": "¿Qué derecho reconoce el artículo 23.2 respecto del acceso a las funciones y cargos públicos?",
     "options": [
-      { "id": "a", "text": "El acceso en condiciones de igualdad, con los requisitos que señalen las leyes." },
-      { "id": "b", "text": "El acceso preferente de quienes ya sean funcionarios públicos." },
-      { "id": "c", "text": "El acceso sin requisitos cuando se trate de cargos electivos." }
+      { "id": "a", "text": "Acceder en igualdad a funciones y cargos públicos." },
+      { "id": "b", "text": "Acceso preferente para funcionarios en activo." },
+      { "id": "c", "text": "Acceso sin requisitos a cargos electivos." }
     ],
     "correctOptionId": "a",
     "explanation": "El artículo 23.2 reconoce el derecho a acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes.",
@@ -2693,9 +2693,9 @@
     "topicId": "comun-03",
     "prompt": "¿Cuál de estas funciones corresponde a las Cortes Generales según el artículo 66.2?",
     "options": [
-      { "id": "a", "text": "Ejercer la potestad legislativa del Estado y aprobar sus Presupuestos." },
+      { "id": "a", "text": "Legislar, aprobar Presupuestos y controlar." },
       { "id": "b", "text": "Dirigir la política interior y exterior del Estado." },
-      { "id": "c", "text": "Juzgar y hacer ejecutar lo juzgado en todo el territorio." }
+      { "id": "c", "text": "Juzgar y ejecutar las sentencias judiciales." }
     ],
     "correctOptionId": "a",
     "explanation": "El artículo 66.2 atribuye a las Cortes la potestad legislativa del Estado, la aprobación de sus Presupuestos y el control de la acción del Gobierno.",
@@ -2747,7 +2747,7 @@
     "topicId": "comun-04",
     "prompt": "¿Quién propone al Rey el nombramiento y separación de los demás miembros del Gobierno?",
     "options": [
-      { "id": "a", "text": "El Presidente del Gobierno." },
+      { "id": "a", "text": "La Presidencia del Gobierno." },
       { "id": "b", "text": "El Presidente del Congreso de los Diputados." },
       { "id": "c", "text": "El Consejo General del Poder Judicial." }
     ],
@@ -2766,8 +2766,8 @@
     "prompt": "¿Qué principios rigen el acceso a la función pública según el artículo 103.3?",
     "options": [
       { "id": "a", "text": "Igualdad, publicidad y antigüedad." },
-      { "id": "b", "text": "Mérito y capacidad." },
-      { "id": "c", "text": "Eficacia y jerarquía." }
+      { "id": "b", "text": "Mérito y capacidad profesional." },
+      { "id": "c", "text": "Eficacia, jerarquía y coordinación." }
     ],
     "correctOptionId": "b",
     "explanation": "El artículo 103.3 dispone que la ley regulará el acceso a la función pública de acuerdo con los principios de mérito y capacidad.",
@@ -2783,7 +2783,7 @@
     "topicId": "comun-04",
     "prompt": "¿A qué fin queda subordinada toda la riqueza del país, según el artículo 128.1?",
     "options": [
-      { "id": "a", "text": "Al interés general." },
+      { "id": "a", "text": "Al interés general de la sociedad." },
       { "id": "b", "text": "A la planificación económica del Gobierno." },
       { "id": "c", "text": "A la titularidad pública de todos los recursos." }
     ],
@@ -2839,7 +2839,7 @@
     "options": [
       { "id": "a", "text": "Mayoría absoluta de cada Cámara." },
       { "id": "b", "text": "Mayoría de tres quintos de cada Cámara." },
-      { "id": "c", "text": "Mayoría de dos tercios del Congreso y simple del Senado." }
+      { "id": "c", "text": "Mayoría de dos tercios del Congreso." }
     ],
     "correctOptionId": "b",
     "explanation": "El artículo 167.1 exige la aprobación por mayoría de tres quintos de cada Cámara para la reforma constitucional ordinaria.",

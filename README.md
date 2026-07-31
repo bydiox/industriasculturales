@@ -30,6 +30,10 @@ La interfaz las muestra como material histórico de comparación. No deben inter
 
 El supuesto práctico oficial se conserva como PDF en `data/official-exams/m3-2021/supuesto-practico-3er-ejercicio.pdf` para revisarlo posteriormente.
 
+## Preguntas activas
+
+El primer mundo del modo Historia (ConstituciÃ³n y organizaciÃ³n del Estado) ya dispone de 30 preguntas propias distribuidas entre sus cinco temas. Cada una enlaza con un artÃ­culo anclado de la ConstituciÃ³n y muestra la opciÃ³n «Ver ley» en la retroalimentaciÃ³n. Estas preguntas se usan en Libre y en Historia; las 70 oficiales siguen reservadas al examen histÃ³rico.
+
 ## Modo Historia
 
 El itinerario contiene 19 unidades ordenadas por la distribución aprobada y reúne dentro de ellas los 60 temas oficiales. Los cuestionarios de tema se desbloquean en secuencia; al superar todos los temas de una unidad se habilita su prueba final, y aprobarla abre la siguiente unidad.
