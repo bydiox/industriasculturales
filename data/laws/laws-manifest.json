@@ -50,6 +50,56 @@
       "versionDate": "20260609",
       "file": "convenio-iv.html",
       "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-486-1997",
+      "slug": "rd-486-1997",
+      "title": "Real Decreto 486/1997, de 14 de abril, lugares de trabajo",
+      "legalReference": "Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669",
+      "versionDate": "20251218",
+      "file": "rd-486-1997.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-1215-1997",
+      "slug": "rd-1215-1997",
+      "title": "Real Decreto 1215/1997, de 18 de julio, equipos de trabajo",
+      "legalReference": "Real Decreto 1215/1997, de 18 de julio, por el que se establecen las disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824",
+      "versionDate": "20251218",
+      "file": "rd-1215-1997.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-773-1997",
+      "slug": "rd-773-1997",
+      "title": "Real Decreto 773/1997, de 30 de mayo, equipos de protección individual",
+      "legalReference": "Real Decreto 773/1997, de 30 de mayo, sobre disposiciones mínimas de seguridad y salud relativas a la utilización por los trabajadores de equipos de protección individual.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735",
+      "versionDate": "20251218",
+      "file": "rd-773-1997.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-2816-1982",
+      "slug": "rd-2816-1982",
+      "title": "Real Decreto 2816/1982, de 27 de agosto, Reglamento General de Policía de Espectáculos Públicos y Actividades Recreativas",
+      "legalReference": "Real Decreto 2816/1982, de 27 de agosto, por el que se aprueba el Reglamento General de Policía de Espectáculos Públicos y Actividades Recreativas.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-28915",
+      "versionDate": "20251216",
+      "file": "rd-2816-1982.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-314-2006",
+      "slug": "rd-314-2006",
+      "title": "Real Decreto 314/2006, de 17 de marzo, Código Técnico de la Edificación",
+      "legalReference": "Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+      "versionDate": "20251218",
+      "file": "rd-314-2006.html",
+      "sourceType": "boe-consolidado"
     }
   ]
 }

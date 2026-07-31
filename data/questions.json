@@ -3461,5 +3461,383 @@
       "reference": "IV Convenio Único, artículo 117.1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
     }
+  },
+  {
+    "id": "m3-stage-001",
+    "topicId": "especifico-29",
+    "prompt": "¿A qué actividades se aplica el Reglamento General de Policía de Espectáculos Públicos?",
+    "options": [
+      { "id": "a", "text": "A los espectáculos del anexo y a actividades análogas." },
+      { "id": "b", "text": "Solo a espectáculos de titularidad pública con finalidad lucrativa." },
+      { "id": "c", "text": "Solo a edificios teatrales construidos después de 1982." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.1 del Real Decreto 2816/1982 aplica sus preceptos a los espectáculos, deportes, juegos, recreos y establecimientos destinados al público enumerados en el anexo y a actividades análogas, con independencia de su titularidad o finalidad lucrativa.",
+    "source": {
+      "lawId": "rd-2816-1982",
+      "anchorId": "rd-2816-1982-a1",
+      "reference": "RD 2816/1982, artículo 1.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-28915"
+    }
+  },
+  {
+    "id": "m3-stage-002",
+    "topicId": "especifico-29",
+    "prompt": "¿Qué regla general establece el artículo 13 del Reglamento de Espectáculos sobre el alumbrado?",
+    "options": [
+      { "id": "a", "text": "El alumbrado eléctrico es obligatorio en edificios y locales de espectáculos." },
+      { "id": "b", "text": "El alumbrado eléctrico solo es obligatorio durante la representación." },
+      { "id": "c", "text": "La iluminación natural debe sustituir siempre a la eléctrica." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 13.1 establece como regla el alumbrado eléctrico obligatorio para los edificios y locales de espectáculos y recreos públicos, con excepciones para instalaciones provisionales en los términos previstos.",
+    "source": {
+      "lawId": "rd-2816-1982",
+      "anchorId": "rd-2816-1982-art13",
+      "reference": "RD 2816/1982, artículo 13.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-28915"
+    }
+  },
+  {
+    "id": "m3-stage-003",
+    "topicId": "especifico-29",
+    "prompt": "¿Qué función cumple el espacio escénico, según el enfoque normativo de seguridad de los locales?",
+    "options": [
+      { "id": "a", "text": "Debe garantizar una actividad segura para trabajadores y público." },
+      { "id": "b", "text": "Debe priorizar la visibilidad aunque impida una evacuación rápida." },
+      { "id": "c", "text": "Debe quedar excluido de las condiciones generales del lugar de trabajo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La seguridad del espacio escénico se integra en las exigencias aplicables al local y al lugar de trabajo: el diseño, las instalaciones y la actividad deben permitir una utilización y evacuación seguras.",
+    "source": {
+      "lawId": "rd-486-1997",
+      "anchorId": "rd-486-1997-a4",
+      "reference": "RD 486/1997, artículo 4.1 y 4.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    }
+  },
+  {
+    "id": "m3-stage-004",
+    "topicId": "especifico-30",
+    "prompt": "¿Qué riesgos debe prevenir el diseño y las características constructivas de un lugar de trabajo?",
+    "options": [
+      { "id": "a", "text": "Resbalones, caídas, choques, golpes y caída de materiales." },
+      { "id": "b", "text": "Únicamente los riesgos derivados de la iluminación artística." },
+      { "id": "c", "text": "Solo los riesgos producidos por equipos eléctricos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 4.1 del RD 486/1997 exige seguridad frente a resbalones o caídas, choques o golpes y derrumbamientos o caídas de materiales sobre los trabajadores.",
+    "source": {
+      "lawId": "rd-486-1997",
+      "anchorId": "rd-486-1997-a4",
+      "reference": "RD 486/1997, artículo 4.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    }
+  },
+  {
+    "id": "m3-stage-005",
+    "topicId": "especifico-30",
+    "prompt": "¿Qué marco normativo regula las exigencias básicas de calidad de los edificios y sus instalaciones?",
+    "options": [
+      { "id": "a", "text": "El Código Técnico de la Edificación, aprobado por el RD 314/2006." },
+      { "id": "b", "text": "El IV Convenio Único para el personal laboral de la AGE." },
+      { "id": "c", "text": "El Reglamento de ingreso del personal funcionario." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.1 del RD 314/2006 define el CTE como el marco normativo de las exigencias básicas de calidad que deben cumplir los edificios, incluidas sus instalaciones.",
+    "source": {
+      "lawId": "rd-314-2006",
+      "anchorId": "rd-314-2006-a1",
+      "reference": "RD 314/2006, artículo 1.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515"
+    }
+  },
+  {
+    "id": "m3-stage-006",
+    "topicId": "especifico-30",
+    "prompt": "¿Qué requisito de evacuación exige el artículo 4.2 del RD 486/1997?",
+    "options": [
+      { "id": "a", "text": "Facilitar, cuando sea necesario, una evacuación rápida y segura." },
+      { "id": "b", "text": "Mantener las puertas de emergencia cerradas durante la actividad." },
+      { "id": "c", "text": "Permitir la evacuación solo mediante personal especializado." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 4.2 exige que el diseño y las características constructivas faciliten el control de emergencias y posibiliten, cuando sea necesario, la rápida y segura evacuación.",
+    "source": {
+      "lawId": "rd-486-1997",
+      "anchorId": "rd-486-1997-a4",
+      "reference": "RD 486/1997, artículo 4.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    }
+  },
+  {
+    "id": "m3-stage-007",
+    "topicId": "especifico-31",
+    "prompt": "¿Qué requisito básico del CTE está directamente relacionado con la seguridad de uso de un edificio escénico?",
+    "options": [
+      { "id": "a", "text": "Seguridad de utilización y accesibilidad." },
+      { "id": "b", "text": "Clasificación profesional y movilidad del personal." },
+      { "id": "c", "text": "Régimen de incompatibilidades del sector público." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.2 del RD 314/2006 incluye entre los requisitos básicos desarrollados por el CTE la seguridad de utilización y accesibilidad.",
+    "source": {
+      "lawId": "rd-314-2006",
+      "anchorId": "rd-314-2006-a1",
+      "reference": "RD 314/2006, artículo 1.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515"
+    }
+  },
+  {
+    "id": "m3-stage-008",
+    "topicId": "especifico-31",
+    "prompt": "¿Qué exige el RD 1215/1997 respecto de un equipo de trabajo utilizado en la implantación escénica?",
+    "options": [
+      { "id": "a", "text": "Que sea adecuado al trabajo y esté adaptado para garantizar seguridad y salud." },
+      { "id": "b", "text": "Que se utilice aunque no cumpla la normativa si aumenta la rapidez." },
+      { "id": "c", "text": "Que solo pueda ser revisado después de producirse un accidente." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 3.1 del RD 1215/1997 obliga a poner a disposición equipos adecuados al trabajo y convenientemente adaptados, reduciendo al mínimo los riesgos.",
+    "source": {
+      "lawId": "rd-1215-1997",
+      "anchorId": "rd-1215-1997-a3",
+      "reference": "RD 1215/1997, artículo 3.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824"
+    }
+  },
+  {
+    "id": "m3-stage-009",
+    "topicId": "especifico-32",
+    "prompt": "¿Qué se considera equipo de trabajo a efectos del RD 1215/1997?",
+    "options": [
+      { "id": "a", "text": "Cualquier máquina, aparato, instrumento o instalación de trabajo." },
+      { "id": "b", "text": "Solo las máquinas accionadas mediante energía eléctrica." },
+      { "id": "c", "text": "Únicamente los equipos que tengan marcado CE." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 2.a define equipo de trabajo como cualquier máquina, aparato, instrumento o instalación utilizado en el trabajo.",
+    "source": {
+      "lawId": "rd-1215-1997",
+      "anchorId": "rd-1215-1997-a2",
+      "reference": "RD 1215/1997, artículo 2.a",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824"
+    }
+  },
+  {
+    "id": "m3-stage-010",
+    "topicId": "especifico-32",
+    "prompt": "¿Cuándo debe comprobarse inicialmente un equipo cuya seguridad depende de su instalación?",
+    "options": [
+      { "id": "a", "text": "Tras su instalación y antes de la primera puesta en marcha." },
+      { "id": "b", "text": "Solo al finalizar la temporada de representaciones." },
+      { "id": "c", "text": "Únicamente cuando cambie la persona que lo utiliza." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 4.1 del RD 1215/1997 exige una comprobación inicial tras la instalación y antes de la primera puesta en marcha, y otra tras cada montaje en un nuevo emplazamiento.",
+    "source": {
+      "lawId": "rd-1215-1997",
+      "anchorId": "rd-1215-1997-a4",
+      "reference": "RD 1215/1997, artículo 4.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824"
+    }
+  },
+  {
+    "id": "m3-stage-011",
+    "topicId": "especifico-32",
+    "prompt": "¿Qué formación debe recibir el personal que utiliza equipos de trabajo?",
+    "options": [
+      { "id": "a", "text": "Formación e información adecuadas sobre riesgos y medidas preventivas." },
+      { "id": "b", "text": "Solo instrucciones verbales sobre el encendido del equipo." },
+      { "id": "c", "text": "Formación únicamente después de una avería del equipo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 5.1 del RD 1215/1997 obliga a garantizar formación e información adecuadas sobre los riesgos de utilización y las medidas de prevención y protección.",
+    "source": {
+      "lawId": "rd-1215-1997",
+      "anchorId": "rd-1215-1997-a5",
+      "reference": "RD 1215/1997, artículo 5.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824"
+    }
+  },
+  {
+    "id": "m3-stage-012",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué finalidad debe cumplir la iluminación de los lugares de trabajo?",
+    "options": [
+      { "id": "a", "text": "Permitir visibilidad adecuada para circular y trabajar sin riesgo." },
+      { "id": "b", "text": "Crear contrastes escénicos aunque dificulte la circulación segura." },
+      { "id": "c", "text": "Mantener siempre el mismo nivel, con independencia de la tarea." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 8 del RD 486/1997 exige que la iluminación permita condiciones de visibilidad adecuadas para circular y desarrollar las actividades sin riesgo.",
+    "source": {
+      "lawId": "rd-486-1997",
+      "anchorId": "rd-486-1997-a8",
+      "reference": "RD 486/1997, artículo 8",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    }
+  },
+  {
+    "id": "m3-stage-013",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué nivel mínimo de iluminación prevé el anexo IV para tareas con exigencias visuales altas?",
+    "options": [
+      { "id": "a", "text": "200 lux." },
+      { "id": "b", "text": "500 lux." },
+      { "id": "c", "text": "1.000 lux." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "La tabla del anexo IV del RD 486/1997 fija 500 lux para tareas con exigencias visuales altas; las muy altas requieren 1.000 lux.",
+    "source": {
+      "lawId": "rd-486-1997",
+      "anchorId": "rd-486-1997-aniv",
+      "reference": "RD 486/1997, anexo IV.3",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    }
+  },
+  {
+    "id": "m3-stage-014",
+    "topicId": "especifico-33",
+    "prompt": "¿Qué debe existir cuando un fallo del alumbrado normal pueda generar un riesgo para la seguridad?",
+    "options": [
+      { "id": "a", "text": "Alumbrado de emergencia de evacuación y de seguridad." },
+      { "id": "b", "text": "Solo iluminación artística de respaldo." },
+      { "id": "c", "text": "Una reducción automática del aforo sin alumbrado adicional." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El anexo IV.5 del RD 486/1997 exige alumbrado de emergencia de evacuación y de seguridad cuando el fallo del alumbrado normal suponga un riesgo.",
+    "source": {
+      "lawId": "rd-486-1997",
+      "anchorId": "rd-486-1997-aniv",
+      "reference": "RD 486/1997, anexo IV.5",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    }
+  },
+  {
+    "id": "m3-stage-015",
+    "topicId": "especifico-34",
+    "prompt": "¿Cómo deben mantenerse las vías y salidas de evacuación?",
+    "options": [
+      { "id": "a", "text": "Expeditas y con salida directa al exterior o zona segura." },
+      { "id": "b", "text": "Disponibles solo durante la entrada y salida del público." },
+      { "id": "c", "text": "Ocupadas con material si queda un pasillo alternativo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El anexo I.10.2 del RD 486/1997 exige que las vías y salidas permanezcan expeditas y desemboquen lo más directamente posible en el exterior o en una zona de seguridad.",
+    "source": {
+      "lawId": "rd-486-1997",
+      "anchorId": "rd-486-1997-ani",
+      "reference": "RD 486/1997, anexo I.10.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    }
+  },
+  {
+    "id": "m3-stage-016",
+    "topicId": "especifico-34",
+    "prompt": "¿Cómo deben abrirse las puertas de emergencia?",
+    "options": [
+      { "id": "a", "text": "Hacia el exterior y sin cierre que impida abrirlas de inmediato." },
+      { "id": "b", "text": "Hacia el interior y con llave para evitar accesos no autorizados." },
+      { "id": "c", "text": "En cualquier sentido, si están señalizadas durante la función." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El anexo I.10.5 del RD 486/1997 dispone que las puertas de emergencia deben abrir hacia el exterior y no estar cerradas de forma que impidan su apertura inmediata.",
+    "source": {
+      "lawId": "rd-486-1997",
+      "anchorId": "rd-486-1997-ani",
+      "reference": "RD 486/1997, anexo I.10.5",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    }
+  },
+  {
+    "id": "m3-stage-017",
+    "topicId": "especifico-34",
+    "prompt": "¿Qué comprobación adicional exige el RD 1215/1997 cuando un equipo se monta en un nuevo emplazamiento?",
+    "options": [
+      { "id": "a", "text": "Una nueva comprobación tras el montaje en el nuevo lugar." },
+      { "id": "b", "text": "Ninguna comprobación si el equipo ya se utilizó antes." },
+      { "id": "c", "text": "Solo una revisión documental al final de la gira." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 4.1 del RD 1215/1997 exige una nueva comprobación después de cada montaje en un nuevo lugar o emplazamiento.",
+    "source": {
+      "lawId": "rd-1215-1997",
+      "anchorId": "rd-1215-1997-a4",
+      "reference": "RD 1215/1997, artículo 4.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824"
+    }
+  },
+  {
+    "id": "m3-stage-018",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué es un equipo de protección individual según el RD 773/1997?",
+    "options": [
+      { "id": "a", "text": "Un equipo llevado o sujetado para proteger frente a uno o varios riesgos." },
+      { "id": "b", "text": "Cualquier uniforme de trabajo, aunque no tenga finalidad protectora." },
+      { "id": "c", "text": "Solo los equipos colectivos instalados en el edificio." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 2.1 del RD 773/1997 define el EPI como cualquier equipo destinado a ser llevado o sujetado para proteger frente a uno o varios riesgos, incluidos sus complementos y accesorios.",
+    "source": {
+      "lawId": "rd-773-1997",
+      "anchorId": "rd-773-1997-a2",
+      "reference": "RD 773/1997, artículo 2.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735"
+    }
+  },
+  {
+    "id": "m3-stage-019",
+    "topicId": "especifico-35",
+    "prompt": "¿Quién debe proporcionar gratuitamente los equipos de protección individual necesarios?",
+    "options": [
+      { "id": "a", "text": "El trabajador, salvo que solicite un reembolso posterior." },
+      { "id": "b", "text": "El empresario, cuando deba recurrirse a la protección individual." },
+      { "id": "c", "text": "El público asistente mediante el precio de la entrada." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 3.c del RD 773/1997 obliga al empresario a proporcionar gratuitamente los equipos de protección individual que deban utilizarse.",
+    "source": {
+      "lawId": "rd-773-1997",
+      "anchorId": "rd-773-1997-a3",
+      "reference": "RD 773/1997, artículo 3.c",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735"
+    }
+  },
+  {
+    "id": "m3-stage-020",
+    "topicId": "especifico-35",
+    "prompt": "¿Con arreglo a qué deben utilizarse y mantenerse los equipos de protección individual?",
+    "options": [
+      { "id": "a", "text": "A las instrucciones del fabricante y para los usos previstos." },
+      { "id": "b", "text": "A las preferencias del trabajador y para cualquier uso compatible." },
+      { "id": "c", "text": "A una decisión del público cuando el equipo sea visible." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 7.1 del RD 773/1997 exige que utilización, almacenamiento, mantenimiento, limpieza, desinfección y reparación se realicen conforme a las instrucciones del fabricante y, salvo excepciones, para los usos previstos.",
+    "source": {
+      "lawId": "rd-773-1997",
+      "anchorId": "rd-773-1997-a7",
+      "reference": "RD 773/1997, artículo 7.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735"
+    }
+  },
+  {
+    "id": "m3-stage-021",
+    "topicId": "especifico-35",
+    "prompt": "¿Qué información debe recibir el trabajador antes de utilizar un equipo de protección individual?",
+    "options": [
+      { "id": "a", "text": "Los riesgos cubiertos y las situaciones de uso." },
+      { "id": "b", "text": "Solo el precio de adquisición y la fecha de compra." },
+      { "id": "c", "text": "Únicamente el nombre comercial del fabricante." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 8.2 del RD 773/1997 exige informar previamente sobre los riesgos frente a los que protege el equipo y las actividades u ocasiones en que debe utilizarse, además de proporcionar instrucciones.",
+    "source": {
+      "lawId": "rd-773-1997",
+      "anchorId": "rd-773-1997-a8",
+      "reference": "RD 773/1997, artículo 8.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735"
+    }
   }
 ]
