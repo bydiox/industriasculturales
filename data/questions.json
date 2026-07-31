@@ -2579,5 +2579,275 @@
       "reference": "Constitución Española, artículo 155.1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
     }
+  },
+  {
+    "id": "m3-ce-016",
+    "topicId": "comun-01",
+    "prompt": "¿A quién vinculan directamente la Constitución y el resto del ordenamiento jurídico según el artículo 9.1?",
+    "options": [
+      { "id": "a", "text": "Solo a los poderes públicos, por su especial posición institucional." },
+      { "id": "b", "text": "A los ciudadanos y a los poderes públicos." },
+      { "id": "c", "text": "Solo a quienes ejercen funciones administrativas." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 9.1 dispone que los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a9",
+      "reference": "Constitución Española, artículo 9.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-017",
+    "topicId": "comun-01",
+    "prompt": "¿Qué prohíbe expresamente el artículo 14 de la Constitución?",
+    "options": [
+      { "id": "a", "text": "Toda diferencia de trato entre personas en cualquier circunstancia." },
+      { "id": "b", "text": "La discriminación por cualquiera de las circunstancias que enumera." },
+      { "id": "c", "text": "Solo la discriminación por razón de nacimiento o sexo." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 14 proclama la igualdad ante la ley y prohíbe la discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a14",
+      "reference": "Constitución Española, artículo 14",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-018",
+    "topicId": "comun-01",
+    "prompt": "¿En qué supuesto mantiene la Constitución la posibilidad de pena de muerte?",
+    "options": [
+      { "id": "a", "text": "En ningún supuesto, porque está abolida sin excepción." },
+      { "id": "b", "text": "En los casos que pueda prever la legislación penal ordinaria." },
+      { "id": "c", "text": "En lo que pueda disponer la legislación penal militar para tiempos de guerra." }
+    ],
+    "correctOptionId": "c",
+    "explanation": "El artículo 15 abole la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a15",
+      "reference": "Constitución Española, artículo 15",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-019",
+    "topicId": "comun-02",
+    "prompt": "¿Qué establece el artículo 16.3 sobre la relación entre el Estado y las confesiones religiosas?",
+    "options": [
+      { "id": "a", "text": "El Estado reconoce una religión oficial y coopera con las demás." },
+      { "id": "b", "text": "Ninguna confesión tendrá carácter estatal, sin perjuicio de la cooperación prevista." },
+      { "id": "c", "text": "Las confesiones religiosas carecen de reconocimiento constitucional." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 16.3 afirma que ninguna confesión tendrá carácter estatal y prevé que los poderes públicos mantengan relaciones de cooperación con las confesiones.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a16",
+      "reference": "Constitución Española, artículo 16.3",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-020",
+    "topicId": "comun-02",
+    "prompt": "¿Cuál es el plazo máximo de la detención preventiva que establece el artículo 17.2?",
+    "options": [
+      { "id": "a", "text": "Setenta y dos horas, tras las cuales debe quedar en libertad o a disposición judicial." },
+      { "id": "b", "text": "Cuarenta y ocho horas, prorrogables por autorización judicial." },
+      { "id": "c", "text": "Setenta y dos horas, prorrogables automáticamente por otras cuarenta y ocho." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 17.2 fija un máximo de 72 horas; dentro de ese plazo la persona debe ser puesta en libertad o a disposición de la autoridad judicial.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a17",
+      "reference": "Constitución Española, artículo 17.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-021",
+    "topicId": "comun-02",
+    "prompt": "¿Qué derecho reconoce el artículo 23.2 respecto del acceso a las funciones y cargos públicos?",
+    "options": [
+      { "id": "a", "text": "El acceso en condiciones de igualdad, con los requisitos que señalen las leyes." },
+      { "id": "b", "text": "El acceso preferente de quienes ya sean funcionarios públicos." },
+      { "id": "c", "text": "El acceso sin requisitos cuando se trate de cargos electivos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 23.2 reconoce el derecho a acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a23",
+      "reference": "Constitución Española, artículo 23.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-022",
+    "topicId": "comun-03",
+    "prompt": "¿Cuál de estas funciones corresponde a las Cortes Generales según el artículo 66.2?",
+    "options": [
+      { "id": "a", "text": "Ejercer la potestad legislativa del Estado y aprobar sus Presupuestos." },
+      { "id": "b", "text": "Dirigir la política interior y exterior del Estado." },
+      { "id": "c", "text": "Juzgar y hacer ejecutar lo juzgado en todo el territorio." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 66.2 atribuye a las Cortes la potestad legislativa del Estado, la aprobación de sus Presupuestos y el control de la acción del Gobierno.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a66",
+      "reference": "Constitución Española, artículo 66.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-023",
+    "topicId": "comun-03",
+    "prompt": "¿Cuánto dura el mandato del Congreso de los Diputados?",
+    "options": [
+      { "id": "a", "text": "Tres años, salvo disolución anticipada." },
+      { "id": "b", "text": "Cuatro años, salvo que la Cámara sea disuelta antes." },
+      { "id": "c", "text": "Cinco años, sin posibilidad de disolución anticipada." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 68.4 fija en cuatro años el mandato del Congreso, que también termina el día de la disolución de la Cámara.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a68",
+      "reference": "Constitución Española, artículo 68.4",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-024",
+    "topicId": "comun-03",
+    "prompt": "¿Qué representación adicional pueden designar las Comunidades Autónomas para el Senado?",
+    "options": [
+      { "id": "a", "text": "Un Senador y otro más por cada millón de habitantes de su territorio." },
+      { "id": "b", "text": "Dos Senadores fijos y uno más por cada medio millón de habitantes." },
+      { "id": "c", "text": "Un Senador por cada provincia, sin atender a la población." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 69.5 prevé que cada Comunidad Autónoma designe un Senador y otro más por cada millón de habitantes de su territorio.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a69",
+      "reference": "Constitución Española, artículo 69.5",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-025",
+    "topicId": "comun-04",
+    "prompt": "¿Quién propone al Rey el nombramiento y separación de los demás miembros del Gobierno?",
+    "options": [
+      { "id": "a", "text": "El Presidente del Gobierno." },
+      { "id": "b", "text": "El Presidente del Congreso de los Diputados." },
+      { "id": "c", "text": "El Consejo General del Poder Judicial." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 100 establece que los demás miembros del Gobierno son nombrados y separados por el Rey, a propuesta de su Presidente.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a100",
+      "reference": "Constitución Española, artículo 100",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-026",
+    "topicId": "comun-04",
+    "prompt": "¿Qué principios rigen el acceso a la función pública según el artículo 103.3?",
+    "options": [
+      { "id": "a", "text": "Igualdad, publicidad y antigüedad." },
+      { "id": "b", "text": "Mérito y capacidad." },
+      { "id": "c", "text": "Eficacia y jerarquía." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 103.3 dispone que la ley regulará el acceso a la función pública de acuerdo con los principios de mérito y capacidad.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a103",
+      "reference": "Constitución Española, artículo 103.3",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-027",
+    "topicId": "comun-04",
+    "prompt": "¿A qué fin queda subordinada toda la riqueza del país, según el artículo 128.1?",
+    "options": [
+      { "id": "a", "text": "Al interés general." },
+      { "id": "b", "text": "A la planificación económica del Gobierno." },
+      { "id": "c", "text": "A la titularidad pública de todos los recursos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 128.1 afirma que toda la riqueza del país, en sus distintas formas y sea cual fuere su titularidad, está subordinada al interés general.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a128",
+      "reference": "Constitución Española, artículo 128.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-028",
+    "topicId": "comun-05",
+    "prompt": "¿Qué competencia atribuye al Estado el artículo 149.1.9.ª?",
+    "options": [
+      { "id": "a", "text": "La legislación sobre propiedad intelectual e industrial." },
+      { "id": "b", "text": "El fomento de la cultura dentro de cada Comunidad Autónoma." },
+      { "id": "c", "text": "La organización de las instituciones de autogobierno autonómicas." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 149.1.9.ª reserva al Estado la legislación sobre propiedad intelectual e industrial.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a149",
+      "reference": "Constitución Española, artículo 149.1.9.ª",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-029",
+    "topicId": "comun-05",
+    "prompt": "¿Cuántos miembros componen el Tribunal Constitucional?",
+    "options": [
+      { "id": "a", "text": "Diez miembros, designados por las Cortes y el Gobierno." },
+      { "id": "b", "text": "Doce miembros, propuestos por distintos órganos constitucionales." },
+      { "id": "c", "text": "Quince miembros, elegidos por sufragio universal." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 159.1 establece que el Tribunal Constitucional se compone de doce miembros, cuatro a propuesta del Congreso, cuatro del Senado, dos del Gobierno y dos del Consejo General del Poder Judicial.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a159",
+      "reference": "Constitución Española, artículo 159.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-030",
+    "topicId": "comun-05",
+    "prompt": "¿Qué mayoría se exige con carácter general para aprobar una reforma constitucional ordinaria?",
+    "options": [
+      { "id": "a", "text": "Mayoría absoluta de cada Cámara." },
+      { "id": "b", "text": "Mayoría de tres quintos de cada Cámara." },
+      { "id": "c", "text": "Mayoría de dos tercios del Congreso y simple del Senado." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 167.1 exige la aprobación por mayoría de tres quintos de cada Cámara para la reforma constitucional ordinaria.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a167",
+      "reference": "Constitución Española, artículo 167.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
   }
 ]
