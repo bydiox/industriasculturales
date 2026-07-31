@@ -76,6 +76,16 @@ Las preguntas jurídicas futuras deben añadir además `source` con `lawId`, `an
 
 ## Validación
 
+## Versionado de publicaciones
+
+La versión visible de la aplicación se mantiene en `package.json` y `data/syllabus.json`. Antes de cada publicación, ejecuta:
+
+```text
+npm run version:bump
+```
+
+El comando incrementa la revisión (`0.1.0` → `0.1.1`) en ambos archivos. Después se valida, se hace commit y se sube a `main`.
+
 ```text
 npm run check
 npm run content:validate

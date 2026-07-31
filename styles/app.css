@@ -9,6 +9,7 @@ header { display: flex; align-items: baseline; justify-content: space-between; g
 .guide-icon { display: grid; place-items: center; width: 20px; height: 20px; border: 1px solid currentColor; border-radius: 50%; color: #f0b52d; font-family: Georgia, serif; font-weight: 700; }
 h1, h2, p { margin-top: 0; }
 h1 { letter-spacing: .18em; color: #f0b52d; }
+.app-version { align-self: center; color: #aeb9c5; font-size: .78rem; font-variant-numeric: tabular-nums; }
 button { font: inherit; color: inherit; cursor: pointer; }
 .primary, .secondary, .topic-action, .option { border: 1px solid #3a4655; border-radius: 12px; background: #1b232d; padding: 14px 16px; }
 .primary { background: #d9961f; color: #15171a; border-color: #f5c85e; font-weight: 700; }

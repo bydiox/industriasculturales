@@ -914,6 +914,9 @@ document.querySelectorAll('[data-home-action]').forEach(button => button.addEven
 loadContent()
   .then(content => {
     state.content = content;
+    const appVersion = content.syllabus.app?.version || '0.0.0';
+    $('#app-version').textContent = `v${appVersion}`;
+    document.title = `${content.syllabus.app?.name || 'M3'} · v${appVersion}`;
     renderGuide();
     renderStudyLibrary();
     renderLawCatalog();
