@@ -203,6 +203,13 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .law-catalog-icon { grid-row: 1 / span 2; display: grid; place-items: center; width: 30px; height: 30px; border: 1px solid #657487; border-radius: 50%; color: #f0c96b; font-size: 1.1rem; }
 .law-catalog-card strong { color: #eef2f5; font-size: .88rem; line-height: 1.3; }
 .law-catalog-card small { color: #aeb9c5; font-size: .72rem; line-height: 1.3; }
+.law-context { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 18px 0 24px; padding: 13px 14px; border: 1px solid #354354; border-radius: 10px; background: #1a2530; }
+.law-context strong { display: block; margin-bottom: 3px; color: #f0c96b; font-size: .78rem; }
+.law-context p { margin: 0; color: #c5ced7; font-size: .82rem; line-height: 1.45; }
+.law-context-compact { grid-column: 2; grid-template-columns: 1fr; gap: 6px; margin: 5px 0 0; padding: 8px 9px; border: 0; border-left: 2px solid var(--law-card-color, #5db5ed); border-radius: 0; background: transparent; }
+.law-context-compact strong { font-size: .7rem; }
+.law-context-compact p { font-size: .72rem; }
+.law-context-compact > div:first-child { display: none; }
 .law-page-content { min-width: 0; padding: 22px clamp(14px, 3vw, 32px); border: 1px solid #303d4c; border-radius: 14px; background: #151c24; }
 .law-page-content main, .law-page-content body { max-width: none; margin: 0; }
 .law-page-content header { display: block; margin: 0 0 26px; padding-bottom: 16px; border-bottom: 1px solid #344252; }
@@ -264,6 +271,8 @@ body.law-reference-open { overflow: hidden; }
   .study-category-grid { grid-template-columns: 1fr; }
   .study-doc-list { grid-template-columns: 1fr; }
   .law-catalog-grid { grid-template-columns: 1fr; }
+  .law-context { grid-template-columns: 1fr; }
+  .law-context-compact { grid-column: 2; }
   .study-reader-toolbar, .study-reader-bottom { align-items: stretch; flex-direction: column; }
   .study-reader-nav { width: 100%; }
   .study-reader-nav button, .study-reader-bottom button { flex: 1; }

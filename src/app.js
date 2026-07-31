@@ -534,7 +534,49 @@ function renderLawCatalog() {
       <span class="law-catalog-icon" aria-hidden="true">§</span>
       <strong>${escapeHtml(law.title)}</strong>
       <small>${escapeHtml(law.legalReference || '')}</small>
+      ${renderLawContext(law, true)}
     </button>`).join('');
+}
+
+const lawPurposeNotes = {
+  'ce-1978': 'Fija los valores, derechos y principios de organización que encuadran toda la actividad pública.',
+  'rdleg-5-2015': 'Es la norma básica del empleo público: clases de personal, derechos, deberes y régimen disciplinario.',
+  'convenio-iv': 'Concreta las condiciones de trabajo del personal laboral de la Administración General del Estado.',
+  'ley-39-2015': 'Es la norma central del procedimiento administrativo común, los plazos, los actos y la relación electrónica.',
+  'ley-40-2015': 'Ordena el régimen jurídico del sector público, sus órganos, competencias y relaciones interadministrativas.',
+  'ley-9-2017-lcsp': 'Regula cómo contratan las entidades públicas y los principios de publicidad, igualdad y transparencia.',
+  'ley-31-1995': 'Establece el marco general de prevención de riesgos laborales y las obligaciones de protección.',
+  'rd-171-2004': 'Es imprescindible cuando coinciden teatro, compañía, montaje y empresas externas: regula su coordinación preventiva.',
+  'rd-393-2007': 'Define la Norma Básica de Autoprotección y la respuesta organizada ante emergencias en centros y espectáculos.',
+  'rd-2816-1982': 'Aporta reglas de seguridad y funcionamiento de los espectáculos y locales de pública concurrencia.',
+  'ley-16-1985': 'Es el marco general del patrimonio histórico español, su protección y su transmisión.',
+  'ley-50-1984': 'Define la creación y el marco institucional del INAEM, organismo central de esta oposición.',
+  'rd-1245-2002': 'Describe la organización y el funcionamiento del INAEM y ayuda a estudiar sus órganos y centros.',
+  'rd-1435-1985': 'Regula la relación laboral especial de artistas en espectáculos públicos, relevante para contratación y producción.',
+  'lo-3-2007': 'Introduce la igualdad efectiva entre mujeres y hombres y sus obligaciones para las administraciones y entidades.',
+  'ley-49-2002': 'Regula el mecenazgo y los incentivos fiscales que pueden sostener proyectos y actividades culturales.'
+};
+
+function lawImportanceTopics(lawId) {
+  const linked = state.content.questions.filter(question => question.source?.lawId === lawId
+    && (question.active === true || (question.active !== false && question.origin?.historical !== true)));
+  const topics = [...new Set(linked.map(question => question.topicId))]
+    .map(topicId => state.content.topicsById[topicId])
+    .filter(Boolean)
+    .sort((a, b) => a.number - b.number);
+  return { count: linked.length, topics };
+}
+
+function renderLawContext(law, compact = false) {
+  const { count, topics } = lawImportanceTopics(law.lawId);
+  const topicText = topics.length
+    ? `Se trabaja especialmente en ${topics.slice(0, 3).map(topic => `Tema ${topic.number}`).join(', ')}${topics.length > 3 ? ' y otros temas.' : '.'}`
+    : 'Forma parte del corpus jurídico de consulta de la oposición.';
+  const importance = lawPurposeNotes[law.lawId] || topicText;
+  return `<div class="law-context${compact ? ' law-context-compact' : ''}">
+    <div><strong>Qué es</strong><p>${escapeHtml(law.legalReference || law.title)}</p></div>
+    <div><strong>Por qué importa en M3</strong><p>${escapeHtml(importance)}${count ? ` (${count} preguntas activas enlazadas.)` : ''}</p></div>
+  </div>`;
 }
 
 function openLawCatalog() {
@@ -587,7 +629,7 @@ async function openLawDocument(lawId, anchorId = null, fromStory = false) {
     const parsed = new DOMParser().parseFromString(source, 'text/html');
     const main = parsed.querySelector('main') || parsed.body;
     main.querySelectorAll('script, style').forEach(node => node.remove());
-    $('#law-page-content').innerHTML = main.innerHTML;
+    $('#law-page-content').innerHTML = `${renderLawContext(law)}${main.innerHTML}`;
     const target = activeLawAnchorId && document.getElementById(activeLawAnchorId);
     if (target) window.requestAnimationFrame(() => target.scrollIntoView({ block: 'start' }));
     else window.scrollTo(0, 0);
@@ -626,7 +668,7 @@ async function openLawReferenceModal(lawId, anchorId = null, trigger = null) {
     const parsed = new DOMParser().parseFromString(source, 'text/html');
     const main = parsed.querySelector('main') || parsed.body;
     main.querySelectorAll('script, style').forEach(node => node.remove());
-    body.innerHTML = main.innerHTML;
+    body.innerHTML = `${renderLawContext(law)}${main.innerHTML}`;
     const target = anchorId
       ? Array.from(body.querySelectorAll('[id]')).find(node => node.id === anchorId)
       : null;
