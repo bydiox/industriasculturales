@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "title": "Guía de orientación M3",
+  "subtitle": "Qué oposición es, qué enseñó el examen anterior y cómo abordar el temario",
+  "lastReviewed": "2026-07-31",
+  "intro": "Esta guía no sustituye al temario ni a las fuentes oficiales. Explica cómo está construida la oposición, qué puede extraerse del examen anterior y qué estrategia de estudio se ha incorporado a la aplicación.",
+  "sections": [
+    {
+      "id": "oposicion",
+      "title": "1. Qué es exactamente esta oposición",
+      "paragraphs": [
+        "La especialidad es Gestión de Industrias Culturales y Creativas, dentro del Grupo Profesional M3 del personal laboral fijo de la Administración General del Estado y del IV Convenio Único. El ámbito de trabajo es el Ministerio de Cultura y el INAEM, organismo que gestiona sus unidades de producción, exhibición y formación artística.",
+        "Hay 8 plazas, todas en Madrid. Es una oposición de personal laboral, no de un cuerpo funcionarial. Una parte sustancial del examen corresponde a Derecho administrativo y laboral común de la Administración General del Estado; la cultura no constituye por sí sola todo el examen."
+      ],
+      "subsections": [
+        {
+          "title": "Cómo funciona la prueba",
+          "bullets": [
+            "Primer ejercicio: 100 preguntas tipo test, con 4 opciones y una correcta; 50 preguntas comunes y 50 específicas; 100 minutos y 6 preguntas de reserva.",
+            "Las respuestas incorrectas penalizan un tercio del valor de una correcta y las respuestas en blanco no penalizan. El máximo es 40 puntos y se necesitan al menos 20.",
+            "Segundo ejercicio: caso práctico sobre la parte específica, con un máximo de 120 minutos. Según la configuración incorporada, es también eliminatorio.",
+            "Con cuatro opciones y penalización de un tercio, contestar completamente al azar tiene valor esperado cero. Si se descarta al menos una opción, el valor esperado de contestar es positivo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examen-anterior",
+      "title": "2. Qué enseña el examen anterior",
+      "paragraphs": [
+        "El examen disponible corresponde a la convocatoria de 2021. Como calibrador de dificultad es muy útil: muestra preguntas de definición cerrada y vocabulario preciso de oficio, como elementos de vestuario, partes del escenario o tipos de luminarias. El bloque técnico exige memorizar términos exactos, no solo comprender ideas generales.",
+        "Como mapa de contenido es menos fiable porque el programa anterior estaba muy orientado a dirección de escenario, Zarzuela, técnica escénica y lenguaje musical. El programa vigente cubre más destinos del INAEM y amplía las materias de gestión cultural, políticas, financiación, públicos, planificación y propiedad intelectual.",
+        "Del análisis de las 35 preguntas específicas anteriores, 22 conservan una correspondencia directa, 11 han quedado diluidas dentro de temas más amplios y 2 pertenecen a materias que ya no figuran en el programa. Además, 18 de los 45 temas específicos actuales —el 40 % del bloque— son nuevos respecto de aquel examen.",
+        "Por eso el examen histórico sirve para aprender el estilo y el grado de precisión, pero no debe utilizarse como único mapa del temario vigente. La app lo mantiene separado del modo Historia."
+      ]
+    },
+    {
+      "id": "mapa",
+      "title": "3. El mapa real: 60 temas y 19 unidades",
+      "paragraphs": [
+        "El programa tiene 15 temas comunes y 45 específicos. La aplicación los agrupa en 19 unidades porque varios temas proceden de una misma norma o forman un bloque de estudio coherente.",
+        "La distribución adoptada evita tratar los 60 temas como elementos equivalentes. Las cuatro unidades de mayor peso —Constitución, empleo público, espacio escénico y Derecho administrativo— representan aproximadamente el 42 % del reparto utilizado por la app."
+      ]
+    },
+    {
+      "id": "perfil",
+      "title": "4. Punto de partida y riesgos de planificación",
+      "subsections": [
+        {
+          "title": "Ámbitos de ventaja",
+          "bullets": [
+            "Una formación histórica facilita la periodización, el contexto y la causalidad en Historia de las artes y Patrimonio.",
+            "La familiaridad con instituciones culturales ayuda a situar el INAEM y sus centros, aunque el examen exige además conocer su régimen jurídico y funcionamiento administrativo.",
+            "La experiencia editorial o cultural facilita el vocabulario de producción, programación, públicos, comunicación y economía de la cultura.",
+            "Estas ventajas de contexto abarcan aproximadamente 17–19 puntos del reparto, pero no sustituyen el estudio preciso del temario."
+          ]
+        },
+        {
+          "title": "Ámbitos que requieren más repetición",
+          "paragraphs": [
+            "Constitución, Derecho administrativo, empleo público, relación laboral y Unión Europea reúnen aproximadamente 47,15 puntos. Para quien no tenga formación jurídica previa, esta es la principal dificultad del programa.",
+            "No son materias que puedan resolverse por intuición cultural: requieren aprender jerga jurídica, estructura de normas, órganos, plazos y procedimientos."
+          ]
+        },
+        {
+          "title": "Técnica escénica",
+          "paragraphs": [
+            "La técnica escénica y la dirección de escenario son vocabulario de oficio. Se prestan bien a fichas, esquemas y glosarios, pero existe el riesgo de dedicarles demasiado tiempo porque producen una sensación rápida de avance. El programa vigente no debe prepararse como si siguiera siendo la oposición de regiduría de 2021."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leyes",
+      "title": "5. Prioridad de las leyes y fuentes",
+      "subsections": [
+        {
+          "title": "Nivel 1 · Innegociable",
+          "bullets": [
+            "Constitución Española — 16,22: derechos, Corona, Cortes, Gobierno y organización territorial.",
+            "IV Convenio Único — 6,08: clasificación, jornada, provisión, movilidad y régimen disciplinario.",
+            "Ley 9/2017 de Contratos del Sector Público — 4,59: aparece en la parte común y en la específica.",
+            "Ley 39/2015 — 4,31: procedimiento administrativo y funcionamiento de los expedientes públicos.",
+            "Estatuto de los Trabajadores — 3,31: contrato, modalidades, suspensión y extinción.",
+            "Ley 40/2015 — 2,95: sector público institucional, organismos autónomos y convenios.",
+            "TREBEP — 2,14: empleo público y procesos selectivos.",
+            "Estas siete fuentes representan conjuntamente 39,60 puntos del reparto utilizado."
+          ]
+        },
+        {
+          "title": "Nivel 2 · Segunda ola",
+          "bullets": [
+            "Ley 31/1995 de Prevención de Riesgos Laborales — 1,90.",
+            "Ley 50/1997 del Gobierno — 1,80.",
+            "Ley Orgánica 11/1985 de Libertad Sindical — 1,74.",
+            "Real Decreto 2491/1996, leído con la reforma de 2025 — 1,49.",
+            "TUE y TFUE — 6,74 conjuntamente.",
+            "Real Decreto-ley 17/1977 sobre huelga — 1,32.",
+            "Normativa y códigos de buenas prácticas de los centros del INAEM — 1,23. Deben leerse bajo la estructura superior vigente desde noviembre de 2025."
+          ]
+        },
+        {
+          "title": "Nivel 3 · Contexto normativo",
+          "paragraphs": [
+            "Las normas de menor peso individual —mecenazgo, propiedad intelectual, patrimonio histórico, igualdad, accesibilidad, subvenciones y régimen presupuestario— se estudian inicialmente por conceptos, finalidad y estructura, sin la misma profundidad artículo por artículo que las fuentes del nivel 1."
+          ]
+        },
+        {
+          "title": "Temas que no proceden de una ley",
+          "paragraphs": [
+            "El 23,82 % del reparto no tiene una norma jurídica única como fuente. Incluye historia de las artes, técnica escénica, dirección de escenario, planificación, públicos, mercadotecnia, mediación, comisariado y economía de la cultura.",
+            "Estos temas se construirán con manuales, fuentes institucionales, currículos oficiales, cualificaciones profesionales y documentación primaria especializada. No debe buscarse un BOE inexistente para cada concepto técnico."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vigencia",
+      "title": "6. Avisos normativos que pueden cambiar respuestas",
+      "paragraphs": [
+        "El tema del INAEM debe estudiarse con la estructura posterior a noviembre de 2025. Los materiales anteriores pueden atribuir al organismo competencias y órganos que ya corresponden a la Dirección General de Artes Escénicas y Música.",
+        "Los estatutos de los centros siguen siendo útiles para sus misiones, órganos internos y modelos de gestión compatibles, pero deben leerse aplicando la reforma de 2025 sobre adscripciones, órganos suprimidos y competencias trasladadas.",
+        "El régimen laboral especial de artistas presenta además una transición entre el Real Decreto 1435/1985 y el Real Decreto 607/2026. La app muestra debajo los cortes temporales y las fuentes oficiales."
+      ]
+    },
+    {
+      "id": "codigo",
+      "title": "7. Cómo utilizar el Código de las Artes Escénicas y de la Música",
+      "paragraphs": [
+        "El código legislativo extenso del BOE no es un libro de texto que deba leerse de principio a fin. Es una compilación de 177 normas distribuida en 28 secciones, incluida normativa autonómica que no forma parte central de esta convocatoria.",
+        "Su función en este proyecto es servir como índice para localizar las normas aplicables y acceder después a su texto oficial o consolidado por separado. La app incorporará únicamente las fuentes y apartados relevantes para cada tema."
+      ]
+    },
+    {
+      "id": "plan-tres-meses",
+      "title": "8. Plan de trabajo para tres meses",
+      "bullets": [
+        "Semanas 1–4: nivel 1 de leyes. Constitución, IV Convenio, Ley 9/2017, Ley 39/2015, Estatuto de los Trabajadores, Ley 40/2015 y TREBEP.",
+        "Desde el primer día, en paralelo: Historia de las artes e INAEM, para mantener activo el bloque cultural mientras se construye la base jurídica.",
+        "Semanas 5–8: nivel 2 de leyes y gestión cultural —producción, políticas, públicos, planificación y financiación—.",
+        "Semanas 9–11: técnica escénica, utilizando el examen anterior para calibrar el nivel de precisión terminológica.",
+        "Últimas 2 semanas: simulacros completos con penalización y repaso dirigido por errores.",
+        "Punto de control: si al terminar las tres primeras semanas el nivel 1 no avanza de forma suficiente, debe reajustarse inmediatamente la planificación."
+      ]
+    }
+  ]
+}

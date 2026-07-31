@@ -1,0 +1,2583 @@
+[
+  {
+    "id": "m3-2021-oficial-001",
+    "topicId": "oficial-2021-comun",
+    "prompt": "¿De qué trata el Título III de la Constitución española de 1978?",
+    "options": [
+      {
+        "id": "a",
+        "text": "De los derechos y deberes de los ciudadanos"
+      },
+      {
+        "id": "b",
+        "text": "De las Cortes Generales"
+      },
+      {
+        "id": "c",
+        "text": "De la Organización territorial del Estado"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 1,
+      "part": "comun",
+      "page": 2,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-002",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Una reforma de la Constitución que afecte a los derechos fundamentales recogidos en los artículos 15 a 29 ha de hacerse mediante el denominado:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Procedimiento agravado de reforma"
+      },
+      {
+        "id": "b",
+        "text": "Real Decreto"
+      },
+      {
+        "id": "c",
+        "text": "Decreto legislativo"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 2,
+      "part": "comun",
+      "page": 2,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-003",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Según establece la Constitución, en su artículo 64.1, el nombramiento del Presidente del Gobierno corresponde al Rey, con el refrendo de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "El presidente del Tribunal Constitucional"
+      },
+      {
+        "id": "b",
+        "text": "El presidente del Congreso de los Diputados"
+      },
+      {
+        "id": "c",
+        "text": "El ministro de Justicia en su calidad de notario mayor del Reino"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 3,
+      "part": "comun",
+      "page": 2,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-004",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Señale la respuesta CORRECTA sobre las Cortes Generales:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Los miembros de las Cortes Generales están ligados por mandato imperativo."
+      },
+      {
+        "id": "b",
+        "text": "Las Cortes Generales representan al pueblo español."
+      },
+      {
+        "id": "c",
+        "text": "Ejercen la potestad reglamentaria del Estado."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 4,
+      "part": "comun",
+      "page": 2,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-005",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Al Consejo de Ministros, como órgano colegiado del Gobierno, le corresponde el ejercicio de las siguientes funciones:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Velar por la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el Boletín Oficial del Estado."
+      },
+      {
+        "id": "b",
+        "text": "Declarar los estados de alarma y de excepción y proponer al Congreso de los Diputados la declaración del estado de sitio."
+      },
+      {
+        "id": "c",
+        "text": "Resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 5,
+      "part": "comun",
+      "page": 2,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-006",
+    "topicId": "oficial-2021-comun",
+    "prompt": "El presidente del Gobierno en funciones no podrá ejercer las siguientes facultades:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proponer al Rey la convocatoria de un referéndum consultivo."
+      },
+      {
+        "id": "b",
+        "text": "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado."
+      },
+      {
+        "id": "c",
+        "text": "Presentar proyectos de ley al Congreso de los Diputados o, en su caso, al Senado."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 6,
+      "part": "comun",
+      "page": 2,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-007",
+    "topicId": "oficial-2021-comun",
+    "prompt": "El Plan Anual Normativo estará coordinado por el Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática, el cual elevará dicho Plan al Consejo de Ministros para su aprobación antes del:",
+    "options": [
+      {
+        "id": "a",
+        "text": "31 de diciembre."
+      },
+      {
+        "id": "b",
+        "text": "31 de mayo."
+      },
+      {
+        "id": "c",
+        "text": "30 abril."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 7,
+      "part": "comun",
+      "page": 2,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-008",
+    "topicId": "oficial-2021-comun",
+    "prompt": "De los conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de éstas entre sí, es competente para conocer:",
+    "options": [
+      {
+        "id": "a",
+        "text": "El Senado por ser la Cámara de representación territorial."
+      },
+      {
+        "id": "b",
+        "text": "El Tribunal Constitucional."
+      },
+      {
+        "id": "c",
+        "text": "Las Cortes Generales a través de la reunión conjunta de los portavoces parlamentarios del Congreso y del Senado."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 8,
+      "part": "comun",
+      "page": 2,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-009",
+    "topicId": "oficial-2021-comun",
+    "prompt": "El Tratado de la Unión Europea, firmado en Maastricht el 7 de febrero de 1992, entró en vigor:",
+    "options": [
+      {
+        "id": "a",
+        "text": "El 1 de enero de 1993."
+      },
+      {
+        "id": "b",
+        "text": "El 1 de noviembre de 1993."
+      },
+      {
+        "id": "c",
+        "text": "El 15 de diciembre de 1993."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 9,
+      "part": "comun",
+      "page": 2,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-010",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Según el artículo 288 del Tratado de Funcionamiento de la Unión Europea, tendrá un alcance general, será obligatorio en todos sus elementos y directamente aplicable a cada Estado miembro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Los Dictámenes."
+      },
+      {
+        "id": "b",
+        "text": "El Reglamento."
+      },
+      {
+        "id": "c",
+        "text": "Las Decisiones."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 10,
+      "part": "comun",
+      "page": 3,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-011",
+    "topicId": "oficial-2021-comun",
+    "prompt": "En el artículo 289 del Tratado de Funcionamiento de la Unión Europea se establece que, el procedimiento legislativo consistente en la adopción conjunta por el Parlamento Europeo y el Consejo, a propuesta de la Comisión, de un Reglamento, una Directiva o una Decisión se denomina:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Excepcional."
+      },
+      {
+        "id": "b",
+        "text": "Contrario a la ley."
+      },
+      {
+        "id": "c",
+        "text": "Ordinario."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 11,
+      "part": "comun",
+      "page": 3,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-012",
+    "topicId": "oficial-2021-comun",
+    "prompt": "El Derecho Administrativo se rige, en el sistema de fuentes, en primer lugar, por:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Los principios generales del derecho."
+      },
+      {
+        "id": "b",
+        "text": "La Constitución Española."
+      },
+      {
+        "id": "c",
+        "text": "Las Resoluciones del Presidente del Gobierno."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 12,
+      "part": "comun",
+      "page": 3,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-013",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Según el artículo 30 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en relación al cómputo de plazos, cuando el último día del plazo sea inhábil:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Se entenderá hábil a todos los efectos."
+      },
+      {
+        "id": "b",
+        "text": "Acabará dicho plazo el día hábil inmediatamente anterior."
+      },
+      {
+        "id": "c",
+        "text": "Se entenderá prorrogado al primer día hábil siguiente."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 13,
+      "part": "comun",
+      "page": 3,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-014",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Según el artículo 24 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, como norma general, en los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin haberse notificado resolución expresa, legitima al interesado para entenderla:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decaída por silencio administrativo."
+      },
+      {
+        "id": "b",
+        "text": "Estimada por silencio administrativo."
+      },
+      {
+        "id": "c",
+        "text": "Recurrida administrativamente."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 14,
+      "part": "comun",
+      "page": 3,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-015",
+    "topicId": "oficial-2021-comun",
+    "prompt": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, es de aplicación a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Los contratos onerosos, cualquiera que sea su naturaleza jurídica, que celebren las Entidades Gestoras y los Servicios Comunes de la Seguridad Social"
+      },
+      {
+        "id": "b",
+        "text": "Las autorizaciones y concesiones sobre bienes de dominio público con carácter general"
+      },
+      {
+        "id": "c",
+        "text": "La prestación de un servicio público cuya utilización por los usuarios requiera el abono de una tarifa, tasa o precio público de aplicación general"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 15,
+      "part": "comun",
+      "page": 3,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-016",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Tendrán carácter administrativo los contratos siguientes, siempre que se celebren por una Administración Pública:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aquellos cuyo objeto sea la suscripción a revistas, publicaciones periódicas y bases de datos"
+      },
+      {
+        "id": "b",
+        "text": "Los contratos declarados así expresamente por una Ley"
+      },
+      {
+        "id": "c",
+        "text": "Los celebrados por entidades del sector público que no reúnan la condición de poder adjudicador"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 16,
+      "part": "comun",
+      "page": 3,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-017",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Respecto del personal al servicio de la Administración General del Estado ¿quién realiza sólo funciones expresamente calificadas de confianza o asesoramiento especial?",
+    "options": [
+      {
+        "id": "a",
+        "text": "El personal eventual."
+      },
+      {
+        "id": "b",
+        "text": "El personal interino."
+      },
+      {
+        "id": "c",
+        "text": "El personal funcionario de carrera."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 17,
+      "part": "comun",
+      "page": 3,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-018",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Los sistemas selectivos para el ingreso de personal laboral en la Administración General del Estado son la oposición, el concurso-oposición y",
+    "options": [
+      {
+        "id": "a",
+        "text": "La entrevista por el tribunal calificador"
+      },
+      {
+        "id": "b",
+        "text": "El concurso"
+      },
+      {
+        "id": "c",
+        "text": "La libre designación"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 18,
+      "part": "comun",
+      "page": 4,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-019",
+    "topicId": "oficial-2021-comun",
+    "prompt": "De acuerdo con el IV Convenio colectivo único para el personal laboral de la Administración General del Estado ¿cuánto dura el periodo de prueba para el personal sin titulación?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un mes."
+      },
+      {
+        "id": "b",
+        "text": "Quince días laborables."
+      },
+      {
+        "id": "c",
+        "text": "Tres meses."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 19,
+      "part": "comun",
+      "page": 4,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-020",
+    "topicId": "oficial-2021-comun",
+    "prompt": "De acuerdo con el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, la duración máxima de la jornada general de trabajo será de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cuarenta horas semanales de trabajo efectivo de promedio."
+      },
+      {
+        "id": "b",
+        "text": "Mil seiscientas cuarenta y cinco horas anuales."
+      },
+      {
+        "id": "c",
+        "text": "Mil seiscientas cuarenta y dos horas anuales."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 20,
+      "part": "comun",
+      "page": 4,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-021",
+    "topicId": "oficial-2021-comun",
+    "prompt": "El contrato que se concierta para sustituir a los trabajadores con derecho a reserva del puesto de trabajo, siempre que en el contrato de trabajo se especifique el nombre del sustituido y la causa de sustitución, y que se extinguirá por la reincorporación del trabajador sustituido es un:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Contrato para la formación y el aprendizaje"
+      },
+      {
+        "id": "b",
+        "text": "Contrato por obra y servicio determinado"
+      },
+      {
+        "id": "c",
+        "text": "Contrato de interinidad"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 21,
+      "part": "comun",
+      "page": 4,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-022",
+    "topicId": "oficial-2021-comun",
+    "prompt": "De acuerdo con el Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo, si una huelga tiene por objeto alterar, dentro de su periodo de vigencia, lo pactado en un convenio colectivo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Requiere voto favorable de más del 50% de los trabajadores."
+      },
+      {
+        "id": "b",
+        "text": "Ha de notificarse al menos 10 días hábiles antes del inicio de los paros."
+      },
+      {
+        "id": "c",
+        "text": "Es ilegal."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 22,
+      "part": "comun",
+      "page": 4,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-023",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Para la resolución de un conflicto de interpretación o aplicación del IV Convenio Único para el personal laboral de la Administración General del Estado, las partes firmantes del mismo han establecido que se requiere un examen previo de dicho conflicto por parte de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La Comisión Paritaria, en el plazo máximo de dos meses."
+      },
+      {
+        "id": "b",
+        "text": "El mediador o mediadores nombrados de común acuerdo, en el plazo máximo de tres meses."
+      },
+      {
+        "id": "c",
+        "text": "Los juzgados de lo social, a instancia de cualquiera de las partes, en el plazo máximo de cuatro meses."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 23,
+      "part": "comun",
+      "page": 4,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-024",
+    "topicId": "oficial-2021-comun",
+    "prompt": "La elaboración de los Presupuestos Generales del Estado corresponde a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "El Ministerio de Hacienda y Función Pública"
+      },
+      {
+        "id": "b",
+        "text": "El Gobierno"
+      },
+      {
+        "id": "c",
+        "text": "Las Cortes Generales"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 24,
+      "part": "comun",
+      "page": 4,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-025",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Según el artículo 40 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, los estados de gastos de los presupuestos se estructurarán de acuerdo con las siguientes clasificaciones:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Orgánica, por programas y económica."
+      },
+      {
+        "id": "b",
+        "text": "Organizada, proclive y financiera."
+      },
+      {
+        "id": "c",
+        "text": "Onerosa, pragmática y fiscal."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 25,
+      "part": "comun",
+      "page": 4,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-026",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Se consideran daños derivados del trabajo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo."
+      },
+      {
+        "id": "b",
+        "text": "Exclusivamente los que se producen en accidentes laborales."
+      },
+      {
+        "id": "c",
+        "text": "Aquellos que pueden atribuirse al incumplimiento por la empresa de las medidas de prevención."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 26,
+      "part": "comun",
+      "page": 5,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-027",
+    "topicId": "oficial-2021-comun",
+    "prompt": "La evaluación de riesgos laborales es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "El proceso dirigido a estimar la magnitud de los riesgos que no hayan podido evitarse."
+      },
+      {
+        "id": "b",
+        "text": "La estimación del trabajador sobre cómo tiene que realizar su trabajo seguro."
+      },
+      {
+        "id": "c",
+        "text": "La evaluación del empresario de presupuestos económicos para evitar los riesgos laborales."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 27,
+      "part": "comun",
+      "page": 5,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-028",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Las Administraciones públicas, a través de sus servicios de salud y de los órganos competentes en cada caso, desarrollarán, de acuerdo con el principio de igualdad de oportunidades, las siguientes actuaciones:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prohibir los proyectos de investigación que versen sobre la diferencia científica entre hombres y mujeres."
+      },
+      {
+        "id": "b",
+        "text": "Prohibir los ensayos clínicos asistenciales que diferencien entre hombres y mujeres."
+      },
+      {
+        "id": "c",
+        "text": "El fomento de la investigación científica que atienda las diferencias entre mujeres y hombres en relación con la protección de su salud."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 28,
+      "part": "comun",
+      "page": 5,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-029",
+    "topicId": "oficial-2021-comun",
+    "prompt": "La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, entre las actuaciones administrativas para la igualdad, en el ámbito de la educación superior establece que debe:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Crear títulos de enseñanza superior homologados por el Ministerio de Educación y Formación Profesional exclusivos para mujeres. Los hombres pueden sacar dichos títulos como grados propios de las universidades que los impartan."
+      },
+      {
+        "id": "b",
+        "text": "Adoptar iniciativas destinadas a favorecer la promoción específica de las mujeres en la cultura y a combatir su discriminación estructural y/o difusa."
+      },
+      {
+        "id": "c",
+        "text": "Promover titulaciones académicas exclusivamente para mujeres con objeto de que sean homologadas por el Ministerio de Educación y Formación Profesional, y combatir su discriminación estructural y/o difusa."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 29,
+      "part": "comun",
+      "page": 5,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-030",
+    "topicId": "oficial-2021-comun",
+    "prompt": "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, establece un plazo máximo de notificación de la resolución en la que se conceda o deniegue el acceso al solicitante y a los terceros afectados que así lo hayan solicitado de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tres meses desde el recibimiento de la solicitud por el organismo afectado."
+      },
+      {
+        "id": "b",
+        "text": "Quince días desde que el organismo competente emite la resolución."
+      },
+      {
+        "id": "c",
+        "text": "Un mes desde la recepción de la solicitud por el órgano competente para resolver."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 30,
+      "part": "comun",
+      "page": 5,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-031",
+    "topicId": "oficial-2021-comun",
+    "prompt": "De acuerdo con el artículo 10 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la Administración General del Estado desarrollará un Portal de la Transparencia, dependiente del:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ministerio de Hacienda y Función Pública"
+      },
+      {
+        "id": "b",
+        "text": "Ministerio del Interior"
+      },
+      {
+        "id": "c",
+        "text": "Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 31,
+      "part": "comun",
+      "page": 5,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-032",
+    "topicId": "oficial-2021-comun",
+    "prompt": "De acuerdo con el artículo 38 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿cuál de las siguientes es una función del Consejo de Transparencia y Buen Gobierno?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aprobar el presupuesto del Consejo de Transparencia y Buen Gobierno."
+      },
+      {
+        "id": "b",
+        "text": "Informar preceptivamente los proyectos normativos de carácter estatal que desarrollen esta Ley o que estén relacionados con su objeto."
+      },
+      {
+        "id": "c",
+        "text": "Elaborar el Plan de Calidad y Simplificación Normativa de la Administración General del Estado."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 32,
+      "part": "comun",
+      "page": 5,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-033",
+    "topicId": "oficial-2021-comun",
+    "prompt": "¿Qué Plan en vigor se desarrolla en torno a los principios de transparencia, rendición de cuentas, participación e integridad pública?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IV Plan de Gobierno Abierto de España 2020-2024"
+      },
+      {
+        "id": "b",
+        "text": "III Plan de Gobierno Abierto de España 2020-2024"
+      },
+      {
+        "id": "c",
+        "text": "Plan España 2050"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 33,
+      "part": "comun",
+      "page": 6,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-034",
+    "topicId": "oficial-2021-comun",
+    "prompt": "¿Cuál de los siguientes NO es un objetivo de la Agenda 2030 para el desarrollo sostenible aprobada por la Asamblea General de la Organización de las Naciones Unidas el 25 de septiembre de 2015?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible."
+      },
+      {
+        "id": "b",
+        "text": "Poner fin al crimen organizado transnacional y mejorar la seguridad ciudadana frente a los grupos criminales organizados."
+      },
+      {
+        "id": "c",
+        "text": "Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 34,
+      "part": "comun",
+      "page": 6,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-035",
+    "topicId": "oficial-2021-comun",
+    "prompt": "Entre las metas del objetivo 1 de la Agenda 2030 para el desarrollo sostenible, poner fin a la pobreza en todas sus formas y en todo el mundo, se encuentra:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La implantación de sistemas de protección social."
+      },
+      {
+        "id": "b",
+        "text": "Poner fin a todas las formas de malnutrición."
+      },
+      {
+        "id": "c",
+        "text": "El mantenimiento del crecimiento económico."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 35,
+      "part": "comun",
+      "page": 6,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-036",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es un teatro victoriano?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Denominación del teatro producido en Inglaterra durante la época de la Reina Victoria (1837-1901)."
+      },
+      {
+        "id": "b",
+        "text": "Denominación del teatro producido en Inglaterra durante la época de la Reina Victoria (1793-1836)."
+      },
+      {
+        "id": "c",
+        "text": "Denominación del teatro en el Strand en Londres construido para la producción de las óperas cómicas."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 36,
+      "part": "especifico",
+      "page": 6,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-037",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es un telón Wagner?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un telón que es una variante del sistema de apertura a la italiana con dos hojas y con dos grandes festones en su parte superior."
+      },
+      {
+        "id": "b",
+        "text": "Un telón de seguridad en Alemania."
+      },
+      {
+        "id": "c",
+        "text": "Un telón gasa con un entramado tupido utilizado para una transparencia en la que la imagen al frente es más importante que la imagen que se revela por detrás."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 37,
+      "part": "especifico",
+      "page": 6,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-038",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es un bofetón?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Una tela de algodón delgada, abierta y no lavable."
+      },
+      {
+        "id": "b",
+        "text": "Artefacto que simula golpes o ruidos secos en el teatro del Siglo de Oro."
+      },
+      {
+        "id": "c",
+        "text": "Mecanismo giratorio de apertura de puerta."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 38,
+      "part": "especifico",
+      "page": 6,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-039",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Dónde está situada la chácena de un teatro?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Colgada del peine."
+      },
+      {
+        "id": "b",
+        "text": "En la parte posterior del escenario."
+      },
+      {
+        "id": "c",
+        "text": "En el cuarto de drapería."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 39,
+      "part": "especifico",
+      "page": 6,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-040",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Indica en cuál de estos grupos todas sus luminarias llevan lente.",
+    "options": [
+      {
+        "id": "a",
+        "text": "PC, par y fresnel."
+      },
+      {
+        "id": "b",
+        "text": "Elipsoidal, fresnel y pc."
+      },
+      {
+        "id": "c",
+        "text": "Svoboda, par y elipsoidal."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 40,
+      "part": "especifico",
+      "page": 6,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-041",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Diferencia un micrófono dinámico de un micrófono de condensador.",
+    "options": [
+      {
+        "id": "a",
+        "text": "El dinámico es unidireccional y el de condensador es omnidireccional."
+      },
+      {
+        "id": "b",
+        "text": "El dinámico siempre es cardioide y el de condensador siempre es hipercardioide."
+      },
+      {
+        "id": "c",
+        "text": "El dinámico no necesita alimentación eléctrica y el de condensador necesita alimentación eléctrica para funcionar."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 41,
+      "part": "especifico",
+      "page": 6,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-042",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es la utilería de escena?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Elementos decorativos no funcionales añadidos a un decorado."
+      },
+      {
+        "id": "b",
+        "text": "Conjunto de dos patas y una bambalina."
+      },
+      {
+        "id": "c",
+        "text": "Pequeñas ruedas fijas en la parte inferior de la escenografía para facilitar su movimiento."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 42,
+      "part": "especifico",
+      "page": 7,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-043",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es una basquiña?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es una polaina de cuero."
+      },
+      {
+        "id": "b",
+        "text": "Es una saya negra por lo común que usaban las mujeres sobre la ropa interior para salir a la calle."
+      },
+      {
+        "id": "c",
+        "text": "Es un tipo de globo de metal."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 43,
+      "part": "especifico",
+      "page": 7,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-044",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es el mastix?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es un adhesivo de resinas naturales apto para cualquier tipo de piel, que se aplica para la fijación de postizos, además de distintos productos para prótesis faciales y corporales."
+      },
+      {
+        "id": "b",
+        "text": "Es un producto utilizado para la simulación de barbas."
+      },
+      {
+        "id": "c",
+        "text": "Es un producto fabricado con derivados de látex usado para fijar papelería a las escenografías."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 44,
+      "part": "especifico",
+      "page": 7,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-045",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es el director de escenario?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La persona con control total del escenario durante los ensayos y las representaciones."
+      },
+      {
+        "id": "b",
+        "text": "La persona que prepara y dirige al coro."
+      },
+      {
+        "id": "c",
+        "text": "La persona responsable de recibir a los espectadores."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 45,
+      "part": "especifico",
+      "page": 7,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-046",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿En qué tiempo se da la segunda?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A los 30 minutos antes de comenzar la representación."
+      },
+      {
+        "id": "b",
+        "text": "A los 15 minutos antes de comenzar la representación."
+      },
+      {
+        "id": "c",
+        "text": "A los 5 minutos antes de comenzar la representación."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 46,
+      "part": "especifico",
+      "page": 7,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-047",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es un concierto sinfónico?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Que esté formado por un amplio número de músicos que tocan instrumentos pertenecientes a las familias de cuerda, viento y percusión."
+      },
+      {
+        "id": "b",
+        "text": "Composición de forma libre sugerido su desarrollo por una idea poética y armónica."
+      },
+      {
+        "id": "c",
+        "text": "Música surgida en oposición a la música prosaica."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 47,
+      "part": "especifico",
+      "page": 7,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-048",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es un cuadro?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Una división de una obra menor que el acto y que supone un cambio de decorado o de ambientación."
+      },
+      {
+        "id": "b",
+        "text": "Cualquier tipo de escenario desmontable que permite ser trasladado."
+      },
+      {
+        "id": "c",
+        "text": "Cada una de las partes principales en que se divide una obra escénica."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 48,
+      "part": "especifico",
+      "page": 7,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-049",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es un ensayo antepiano?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es el último ensayo sin orquesta y habitualmente el primer ensayo con el vestuario de escena."
+      },
+      {
+        "id": "b",
+        "text": "Es el último ensayo con orquesta y habitualmente el primer ensayo con el vestuario de escena."
+      },
+      {
+        "id": "c",
+        "text": "Es el primer ensayo que dirige el director de orquesta con orquesta más piano."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 49,
+      "part": "especifico",
+      "page": 7,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-050",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿De quién dependen los regidores musicales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Del director técnico."
+      },
+      {
+        "id": "b",
+        "text": "Del director de producción."
+      },
+      {
+        "id": "c",
+        "text": "Del director musical."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 50,
+      "part": "especifico",
+      "page": 7,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-051",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Funciones de un maestro de luces.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Regidor especializado en dar las órdenes de entrada de las memorias de luces y ordenar los movimientos de los cañones de seguimiento."
+      },
+      {
+        "id": "b",
+        "text": "Regidor responsable de apuntar los enfoques en el diseño de luces."
+      },
+      {
+        "id": "c",
+        "text": "Regidor responsable de formar al equipo de iluminación."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 51,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-052",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Quién avisa al director de orquesta de que puede comenzar la música?",
+    "options": [
+      {
+        "id": "a",
+        "text": "El director de escenario."
+      },
+      {
+        "id": "b",
+        "text": "El regidor."
+      },
+      {
+        "id": "c",
+        "text": "El jefe de sala."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 52,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-053",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Qué es un absorbedor de energía?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es un componente o elemento de un sistema anticaídas diseñado para disipar la energía cinética desarrollada durante la caída desde una altura determinada."
+      },
+      {
+        "id": "b",
+        "text": "Es un componente o elemento de un sistema anticaídas diseñado para disipar la energía centrífuga desarrollada durante la caída desde una altura determinada."
+      },
+      {
+        "id": "c",
+        "text": "Es un componente eléctrico de un condensador."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 53,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-054",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Los elevadores de foso deben disponer de finales de carrera?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sí."
+      },
+      {
+        "id": "b",
+        "text": "No."
+      },
+      {
+        "id": "c",
+        "text": "No es necesario si tienen señalización luminosa."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 54,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-055",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Componente básico de un telón cortafuegos.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Panel tipo sándwich de lana de roca de alta densidad y chapas de acero lacado."
+      },
+      {
+        "id": "b",
+        "text": "Panel tipo sándwich de lana de oveja de baja densidad y chapas de acero lacado."
+      },
+      {
+        "id": "c",
+        "text": "Panel tipo sándwich de lana de roca de baja densidad y chapas de acero lacado."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 55,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-056",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Cuándo se activan las medidas preventivas adecuadas para las trabajadoras embarazadas?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Están siempre activas."
+      },
+      {
+        "id": "b",
+        "text": "Cuando la trabajadora lo comunique a la empresa."
+      },
+      {
+        "id": "c",
+        "text": "A partir de la semana 14 de gestación."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 56,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-057",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "División del Plan de Emergencia.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Plan de alarmas, plan de intervención, plan de evacuación."
+      },
+      {
+        "id": "b",
+        "text": "Plan de alarmas, plan de huida, plan de evacuación."
+      },
+      {
+        "id": "c",
+        "text": "Plan de actuación, plan de intervención, plan de evacuación."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 57,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-058",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Un compás de seis por ocho es un compás de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Amalgama"
+      },
+      {
+        "id": "b",
+        "text": "Subdivisión binaria"
+      },
+      {
+        "id": "c",
+        "text": "Subdivisión ternaria"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 58,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-059",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "El jardín de Falerina es una obra de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Félix Lope de Vega"
+      },
+      {
+        "id": "b",
+        "text": "Pedro Calderón de la Barca"
+      },
+      {
+        "id": "c",
+        "text": "Ramón de la Cruz"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 59,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-060",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Cómo se denomina al romance cantado sobre la vida y andanzas de un rufián o un malhechor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auto sacramental"
+      },
+      {
+        "id": "b",
+        "text": "Entremés"
+      },
+      {
+        "id": "c",
+        "text": "Jácara"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 60,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-061",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "La Tonadilla Escénica supuso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La introducción en España del modelo italiano de ópera."
+      },
+      {
+        "id": "b",
+        "text": "El avance hacia formas compositivas contrapuntísticas."
+      },
+      {
+        "id": "c",
+        "text": "La supervivencia de un género lírico esencialmente español."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 61,
+      "part": "especifico",
+      "page": 8,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-062",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Marina, de Emilio Arrieta, se estrenó en 1855 como zarzuela, pero para poder representarse en un determinado teatro de Madrid, en 1871, hubo de modificarse parcialmente para revestir la forma de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ópera."
+      },
+      {
+        "id": "b",
+        "text": "Revista."
+      },
+      {
+        "id": "c",
+        "text": "Sainete."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 62,
+      "part": "especifico",
+      "page": 9,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-063",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "El denominado Género Chico engloba un gran número de obras de muy diversos estilos, formas y temática, cuyo elemento común radica en:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La introducción de los personajes de la Comedia del Arte."
+      },
+      {
+        "id": "b",
+        "text": "La reducción de la duración, y por ello la posibilidad de varios pases diarios con el consiguiente abaratamiento de precios."
+      },
+      {
+        "id": "c",
+        "text": "La reducción de escenario y de aforo."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 63,
+      "part": "especifico",
+      "page": 9,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-064",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Doña Francisquita está considerada uno de los máximos exponentes de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "El Género Chico madrileño."
+      },
+      {
+        "id": "b",
+        "text": "La Restauración de la Zarzuela Grande."
+      },
+      {
+        "id": "c",
+        "text": "La Tonadilla Escénica."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 64,
+      "part": "especifico",
+      "page": 9,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-065",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Vier letzte Lieder (Cuatro últimas canciones) es un ciclo compuesto por:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Franz Schubert"
+      },
+      {
+        "id": "b",
+        "text": "Richard Strauss"
+      },
+      {
+        "id": "c",
+        "text": "Hugo Wolf"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 65,
+      "part": "especifico",
+      "page": 9,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-066",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "¿Cuál de los siguientes ciclos de Lied está compuesto por Robert Schumann?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Winterreise (Viaje de invierno)"
+      },
+      {
+        "id": "b",
+        "text": "Dichterliebe (Amor de poeta)"
+      },
+      {
+        "id": "c",
+        "text": "Los dos anteriores son de Robert Schumann"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 66,
+      "part": "especifico",
+      "page": 9,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-067",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Un verso con ocho sílabas es un:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Verso de arte mayor"
+      },
+      {
+        "id": "b",
+        "text": "Verso de arte menor"
+      },
+      {
+        "id": "c",
+        "text": "Serventesio"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Respuesta oficial de la plantilla publicada: B. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 67,
+      "part": "especifico",
+      "page": 9,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-068",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "El Teatro de la Zarzuela se construyó gracias a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La iniciativa de la Reina Isabel II que lo financió con presupuesto de la Casa Real."
+      },
+      {
+        "id": "b",
+        "text": "La suscripción popular en forma de acciones y participaciones emitidas durante las décadas de 1840 y 1850."
+      },
+      {
+        "id": "c",
+        "text": "La iniciativa de una sociedad, integrada entre otros por algunos de los más destacados compositores españoles de la época."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 68,
+      "part": "especifico",
+      "page": 9,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-069",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "Señale la respuesta en la que solamente aparecen centros de producción, exhibición, documentación y formación artística del Instituto Nacional de las Artes Escénicas y de la Música (INAEM):",
+    "options": [
+      {
+        "id": "a",
+        "text": "Museo Nacional del Teatro, Auditorio Nacional y Teatro de la Zarzuela."
+      },
+      {
+        "id": "b",
+        "text": "Centro Dramático Nacional, Teatro Español y Centro de Tecnología del Espectáculo."
+      },
+      {
+        "id": "c",
+        "text": "Teatro Real, Compañía Nacional de Teatro Clásico y Teatros del Canal."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respuesta oficial de la plantilla publicada: A. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 69,
+      "part": "especifico",
+      "page": 9,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-2021-oficial-070",
+    "topicId": "oficial-2021-especifico",
+    "prompt": "La designación de la persona que ocupará el puesto de Dirección del Teatro de la Zarzuela corresponde a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "El ministro de Cultura y Deporte, teniendo en cuenta el parecer de la Subsecretaría de Cultura y Deporte."
+      },
+      {
+        "id": "b",
+        "text": "El subsecretario de Cultura y Deporte, teniendo en cuenta el parecer de la Dirección General del INAEM."
+      },
+      {
+        "id": "c",
+        "text": "La dirección general del INAEM, teniendo en cuenta el parecer del Consejo Artístico de la Música."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Respuesta oficial de la plantilla publicada: C. Esta pregunta procede del primer ejercicio oficial de 2021; el temario puede no coincidir con el vigente.",
+    "origin": {
+      "type": "official_exam",
+      "label": "Convocatoria oficial M3 2021 · primer ejercicio",
+      "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública (BOE núm. 182, de 31 de julio)",
+      "questionNumber": 70,
+      "part": "especifico",
+      "page": 9,
+      "questionnaire": "data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf",
+      "answerKey": "data/official-exams/m3-2021/plantilla-respuestas.pdf",
+      "historical": true,
+      "syllabusWarning": "Pregunta oficial de una convocatoria anterior; se conserva como material de práctica y comparación."
+    }
+  },
+  {
+    "id": "m3-ce-001",
+    "topicId": "comun-01",
+    "prompt": "¿Qué conjunto recoge los valores superiores del ordenamiento jurídico que proclama el artículo 1.1 de la Constitución?",
+    "options": [
+      { "id": "a", "text": "Libertad, justicia, igualdad y pluralismo político." },
+      { "id": "b", "text": "Seguridad, solidaridad, unidad y descentralización." },
+      { "id": "c", "text": "Dignidad, mérito, capacidad y responsabilidad." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.1 declara que la libertad, la justicia, la igualdad y el pluralismo político son los valores superiores del ordenamiento jurídico.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a1",
+      "reference": "Constitución Española, artículo 1.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-002",
+    "topicId": "comun-01",
+    "prompt": "Según la Constitución, ¿en quién reside la soberanía nacional?",
+    "options": [
+      { "id": "a", "text": "En las Cortes Generales, que la ejercen en nombre del Estado." },
+      { "id": "b", "text": "En el pueblo español, del que emanan los poderes del Estado." },
+      { "id": "c", "text": "En el Rey, como jefe del Estado y símbolo de su unidad." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 1.2 establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a1",
+      "reference": "Constitución Española, artículo 1.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-003",
+    "topicId": "comun-01",
+    "prompt": "¿Cuál es la forma política del Estado español conforme al artículo 1.3 de la Constitución?",
+    "options": [
+      { "id": "a", "text": "República parlamentaria." },
+      { "id": "b", "text": "Monarquía constitucional directa." },
+      { "id": "c", "text": "Monarquía parlamentaria." }
+    ],
+    "correctOptionId": "c",
+    "explanation": "El artículo 1.3 dispone expresamente que la forma política del Estado español es la Monarquía parlamentaria.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a1",
+      "reference": "Constitución Española, artículo 1.3",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-004",
+    "topicId": "comun-02",
+    "prompt": "¿Qué posición constitucional ocupa el Rey?",
+    "options": [
+      { "id": "a", "text": "Es el jefe del Gobierno y dirige la Administración civil." },
+      { "id": "b", "text": "Es el jefe del Estado y símbolo de su unidad y permanencia." },
+      { "id": "c", "text": "Es el presidente de las Cortes y representa al pueblo español." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 56.1 define al Rey como jefe del Estado y símbolo de su unidad y permanencia.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a56",
+      "reference": "Constitución Española, artículo 56.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-005",
+    "topicId": "comun-02",
+    "prompt": "¿Qué límite establece la Constitución al ejercicio del derecho de gracia por el Rey?",
+    "options": [
+      { "id": "a", "text": "No puede conceder indultos generales." },
+      { "id": "b", "text": "No puede conceder indultos individuales." },
+      { "id": "c", "text": "Solo puede ejercerlo con autorización del Tribunal Constitucional." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 62.i permite al Rey ejercer el derecho de gracia con arreglo a la ley, pero excluye los indultos generales.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a62",
+      "reference": "Constitución Española, artículo 62.i",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    },
+    "trapNote": "La prohibición constitucional se refiere a los indultos generales, no a todo indulto individual."
+  },
+  {
+    "id": "m3-ce-006",
+    "topicId": "comun-02",
+    "prompt": "¿Cómo deben resolverse las abdicaciones, renuncias y dudas sobre el orden de sucesión a la Corona?",
+    "options": [
+      { "id": "a", "text": "Mediante una ley ordinaria aprobada por el Gobierno." },
+      { "id": "b", "text": "Mediante una ley orgánica." },
+      { "id": "c", "text": "Mediante un real decreto del Consejo de Ministros." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 57.5 remite a una ley orgánica para resolver esas situaciones relativas al orden de sucesión.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a57",
+      "reference": "Constitución Española, artículo 57.5",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-007",
+    "topicId": "comun-03",
+    "prompt": "¿Por qué órganos están formadas las Cortes Generales?",
+    "options": [
+      { "id": "a", "text": "Por el Congreso de los Diputados y el Senado." },
+      { "id": "b", "text": "Por el Congreso, el Senado y el Tribunal Constitucional." },
+      { "id": "c", "text": "Por el Congreso y las asambleas legislativas autonómicas." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 66.1 establece que las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a66",
+      "reference": "Constitución Española, artículo 66.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-008",
+    "topicId": "comun-03",
+    "prompt": "¿Cuál es el intervalo constitucional del número de Diputados del Congreso?",
+    "options": [
+      { "id": "a", "text": "Entre 250 y 350 Diputados." },
+      { "id": "b", "text": "Entre 300 y 400 Diputados." },
+      { "id": "c", "text": "Entre 350 y 450 Diputados." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 68.1 fija un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a68",
+      "reference": "Constitución Española, artículo 68.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-009",
+    "topicId": "comun-03",
+    "prompt": "¿Qué función constitucional caracteriza al Senado?",
+    "options": [
+      { "id": "a", "text": "Es la Cámara de representación territorial." },
+      { "id": "b", "text": "Es la Cámara que dirige la política exterior." },
+      { "id": "c", "text": "Es la Cámara que elige al Presidente del Gobierno." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 69.1 define al Senado como la Cámara de representación territorial.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a69",
+      "reference": "Constitución Española, artículo 69.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-010",
+    "topicId": "comun-04",
+    "prompt": "¿Qué funciones atribuye el artículo 97 de la Constitución al Gobierno?",
+    "options": [
+      { "id": "a", "text": "Dirigir la política, ejercer la función ejecutiva y la potestad reglamentaria." },
+      { "id": "b", "text": "Aprobar los Presupuestos, juzgar y ejecutar lo juzgado." },
+      { "id": "c", "text": "Representar al pueblo, legislar y controlar al Tribunal Constitucional." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 97 atribuye al Gobierno la dirección de la política interior y exterior, la Administración y la defensa, además de la función ejecutiva y la potestad reglamentaria.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a97",
+      "reference": "Constitución Española, artículo 97",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-011",
+    "topicId": "comun-04",
+    "prompt": "Si ningún candidato obtiene la confianza del Congreso, ¿cuándo se produce la disolución prevista en el artículo 99.5?",
+    "options": [
+      { "id": "a", "text": "Transcurridos dos meses desde la primera votación de investidura." },
+      { "id": "b", "text": "Transcurridos tres meses desde la constitución del Congreso." },
+      { "id": "c", "text": "Transcurridos seis meses desde la propuesta del primer candidato." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 99.5 establece el plazo de dos meses desde la primera votación de investidura; entonces el Rey disuelve ambas Cámaras y convoca elecciones, con el refrendo del Presidente del Congreso.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a99",
+      "reference": "Constitución Española, artículo 99.5",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-012",
+    "topicId": "comun-04",
+    "prompt": "¿Con qué principios actúa la Administración Pública según el artículo 103.1?",
+    "options": [
+      { "id": "a", "text": "Eficacia, jerarquía, descentralización, desconcentración y coordinación." },
+      { "id": "b", "text": "Legalidad, oportunidad, colegialidad, publicidad y territorialidad." },
+      { "id": "c", "text": "Independencia, imparcialidad, autonomía, tutela y especialidad." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 103.1 enumera esos cinco principios y añade que la Administración actúa con sometimiento pleno a la ley y al Derecho.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a103",
+      "reference": "Constitución Española, artículo 103.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-013",
+    "topicId": "comun-05",
+    "prompt": "¿Cuál es la organización territorial del Estado que enumera el artículo 137?",
+    "options": [
+      { "id": "a", "text": "Municipios, provincias y Comunidades Autónomas." },
+      { "id": "b", "text": "Municipios, comarcas, provincias y regiones históricas." },
+      { "id": "c", "text": "Provincias, islas y áreas metropolitanas exclusivamente." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 137 dispone que el Estado se organiza territorialmente en municipios, provincias y Comunidades Autónomas, todas con autonomía para gestionar sus intereses.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a137",
+      "reference": "Constitución Española, artículo 137",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-014",
+    "topicId": "comun-05",
+    "prompt": "¿Qué materia pueden asumir las Comunidades Autónomas conforme al artículo 148.1.17.ª?",
+    "options": [
+      { "id": "a", "text": "La defensa y las Fuerzas Armadas." },
+      { "id": "b", "text": "El fomento de la cultura y de la investigación." },
+      { "id": "c", "text": "La legislación mercantil y penal completa." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 148.1.17.ª incluye el fomento de la cultura, de la investigación y, en su caso, de la enseñanza de la lengua de la Comunidad Autónoma.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a148",
+      "reference": "Constitución Española, artículo 148.1.17.ª",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  },
+  {
+    "id": "m3-ce-015",
+    "topicId": "comun-05",
+    "prompt": "Para aplicar el artículo 155, ¿qué requisito parlamentario se exige si el requerimiento al Presidente autonómico no es atendido?",
+    "options": [
+      { "id": "a", "text": "La mayoría simple del Congreso de los Diputados." },
+      { "id": "b", "text": "La mayoría absoluta del Senado." },
+      { "id": "c", "text": "La unanimidad de las dos Cámaras." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 155.1 exige, además del requerimiento previo, la aprobación por mayoría absoluta del Senado cuando aquel no sea atendido.",
+    "source": {
+      "lawId": "ce-1978",
+      "anchorId": "ce-1978-a155",
+      "reference": "Constitución Española, artículo 155.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    }
+  }
+]

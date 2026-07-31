@@ -1,0 +1,24 @@
+{
+  "id": "m3-oficial-2021",
+  "label": "Convocatoria oficial M3 2021 · Gestión de Industrias Culturales y Creativas",
+  "resolution": "Resolución de 28 de julio de 2021, de la Secretaría de Estado de Función Pública",
+  "publication": "BOE núm. 182, de 31 de julio de 2021",
+  "questionnaire": {
+    "file": "cuestionario-1er-ejercicio.pdf",
+    "sha256": "C85603C62B26A4AC4437C29382FFD170D8531A41F9B146452CADD19C87A83DBA"
+  },
+  "answerKey": {
+    "file": "plantilla-respuestas.pdf",
+    "sha256": "6D58CA49D3B683EEC26C94ECA44BCCA18411C18E8C9B2FD3AA1733AB4D47E5B7"
+  },
+  "practicalCase": {
+    "file": "supuesto-practico-3er-ejercicio.pdf",
+    "sha256": "128FD0A7AFBD2492BF735BA461BDAE4AB99BD5C4694D34A09BE8231D3BDF5711"
+  },
+  "questions": 70,
+  "optionsPerQuestion": 3,
+  "commonQuestions": 35,
+  "specificQuestions": 35,
+  "currentSyllabusWarning": "Es un examen oficial de una convocatoria anterior. Se incorpora como banco histórico de práctica y comparación; no se presenta como temario vigente.",
+  "answerKeyDocument": "Plantilla oficial de respuestas recibida junto al cuestionario."
+}

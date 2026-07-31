@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "lastReviewed": "2026-07-31",
+  "rules": [
+    {
+      "id": "inaem-organizacion-post-2025",
+      "severity": "critical",
+      "topicIds": ["especifico-01"],
+      "title": "Organización vigente desde noviembre de 2025",
+      "summary": "Este tema debe estudiarse con la estructura resultante del Real Decreto 1028/2025. Los materiales anteriores pueden atribuir al INAEM funciones y órganos que ahora corresponden a la Dirección General de Artes Escénicas y Música.",
+      "effectiveFrom": "2025-11-14",
+      "questionPolicy": "Toda pregunta nueva del tema debe declarar esta regla y basarse en el organigrama vigente o en normativa consolidada posterior al 14 de noviembre de 2025.",
+      "officialSources": [
+        {
+          "title": "Real Decreto 1028/2025, de 12 de noviembre",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22948"
+        },
+        {
+          "title": "Órganos rectores y organigrama del INAEM",
+          "url": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html"
+        },
+        {
+          "title": "Dirección General de Artes Escénicas y Música",
+          "url": "https://www.cultura.gob.es/ministerio/organigrama/ministro/secretaria-estado-cultura/dg-artes-escenicas.html"
+        }
+      ]
+    },
+    {
+      "id": "estatuto-artista-transicion-2026-2027",
+      "severity": "important",
+      "topicIds": ["especifico-12", "especifico-45"],
+      "title": "Dos regímenes del Estatuto del Artista",
+      "summary": "El Real Decreto 1435/1985 continúa vigente hasta el 24 de mayo de 2027. El Real Decreto 607/2026 está publicado y lo sustituirá desde el 25 de mayo de 2027; antes de esa fecha se estudiará como reforma futura y material potencial para el caso práctico, no como régimen vigente del test.",
+      "periods": [
+        {
+          "from": null,
+          "to": "2027-05-24",
+          "lawId": "rd-1435-1985",
+          "label": "Régimen vigente para el test antes del 25 de mayo de 2027"
+        },
+        {
+          "from": "2027-05-25",
+          "to": null,
+          "lawId": "rd-607-2026",
+          "label": "Nuevo régimen vigente desde el 25 de mayo de 2027"
+        }
+      ],
+      "questionPolicy": "Las preguntas deben indicar expresamente la fecha o el carácter vigente/futuro. Las preguntas sobre el RD 607/2026 anteriores a su entrada en vigor deben etiquetarse como prospectivas o de caso práctico.",
+      "officialSources": [
+        {
+          "title": "Real Decreto 1435/1985, de 1 de agosto",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-17303"
+        },
+        {
+          "title": "Real Decreto 607/2026, de 22 de julio",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-16173"
+        }
+      ]
+    },
+    {
+      "id": "centros-inaem-estatutos-pre-reforma-2025",
+      "severity": "critical",
+      "topicIds": ["especifico-02", "especifico-03", "especifico-04", "especifico-05"],
+      "prerequisiteTopicIds": ["especifico-01"],
+      "title": "Estatutos anteriores a la reforma de 2025",
+      "summary": "Los estatutos y órdenes de estos centros siguen siendo fuente para sus misiones, órganos internos y modelos de gestión, pero deben leerse bajo la estructura superior vigente desde el 14 de noviembre de 2025. Las referencias incompatibles a órganos suprimidos, adscripciones o competencias trasladadas no deben memorizarse como estructura actual.",
+      "sourceTreatment": {
+        "status": "pre-reform-overlay-required",
+        "studyOrder": "Estudiar primero el tema 1 y después aplicar el Real Decreto 1028/2025 como capa de actualización sobre cada estatuto.",
+        "keep": "Misión del centro, objetivos artísticos, órganos internos y funciones propias que no contradigan la reforma.",
+        "review": "Dependencia orgánica, adscripción, fomento, patrimonio, ayudas, documentación y cualquier referencia a las antiguas Subdirecciones Generales de Teatro o de Música y Danza del INAEM."
+      },
+      "questionPolicy": "Las preguntas literales sobre un estatuto deben indicar la norma de origen. Las preguntas sobre organización vigente deben resolver cualquier contradicción conforme al Real Decreto 1028/2025 y al organigrama actual.",
+      "officialSources": [
+        {
+          "title": "Real Decreto 1028/2025, de 12 de noviembre",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22948"
+        },
+        {
+          "title": "Órganos rectores y organigrama del INAEM",
+          "url": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html"
+        },
+        {
+          "title": "Dirección General de Artes Escénicas y Música",
+          "url": "https://www.cultura.gob.es/ministerio/organigrama/ministro/secretaria-estado-cultura/dg-artes-escenicas.html"
+        }
+      ]
+    }
+  ]
+}

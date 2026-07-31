@@ -1,0 +1,27 @@
+{
+  "specialtyId": "m3-gestion-industrias-culturales-creativas",
+  "source": { "document": "convocatoria-m3-bases-genericas-oep-2023-2024.pdf", "annex": "V", "page": 43 },
+  "access": { "free": { "system": "oposicion" }, "internalPromotion": { "system": "concurso-oposicion" } },
+  "firstExercise": {
+    "type": "multiple-choice",
+    "questions": 100,
+    "reserveQuestions": 6,
+    "optionsPerQuestion": 4,
+    "correctOptions": 1,
+    "commonQuestions": 50,
+    "specificQuestions": 50,
+    "reserveCommonQuestions": 3,
+    "reserveSpecificQuestions": 3,
+    "minutes": 100,
+    "maximumPoints": 40,
+    "minimumPoints": 20,
+    "wrongAnswerPenalty": "one_third_of_correct_answer",
+    "blankPenalty": 0
+  },
+  "secondExercise": {
+    "type": "practical",
+    "scope": "specific-topics",
+    "maximumMinutes": 120,
+    "format": "written_or_public_session_if_required_by_the_specialty"
+  }
+}

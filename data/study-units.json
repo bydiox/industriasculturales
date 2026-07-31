@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "status": "approved",
+  "description": "Distribución fija aprobada para organizar el modo Historia, los simulacros proporcionales y la cobertura editorial.",
+  "totalWeight": 100.05,
+  "historyRules": {
+    "passThreshold": 0.7,
+    "topicQuestionLimit": 5,
+    "unitQuestionLimit": 10,
+    "unlockPolicy": "sequential"
+  },
+  "units": [
+    {
+      "id": "U01",
+      "order": 1,
+      "title": "Constitución y organización del Estado",
+      "weight": 15.96,
+      "description": "Constitución, Corona, Cortes Generales, Gobierno y organización territorial del Estado.",
+      "topicIds": ["comun-01", "comun-02", "comun-03", "comun-04", "comun-05"]
+    },
+    {
+      "id": "U05",
+      "order": 2,
+      "title": "Empleo público y IV Convenio Único",
+      "weight": 11.19,
+      "description": "Régimen del personal público, selección, incompatibilidades y IV Convenio Único.",
+      "topicIds": ["comun-11", "comun-12", "comun-13"]
+    },
+    {
+      "id": "U15",
+      "order": 3,
+      "title": "Espacio escénico y técnica",
+      "weight": 7.88,
+      "description": "Espacio escénico, infraestructuras, escenografía, maquinaria, iluminación, audiovisuales y sastrería.",
+      "topicIds": ["especifico-29", "especifico-30", "especifico-31", "especifico-32", "especifico-33", "especifico-34", "especifico-35"]
+    },
+    {
+      "id": "U03",
+      "order": 4,
+      "title": "Derecho administrativo y procedimiento",
+      "weight": 7.15,
+      "description": "Fuentes, acto y procedimiento administrativo, organización pública y actividad del INAEM.",
+      "topicIds": ["comun-08", "comun-09", "especifico-43"]
+    },
+    {
+      "id": "U02",
+      "order": 5,
+      "title": "Unión Europea",
+      "weight": 6.74,
+      "description": "Construcción europea, tratados y fuentes del Derecho de la Unión Europea.",
+      "topicIds": ["comun-06", "comun-07"]
+    },
+    {
+      "id": "U07",
+      "order": 6,
+      "title": "INAEM y sus centros",
+      "weight": 6.24,
+      "description": "Organización del INAEM y sus centros de creación, exhibición, formación e innovación.",
+      "topicIds": ["especifico-01", "especifico-02", "especifico-03", "especifico-04", "especifico-05"]
+    },
+    {
+      "id": "U06",
+      "order": 7,
+      "title": "Relación laboral y conflicto colectivo",
+      "weight": 6.11,
+      "description": "Contrato de trabajo, representación laboral, huelga y conflictos colectivos.",
+      "topicIds": ["comun-14", "comun-15"]
+    },
+    {
+      "id": "U04",
+      "order": 8,
+      "title": "Contratación pública y Estatuto del Artista",
+      "weight": 5.54,
+      "description": "Contratos del sector público y especialidades laborales y contractuales del sector artístico.",
+      "topicIds": ["comun-10", "especifico-45"]
+    },
+    {
+      "id": "U08",
+      "order": 9,
+      "title": "Historia de las artes",
+      "weight": 4.72,
+      "description": "Historia del teatro, la música, la danza, el circo y las artes visuales.",
+      "topicIds": ["especifico-06", "especifico-07", "especifico-08", "especifico-09", "especifico-10"]
+    },
+    {
+      "id": "U10",
+      "order": 10,
+      "title": "Producción, políticas y economía de la cultura",
+      "weight": 4.21,
+      "description": "Producción ejecutiva, políticas culturales, tercer sector y economía de la cultura.",
+      "topicIds": ["especifico-12", "especifico-13", "especifico-14", "especifico-27"]
+    },
+    {
+      "id": "U18",
+      "order": 11,
+      "title": "Prevención de riesgos laborales",
+      "weight": 4.19,
+      "description": "Seguridad escénica, prevención, carga mental, estrés laboral y riesgos psicosociales.",
+      "topicIds": ["especifico-41", "especifico-42"]
+    },
+    {
+      "id": "U13",
+      "order": 12,
+      "title": "Públicos, comunicación y programación",
+      "weight": 3.7,
+      "description": "Mercadotecnia cultural, audiencias, comunicación, mediación y programación artística.",
+      "topicIds": ["especifico-21", "especifico-22", "especifico-23", "especifico-24", "especifico-25"]
+    },
+    {
+      "id": "U12",
+      "order": 13,
+      "title": "Planificación estratégica y estadística",
+      "weight": 3.44,
+      "description": "Diseño, ejecución y evaluación de planes estratégicos e indicadores culturales.",
+      "topicIds": ["especifico-18", "especifico-19", "especifico-20"]
+    },
+    {
+      "id": "U14",
+      "order": 14,
+      "title": "Financiación, mecenazgo y propiedad intelectual",
+      "weight": 3.06,
+      "description": "Financiación cultural, patrocinio, mecenazgo, derechos de autor e inteligencia artificial.",
+      "topicIds": ["especifico-26", "especifico-28"]
+    },
+    {
+      "id": "U16",
+      "order": 15,
+      "title": "Dirección de escenario",
+      "weight": 2.8,
+      "description": "Regiduría en distintos espectáculos, giras, coordinación y trabajo en equipo.",
+      "topicIds": ["especifico-36", "especifico-37", "especifico-38"]
+    },
+    {
+      "id": "U11",
+      "order": 16,
+      "title": "Derechos culturales, género y accesibilidad",
+      "weight": 2.54,
+      "description": "Derechos culturales, inclusión, sostenibilidad, perspectiva de género y accesibilidad universal.",
+      "topicIds": ["especifico-15", "especifico-16", "especifico-17"]
+    },
+    {
+      "id": "U09",
+      "order": 17,
+      "title": "Patrimonio y museos",
+      "weight": 1.65,
+      "description": "Protección del patrimonio, patrimonio inmaterial, memoria de las artes y museos estatales.",
+      "topicIds": ["especifico-11"]
+    },
+    {
+      "id": "U19",
+      "order": 18,
+      "title": "Gestión económica y convenios",
+      "weight": 1.53,
+      "description": "Régimen presupuestario, estructura económica del INAEM y convenios del sector público.",
+      "topicIds": ["especifico-44"]
+    },
+    {
+      "id": "U17",
+      "order": 19,
+      "title": "Tecnología aplicada",
+      "weight": 1.4,
+      "description": "Ofimática, software de gestión y escena y nuevas tecnologías aplicadas a la cultura.",
+      "topicIds": ["especifico-39", "especifico-40"]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101318">
+  <title>M3 · Gestión de Industrias Culturales y Creativas</title>
+  <link rel="stylesheet" href="styles/app.css">
+</head>
+<body>
+  <main class="app">
+    <header class="app-header">
+      <h1>M3</h1>
+      <div class="header-tools">
+        <span id="progress">Cargando progreso…</span>
+        <button id="open-guide" class="guide-button" type="button" aria-haspopup="dialog" aria-controls="orientation-guide">
+          <span class="guide-icon" aria-hidden="true">i</span>
+          <span>Explicación</span>
+        </button>
+      </div>
+    </header>
+    <section data-screen="home">
+      <h2>Tu espacio de preparación</h2>
+      <p>Una base personal para preparar la oposición de Gestión de Industrias Culturales y Creativas.</p>
+      <div class="actions"><button class="primary" id="start-free">Práctica libre</button><label class="exam-choice" for="exam-type">Examen <select id="exam-type"><option value="aleatorio" selected>Aleatorio</option><option value="historico">Histórico oficial 2021</option></select></label><button class="secondary" id="start-exam">Empezar examen</button><button class="secondary" id="reset-progress">Borrar progreso</button></div>
+      <p id="home-notice" class="home-notice" role="status" hidden></p>
+      <section class="story">
+        <div class="story-heading">
+          <div>
+            <h2>Modo Historia</h2>
+            <p>19 unidades ordenadas según la distribución aprobada. Supera los temas y el cuestionario final para desbloquear la siguiente unidad.</p>
+          </div>
+          <strong id="story-progress-summary"></strong>
+        </div>
+        <div id="unit-list" class="unit-list"></div>
+      </section>
+      <section class="official-material"><h2>Material oficial anterior</h2><p>Estas preguntas y documentos proceden de la convocatoria M3 de 2021. Se conservan para practicar y comparar; el temario puede haber cambiado.</p><ul><li><a href="data/official-exams/m3-2021/cuestionario-1er-ejercicio.pdf" target="_blank" rel="noreferrer">Cuestionario oficial · primer ejercicio</a></li><li><a href="data/official-exams/m3-2021/plantilla-respuestas.pdf" target="_blank" rel="noreferrer">Plantilla oficial de respuestas</a></li><li><a href="data/official-exams/m3-2021/supuesto-practico-3er-ejercicio.pdf" target="_blank" rel="noreferrer">Supuesto práctico oficial</a></li></ul></section>
+    </section>
+    <section data-screen="quiz" hidden>
+      <div class="quiz-card"><div class="quiz-meta"><span id="mode-label"></span><span id="question-count"></span></div><div id="question-origin" class="question-origin" hidden></div><h2 id="question-text"></h2><div id="options" class="options"></div><div id="feedback" class="feedback" hidden></div><div class="actions"><button id="next" class="primary" hidden>Siguiente</button><button id="back-home-quiz" class="secondary">Salir</button></div></div>
+    </section>
+    <section data-screen="result" hidden><div class="result-card"><h2 id="result-title"></h2><p id="result-summary"></p><p id="result-detail"></p><button id="back-home-result" class="primary">Volver al inicio</button></div></section>
+    <section data-screen="error" hidden><h2>No se pudo iniciar</h2><p id="load-error"></p></section>
+  </main>
+  <dialog id="orientation-guide" class="guide-dialog" aria-labelledby="guide-title">
+    <div class="guide-dialog-heading">
+      <div><span class="guide-kicker">Orientación</span><h2 id="guide-title"></h2><p id="guide-subtitle"></p></div>
+      <button id="close-guide" class="guide-close" type="button" aria-label="Cerrar explicación">×</button>
+    </div>
+    <div id="guide-content" class="guide-content"></div>
+  </dialog>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

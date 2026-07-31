@@ -1,0 +1,10 @@
+{
+  "norma-demo.html": {
+    "lawId": "norma-demo",
+    "title": "Norma demostrativa de SKELETON",
+    "sourceUrl": "https://example.org/norma-demo",
+    "retrievedAt": "2026-01-01",
+    "status": "demo-only",
+    "notes": "Sustituir por una fuente oficial antes de generar preguntas reales."
+  }
+}

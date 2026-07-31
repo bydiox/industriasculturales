@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "laws": [
+    {
+      "lawId": "norma-demo",
+      "slug": "norma-demo",
+      "title": "Norma demostrativa de SKELETON",
+      "legalReference": "Norma de ejemplo, de 1 de enero",
+      "officialUrl": "https://example.org/norma-demo",
+      "versionDate": "2026-01-01",
+      "file": "norma-demo.html",
+      "sourceType": "demo"
+    },
+    {
+      "lawId": "ce-1978",
+      "slug": "ce-1978",
+      "title": "Constitución Española de 1978",
+      "legalReference": "Constitución Española.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "versionDate": "20260520",
+      "file": "ce-1978.html",
+      "sourceType": "boe-consolidado"
+    }
+  ]
+}
