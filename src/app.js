@@ -340,6 +340,50 @@ let activeLawId = null;
 let activeLawAnchorId = null;
 let lawReturnToStory = false;
 let lawReferencePreviousFocus = null;
+let studyTocCleanup = null;
+
+function renderHomeMenu() {
+  $('#home-menu').innerHTML = `
+    <button class="home-menu-card menu-guide" type="button" data-home-action="guide"><span class="home-menu-icon">G</span><span class="home-menu-label">Gu&#237;a</span><small>La ruta de estudio preparada para Mar&#237;a.</small></button>
+    <button class="home-menu-card menu-story" type="button" data-home-action="story"><span class="home-menu-icon">H</span><span class="home-menu-label">Modo historia</span><small>Avanza por unidades y desbloquea cada cuestionario.</small></button>
+    <button class="home-menu-card menu-free is-primary" id="start-free" type="button"><span class="home-menu-icon">P</span><span class="home-menu-label">Pr&#225;ctica libre</span><small>Preguntas del banco completo, sin orden obligatorio.</small></button>
+    <button class="home-menu-card menu-exam" id="start-exam" type="button"><span class="home-menu-icon">E</span><span class="home-menu-label">Modo examen</span><small>Simulacro proporcional con la configuraci&#243;n elegida.</small></button>
+    <button class="home-menu-card menu-review" type="button" data-home-action="review"><span class="home-menu-icon">R</span><span class="home-menu-label">Repaso</span><small>Fallos, blancos y preguntas marcadas como dudosas.</small></button>
+    <button class="home-menu-card menu-practical" type="button" data-home-action="practico"><span class="home-menu-icon">◆</span><span class="home-menu-label">Supuesto pr&#225;ctico</span><small>Qu&#233; es, hist&#243;rico y supuestos para entrenar.</small></button>
+    <button class="home-menu-card menu-laws" type="button" data-home-action="laws"><span class="home-menu-icon">L</span><span class="home-menu-label">Leyes</span><small>Normas completas, anclas y fuentes oficiales.</small></button>
+    <button class="home-menu-card menu-official" type="button" data-home-action="official"><span class="home-menu-icon">M</span><span class="home-menu-label">Material oficial</span><small>Ex&#225;menes anteriores y documentos de referencia.</small></button>`;
+}
+
+function renderPracticalPanel() {
+  $('#home-practical').innerHTML = `
+    <div class="panel-back-row"><button class="secondary" type="button" data-practical-back>&#8592; Inicio</button></div>
+    <h2>Supuesto pr&#225;ctico</h2>
+    <p>Empieza por uno de estos tres caminos. Cada tarjeta abre el apartado correspondiente del dossier.</p>
+    <div class="practical-menu" aria-label="Apartados del supuesto pr&#225;ctico">
+      <button class="practical-menu-card practical-menu-0" type="button" data-practical-anchor="study-0-que-es-esta-prueba-y-como-se-puntua"><span class="practical-menu-icon">0</span><strong>Qu&#233; es</strong><small>Prueba, tiempo, puntuaci&#243;n y criterios.</small></button>
+      <button class="practical-menu-card practical-menu-1" type="button" data-practical-anchor="study-1-supuesto-historico-el-practico-real-de-mayo-de-2022"><span class="practical-menu-icon">1</span><strong>Hist&#243;rico</strong><small>El supuesto real de La Gatita en 2022.</small></button>
+      <button class="practical-menu-card practical-menu-2" type="button" data-practical-anchor="study-2-que-cambia-con-el-temario-2023-24"><span class="practical-menu-icon">2</span><strong>Supuesto actual</strong><small>Qu&#233; puede cambiar con el temario vigente.</small></button>
+    </div>
+    <h3 class="practical-subtitle">Supuestos para entrenar</h3>
+    <div class="practical-subcases" aria-label="Supuestos pr&#225;cticos de entrenamiento">
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-3-supuesto-probable-1-incidente-en-funcion-probabilidad-alta"><span class="practical-subcase-icon">1</span><strong>Incidente en funci&#243;n</strong><small>Parada, asistencia, emergencia y evacuaci&#243;n.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-4-supuesto-probable-2-montaje-o-gira-con-la-seguridad-integrada-probabilidad-media-alta"><span class="practical-subcase-icon">2</span><strong>Montaje o gira</strong><small>Coordinaci&#243;n de empresas y prevenci&#243;n.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-5-supuesto-probable-3-gestion-pura-probabilidad-media-baja-pero-preparable-y-rentable"><span class="practical-subcase-icon">3</span><strong>Gesti&#243;n cultural</strong><small>Programaci&#243;n, p&#250;blicos, presupuesto e indicadores.</small></button>
+    </div>
+    <h3 class="practical-subtitle">Material visual</h3>
+    <p>Planos y esquemas para reconocer el espacio esc&#233;nico y leer un supuesto.</p>
+    <div class="practical-grid">
+      <figure><img src="assets/practico/esquema_teatro_italiana.svg" alt="Esquema de un teatro a la italiana con vocabulario t&#233;cnico" loading="lazy"><figcaption>Esquema did&#225;ctico &#183; teatro a la italiana</figcaption></figure>
+      <figure><img src="assets/practico/esquema_configuracion_invertida.svg" alt="Esquema de configuraci&#243;n invertida con evacuaci&#243;n y tel&#243;n cortafuegos" loading="lazy"><figcaption>Esquema did&#225;ctico &#183; configuraci&#243;n invertida</figcaption></figure>
+      <figure><img src="assets/practico/plano_zarzuela_normal_2022.png" alt="Plano del Teatro de la Zarzuela en configuraci&#243;n normal" loading="lazy"><figcaption>Plano real &#183; configuraci&#243;n normal</figcaption></figure>
+      <figure><img src="assets/practico/plano_zarzuela_la_gatita_2022.png" alt="Plano del Teatro de la Zarzuela durante La Gatita" loading="lazy"><figcaption>Plano real &#183; configuraci&#243;n de La Gatita</figcaption></figure>
+    </div>
+    <p class="practical-note">Los planos reales se conservan para uso personal y como ejercicio de lectura del supuesto pr&#225;ctico. Los esquemas did&#225;cticos son material original.</p>`;
+  $('#home-practical').querySelector('[data-practical-back]').addEventListener('click', returnHome);
+  $('#home-practical').querySelectorAll('[data-practical-anchor]').forEach(button => {
+    button.addEventListener('click', () => openStudyDocument('practico', button.dataset.practicalAnchor));
+  });
+}
 
 function inlineMarkdown(value) {
   return escapeHtml(value)
@@ -429,7 +473,7 @@ function openStudyCategory(categoryId) {
   window.scrollTo(0, 0);
 }
 
-async function openStudyDocument(documentId) {
+async function openStudyDocument(documentId, focusId = null) {
   const document = studyDocuments.find(item => item.id === documentId);
   if (!document) return;
   activeStudyCategory = documentCategory(document.id);
@@ -459,8 +503,23 @@ async function openStudyDocument(documentId) {
       .filter(item => item.level <= 3)
       .map(item => `<a class="study-toc-link level-${item.level}" href="#${item.id}">${escapeHtml(item.text)}</a>`)
       .join('');
+    if (studyTocCleanup) studyTocCleanup();
+    const tocItems = rendered.toc.filter(item => item.level <= 3);
+    const updateToc = () => {
+      const current = tocItems
+        .map(item => ({ item, node: document.getElementById(item.id) }))
+        .filter(entry => entry.node && entry.node.getBoundingClientRect().top <= 150)
+        .pop()?.item;
+      $('#study-toc-list').querySelectorAll('.study-toc-link').forEach(link => {
+        link.classList.toggle('is-active', link.getAttribute('href') === `#${current?.id || ''}`);
+      });
+    };
+    window.addEventListener('scroll', updateToc, { passive: true });
+    studyTocCleanup = () => window.removeEventListener('scroll', updateToc);
     $('#study-page-content').scrollTop = 0;
     window.scrollTo(0, 0);
+    if (focusId) window.requestAnimationFrame(() => document.getElementById(focusId)?.scrollIntoView({ block: 'start' }));
+    updateToc();
   } catch (error) {
     $('#study-page-content').innerHTML = `<p>No se pudo cargar este documento: ${escapeHtml(error.message)}</p>`;
   }
@@ -485,9 +544,32 @@ function openLawCatalog() {
   window.scrollTo(0, 0);
 }
 
+function lawNavigationItems() {
+  return Object.values(state.content.lawsById || {})
+    .filter(law => law.lawId !== 'norma-demo')
+    .sort((a, b) => String(a.title).localeCompare(String(b.title), 'es'));
+}
+
+function ensureLawNavigation() {
+  const nav = $('#law-document-view .study-reader-toolbar .study-reader-nav');
+  if (!nav || $('#law-prev')) return;
+  nav.insertAdjacentHTML('beforeend', '<button id="law-prev" class="secondary" type="button" aria-label="Norma anterior" title="Norma anterior">←</button><button id="law-next" class="secondary" type="button" aria-label="Norma siguiente" title="Norma siguiente">→</button>');
+  $('#law-prev').addEventListener('click', () => openLawDocument($('#law-prev').dataset.lawNavigate, null, lawReturnToStory));
+  $('#law-next').addEventListener('click', () => openLawDocument($('#law-next').dataset.lawNavigate, null, lawReturnToStory));
+}
+
 async function openLawDocument(lawId, anchorId = null, fromStory = false) {
   const law = state.content.lawsById?.[lawId];
   if (!law) return;
+  ensureLawNavigation();
+  const laws = lawNavigationItems();
+  const lawIndex = laws.findIndex(item => item.lawId === lawId);
+  const previousLaw = laws[lawIndex - 1];
+  const nextLaw = laws[lawIndex + 1];
+  $('#law-prev').disabled = !previousLaw;
+  $('#law-next').disabled = !nextLaw;
+  $('#law-prev').dataset.lawNavigate = previousLaw?.lawId || '';
+  $('#law-next').dataset.lawNavigate = nextLaw?.lawId || '';
   activeLawId = lawId;
   activeLawAnchorId = anchorId;
   lawReturnToStory = fromStory;
@@ -940,6 +1022,10 @@ function renderProgress() {
   renderResumeControl();
 }
 
+renderHomeMenu();
+renderPracticalPanel();
+document.querySelector('.app-header h1').textContent = 'M3 - Industrias culturales';
+
 $('#start-free').addEventListener('click', () => start('libre'));
 $('#start-exam').addEventListener('click', () => start('examen', null, $('#exam-type').value));
 $('#auth-form').addEventListener('submit', async event => {
@@ -1047,8 +1133,10 @@ $('#law-back-catalog').addEventListener('click', () => {
 $('#back-home-law').addEventListener('click', returnHome);
 document.querySelectorAll('[data-home-action]').forEach(button => button.addEventListener('click', () => {
   const action = button.dataset.homeAction;
-  if (action === 'readme') openStudyDocument('readme');
-  else if (action === 'practico') openStudyCategory('practico');
+  if (action === 'guide') openGuide();
+  else if (action === 'readme') openStudyDocument('readme');
+  else if (action === 'practico') openHomePanel('home-practical');
+  else if (action === 'back') returnHome();
   else if (action === 'story') openHomePanel('home-story');
   else if (action === 'review') start('repaso');
   else if (action === 'laws') { renderLawCatalog(); openLawCatalog(); }
@@ -1060,7 +1148,7 @@ Promise.all([loadContent(), initAuth()])
     state.content = content;
     const appVersion = content.syllabus.app?.version || '0.0.0';
     $('#app-version').textContent = `v${appVersion}`;
-    document.title = `${content.syllabus.app?.name || 'M3'} · v${appVersion}`;
+    document.title = `M3 - Industrias culturales · v${appVersion}`;
     renderGuide();
     renderStudyLibrary();
     renderLawCatalog();
