@@ -4829,5 +4829,285 @@
       "reference": "Real Decreto 1028/2025, artículo 3.c del Real Decreto 2491/1996",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
     }
+  },
+  {
+    "id": "m3-centro-001",
+    "topicId": "especifico-02",
+    "prompt": "¿Cuál es una finalidad estatutaria del Centro Dramático Nacional?",
+    "options": [
+      { "id": "a", "text": "Promover y difundir el teatro español contemporáneo." },
+      { "id": "b", "text": "Conservar exclusivamente el teatro español anterior al siglo XX." },
+      { "id": "c", "text": "Gestionar los circuitos estatales de música y danza." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1 del Estatuto del CDN incluye la promoción, revisión y difusión del teatro español contemporáneo, la divulgación del repertorio dramático universal y el desarrollo de lenguajes escénicos actuales.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-2039-2011-cdn", "anchorId": "orden-cul-2039-2011-cdn-a1", "reference": "Orden CUL/2039/2011, artículo 1", "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con" }
+  },
+  {
+    "id": "m3-centro-002",
+    "topicId": "especifico-02",
+    "prompt": "¿Dónde tiene su sede permanente el Centro Dramático Nacional según su Estatuto?",
+    "options": [
+      { "id": "a", "text": "En el Teatro María Guerrero, en Madrid." },
+      { "id": "b", "text": "En el Teatro de la Comedia, en Madrid." },
+      { "id": "c", "text": "En el Teatro de La Zarzuela, en Madrid." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.3 del Estatuto del CDN fija su sede permanente en el Teatro María Guerrero y su ámbito natural de actuación en el conjunto del Estado español.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-2039-2011-cdn", "anchorId": "orden-cul-2039-2011-cdn-a1", "reference": "Orden CUL/2039/2011, artículo 1.3", "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con" }
+  },
+  {
+    "id": "m3-centro-003",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué instrumento fija los objetivos artísticos y el calendario global del CDN?",
+    "options": [
+      { "id": "a", "text": "El Plan Director y los planes anuales de actuación." },
+      { "id": "b", "text": "Solo la memoria anual de actividades." },
+      { "id": "c", "text": "El presupuesto general del Ministerio de Cultura." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 10 establece que el proyecto global del CDN se articula mediante el Plan Director y los planes anuales de actuación.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-2039-2011-cdn", "anchorId": "orden-cul-2039-2011-cdn-a10", "reference": "Orden CUL/2039/2011, artículo 10", "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con" }
+  },
+  {
+    "id": "m3-centro-004",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué dos componentes integran el Plan Director del CDN?",
+    "options": [
+      { "id": "a", "text": "El proyecto artístico y su marco financiero." },
+      { "id": "b", "text": "La memoria anual y el organigrama de personal." },
+      { "id": "c", "text": "El calendario de giras y el plan de contratación." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 11.1 identifica como componentes del Plan Director el proyecto artístico y el marco financiero, además de las particularidades del compromiso de la Dirección.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-2039-2011-cdn", "anchorId": "orden-cul-2039-2011-cdn-a11", "reference": "Orden CUL/2039/2011, artículo 11.1", "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con" }
+  },
+  {
+    "id": "m3-centro-005",
+    "topicId": "especifico-02",
+    "prompt": "¿Quién elabora el Plan Director del CDN?",
+    "options": [
+      { "id": "a", "text": "El INAEM, desde la propuesta artística de la Dirección." },
+      { "id": "b", "text": "El Consejo Artístico, de forma autónoma." },
+      { "id": "c", "text": "La Dirección del CDN, sin intervención del INAEM." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 12.1 atribuye al INAEM la elaboración del Plan Director con base en la propuesta artística de la persona seleccionada para la Dirección del CDN.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-2039-2011-cdn", "anchorId": "orden-cul-2039-2011-cdn-a12", "reference": "Orden CUL/2039/2011, artículo 12.1", "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con" }
+  },
+  {
+    "id": "m3-centro-006",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué función tiene el Consejo Artístico del Teatro respecto del Plan Director del CDN?",
+    "options": [
+      { "id": "a", "text": "Debatir y emitir opinión fundada sobre el proyecto artístico." },
+      { "id": "b", "text": "Aprobar definitivamente el marco financiero del plan." },
+      { "id": "c", "text": "Elaborar el plan anual de actuación del centro." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 12.2 atribuye al Consejo Artístico del Teatro el debate y la emisión de opinión fundada sobre las propuestas del proyecto artístico contenidas en el Plan Director.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-2039-2011-cdn", "anchorId": "orden-cul-2039-2011-cdn-a12", "reference": "Orden CUL/2039/2011, artículo 12.2", "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con" }
+  },
+  {
+    "id": "m3-centro-007",
+    "topicId": "especifico-02",
+    "prompt": "¿Quién aprueba el Plan Director del CDN según su Estatuto?",
+    "options": [
+      { "id": "a", "text": "La Dirección General del INAEM." },
+      { "id": "b", "text": "El Consejo Artístico del Teatro." },
+      { "id": "c", "text": "La persona titular de la Dirección del CDN." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 12.3 reserva la aprobación del Plan Director a la Dirección General del INAEM, mientras el Consejo Artístico emite opinión fundada.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-2039-2011-cdn", "anchorId": "orden-cul-2039-2011-cdn-a12", "reference": "Orden CUL/2039/2011, artículo 12.3", "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con" }
+  },
+  {
+    "id": "m3-centro-008",
+    "topicId": "especifico-02",
+    "prompt": "¿Cuánto dura inicialmente el contrato de la Dirección del CDN?",
+    "options": [
+      { "id": "a", "text": "Cinco años, con una prórroga máxima de tres años." },
+      { "id": "b", "text": "Tres años, con una prórroga máxima de cinco años." },
+      { "id": "c", "text": "Cuatro años, sin posibilidad de prórroga." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 9.1 fija una duración de cinco años y permite una nueva prórroga por un periodo máximo de tres años.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-2039-2011-cdn", "anchorId": "orden-cul-2039-2011-cdn-a9", "reference": "Orden CUL/2039/2011, artículo 9.1", "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con" }
+  },
+  {
+    "id": "m3-centro-009",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué debe contener el plan anual de actuación del CDN?",
+    "options": [
+      { "id": "a", "text": "Los objetivos artísticos anuales y el programa de actuación." },
+      { "id": "b", "text": "Solo el marco financiero plurianual del Plan Director." },
+      { "id": "c", "text": "La relación completa de puestos de trabajo del INAEM." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 13.1 exige que el plan anual incorpore los objetivos artísticos anuales y el programa de actuación, asegurando la ejecución del proyecto artístico vigente.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-2039-2011-cdn", "anchorId": "orden-cul-2039-2011-cdn-a13", "reference": "Orden CUL/2039/2011, artículo 13.1", "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con" }
+  },
+  {
+    "id": "m3-centro-010",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué misión distingue a la Compañía Nacional de Teatro Clásico?",
+    "options": [
+      { "id": "a", "text": "Recuperar y difundir el patrimonio teatral español anterior al siglo XX." },
+      { "id": "b", "text": "Promover únicamente la creación dramática contemporánea." },
+      { "id": "c", "text": "Gestionar la producción lírica y coreográfica del INAEM." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1 del Estatuto de la CNTC fija como misión recuperar, conservar, revisar y difundir el patrimonio teatral español anterior al siglo XX, con especial atención al Siglo de Oro.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a1", "reference": "Orden CUL/3355/2010, artículo 1.1", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-011",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué sede permanente establece el Estatuto de la CNTC?",
+    "options": [
+      { "id": "a", "text": "El Teatro de la Comedia, en Madrid." },
+      { "id": "b", "text": "El Teatro María Guerrero, en Madrid." },
+      { "id": "c", "text": "El Teatro de La Zarzuela, en Madrid." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.3 del Estatuto de la CNTC fija su sede permanente en el Teatro de la Comedia y su ámbito natural de actuación en todo el Estado español.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a1", "reference": "Orden CUL/3355/2010, artículo 1.3", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-012",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué elemento formativo destaca expresamente el Estatuto de la CNTC?",
+    "options": [
+      { "id": "a", "text": "La formación especializada en la representación de los clásicos y la prosodia del verso." },
+      { "id": "b", "text": "La capacitación técnica en maquinaria, iluminación y sonido escénico." },
+      { "id": "c", "text": "La formación administrativa en contratación y presupuestos públicos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.2 vincula los fines de la CNTC a la formación especializada en la representación de los clásicos y destaca la prosodia del verso clásico.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a1", "reference": "Orden CUL/3355/2010, artículo 1.2", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-013",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué repertorio ocupa el eje fundamental de la programación de la CNTC?",
+    "options": [
+      { "id": "a", "text": "El teatro barroco español, dentro del patrimonio teatral clásico." },
+      { "id": "b", "text": "La dramaturgia contemporánea de todas las lenguas oficiales." },
+      { "id": "c", "text": "La ópera y la zarzuela del repertorio lírico español." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.2 señala que la CNTC, como compañía de repertorio, toma como eje fundamental el teatro barroco español, sin excluir el repertorio clásico universal ocasional.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a1", "reference": "Orden CUL/3355/2010, artículo 1.2", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-014",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué instrumento permite a la CNTC planificar su proyecto global?",
+    "options": [
+      { "id": "a", "text": "El Plan Director y los planes anuales de actuación." },
+      { "id": "b", "text": "El catálogo anual de compañías invitadas." },
+      { "id": "c", "text": "La memoria económica del ejercicio anterior." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 10 del Estatuto de la CNTC establece el Plan Director y los planes anuales como instrumentos de planificación del proyecto global.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a10", "reference": "Orden CUL/3355/2010, artículo 10", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-015",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué órgano aprueba el Plan Director de la CNTC según el Estatuto de 2010?",
+    "options": [
+      { "id": "a", "text": "La Dirección General del INAEM." },
+      { "id": "b", "text": "El Consejo Artístico del Teatro." },
+      { "id": "c", "text": "La persona titular de la Dirección de la CNTC." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 12.3 atribuye la aprobación del Plan Director a la Dirección General del INAEM; el Consejo Artístico del Teatro emite opinión fundada sobre el proyecto.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a12", "reference": "Orden CUL/3355/2010, artículo 12.3", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-016",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué papel desempeña el Consejo Artístico del Teatro en la CNTC?",
+    "options": [
+      { "id": "a", "text": "Participa en la selección de la Dirección y evalúa la actividad artística." },
+      { "id": "b", "text": "Aprueba los presupuestos y dirige la producción de espectáculos." },
+      { "id": "c", "text": "Sustituye a la Dirección en la gestión diaria de la compañía." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El preámbulo del Estatuto vincula al Consejo Artístico del Teatro con la selección de la persona titular de la Dirección y con la evaluación y seguimiento de la actividad artística, conforme al Real Decreto 497/2010.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a5", "reference": "Orden CUL/3355/2010, preámbulo y artículo 5", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-017",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué objetivo de públicos aparece en el Estatuto de la CNTC?",
+    "options": [
+      { "id": "a", "text": "Impulsar iniciativas didácticas y campañas de captación de nuevos públicos." },
+      { "id": "b", "text": "Limitar la programación a profesionales especializados del teatro clásico." },
+      { "id": "c", "text": "Reservar las giras a instituciones culturales extranjeras." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Entre los objetivos estratégicos del Estatuto figura impulsar iniciativas didácticas, facilitar el entendimiento de la programación y desarrollar campañas de captación y sensibilización de nuevos públicos.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a4", "reference": "Orden CUL/3355/2010, artículo 4", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-018",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué duración inicial tiene el contrato de la Dirección de la CNTC?",
+    "options": [
+      { "id": "a", "text": "Cinco años, prorrogable por un máximo de tres años." },
+      { "id": "b", "text": "Tres años, prorrogable por un máximo de cinco años." },
+      { "id": "c", "text": "Seis años, sin prórroga ordinaria." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 9.1 establece un contrato de cinco años, prorrogable por un nuevo periodo máximo de tres años.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a9", "reference": "Orden CUL/3355/2010, artículo 9.1", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-019",
+    "topicId": "especifico-02",
+    "prompt": "¿Qué combina el modelo artístico de la CNTC con su misión patrimonial?",
+    "options": [
+      { "id": "a", "text": "Repertorio clásico, investigación y reinterpretación de la tradición teatral." },
+      { "id": "b", "text": "Solo reproducciones históricas sin reinterpretación escénica." },
+      { "id": "c", "text": "Producción contemporánea sin atención al patrimonio teatral." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.2 fundamenta la misión de la CNTC en investigación, estudio y reinterpretación de la tradición teatral, junto con la formación especializada y la difusión del repertorio.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a1", "reference": "Orden CUL/3355/2010, artículo 1.2", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-020",
+    "topicId": "especifico-02",
+    "prompt": "¿Con qué criterio debe ajustarse el marco financiero del Plan Director de la CNTC?",
+    "options": [
+      { "id": "a", "text": "Con las disponibilidades presupuestarias existentes en cada momento." },
+      { "id": "b", "text": "Con una cuantía fija independiente del presupuesto anual." },
+      { "id": "c", "text": "Con los ingresos de taquilla, sin considerar créditos públicos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 11.3 exige que el marco financiero, que estima los recursos necesarios para el proyecto artístico, se adecúe a las disponibilidades presupuestarias existentes.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a11", "reference": "Orden CUL/3355/2010, artículo 11.3", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
   }
 ]

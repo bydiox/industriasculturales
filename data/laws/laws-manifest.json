@@ -150,6 +150,26 @@
       "versionDate": "20251114",
       "file": "rd-1028-2025.html",
       "sourceType": "boe-oficial"
+    },
+    {
+      "lawId": "orden-cul-2039-2011-cdn",
+      "slug": "orden-cul-2039-2011-cdn",
+      "title": "Orden CUL/2039/2011, de 13 de julio, Estatuto del Centro Dramático Nacional",
+      "legalReference": "Orden CUL/2039/2011, de 13 de julio, por la que se aprueba el Estatuto del Centro Dramático Nacional.",
+      "officialUrl": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con",
+      "versionDate": "20110721",
+      "file": "orden-cul-2039-2011-cdn.html",
+      "sourceType": "boe-consolidado-pre-reforma"
+    },
+    {
+      "lawId": "orden-cul-3355-2010-cntc",
+      "slug": "orden-cul-3355-2010-cntc",
+      "title": "Orden CUL/3355/2010, de 21 de diciembre, Estatuto de la Compañía Nacional de Teatro Clásico",
+      "legalReference": "Orden CUL/3355/2010, de 21 de diciembre, por la que se aprueba el Estatuto de la Compañía Nacional de Teatro Clásico.",
+      "officialUrl": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con",
+      "versionDate": "20101230",
+      "file": "orden-cul-3355-2010-cntc.html",
+      "sourceType": "boe-consolidado-pre-reforma"
     }
   ]
 }
