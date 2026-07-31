@@ -170,6 +170,46 @@
       "versionDate": "20101230",
       "file": "orden-cul-3355-2010-cntc.html",
       "sourceType": "boe-consolidado-pre-reforma"
+    },
+    {
+      "lawId": "orden-cul-451-2011-zarzuela",
+      "slug": "orden-cul-451-2011-zarzuela",
+      "title": "Orden CUL/451/2011, de 28 de febrero, Estatuto del Teatro de La Zarzuela",
+      "legalReference": "Orden CUL/451/2011, de 28 de febrero, por la que se aprueba el Estatuto del Teatro de La Zarzuela.",
+      "officialUrl": "https://www.boe.es/eli/es/o/2011/02/28/cul451",
+      "versionDate": "20180630",
+      "file": "orden-cul-451-2011-zarzuela.html",
+      "sourceType": "boe-consolidado-pre-reforma"
+    },
+    {
+      "lawId": "orden-cul-3359-2011-cndm",
+      "slug": "orden-cul-3359-2011-cndm",
+      "title": "Orden CUL/3359/2011, de 30 de noviembre, Estatuto del Centro Nacional de Difusión Musical",
+      "legalReference": "Orden CUL/3359/2011, de 30 de noviembre, por la que se aprueba el Estatuto del Centro Nacional de Difusión Musical.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19210",
+      "versionDate": "20111208",
+      "file": "orden-cul-3359-2011-cndm.html",
+      "sourceType": "boe-consolidado-pre-reforma"
+    },
+    {
+      "lawId": "rd-2084-1978-ocne",
+      "slug": "rd-2084-1978-ocne",
+      "title": "Real Decreto 2084/1978, de 26 de julio, sobre la Orquesta y Coro Nacionales de España",
+      "legalReference": "Real Decreto 2084/1978, de 26 de julio, sobre estructura y funciones del Organismo autónomo Orquesta y Coro Nacionales de España.",
+      "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-22645",
+      "versionDate": "19780902",
+      "file": "rd-2084-1978-ocne.html",
+      "sourceType": "boe-oficial-historico"
+    },
+    {
+      "lawId": "res-jonde-2023-becas",
+      "slug": "res-jonde-2023-becas",
+      "title": "Resolución de 29 de septiembre de 2023, del INAEM, convenio de becas JONDE y Ferrer-Salat",
+      "legalReference": "Resolución de 29 de septiembre de 2023, del Instituto Nacional de las Artes Escénicas y de la Música.",
+      "officialUrl": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf",
+      "versionDate": "20231009",
+      "file": "res-jonde-2023-becas.html",
+      "sourceType": "boe-convenio-oficial"
     }
   ]
 }

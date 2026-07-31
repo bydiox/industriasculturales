@@ -5109,5 +5109,201 @@
     "explanation": "El artículo 11.3 exige que el marco financiero, que estima los recursos necesarios para el proyecto artístico, se adecúe a las disponibilidades presupuestarias existentes.",
     "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
     "source": { "lawId": "orden-cul-3355-2010-cntc", "anchorId": "orden-cul-3355-2010-cntc-a11", "reference": "Orden CUL/3355/2010, artículo 11.3", "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con" }
+  },
+  {
+    "id": "m3-centro-021",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué patrimonio constituye la misión principal del Teatro de La Zarzuela?",
+    "options": [
+      { "id": "a", "text": "El patrimonio lírico español, especialmente la zarzuela." },
+      { "id": "b", "text": "El patrimonio teatral español anterior al siglo XX." },
+      { "id": "c", "text": "El patrimonio coreográfico español en todos sus estilos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1 del Estatuto del Teatro de La Zarzuela identifica como misión recuperar, preservar, revisar y difundir el patrimonio lírico español, en especial la zarzuela, además de otras manifestaciones del teatro musical y la danza.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-451-2011-zarzuela", "anchorId": "orden-cul-451-2011-zarzuela-a1", "reference": "Orden CUL/451/2011, artículo 1", "url": "https://www.boe.es/eli/es/o/2011/02/28/cul451" }
+  },
+  {
+    "id": "m3-centro-022",
+    "topicId": "especifico-03",
+    "prompt": "¿Dónde tiene su sede permanente el Teatro de La Zarzuela?",
+    "options": [
+      { "id": "a", "text": "En el Teatro de La Zarzuela, en Madrid." },
+      { "id": "b", "text": "En el Auditorio Nacional de Música, en Madrid." },
+      { "id": "c", "text": "En el Teatro María Guerrero, en Madrid." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.3 fija la sede permanente en el propio Teatro de La Zarzuela, en Madrid, y el ámbito natural de actuación en el conjunto del Estado español.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-451-2011-zarzuela", "anchorId": "orden-cul-451-2011-zarzuela-a1", "reference": "Orden CUL/451/2011, artículo 1.3", "url": "https://www.boe.es/eli/es/o/2011/02/28/cul451" }
+  },
+  {
+    "id": "m3-centro-023",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué dirección se ocupa de las infraestructuras y equipamientos del Teatro de La Zarzuela?",
+    "options": [
+      { "id": "a", "text": "La Dirección Técnica, también durante las giras." },
+      { "id": "b", "text": "La Dirección de Producción, solo durante las funciones." },
+      { "id": "c", "text": "La Gerencia, únicamente en materia de personal." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 14 atribuye a la Dirección Técnica la custodia, mantenimiento y funcionamiento técnico de infraestructuras y equipamientos, tanto en sede como en gira.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-451-2011-zarzuela", "anchorId": "orden-cul-451-2011-zarzuela-a14", "reference": "Orden CUL/451/2011, artículo 14", "url": "https://www.boe.es/eli/es/o/2011/02/28/cul451" }
+  },
+  {
+    "id": "m3-centro-024",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué rasgo didáctico recoge el Estatuto del Teatro de La Zarzuela?",
+    "options": [
+      { "id": "a", "text": "Vocación didáctica en sus programaciones en sede o en gira." },
+      { "id": "b", "text": "Formación obligatoria de todo el personal administrativo." },
+      { "id": "c", "text": "Programación didáctica limitada a la danza contemporánea." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 2 vincula la preservación y transmisión del patrimonio intangible del género lírico español con una especial vocación didáctica de las programaciones, tanto en sede como en gira.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-451-2011-zarzuela", "anchorId": "orden-cul-451-2011-zarzuela-a2", "reference": "Orden CUL/451/2011, artículo 2", "url": "https://www.boe.es/eli/es/o/2011/02/28/cul451" }
+  },
+  {
+    "id": "m3-centro-025",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué tipo de centro es el Centro Nacional de Difusión Musical?",
+    "options": [
+      { "id": "a", "text": "Un centro de gestión artística del INAEM." },
+      { "id": "b", "text": "Un organismo autónomo independiente del INAEM." },
+      { "id": "c", "text": "Una unidad administrativa de Patrimonio." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La Orden CUL/3359/2011 aprueba el Estatuto del CNDM como centro de gestión artística del INAEM.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3359-2011-cndm", "anchorId": "orden-cul-3359-2011-cndm-a1", "reference": "Orden CUL/3359/2011, artículo 1", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19210" }
+  },
+  {
+    "id": "m3-centro-026",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué ámbito musical prioriza el CNDM junto con la creación contemporánea española?",
+    "options": [
+      { "id": "a", "text": "Músicas históricas, clásicas complementarias y populares." },
+      { "id": "b", "text": "Solo la música sinfónica de producción propia de la OCNE." },
+      { "id": "c", "text": "Únicamente la música electrónica y las artes digitales." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1 del Estatuto del CNDM enumera, además de la creación y difusión de música contemporánea española, las músicas históricas, la música clásica en líneas complementarias, las músicas de tradición popular y los programas pedagógicos transversales.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3359-2011-cndm", "anchorId": "orden-cul-3359-2011-cndm-a1", "reference": "Orden CUL/3359/2011, artículo 1.1", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19210" }
+  },
+  {
+    "id": "m3-centro-027",
+    "topicId": "especifico-03",
+    "prompt": "¿Dónde tiene su sede permanente el CNDM?",
+    "options": [
+      { "id": "a", "text": "En el Auditorio Nacional de Música, en Madrid." },
+      { "id": "b", "text": "En el Teatro de La Zarzuela, en Madrid." },
+      { "id": "c", "text": "En el Teatro de la Comedia, en Madrid." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.3 del Estatuto del CNDM fija su sede permanente en el Auditorio Nacional de Música, en Madrid.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "orden-cul-3359-2011-cndm", "anchorId": "orden-cul-3359-2011-cndm-a1", "reference": "Orden CUL/3359/2011, artículo 1.3", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19210" }
+  },
+  {
+    "id": "m3-centro-028",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué función normativa atribuye el Real Decreto 2084/1978 a la OCNE?",
+    "options": [
+      { "id": "a", "text": "Difundir música española y extranjera dentro y fuera de España." },
+      { "id": "b", "text": "Regular los estatutos de todos los centros del INAEM." },
+      { "id": "c", "text": "Gestionar exclusivamente el patrimonio lírico español." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 2.a del Real Decreto 2084/1978 incluye actuaciones nacionales e internacionales y grabaciones y transmisiones para difundir música española y extranjera.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "rd-2084-1978-ocne", "anchorId": "rd-2084-1978-ocne-a2", "reference": "Real Decreto 2084/1978, artículo 2.a", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-22645" }
+  },
+  {
+    "id": "m3-centro-029",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué órganos de gobierno enumera el Real Decreto 2084/1978 para la OCNE?",
+    "options": [
+      { "id": "a", "text": "Consejo Rector, Comisión de Dirección y Director Gerente." },
+      { "id": "b", "text": "Consejo Artístico, Dirección General y Gerencia." },
+      { "id": "c", "text": "Junta de Gobierno, Secretaría General y Dirección Técnica." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 3 de la norma histórica enumera como órganos de gobierno el Consejo Rector, la Comisión de Dirección y el Director Gerente. Es una referencia organizativa histórica, no el organigrama ministerial de 2025.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "rd-2084-1978-ocne", "anchorId": "rd-2084-1978-ocne-a3", "reference": "Real Decreto 2084/1978, artículo 3", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-22645" }
+  },
+  {
+    "id": "m3-centro-030",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué aprueba el Consejo Rector de la OCNE según la norma de 1978?",
+    "options": [
+      { "id": "a", "text": "Planes generales, proyectos de presupuesto y memoria anual." },
+      { "id": "b", "text": "Solo los contratos artísticos de cada temporada." },
+      { "id": "c", "text": "Las bases de selección de la Dirección General de Música." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 4.6 atribuye al Consejo Rector la alta dirección y la aprobación de los planes generales de programación y actuación, los proyectos de presupuestos y la memoria anual.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "rd-2084-1978-ocne", "anchorId": "rd-2084-1978-ocne-a4", "reference": "Real Decreto 2084/1978, artículo 4.6", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-22645" }
+  },
+  {
+    "id": "m3-centro-031",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué es la JONDE según la fuente oficial de 2023?",
+    "options": [
+      { "id": "a", "text": "Una unidad de producción creada por el INAEM." },
+      { "id": "b", "text": "Un organismo autónomo distinto del INAEM." },
+      { "id": "c", "text": "Una comisión de programación de la OCNE." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El expositivo I del convenio publicado en 2023 describe la JONDE como una unidad de producción creada por el INAEM.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "res-jonde-2023-becas", "anchorId": "res-jonde-2023-becas-exp-i", "reference": "Resolución de 29 de septiembre de 2023, expositivo I", "url": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf" }
+  },
+  {
+    "id": "m3-centro-032",
+    "topicId": "especifico-03",
+    "prompt": "¿Cuál es el objetivo prioritario de la JONDE?",
+    "options": [
+      { "id": "a", "text": "El perfeccionamiento profesional y artístico de sus músicos." },
+      { "id": "b", "text": "La programación de ópera y zarzuela en Madrid." },
+      { "id": "c", "text": "La gestión de circuitos musicales de las comunidades autónomas." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La fuente oficial de 2023 señala como objetivo prioritario el perfeccionamiento profesional y artístico de sus músicos mediante estudio y práctica del repertorio universal.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "res-jonde-2023-becas", "anchorId": "res-jonde-2023-becas-exp-i", "reference": "Resolución de 29 de septiembre de 2023, expositivo I", "url": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf" }
+  },
+  {
+    "id": "m3-centro-033",
+    "topicId": "especifico-03",
+    "prompt": "¿Qué repertorio trabaja la JONDE para perfeccionar a sus músicos?",
+    "options": [
+      { "id": "a", "text": "El repertorio universal sinfónico y de cámara." },
+      { "id": "b", "text": "Solo el repertorio lírico español de zarzuela." },
+      { "id": "c", "text": "Exclusivamente música contemporánea española." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El convenio de 2023 vincula el perfeccionamiento de la JONDE al estudio y la práctica del repertorio universal sinfónico y de cámara, mediante varios encuentros anuales.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "res-jonde-2023-becas", "anchorId": "res-jonde-2023-becas-exp-i", "reference": "Resolución de 29 de septiembre de 2023, expositivo I", "url": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf" }
+  },
+  {
+    "id": "m3-centro-034",
+    "topicId": "especifico-03",
+    "prompt": "¿A quién se dirigían las becas JONDE y Ferrer-Salat del convenio 2023-2024?",
+    "options": [
+      { "id": "a", "text": "A miembros de la Bolsa Instrumentalista de la JONDE." },
+      { "id": "b", "text": "A cualquier estudiante de música sin requisito adicional." },
+      { "id": "c", "text": "A directores de centros del INAEM en activo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La cláusula primera prevé treinta becas para miembros de la Bolsa Instrumentalista de la JONDE, con el fin de apoyar su crecimiento artístico.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "res-jonde-2023-becas", "anchorId": "res-jonde-2023-becas-clausula-1", "reference": "Resolución de 29 de septiembre de 2023, cláusula primera", "url": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf" }
   }
 ]
