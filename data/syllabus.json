@@ -1,5 +1,5 @@
 {
-  "app": { "id": "m3-gestion-industrias-culturales-creativas", "name": "M3 Gestión de Industrias Culturales y Creativas", "version": "0.1.6" },
+  "app": { "id": "m3-gestion-industrias-culturales-creativas", "name": "M3 Gestión de Industrias Culturales y Creativas", "version": "0.1.7" },
   "source": { "document": "convocatoria-m3-bases-genericas-oep-2023-2024.pdf", "publishedDate": "2026-07-07", "specificPages": "74-76", "commonPages": "56", "sha256": "6CEB22FDDAF04F3EE2FF67EBAFA5485BD5AF6AB9A2134DA7010C4C6C7B968AD6" },
   "historicalBanks": [
     { "id": "oficial-2021-comun", "number": "H-C", "part": "historico", "title": "Banco histórico · preguntas oficiales M3 2021 · parte común", "description": "Temario anterior; material de práctica y comparación." },

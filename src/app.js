@@ -360,6 +360,47 @@ function renderHomeMenu() {
     <button class="home-menu-card menu-official" type="button" data-home-action="official"><span class="home-menu-icon" aria-hidden="true">▣</span><span class="home-menu-label">Material oficial</span><small>Ex&#225;menes anteriores y documentos de referencia.</small></button>`;
 }
 
+function renderExamChoicePanel() {
+  const menu = $('#home-menu');
+  const oldPanel = $('#exam-choice-panel');
+  if (oldPanel) oldPanel.remove();
+  menu.insertAdjacentHTML('afterend', `
+    <section id="exam-choice-panel" class="exam-choice-panel home-panel" hidden>
+      <div class="panel-back-row"><button class="secondary" type="button" data-exam-back>&#8592; Inicio</button></div>
+      <span class="guide-kicker">Modo examen</span>
+      <h2>Elige el tipo de examen</h2>
+      <p>Selecciona una opción. La primera está preseleccionada porque es la que reproduce la convocatoria actual.</p>
+      <div class="exam-choice-grid" role="radiogroup" aria-label="Tipo de examen">
+        <button class="exam-choice-card is-selected" type="button" data-exam-choice="aleatorio" role="radio" aria-checked="true">
+          <span class="exam-choice-icon" aria-hidden="true">◉</span><strong>Examen aleatorio</strong><small>100 preguntas proporcionales del banco vigente.</small><b>Recomendado</b>
+        </button>
+        <button class="exam-choice-card" type="button" data-exam-choice="historico" role="radio" aria-checked="false">
+          <span class="exam-choice-icon" aria-hidden="true">▣</span><strong>Examen histórico</strong><small>Cuestionarios oficiales anteriores para comparar el nivel.</small>
+        </button>
+      </div>
+      <button id="start-selected-exam" class="primary exam-start" type="button">Comenzar examen aleatorio</button>
+    </section>`);
+  let selected = 'aleatorio';
+  const panel = $('#exam-choice-panel');
+  panel.querySelector('[data-exam-back]').addEventListener('click', returnHome);
+  panel.querySelectorAll('[data-exam-choice]').forEach(card => card.addEventListener('click', () => {
+    selected = card.dataset.examChoice;
+    panel.querySelectorAll('[data-exam-choice]').forEach(item => {
+      const active = item === card;
+      item.classList.toggle('is-selected', active);
+      item.setAttribute('aria-checked', String(active));
+    });
+    $('#start-selected-exam').textContent = `Comenzar examen ${selected === 'historico' ? 'histórico' : 'aleatorio'}`;
+  }));
+  $('#start-selected-exam').addEventListener('click', () => start('examen', null, selected));
+}
+
+function openExamChoicePanel() {
+  document.querySelectorAll('.home-panel').forEach(panel => { panel.hidden = panel.id !== 'exam-choice-panel'; });
+  $('#exam-choice-panel').hidden = false;
+  $('#exam-choice-panel').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
 function renderPracticalPanel() {
   $('#home-practical').innerHTML = `
     <div class="panel-back-row"><button class="secondary" type="button" data-practical-back>&#8592; Inicio</button></div>
@@ -1073,10 +1114,11 @@ function renderProgress() {
 
 renderHomeMenu();
 renderPracticalPanel();
+renderExamChoicePanel();
 document.querySelector('.app-header h1').textContent = 'M3 - Industrias culturales';
 
 $('#start-free').addEventListener('click', () => start('libre'));
-$('#start-exam').addEventListener('click', () => start('examen', null, $('#exam-type').value));
+$('#start-exam').addEventListener('click', openExamChoicePanel);
 $('#auth-form').addEventListener('submit', async event => {
   event.preventDefault();
   const email = $('#auth-email').value.trim().toLowerCase();
