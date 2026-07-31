@@ -23,14 +23,15 @@ const readSourceHtml = async (file, context) => {
   }
 };
 
-const [questions, manifest, syllabus, studyPlan, editorialRules, sourcePolicy, examConfig] = await Promise.all([
+const [questions, manifest, syllabus, studyPlan, editorialRules, sourcePolicy, examConfig, lawScopes] = await Promise.all([
   readJson('data/questions.json'),
   readJson('data/laws/laws-manifest.json'),
   readJson('data/syllabus.json'),
   readJson('data/study-units.json'),
   readJson('data/editorial-rules.json'),
   readJson('data/topic-source-policy.json').catch(() => ({ topics: {} })),
-  readJson('data/exam-config.json')
+  readJson('data/exam-config.json'),
+  readJson('data/law-scopes.json').catch(() => ({ laws: {}, default: { mode: 'full' } }))
 ]);
 const lawMap = new Map(manifest.laws.map(law => [law.lawId, law]));
 const officialTopicIds = new Set(syllabus.topics.map(topic => topic.id));
@@ -42,6 +43,7 @@ const unitIds = new Set();
 const assignedTopicIds = new Set();
 const editorialRuleIds = new Set();
 const criticalRulesByTopic = new Map();
+const scopeByLaw = new Map(Object.entries(lawScopes.laws || {}));
 
 for (const rule of editorialRules.rules) {
   if (editorialRuleIds.has(rule.id)) fail(`ID de regla editorial duplicado: ${rule.id}`);
@@ -141,6 +143,10 @@ for (const question of questions) {
       if (!html) continue;
       const pattern = new RegExp(`(?:id|data-anchor-id)=["']${question.source.anchorId}["']`);
       if (!pattern.test(html)) fail(`Ancla inexistente en ${question.id}: ${question.source.anchorId}`);
+      const scope = scopeByLaw.get(law.lawId) || lawScopes.default;
+      if (scope?.mode === 'selected' && !scope.anchorIds?.includes(question.source.anchorId)) {
+        fail(`Pregunta fuera del alcance verificado de ${law.lawId}: ${question.id} (${question.source.anchorId})`);
+      }
       const seen = anchorsByLaw.get(law.lawId) || new Set();
       if (seen.has(question.source.anchorId)) warn(`Ancla repetida por varias preguntas: ${question.source.anchorId}`);
       seen.add(question.source.anchorId); anchorsByLaw.set(law.lawId, seen);
@@ -167,7 +173,7 @@ for (const question of questions) {
   if (!(question.active === true || (question.active !== false && question.origin?.historical !== true)) || !question.source?.lawId) continue;
   const policy = sourcePolicy.topics?.[question.topicId];
   if (policy && !policy.allowedLawIds.includes(question.source.lawId)) {
-    warn(`Fuente no pertinente para el tema según la política editorial: ${question.id} (${question.topicId} ← ${question.source.lawId})`);
+    fail(`Fuente no pertinente para el tema según la política editorial: ${question.id} (${question.topicId} ← ${question.source.lawId})`);
   }
 }
 

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "source": "Convocatoria M3 y reglas editoriales del proyecto",
+  "default": {
+    "mode": "full",
+    "scopeStatus": "not-delimited",
+    "label": "Texto completo",
+    "note": "La convocatoria no ha delimitado epígrafes concretos para esta norma en los datos importados. No se oculta contenido hasta verificar el alcance exacto."
+  },
+  "laws": {},
+  "generationPolicy": {
+    "allowedModes": ["full", "selected"],
+    "selectedRequires": ["anchorIds"],
+    "rule": "Una pregunta jurídica solo se puede generar si su anchorId pertenece a la ley y, cuando exista una selección de epígrafes verificada, a uno de sus anchorIds incluidos.",
+    "outsideScope": "reject"
+  },
+  "reviewQueue": [
+    "Revisar la convocatoria tema por tema y registrar los títulos, capítulos, artículos o disposiciones que sí entran.",
+    "No convertir la lista de preguntas actuales en una delimitación automática: una pregunta no demuestra que el resto de la ley esté excluido.",
+    "Cuando se confirme un alcance parcial, añadir el lawId y sus anchorIds estables aquí antes de generar nuevas preguntas."
+  ]
+}

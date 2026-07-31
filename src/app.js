@@ -326,6 +326,7 @@ function renderGuide() {
 }
 
 const studyDocuments = [
+  { id: 'guia-maria', title: 'Guía 1 · Orientación para María', summary: 'La explicación de partida: qué oposición es, cómo estudiar y dónde poner el esfuerzo.', file: 'docs/GUIA_MARIA.md' },
   { id: 'readme', title: 'Léeme antes de empezar', summary: 'Qué contiene la app, cómo avanzar y cómo interpretar los resultados.', file: 'docs/LEEME.md' },
   { id: 'practico', title: 'Dossier del supuesto práctico', summary: 'Supuesto histórico, hipótesis probables, plantillas de respuesta y entrenamiento.', file: 'docs/practico_dossier_estudio.md' },
   { id: 'formato', title: 'Cómo es el examen', summary: 'Formato, puntuación, penalización y estrategia de respuesta.', file: 'docs/FORMATO_EXAMEN.md' },
@@ -341,13 +342,15 @@ const studyCategories = [
   { id: 'oficial', icon: '▣', title: 'Material oficial', summary: 'Cuestionarios y documentos de convocatorias anteriores.' }
 ];
 let activeStudyCategory = 'practico';
-const documentCategory = documentId => ({ readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', tecnico: 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
+const documentCategory = documentId => ({ 'guia-maria': 'readme', readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', tecnico: 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
 studyDocuments.push({ id: 'm1-cuestionarios', title: 'Cuestionarios t\u00e9cnicos M1 Cultura', summary: 'Ex\u00e1menes oficiales del Ministerio que sirven como referencia para el bloque t\u00e9cnico.', file: 'docs/CUESTIONARIOS_M1_CULTURA.md' });
 let activeLawId = null;
 let activeLawAnchorId = null;
 let lawReturnToStory = false;
 let lawReferencePreviousFocus = null;
 let studyTocCleanup = null;
+let lawSectionCleanup = null;
+let lawModalSectionCleanup = null;
 
 function renderHomeMenu() {
   $('#home-menu').innerHTML = `
@@ -599,17 +602,23 @@ async function openStudyDocument(documentId, focusId = null) {
 function renderLawCatalog() {
   const laws = Object.values(state.content.lawsById || {})
     .filter(law => law.lawId !== 'norma-demo')
-    .sort((a, b) => String(a.title).localeCompare(String(b.title), 'es'));
-  $('#law-catalog-grid').innerHTML = laws.map(law => `
-    <button class="law-catalog-card" type="button" data-law-id="${escapeHtml(law.lawId)}">
-      <span class="law-catalog-icon" aria-hidden="true">§</span>
-      <strong>${escapeHtml(law.title)}</strong>
-      <small>${escapeHtml(law.legalReference || '')}</small>
-      ${renderLawContext(law, true)}
-    </button>`).join('');
+    .sort((a, b) => lawCatalogMeta(a).order - lawCatalogMeta(b).order || String(a.title).localeCompare(String(b.title), 'es'));
+  let currentGroup = '';
+  $('#law-catalog-grid').innerHTML = laws.map(law => {
+    const meta = lawCatalogMeta(law);
+    const heading = meta.group !== currentGroup ? `<h3 class="law-catalog-group law-group-${escapeHtml(meta.key)}">${escapeHtml(meta.group)}</h3>` : '';
+    currentGroup = meta.group;
+    return `${heading}
+      <button class="law-catalog-card law-group-${escapeHtml(meta.key)}" type="button" data-law-id="${escapeHtml(law.lawId)}">
+        <span class="law-catalog-icon" aria-hidden="true">${escapeHtml(meta.icon)}</span>
+        <strong>${escapeHtml(law.title)}</strong>
+        <small>${escapeHtml(law.legalReference || '')}</small>
+        ${renderLawContext(law, true)}
+      </button>`;
+  }).join('');
 }
 
-const lawPurposeNotes = {
+const lawSimpleNotes = {
   'ce-1978': 'Fija los valores, derechos y principios de organización que encuadran toda la actividad pública.',
   'rdleg-5-2015': 'Es la norma básica del empleo público: clases de personal, derechos, deberes y régimen disciplinario.',
   'convenio-iv': 'Concreta las condiciones de trabajo del personal laboral de la Administración General del Estado.',
@@ -628,6 +637,21 @@ const lawPurposeNotes = {
   'ley-49-2002': 'Regula el mecenazgo y los incentivos fiscales que pueden sostener proyectos y actividades culturales.'
 };
 
+const lawCatalogGroups = [
+  { key: 'constitutional', group: 'Constitución y organización del Estado', icon: '◆', ids: ['ce-1978', 'ley-50-1997', 'rdleg-5-2015', 'ley-40-2015', 'ley-39-2015', 'ley-9-2017-lcsp'], start: 10 },
+  { key: 'laboral', group: 'Empleo público, trabajo y prevención', icon: '▣', ids: ['convenio-iv', 'rdleg-2-2015-et', 'ley-53-1984', 'ley-31-1995', 'rd-171-2004', 'rd-393-2007'], start: 100 },
+  { key: 'inaem', group: 'INAEM y centros culturales', icon: '✦', ids: ['ley-50-1984', 'rd-1245-2002', 'rd-1028-2025', 'rd-2491-1996'], start: 200 },
+  { key: 'culture', group: 'Cultura, patrimonio y financiación', icon: '●', ids: ['ley-16-1985', 'rd-1435-1985', 'ley-49-2002', 'ley-50-2002'], start: 300 },
+  { key: 'europe', group: 'Unión Europea', icon: '★', ids: ['eu-teu-2012', 'eu-tfeu-2012'], start: 400 },
+  { key: 'other', group: 'Otras normas del corpus', icon: '§', ids: [], start: 500 }
+];
+
+function lawCatalogMeta(law) {
+  const group = lawCatalogGroups.find(item => item.ids.includes(law.lawId)) || lawCatalogGroups[lawCatalogGroups.length - 1];
+  const index = group.ids.indexOf(law.lawId);
+  return { ...group, order: group.start + (index >= 0 ? index : String(law.title).localeCompare('', 'es')) };
+}
+
 function lawImportanceTopics(lawId) {
   const linked = state.content.questions.filter(question => question.source?.lawId === lawId
     && (question.active === true || (question.active !== false && question.origin?.historical !== true)));
@@ -642,13 +666,26 @@ function renderLawContext(law, compact = false) {
   const { count, topics } = lawImportanceTopics(law.lawId);
   const topicText = topics.length
     ? `Se trabaja especialmente en ${topics.slice(0, 3).map(topic => `Tema ${topic.number}`).join(', ')}${topics.length > 3 ? ' y otros temas.' : '.'}`
-    : 'Forma parte del corpus jurídico de consulta de la oposición.';
-  const importance = lawPurposeNotes[law.lawId] || topicText;
-  if (compact) return `<span class="law-context law-context-compact"><strong>Por qué importa en M3</strong><span class="law-context-text">${escapeHtml(importance)}${count ? ` (${count} preguntas activas enlazadas.)` : ''}</span></span>`;
+    : 'Está disponible como fuente oficial de consulta del temario.';
+  const summary = lawSimpleNotes[law.lawId] || `Es el texto oficial de ${law.title}. Aquí se puede consultar la norma completa y volver a los artículos enlazados desde las preguntas.`;
+  const scope = state.content.lawScopes?.laws?.[law.lawId] || state.content.lawScopes?.default;
+  const scopeText = scope?.mode === 'selected' ? 'La app muestra los epígrafes delimitados para el temario.' : 'La app conserva el texto completo; el alcance parcial se activará solo cuando esté verificado.';
+  if (compact) return `<span class="law-context law-context-compact"><strong>Resumen sencillo</strong><span class="law-context-text">${escapeHtml(summary)}${count ? ` (${count} preguntas enlazadas.)` : ''}</span></span>`;
   return `<div class="law-context${compact ? ' law-context-compact' : ''}">
-    <div><strong>Qué es</strong><p>${escapeHtml(law.legalReference || law.title)}</p></div>
-    <div><strong>Por qué importa en M3</strong><p>${escapeHtml(importance)}${count ? ` (${count} preguntas activas enlazadas.)` : ''}</p></div>
+    <div><strong>Resumen sencillo</strong><p>${escapeHtml(summary)}</p></div>
+    <div><strong>En el temario</strong><p>${escapeHtml(scopeText)} ${escapeHtml(topicText)}${count ? ` Hay ${count} preguntas enlazadas.` : ''}</p></div>
   </div>`;
+}
+
+function applyLawScope(main, law) {
+  const scope = state.content.lawScopes?.laws?.[law.lawId] || state.content.lawScopes?.default;
+  if (!main || scope?.mode !== 'selected' || !Array.isArray(scope.anchorIds) || !scope.anchorIds.length) return main;
+  const allowed = new Set(scope.anchorIds);
+  main.querySelectorAll('section, article').forEach(block => {
+    const keep = allowed.has(block.id) || [...block.querySelectorAll('[id]')].some(node => allowed.has(node.id));
+    if (!keep) block.hidden = true;
+  });
+  return main;
 }
 
 function openLawCatalog() {
@@ -670,6 +707,63 @@ function ensureLawNavigation() {
   nav.insertAdjacentHTML('beforeend', '<button id="law-prev" class="secondary" type="button" aria-label="Norma anterior" title="Norma anterior">←</button><button id="law-next" class="secondary" type="button" aria-label="Norma siguiente" title="Norma siguiente">→</button>');
   $('#law-prev').addEventListener('click', () => openLawDocument($('#law-prev').dataset.lawNavigate, null, lawReturnToStory));
   $('#law-next').addEventListener('click', () => openLawDocument($('#law-next').dataset.lawNavigate, null, lawReturnToStory));
+}
+
+function lawHeadingTargets(root) {
+  if (!root) return [];
+  const selectors = 'h1,h2,h3,h4,p.articulo,p.titulo,p.titulo_num,p.capitulo_num,p.seccion,p.subseccion,p.disposicion,article[data-ref]';
+  const seen = new Set();
+  return [...root.querySelectorAll(selectors)].filter(node => {
+    if (node.matches('article[data-ref]') && node.querySelector('h1,h2,h3,h4,p.articulo,p.titulo,p.titulo_num,p.capitulo_num,p.seccion,p.subseccion,p.disposicion')) return false;
+    if (seen.has(node) || !node.textContent.trim() || !node.getClientRects().length) return false;
+    seen.add(node);
+    return true;
+  });
+}
+
+function scrollLawHeading(target, host) {
+  if (!target) return;
+  if (host && host !== window && typeof host.scrollTo === 'function') {
+    const delta = target.getBoundingClientRect().top - host.getBoundingClientRect().top - 12;
+    host.scrollTo({ top: Math.max(0, host.scrollTop + delta), behavior: 'smooth' });
+  } else {
+    target.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }
+}
+
+function setupLawSectionNavigation(root, host, nav) {
+  if (!root || !nav) return;
+  const previousCleanup = host === window ? lawSectionCleanup : lawModalSectionCleanup;
+  if (previousCleanup) previousCleanup();
+  const prev = nav.querySelector('[data-law-section="prev"]');
+  const next = nav.querySelector('[data-law-section="next"]');
+  const label = nav.querySelector('[data-law-section="label"]');
+  const targets = lawHeadingTargets(root);
+  if (!targets.length) { nav.hidden = true; return; }
+  nav.hidden = false;
+  let current = 0;
+  const refresh = () => {
+    const marker = host === window ? 96 : host.getBoundingClientRect().top + 20;
+    let candidate = 0;
+    targets.forEach((target, index) => { if (target.getBoundingClientRect().top <= marker) candidate = index; });
+    current = candidate;
+    prev.disabled = current <= 0;
+    next.disabled = current >= targets.length - 1;
+    label.textContent = `${targets.length > 1 ? `${current + 1}/${targets.length} · ` : ''}${targets[current].textContent.replace(/\s+/g, ' ').trim().slice(0, 70)}`;
+  };
+  const jump = direction => {
+    const target = targets[Math.min(targets.length - 1, Math.max(0, current + direction))];
+    scrollLawHeading(target, host);
+    window.setTimeout(refresh, 260);
+  };
+  prev.addEventListener('click', () => jump(-1));
+  next.addEventListener('click', () => jump(1));
+  const scrollTarget = host === window ? window : host;
+  scrollTarget.addEventListener('scroll', refresh, { passive: true });
+  refresh();
+  const cleanup = () => scrollTarget.removeEventListener('scroll', refresh);
+  if (host === window) lawSectionCleanup = cleanup;
+  else lawModalSectionCleanup = cleanup;
 }
 
 async function openLawDocument(lawId, anchorId = null, fromStory = false) {
@@ -701,7 +795,8 @@ async function openLawDocument(lawId, anchorId = null, fromStory = false) {
     const parsed = new DOMParser().parseFromString(source, 'text/html');
     const main = parsed.querySelector('main') || parsed.body;
     main.querySelectorAll('script, style').forEach(node => node.remove());
-    $('#law-page-content').innerHTML = `${renderLawContext(law)}${main.innerHTML}`;
+    $('#law-page-content').innerHTML = `${renderLawContext(law)}${applyLawScope(main, law).innerHTML}`;
+    setupLawSectionNavigation($('#law-page-content'), window, $('#law-section-nav'));
     const target = activeLawAnchorId && document.getElementById(activeLawAnchorId);
     if (target) window.requestAnimationFrame(() => target.scrollIntoView({ block: 'start' }));
     else window.scrollTo(0, 0);
@@ -715,6 +810,7 @@ function closeLawReferenceModal() {
   if (!modal) return;
   modal.hidden = true;
   document.body.classList.remove('law-reference-open');
+  if (lawModalSectionCleanup) { lawModalSectionCleanup(); lawModalSectionCleanup = null; }
   $('#law-reference-body').innerHTML = '';
   const previousFocus = lawReferencePreviousFocus;
   lawReferencePreviousFocus = null;
@@ -740,7 +836,9 @@ async function openLawReferenceModal(lawId, anchorId = null, trigger = null) {
     const parsed = new DOMParser().parseFromString(source, 'text/html');
     const main = parsed.querySelector('main') || parsed.body;
     main.querySelectorAll('script, style').forEach(node => node.remove());
-    body.innerHTML = `${renderLawContext(law)}${main.innerHTML}`;
+    body.innerHTML = `${renderLawContext(law)}${applyLawScope(main, law).innerHTML}`;
+    body.insertAdjacentHTML('afterbegin', '<div class="law-section-nav law-section-nav-modal"><button class="secondary" type="button" data-law-section="prev" aria-label="Apartado anterior">↑</button><span data-law-section="label">Apartado 1</span><button class="secondary" type="button" data-law-section="next" aria-label="Apartado siguiente">↓</button></div>');
+    setupLawSectionNavigation(body, body, body.querySelector('.law-section-nav-modal'));
     const target = anchorId
       ? Array.from(body.querySelectorAll('[id]')).find(node => node.id === anchorId)
       : null;
@@ -1249,7 +1347,7 @@ $('#law-back-catalog').addEventListener('click', () => {
 $('#back-home-law').addEventListener('click', returnHome);
 document.querySelectorAll('[data-home-action]').forEach(button => button.addEventListener('click', () => {
   const action = button.dataset.homeAction;
-  if (action === 'guide') openGuide();
+  if (action === 'guide') openStudyDocument('guia-maria');
   else if (action === 'readme') openStudyDocument('readme');
   else if (action === 'practico') openHomePanel('home-practical');
   else if (action === 'back') returnHome();
