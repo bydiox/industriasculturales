@@ -458,6 +458,7 @@ function markdownToHtml(markdown) {
   const lines = markdown.replace(/\r/g, '').split('\n');
   const output = [];
   const toc = [];
+  const usedHeadingIds = new Set();
   let paragraph = [];
   let list = null;
   let tableRows = null;
@@ -493,7 +494,11 @@ function markdownToHtml(markdown) {
     if (heading) {
       flushParagraph(); closeList();
       const text = heading[2].replace(/[*_`]/g, '').trim();
-      const id = `study-${text.toLocaleLowerCase('es-ES').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`;
+      const baseId = `study-${text.toLocaleLowerCase('es-ES').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`;
+      let id = baseId;
+      let suffix = 2;
+      while (usedHeadingIds.has(id)) id = `${baseId}-${suffix++}`;
+      usedHeadingIds.add(id);
       toc.push({ id, level: heading[1].length, text });
       output.push(`<h${heading[1].length} id="${id}">${inlineMarkdown(heading[2])}</h${heading[1].length}>`);
       continue;
@@ -574,19 +579,21 @@ async function openStudyDocument(documentId, focusId = null) {
     const rendered = markdownToHtml(await response.text());
     $('#study-page-content').innerHTML = rendered.html;
     $('#study-toc-list').innerHTML = rendered.toc
-      .filter(item => item.level <= 3)
+      .filter(item => item.level <= 4)
       .map(item => `<a class="study-toc-link level-${item.level}" href="#${item.id}">${escapeHtml(item.text)}</a>`)
       .join('');
     if (studyTocCleanup) studyTocCleanup();
-    const tocItems = rendered.toc.filter(item => item.level <= 3);
+    const tocItems = rendered.toc.filter(item => item.level <= 4);
     const updateToc = () => {
       const current = tocItems
         .map(item => ({ item, node: document.getElementById(item.id) }))
         .filter(entry => entry.node && entry.node.getBoundingClientRect().top <= 150)
         .pop()?.item;
-      $('#study-toc-list').querySelectorAll('.study-toc-link').forEach(link => {
-        link.classList.toggle('is-active', link.getAttribute('href') === `#${current?.id || ''}`);
-      });
+        $('#study-toc-list').querySelectorAll('.study-toc-link').forEach(link => {
+          link.classList.toggle('is-active', link.getAttribute('href') === `#${current?.id || ''}`);
+          if (link.getAttribute('href') === `#${current?.id || ''}`) link.setAttribute('aria-current', 'location');
+          else link.removeAttribute('aria-current');
+        });
     };
     window.addEventListener('scroll', updateToc, { passive: true });
     studyTocCleanup = () => window.removeEventListener('scroll', updateToc);
@@ -721,6 +728,20 @@ function lawHeadingTargets(root) {
   });
 }
 
+function normaliseLawLabels(root) {
+  if (!root) return;
+  const levels = [
+    ['p.titulo, p.titulo_num, p.disposicion', 2],
+    ['p.capitulo_num', 3],
+    ['p.seccion', 4],
+    ['p.articulo', 4]
+  ];
+  levels.forEach(([selector, level]) => root.querySelectorAll(selector).forEach(node => {
+    node.setAttribute('role', 'heading');
+    node.setAttribute('aria-level', String(level));
+  }));
+}
+
 function scrollLawHeading(target, host) {
   if (!target) return;
   if (host && host !== window && typeof host.scrollTo === 'function') {
@@ -739,6 +760,8 @@ function setupLawSectionNavigation(root, host, nav) {
   const next = nav.querySelector('[data-law-section="next"]');
   const label = nav.querySelector('[data-law-section="label"]');
   const targets = lawHeadingTargets(root);
+  nav.classList.add('law-reader-dock');
+  if (nav.parentElement !== root) root.appendChild(nav);
   if (!targets.length) { nav.hidden = true; return; }
   nav.hidden = false;
   let current = 0;
@@ -795,6 +818,7 @@ async function openLawDocument(lawId, anchorId = null, fromStory = false) {
     const parsed = new DOMParser().parseFromString(source, 'text/html');
     const main = parsed.querySelector('main') || parsed.body;
     main.querySelectorAll('script, style').forEach(node => node.remove());
+    normaliseLawLabels(main);
     $('#law-page-content').innerHTML = `${renderLawContext(law)}${applyLawScope(main, law).innerHTML}`;
     setupLawSectionNavigation($('#law-page-content'), window, $('#law-section-nav'));
     const target = activeLawAnchorId && document.getElementById(activeLawAnchorId);
@@ -836,8 +860,9 @@ async function openLawReferenceModal(lawId, anchorId = null, trigger = null) {
     const parsed = new DOMParser().parseFromString(source, 'text/html');
     const main = parsed.querySelector('main') || parsed.body;
     main.querySelectorAll('script, style').forEach(node => node.remove());
+    normaliseLawLabels(main);
     body.innerHTML = `${renderLawContext(law)}${applyLawScope(main, law).innerHTML}`;
-    body.insertAdjacentHTML('afterbegin', '<div class="law-section-nav law-section-nav-modal"><button class="secondary" type="button" data-law-section="prev" aria-label="Apartado anterior">↑</button><span data-law-section="label">Apartado 1</span><button class="secondary" type="button" data-law-section="next" aria-label="Apartado siguiente">↓</button></div>');
+    body.insertAdjacentHTML('beforeend', '<div class="law-section-nav law-section-nav-modal"><button class="secondary" type="button" data-law-section="prev" aria-label="Apartado anterior">↑</button><span data-law-section="label">Apartado 1</span><button class="secondary" type="button" data-law-section="next" aria-label="Apartado siguiente">↓</button></div>');
     setupLawSectionNavigation(body, body, body.querySelector('.law-section-nav-modal'));
     const target = anchorId
       ? Array.from(body.querySelectorAll('[id]')).find(node => node.id === anchorId)
@@ -1238,9 +1263,10 @@ renderHomeMenu();
 renderPracticalPanel();
 renderExamChoicePanel();
 renderOfficialStudyLink();
-document.querySelector('.app-header h1').textContent = 'M3 - Industrias culturales';
+$('#app-home-link').textContent = 'M3 - Industrias culturales';
 
 $('#start-free').addEventListener('click', () => start('libre'));
+$('#app-home-link').addEventListener('click', returnHome);
 $('#start-exam').addEventListener('click', openExamChoicePanel);
 $('#auth-form').addEventListener('submit', async event => {
   event.preventDefault();
