@@ -260,6 +260,26 @@
       "versionDate": "20260611",
       "file": "cultura-inaem-centros-2026.html",
       "sourceType": "ministerio-informacion-oficial"
+    },
+    {
+      "lawId": "rdleg-2-2015-et",
+      "slug": "rdleg-2-2015-et",
+      "title": "Real Decreto Legislativo 2/2015, de 23 de octubre, Estatuto de los Trabajadores",
+      "legalReference": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
+      "officialUrl": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con",
+      "versionDate": "20251204",
+      "file": "rdleg-2-2015-et.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "lo-11-1985-lols",
+      "slug": "lo-11-1985-lols",
+      "title": "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical",
+      "legalReference": "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.",
+      "officialUrl": "https://www.boe.es/eli/es/lo/1985/08/02/11/con",
+      "versionDate": "20240802",
+      "file": "lo-11-1985-lols.html",
+      "sourceType": "boe-consolidado"
     }
   ]
 }

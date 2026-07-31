@@ -5599,5 +5599,265 @@
     "explanation": "La estructura de 2025 exige estudiar el organigrama y la normativa vigente; las páginas institucionales sirven para comprobar la adscripción actual, mientras los estatutos antiguos se conservan para misiones y modelos de gestión no incompatibles.",
     "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
     "source": { "lawId": "cultura-inaem-centros-2026", "anchorId": "cultura-inaem-centros-2026-categorias", "reference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026; Real Decreto 1028/2025", "url": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html" }
+  },
+  {
+    "id": "m3-labor-001",
+    "topicId": "comun-14",
+    "prompt": "¿Qué elemento define la relación laboral del artículo 1 del Estatuto de los Trabajadores?",
+    "options": [
+      { "id": "a", "text": "Servicio retribuido por cuenta ajena y bajo dirección ajena." },
+      { "id": "b", "text": "Actividad gratuita fuera de organización." },
+      { "id": "c", "text": "Prestación autónoma sin retribución ni dependencia." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1.1 exige voluntariedad, retribución, ajenidad y prestación dentro del ámbito de organización y dirección del empleador.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a1", "reference": "Real Decreto Legislativo 2/2015, artículo 1.1", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-002",
+    "topicId": "comun-14",
+    "prompt": "¿Cuál es un derecho laboral básico del artículo 4 del Estatuto de los Trabajadores?",
+    "options": [
+      { "id": "a", "text": "La negociación colectiva y la adopción de medidas de conflicto colectivo." },
+      { "id": "b", "text": "La modificación unilateral de cualquier condición de trabajo." },
+      { "id": "c", "text": "La exención de cumplir las obligaciones de seguridad laboral." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 4 reconoce, entre otros, la libre sindicación, negociación colectiva, huelga y adopción de medidas de conflicto colectivo.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a4", "reference": "Real Decreto Legislativo 2/2015, artículo 4", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-003",
+    "topicId": "comun-14",
+    "prompt": "¿Qué requisito formal exige el periodo de prueba?",
+    "options": [
+      { "id": "a", "text": "Debe concertarse por escrito y respetar el convenio colectivo." },
+      { "id": "b", "text": "Puede pactarse verbalmente sin límite convencional." },
+      { "id": "c", "text": "Solo puede establecerlo la autoridad laboral." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 14 exige pacto escrito y sujeción a los límites y condiciones establecidos, en su caso, por el convenio colectivo.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a14", "reference": "Real Decreto Legislativo 2/2015, artículo 14", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-004",
+    "topicId": "comun-14",
+    "prompt": "¿Cuál es la duración máxima de la jornada ordinaria de promedio anual?",
+    "options": [
+      { "id": "a", "text": "Cuarenta horas semanales de trabajo efectivo." },
+      { "id": "b", "text": "Treinta y cinco horas semanales de trabajo efectivo." },
+      { "id": "c", "text": "Cuarenta y ocho horas semanales de presencia." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 34.1 establece una duración máxima de cuarenta horas semanales de trabajo efectivo de promedio en cómputo anual.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a34", "reference": "Real Decreto Legislativo 2/2015, artículo 34.1", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-005",
+    "topicId": "comun-14",
+    "prompt": "¿Qué causas pueden justificar una modificación sustancial de condiciones?",
+    "options": [
+      { "id": "a", "text": "Económicas, técnicas, organizativas o de producción." },
+      { "id": "b", "text": "Solo razones disciplinarias imputables al trabajador." },
+      { "id": "c", "text": "Únicamente una decisión discrecional sin causa." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 41 permite modificaciones sustanciales cuando existan probadas razones económicas, técnicas, organizativas o de producción, con el procedimiento legal.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a41", "reference": "Real Decreto Legislativo 2/2015, artículo 41", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-006",
+    "topicId": "comun-14",
+    "prompt": "¿Qué caracteriza al despido colectivo del artículo 51?",
+    "options": [
+      { "id": "a", "text": "Extinciones ETOP que alcanzan umbrales legales en 90 días." },
+      { "id": "b", "text": "Sanción individual por incumplimiento grave del trabajador." },
+      { "id": "c", "text": "Suspensión temporal sin extinguir la relación laboral." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 51 define el despido colectivo por causas ETOP cuando se alcanzan los umbrales legales en un periodo de noventa días y exige periodo de consultas.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a51", "reference": "Real Decreto Legislativo 2/2015, artículo 51", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-007",
+    "topicId": "comun-14",
+    "prompt": "¿Qué fundamento exige el despido disciplinario?",
+    "options": [
+      { "id": "a", "text": "Un incumplimiento grave y culpable del trabajador." },
+      { "id": "b", "text": "Cualquier desacuerdo sobre el calendario laboral." },
+      { "id": "c", "text": "Una causa económica general, aunque no afecte al trabajador." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 54.1 exige un incumplimiento contractual grave y culpable; el apartado 2 enumera conductas que pueden constituirlo.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a54", "reference": "Real Decreto Legislativo 2/2015, artículo 54", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-008",
+    "topicId": "comun-14",
+    "prompt": "¿Qué debe expresar la comunicación escrita de un despido disciplinario?",
+    "options": [
+      { "id": "a", "text": "Los hechos que lo motivan y la fecha en que tendrá efectos." },
+      { "id": "b", "text": "Solo la identidad de la persona trabajadora." },
+      { "id": "c", "text": "La propuesta de convenio colectivo aplicable." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 55.1 exige comunicación escrita con los hechos que motivan el despido y la fecha de efectos, además de los requisitos convencionales.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a55", "reference": "Real Decreto Legislativo 2/2015, artículo 55.1", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-009",
+    "topicId": "comun-14",
+    "prompt": "¿Qué efecto tienen los convenios colectivos durante su vigencia?",
+    "options": [
+      { "id": "a", "text": "Obligan a empresarios y trabajadores incluidos en su ámbito." },
+      { "id": "b", "text": "Solo orientan a las partes sin fuerza vinculante." },
+      { "id": "c", "text": "Obligan únicamente a quienes los firmaron personalmente." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 82.3 atribuye a los convenios colectivos eficacia obligatoria para empresarios y trabajadores incluidos en su ámbito durante su vigencia.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a82", "reference": "Real Decreto Legislativo 2/2015, artículo 82.3", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-010",
+    "topicId": "comun-14",
+    "prompt": "¿Qué trámite exige el artículo 90 para un convenio colectivo?",
+    "options": [
+      { "id": "a", "text": "Registro y publicación en el boletín oficial." },
+      { "id": "b", "text": "Referéndum obligatorio de la plantilla." },
+      { "id": "c", "text": "Inscripción únicamente mercantil." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 90 establece la presentación ante la autoridad laboral competente para registro y la publicación en el boletín oficial correspondiente.",
+    "source": { "lawId": "rdleg-2-2015-et", "anchorId": "rdleg-2-2015-et-a90", "reference": "Real Decreto Legislativo 2/2015, artículo 90", "url": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con" }
+  },
+  {
+    "id": "m3-labor-011",
+    "topicId": "comun-15",
+    "prompt": "¿Qué comprende la libertad sindical según la Ley Orgánica 11/1985?",
+    "options": [
+      { "id": "a", "text": "Fundar sindicatos, afiliarse o separarse y ejercer actividad sindical." },
+      { "id": "b", "text": "Afiliarse obligatoriamente al sindicato mayoritario del sector." },
+      { "id": "c", "text": "Solo participar en elecciones, sin negociar ni hacer huelga." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo segundo incluye fundar sindicatos sin autorización previa, afiliarse o separarse, elegir representantes y ejercer actividad sindical.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a2", "reference": "Ley Orgánica 11/1985, artículo segundo.1", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-labor-012",
+    "topicId": "comun-15",
+    "prompt": "¿Qué pueden hacer las organizaciones sindicales en ejercicio de la libertad sindical?",
+    "options": [
+      { "id": "a", "text": "Redactar estatutos, organizarse y crear federaciones." },
+      { "id": "b", "text": "Disolver empresas sin resolución judicial." },
+      { "id": "c", "text": "Imponer cuotas sin consentimiento." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo segundo.2 reconoce la autonomía organizativa y la facultad de constituir federaciones, confederaciones y organizaciones internacionales.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a2", "reference": "Ley Orgánica 11/1985, artículo segundo.2.a-b", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-labor-013",
+    "topicId": "comun-15",
+    "prompt": "¿Qué posición confiere la mayor representatividad sindical?",
+    "options": [
+      { "id": "a", "text": "Una posición singular para participación institucional y acción sindical." },
+      { "id": "b", "text": "La exclusión de toda negociación colectiva sectorial." },
+      { "id": "c", "text": "La capacidad de suspender sindicatos sin intervención judicial." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo sexto.1 reconoce a los sindicatos más representativos una posición singular a efectos de participación institucional y acción sindical.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a6", "reference": "Ley Orgánica 11/1985, artículo sexto.1", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-labor-014",
+    "topicId": "comun-15",
+    "prompt": "¿Qué niveles de representatividad distingue la Ley Orgánica de Libertad Sindical?",
+    "options": [
+      { "id": "a", "text": "Estatal, autonómica y suficiente en un ámbito específico." },
+      { "id": "b", "text": "Solo nacional y municipal, sin ámbito funcional." },
+      { "id": "c", "text": "Provincial exclusivamente, con independencia del sector." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo séptimo distingue la mayor representatividad estatal y autonómica y la representatividad suficiente en un ámbito territorial y funcional específico.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a7", "reference": "Ley Orgánica 11/1985, artículo séptimo", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-labor-015",
+    "topicId": "comun-15",
+    "prompt": "¿Qué pueden constituir los trabajadores afiliados en la empresa o centro de trabajo?",
+    "options": [
+      { "id": "a", "text": "Secciones sindicales, con los derechos de reunión e información legales." },
+      { "id": "b", "text": "Órganos judiciales internos con potestad sancionadora." },
+      { "id": "c", "text": "Comités de empresa sin atender al número de trabajadores." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo octavo reconoce la posibilidad de constituir secciones sindicales y ejercer derechos de reunión, recaudación de cuotas y distribución de información.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a8", "reference": "Ley Orgánica 11/1985, artículo octavo", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-labor-016",
+    "topicId": "comun-15",
+    "prompt": "¿Cuándo pueden existir delegados sindicales conforme al artículo diez?",
+    "options": [
+      { "id": "a", "text": "En empresas o centros con más de 250 trabajadores, en los términos legales." },
+      { "id": "b", "text": "En cualquier empresa, aunque no exista sección sindical." },
+      { "id": "c", "text": "Solo en centros de la Administración General del Estado." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo diez contempla delegados sindicales en empresas o centros de trabajo que ocupen a más de 250 trabajadores, cuando la sección sindical cumple los requisitos de presencia en el comité.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a10", "reference": "Ley Orgánica 11/1985, artículo diez", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-labor-017",
+    "topicId": "comun-15",
+    "prompt": "¿Qué requisito se asocia a la cuota sindical descontada por el empresario?",
+    "options": [
+      { "id": "a", "text": "Solicitud del sindicato y conformidad del trabajador." },
+      { "id": "b", "text": "Orden automática de la autoridad laboral en todo caso." },
+      { "id": "c", "text": "Autorización del comité de empresa sin intervención individual." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo once regula el descuento de la cuota sindical sobre salarios a solicitud del sindicato y con conformidad de la persona trabajadora.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a11", "reference": "Ley Orgánica 11/1985, artículo once", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-labor-018",
+    "topicId": "comun-15",
+    "prompt": "¿Qué materias forman parte de la actividad sindical en la empresa?",
+    "options": [
+      { "id": "a", "text": "Negociación colectiva, huelga, conflictos y candidaturas representativas." },
+      { "id": "b", "text": "Solo campañas electorales, sin negociación ni conflictos." },
+      { "id": "c", "text": "Únicamente la gestión económica de las cuotas sindicales." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo segundo.2.d incluye negociación colectiva, huelga, planteamiento de conflictos individuales y colectivos y presentación de candidaturas.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a2", "reference": "Ley Orgánica 11/1985, artículo segundo.2.d", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-labor-019",
+    "topicId": "comun-15",
+    "prompt": "¿Qué garantía protege a las organizaciones sindicales frente a la suspensión o disolución?",
+    "options": [
+      { "id": "a", "text": "Solo por resolución judicial firme fundada en la ley." },
+      { "id": "b", "text": "Por decisión unilateral de la empresa." },
+      { "id": "c", "text": "Por la Administración sin motivación." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo segundo.2.c exige resolución firme de la autoridad judicial fundada en incumplimiento grave de las leyes.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a2", "reference": "Ley Orgánica 11/1985, artículo segundo.2.c", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-labor-020",
+    "topicId": "comun-15",
+    "prompt": "¿Qué principio rige la afiliación sindical?",
+    "options": [
+      { "id": "a", "text": "Nadie puede ser obligado a afiliarse a un sindicato." },
+      { "id": "b", "text": "La afiliación al sindicato mayoritario es obligatoria." },
+      { "id": "c", "text": "Solo pueden afiliarse trabajadores con autorización empresarial." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo segundo.1.b reconoce afiliarse al sindicato elegido o separarse y establece que nadie puede ser obligado a afiliarse a un sindicato.",
+    "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a2", "reference": "Ley Orgánica 11/1985, artículo segundo.1.b", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
   }
 ]
