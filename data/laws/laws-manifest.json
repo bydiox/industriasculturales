@@ -100,6 +100,26 @@
       "versionDate": "20251218",
       "file": "rd-314-2006.html",
       "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-39-2015",
+      "slug": "ley-39-2015",
+      "title": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+      "legalReference": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "versionDate": "20260715",
+      "file": "ley-39-2015.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-40-2015",
+      "slug": "ley-40-2015",
+      "title": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "legalReference": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+      "versionDate": "20260729",
+      "file": "ley-40-2015.html",
+      "sourceType": "boe-consolidado"
     }
   ]
 }

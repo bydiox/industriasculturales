@@ -3839,5 +3839,365 @@
       "reference": "RD 773/1997, artículo 8.2",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735"
     }
+  },
+  {
+    "id": "m3-admin-001",
+    "topicId": "comun-08",
+    "prompt": "¿Qué materias regula principalmente la Ley 39/2015?",
+    "options": [
+      { "id": "a", "text": "Validez de actos, procedimiento común y potestad reglamentaria." },
+      { "id": "b", "text": "Solo la organización interna de los ministerios." },
+      { "id": "c", "text": "Únicamente la responsabilidad patrimonial y los contratos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1 incluye los requisitos de validez y eficacia de los actos, el procedimiento administrativo común —incluidos el sancionador y el de responsabilidad— y los principios de la iniciativa legislativa y la potestad reglamentaria.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a1",
+      "reference": "Ley 39/2015, artículo 1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-002",
+    "topicId": "comun-08",
+    "prompt": "¿Cuál de estas entidades se incluye en el sector público institucional a efectos de la Ley 39/2015?",
+    "options": [
+      { "id": "a", "text": "Universidades públicas, con normativa propia y Ley supletoria." },
+      { "id": "b", "text": "Solo las sociedades privadas sin vinculación administrativa." },
+      { "id": "c", "text": "Únicamente los órganos constitucionales del Estado." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 2.2.c incluye las universidades públicas, que se rigen por su normativa específica y supletoriamente por las previsiones de la Ley 39/2015.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a2",
+      "reference": "Ley 39/2015, artículo 2.2.c",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-003",
+    "topicId": "comun-08",
+    "prompt": "¿Qué principio aparece expresamente entre los que deben respetar las Administraciones Públicas?",
+    "options": [
+      { "id": "a", "text": "Buena fe, confianza legítima y lealtad institucional." },
+      { "id": "b", "text": "Reserva de toda actuación y ausencia de participación." },
+      { "id": "c", "text": "Preferencia por la actuación presencial y no interoperable." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 3.1.e de la Ley 40/2015 incluye buena fe, confianza legítima y lealtad institucional entre los principios generales de actuación administrativa.",
+    "source": {
+      "lawId": "ley-40-2015",
+      "anchorId": "ley-40-2015-a3",
+      "reference": "Ley 40/2015, artículo 3.1.e",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+    }
+  },
+  {
+    "id": "m3-admin-004",
+    "topicId": "comun-08",
+    "prompt": "¿Qué requisito debe cumplir la creación de un órgano administrativo?",
+    "options": [
+      { "id": "a", "text": "Delimitar funciones y dotar créditos necesarios." },
+      { "id": "b", "text": "Puede duplicar otro órgano sin justificar la diferencia funcional." },
+      { "id": "c", "text": "No necesita determinar su dependencia jerárquica." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 5.3 de la Ley 40/2015 exige, entre otros requisitos, determinar la integración y dependencia jerárquica, delimitar funciones y competencias y dotar los créditos necesarios.",
+    "source": {
+      "lawId": "ley-40-2015",
+      "anchorId": "ley-40-2015-a5",
+      "reference": "Ley 40/2015, artículo 5.3",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+    }
+  },
+  {
+    "id": "m3-admin-005",
+    "topicId": "comun-08",
+    "prompt": "¿Cómo se configura la competencia administrativa?",
+    "options": [
+      { "id": "a", "text": "Es irrenunciable, salvo delegación o avocación legal." },
+      { "id": "b", "text": "Es renunciable por decisión unilateral del órgano competente." },
+      { "id": "c", "text": "Se transmite siempre que se encomiende la gestión." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 8.1 de la Ley 40/2015 declara irrenunciable la competencia, aunque admite delegación o avocación en los términos previstos legalmente.",
+    "source": {
+      "lawId": "ley-40-2015",
+      "anchorId": "ley-40-2015-a8",
+      "reference": "Ley 40/2015, artículo 8.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+    }
+  },
+  {
+    "id": "m3-admin-006",
+    "topicId": "comun-08",
+    "prompt": "¿Qué no altera la titularidad de la competencia según la Ley 40/2015?",
+    "options": [
+      { "id": "a", "text": "La delegación de competencias, la encomienda de gestión y la suplencia." },
+      { "id": "b", "text": "La creación de un nuevo ministerio y la aprobación de una ley." },
+      { "id": "c", "text": "La avocación cuando se ejerce fuera de los límites legales." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 8.1 aclara que delegación, encomienda de gestión, delegación de firma y suplencia no alteran la titularidad, aunque sí elementos del ejercicio en cada caso.",
+    "source": {
+      "lawId": "ley-40-2015",
+      "anchorId": "ley-40-2015-a8",
+      "reference": "Ley 40/2015, artículo 8.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+    }
+  },
+  {
+    "id": "m3-admin-007",
+    "topicId": "comun-09",
+    "prompt": "¿Qué personas están obligadas en todo caso a relacionarse electrónicamente con las Administraciones?",
+    "options": [
+      { "id": "a", "text": "Las personas jurídicas y las entidades sin personalidad jurídica." },
+      { "id": "b", "text": "Todas las personas físicas, sin posibilidad de elección." },
+      { "id": "c", "text": "Solo quienes actúen como funcionarios de carrera." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 14.2.a y b de la Ley 39/2015 incluye en la obligación a las personas jurídicas y a las entidades sin personalidad jurídica, junto con otros sujetos.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a14",
+      "reference": "Ley 39/2015, artículo 14.2.a y b",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-008",
+    "topicId": "comun-09",
+    "prompt": "¿Qué registro debe tener cada Administración Pública?",
+    "options": [
+      { "id": "a", "text": "Un Registro Electrónico General para asentar documentos." },
+      { "id": "b", "text": "Solo registros presenciales sin conexión entre organismos." },
+      { "id": "c", "text": "Un registro exclusivo para documentos de salida." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 16.1 de la Ley 39/2015 exige un Registro Electrónico General para el asiento de los documentos presentados o recibidos y permite registros propios interoperables de organismos dependientes.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a16",
+      "reference": "Ley 39/2015, artículo 16.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-009",
+    "topicId": "comun-09",
+    "prompt": "¿Cuál es el plazo máximo general si la norma reguladora no fija el plazo de resolución?",
+    "options": [
+      { "id": "a", "text": "Un mes desde la iniciación." },
+      { "id": "b", "text": "Tres meses desde la iniciación." },
+      { "id": "c", "text": "Seis meses desde la iniciación." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 21.3 de la Ley 39/2015 fija en tres meses el plazo máximo cuando las normas reguladoras del procedimiento no establecen otro.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a21",
+      "reference": "Ley 39/2015, artículo 21.3",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-010",
+    "topicId": "comun-09",
+    "prompt": "¿A quién obligan los términos y plazos administrativos?",
+    "options": [
+      { "id": "a", "text": "Solo a los interesados que hayan iniciado el procedimiento." },
+      { "id": "b", "text": "A autoridades, personal competente e interesados." },
+      { "id": "c", "text": "Solo al órgano que deba resolver." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 29 de la Ley 39/2015 establece que los términos y plazos obligan a autoridades y personal al servicio de las Administraciones competentes y a los interesados.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a29",
+      "reference": "Ley 39/2015, artículo 29",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-011",
+    "topicId": "comun-09",
+    "prompt": "¿Quién debe producir los actos administrativos?",
+    "options": [
+      { "id": "a", "text": "El órgano competente, conforme al procedimiento." },
+      { "id": "b", "text": "Cualquier unidad que tramite materialmente el expediente." },
+      { "id": "c", "text": "El interesado, salvo que la Administración se oponga." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 34.1 de la Ley 39/2015 exige que los actos se produzcan por el órgano competente y conforme a los requisitos y al procedimiento establecido.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a34",
+      "reference": "Ley 39/2015, artículo 34.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-012",
+    "topicId": "comun-09",
+    "prompt": "¿En qué plazo debe cursarse una notificación desde que se dicta el acto?",
+    "options": [
+      { "id": "a", "text": "Dentro de cinco días." },
+      { "id": "b", "text": "Dentro de diez días." },
+      { "id": "c", "text": "Dentro de un mes." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 40.2 de la Ley 39/2015 ordena cursar toda notificación dentro de los diez días siguientes a la fecha en que se haya dictado el acto.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a40",
+      "reference": "Ley 39/2015, artículo 40.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-013",
+    "topicId": "comun-09",
+    "prompt": "¿Cuándo se entiende rechazada una notificación electrónica obligatoria no abierta?",
+    "options": [
+      { "id": "a", "text": "Transcurridos cinco días naturales desde su puesta a disposición." },
+      { "id": "b", "text": "Transcurridos diez días naturales desde su puesta a disposición." },
+      { "id": "c", "text": "Transcurridos diez días hábiles desde su puesta a disposición." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 43.2 de la Ley 39/2015 establece el rechazo tras diez días naturales sin acceder al contenido cuando la notificación es obligatoria o fue expresamente elegida.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a43",
+      "reference": "Ley 39/2015, artículo 43.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-014",
+    "topicId": "comun-09",
+    "prompt": "¿Cuál es un supuesto de nulidad de pleno derecho de un acto administrativo?",
+    "options": [
+      { "id": "a", "text": "Órgano manifiestamente incompetente por materia o territorio." },
+      { "id": "b", "text": "Cualquier defecto formal subsanable sin indefensión." },
+      { "id": "c", "text": "Cualquier actuación realizada fuera de plazo, sin excepción." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 47.1.b de la Ley 39/2015 declara nulos los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a47",
+      "reference": "Ley 39/2015, artículo 47.1.b",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-015",
+    "topicId": "comun-09",
+    "prompt": "¿Cuándo produce anulabilidad un defecto de forma?",
+    "options": [
+      { "id": "a", "text": "Cuando impide alcanzar el fin del acto o causa indefensión." },
+      { "id": "b", "text": "Siempre que el acto no tenga formato electrónico." },
+      { "id": "c", "text": "Solo cuando lo alegue una persona que no sea interesada." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 48.2 de la Ley 39/2015 limita la anulabilidad por defecto de forma a los casos en que falten requisitos formales indispensables para alcanzar el fin o se produzca indefensión.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a48",
+      "reference": "Ley 39/2015, artículo 48.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-016",
+    "topicId": "comun-09",
+    "prompt": "¿Qué puede conocer y obtener el interesado en cualquier momento del procedimiento?",
+    "options": [
+      { "id": "a", "text": "El estado de tramitación y copia de los documentos del procedimiento." },
+      { "id": "b", "text": "Solo la identidad del empleado que tramita el expediente." },
+      { "id": "c", "text": "Únicamente la resolución final, una vez notificada." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 53.1.a de la Ley 39/2015 reconoce el derecho a conocer el estado de tramitación y a acceder y obtener copia de los documentos del procedimiento.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a53",
+      "reference": "Ley 39/2015, artículo 53.1.a",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-017",
+    "topicId": "comun-09",
+    "prompt": "¿Cuál de estas formas pone fin al procedimiento administrativo?",
+    "options": [
+      { "id": "a", "text": "Resolución, desistimiento, renuncia o caducidad." },
+      { "id": "b", "text": "Solo resolución expresa, sin excepciones." },
+      { "id": "c", "text": "Únicamente silencio administrativo y archivo provisional." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 84.1 de la Ley 39/2015 enumera resolución, desistimiento, renuncia y caducidad como formas de terminación, junto con la imposibilidad material sobrevenida del apartado 2.",
+    "source": {
+      "lawId": "ley-39-2015",
+      "anchorId": "ley-39-2015-a84",
+      "reference": "Ley 39/2015, artículo 84",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    }
+  },
+  {
+    "id": "m3-admin-018",
+    "topicId": "especifico-43",
+    "prompt": "¿Cuál de estas entidades integra el sector público institucional estatal?",
+    "options": [
+      { "id": "a", "text": "Los organismos autónomos y las entidades públicas empresariales." },
+      { "id": "b", "text": "Solo las unidades administrativas sin personalidad jurídica." },
+      { "id": "c", "text": "Únicamente los ministerios y sus subdirecciones generales." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 84.1.a de la Ley 40/2015 incluye los organismos públicos vinculados o dependientes de la AGE, clasificados en organismos autónomos, entidades públicas empresariales y agencias estatales, además de otras categorías.",
+    "source": {
+      "lawId": "ley-40-2015",
+      "anchorId": "ley-40-2015-a84",
+      "reference": "Ley 40/2015, artículo 84.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+    }
+  },
+  {
+    "id": "m3-admin-019",
+    "topicId": "especifico-43",
+    "prompt": "¿Cada cuánto se revisan las líneas estratégicas del plan de actuación de una entidad estatal?",
+    "options": [
+      { "id": "a", "text": "Cada año, sin plan de actuación plurianual." },
+      { "id": "b", "text": "Cada tres años, completándose con planes anuales." },
+      { "id": "c", "text": "Cada cinco años, sin actualización anual." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 85.1 de la Ley 40/2015 exige un plan de actuación con líneas estratégicas revisables cada tres años y completado con planes anuales.",
+    "source": {
+      "lawId": "ley-40-2015",
+      "anchorId": "ley-40-2015-a85",
+      "reference": "Ley 40/2015, artículo 85.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+    }
+  },
+  {
+    "id": "m3-admin-020",
+    "topicId": "especifico-43",
+    "prompt": "¿Qué naturaleza tienen los organismos autónomos según la Ley 40/2015?",
+    "options": [
+      { "id": "a", "text": "Entidades públicas con personalidad y patrimonio propios." },
+      { "id": "b", "text": "Sociedades mercantiles privadas sin autonomía de gestión." },
+      { "id": "c", "text": "Órganos administrativos sin personalidad jurídica diferenciada." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 98.1 define los organismos autónomos como entidades de derecho público con personalidad jurídica propia, tesorería y patrimonio propios y autonomía en su gestión.",
+    "source": {
+      "lawId": "ley-40-2015",
+      "anchorId": "ley-40-2015-a98",
+      "reference": "Ley 40/2015, artículo 98.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566"
+    }
   }
 ]
