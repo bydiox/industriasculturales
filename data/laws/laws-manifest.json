@@ -280,6 +280,36 @@
       "versionDate": "20240802",
       "file": "lo-11-1985-libertad-sindical.html",
       "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "slug": "ley-9-2017-lcsp",
+      "title": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "legalReference": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.",
+      "officialUrl": "https://www.boe.es/eli/es/l/2017/11/08/9/con",
+      "versionDate": "20260409",
+      "file": "ley-9-2017-lcsp.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "rd-1435-1985",
+      "slug": "rd-1435-1985",
+      "title": "Real Decreto 1435/1985, de 1 de agosto, relación laboral especial artística",
+      "legalReference": "Real Decreto 1435/1985, de 1 de agosto, por el que se regula la relación laboral especial de las personas artistas.",
+      "officialUrl": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con",
+      "versionDate": "20220323",
+      "file": "rd-1435-1985-artistas.html",
+      "sourceType": "boe-consolidado-temporal"
+    },
+    {
+      "lawId": "rd-607-2026",
+      "slug": "rd-607-2026",
+      "title": "Real Decreto 607/2026, de 22 de julio, nuevo régimen laboral artístico",
+      "legalReference": "Real Decreto 607/2026, de 22 de julio, por el que se regula la relación laboral especial de las personas artistas.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-16173",
+      "versionDate": "20260725",
+      "file": "rd-607-2026-artistas.html",
+      "sourceType": "boe-oficial-futuro"
     }
   ]
 }

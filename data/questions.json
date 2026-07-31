@@ -5859,5 +5859,219 @@
     "correctOptionId": "a",
     "explanation": "El artículo segundo.1.b reconoce afiliarse al sindicato elegido o separarse y establece que nadie puede ser obligado a afiliarse a un sindicato.",
     "source": { "lawId": "lo-11-1985-lols", "anchorId": "lo-11-1985-lols-a2", "reference": "Ley Orgánica 11/1985, artículo segundo.1.b", "url": "https://www.boe.es/eli/es/lo/1985/08/02/11/con" }
+  },
+  {
+    "id": "m3-contract-001",
+    "topicId": "comun-10",
+    "prompt": "¿Qué finalidad general persigue la Ley 9/2017 en la contratación pública?",
+    "options": [
+      { "id": "a", "text": "Libertad de acceso, publicidad, transparencia e igualdad de trato." },
+      { "id": "b", "text": "Reserva de contratos sin publicidad para los órganos administrativos." },
+      { "id": "c", "text": "Adjudicación preferente por confianza personal en el contratista." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1 vincula la contratación pública a libertad de acceso, publicidad, transparencia, no discriminación e igualdad, además de integridad y eficiencia.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a1", "reference": "Ley 9/2017, artículo 1", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-002",
+    "topicId": "comun-10",
+    "prompt": "¿Qué caracteriza a un contrato de servicios?",
+    "options": [
+      { "id": "a", "text": "Una prestación de hacer para desarrollar una actividad o lograr un resultado." },
+      { "id": "b", "text": "La adquisición exclusiva de bienes muebles ya fabricados." },
+      { "id": "c", "text": "La explotación de una obra mediante transferencia del riesgo operacional." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 16 define los contratos de servicios como prestaciones de hacer, dirigidas a desarrollar una actividad o conseguir un resultado distinto de una obra o suministro.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a16", "reference": "Ley 9/2017, artículo 16", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-003",
+    "topicId": "comun-10",
+    "prompt": "¿Qué contratos tienen carácter administrativo cuando los celebra una Administración Pública?",
+    "options": [
+      { "id": "a", "text": "Obras, concesiones, suministros y servicios, salvo excepciones legales." },
+      { "id": "b", "text": "Solo los contratos menores de suministro y los convenios." },
+      { "id": "c", "text": "Cualquier contrato privado celebrado por una empresa pública." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 25 enumera como administrativos los contratos de obra, concesión de obra, concesión de servicios, suministro y servicios celebrados por una Administración Pública, con las excepciones previstas.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a25", "reference": "Ley 9/2017, artículo 25", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-004",
+    "topicId": "comun-10",
+    "prompt": "¿Qué exige el principio de necesidad e idoneidad del artículo 28?",
+    "options": [
+      { "id": "a", "text": "Celebrar solo contratos necesarios para los fines institucionales y justificar la necesidad." },
+      { "id": "b", "text": "Contratar siempre por el procedimiento abierto, cualquiera que sea el objeto." },
+      { "id": "c", "text": "Sustituir la definición de necesidades por una memoria económica posterior." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 28 impide celebrar contratos innecesarios y exige determinar con precisión la naturaleza y extensión de las necesidades antes de iniciar el procedimiento.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a28", "reference": "Ley 9/2017, artículo 28", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-005",
+    "topicId": "comun-10",
+    "prompt": "¿Qué regla establece la Ley 9/2017 sobre los lotes?",
+    "options": [
+      { "id": "a", "text": "El objeto puede dividirse en lotes cuando su naturaleza lo permita." },
+      { "id": "b", "text": "Todo contrato debe adjudicarse necesariamente en un único lote." },
+      { "id": "c", "text": "Los lotes solo se permiten en contratos de obras públicas." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 99 promueve la división en lotes cuando sea posible; la no división debe justificarse en el expediente cuando proceda.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a99", "reference": "Ley 9/2017, artículo 99", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-006",
+    "topicId": "comun-10",
+    "prompt": "¿Qué debe motivar el expediente de contratación?",
+    "options": [
+      { "id": "a", "text": "La necesidad del contrato y la documentación exigida por la ley." },
+      { "id": "b", "text": "Solo la identidad del adjudicatario elegido." },
+      { "id": "c", "text": "La conveniencia de evitar la publicidad del procedimiento." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 116 exige iniciar expediente por el órgano de contratación y motivar la necesidad, incorporando la documentación legalmente requerida.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a116", "reference": "Ley 9/2017, artículo 116", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-007",
+    "topicId": "comun-10",
+    "prompt": "¿Cuáles son los procedimientos ordinarios de adjudicación?",
+    "options": [
+      { "id": "a", "text": "Abierto y restringido, salvo excepciones legales." },
+      { "id": "b", "text": "Negociado sin publicidad y directo." },
+      { "id": "c", "text": "Concurso de proyectos y diálogo competitivo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 131 dispone que la adjudicación se realiza ordinariamente mediante procedimiento abierto o restringido, sin perjuicio de otros supuestos legales.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a131", "reference": "Ley 9/2017, artículo 131", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-008",
+    "topicId": "comun-10",
+    "prompt": "¿En qué debe basarse la adjudicación según el artículo 145?",
+    "options": [
+      { "id": "a", "text": "Varios criterios ligados a calidad-precio y al objeto." },
+      { "id": "b", "text": "Solo el precio más bajo, sin criterios adicionales." },
+      { "id": "c", "text": "Antigüedad acreditada del contratista público." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 145 establece la pluralidad de criterios de adjudicación basados en la mejor relación calidad-precio y vinculados al objeto del contrato.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a145", "reference": "Ley 9/2017, artículo 145", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-009",
+    "topicId": "comun-10",
+    "prompt": "¿Qué hace el órgano de contratación tras clasificar las ofertas?",
+    "options": [
+      { "id": "a", "text": "Requiere documentación al mejor clasificado." },
+      { "id": "b", "text": "Adjudica sin documentación adicional." },
+      { "id": "c", "text": "Devuelve ofertas y reinicia." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 150 prevé clasificar las proposiciones por orden decreciente y requerir al mejor clasificado la documentación previa a la adjudicación.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a150", "reference": "Ley 9/2017, artículo 150", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-010",
+    "topicId": "comun-10",
+    "prompt": "¿Qué prerrogativa tiene el órgano de contratación sobre un contrato administrativo?",
+    "options": [
+      { "id": "a", "text": "Interpretarlo, resolver dudas y modificarlo por interés público." },
+      { "id": "b", "text": "Cambiarlo libremente sin límites ni procedimiento." },
+      { "id": "c", "text": "Delegar siempre la interpretación en el contratista." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 190 enumera prerrogativas como interpretar, resolver dudas, modificar por razones de interés público, declarar responsabilidad y acordar la resolución dentro de los límites legales.",
+    "source": { "lawId": "ley-9-2017-lcsp", "anchorId": "ley-9-2017-lcsp-a190", "reference": "Ley 9/2017, artículo 190", "url": "https://www.boe.es/eli/es/l/2017/11/08/9/con" }
+  },
+  {
+    "id": "m3-contract-011",
+    "topicId": "especifico-45",
+    "prompt": "¿Qué actividades cubre la relación laboral especial del RD 1435/1985 en su redacción de 2022?",
+    "options": [
+      { "id": "a", "text": "Artes escénicas, audiovisuales, musicales y tareas auxiliares." },
+      { "id": "b", "text": "Solo actuaciones teatrales de intérpretes, sin personal técnico." },
+      { "id": "c", "text": "Cualquier trabajo cultural, aunque no sea artístico ni auxiliar." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1, tras la reforma de 2022, amplió expresamente el ámbito a personas artistas de artes escénicas, audiovisuales y musicales y a actividades técnicas o auxiliares necesarias.",
+    "temporalContext": "vigente-hasta-2027-05-24",
+    "source": { "lawId": "rd-1435-1985", "anchorId": "rd-1435-1985-a1", "reference": "Real Decreto 1435/1985, artículo 1; vigente hasta el 24/05/2027", "url": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con" }
+  },
+  {
+    "id": "m3-contract-012",
+    "topicId": "especifico-45",
+    "prompt": "¿Cómo debe formalizarse el contrato de trabajo artístico?",
+    "options": [
+      { "id": "a", "text": "Por escrito, para actuaciones, temporadas o fases de producción." },
+      { "id": "b", "text": "Siempre verbalmente y por tiempo indefinido." },
+      { "id": "c", "text": "Solo mediante escritura pública ante notario." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 3 exige forma escrita y permite adaptar la duración al proyecto artístico: una o varias actuaciones, temporada, permanencia en cartel o fases de producción.",
+    "temporalContext": "vigente-hasta-2027-05-24",
+    "source": { "lawId": "rd-1435-1985", "anchorId": "rd-1435-1985-a3", "reference": "Real Decreto 1435/1985, artículo 3; vigente hasta el 24/05/2027", "url": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con" }
+  },
+  {
+    "id": "m3-contract-013",
+    "topicId": "especifico-45",
+    "prompt": "¿Qué modalidades de duración contempla el RD 1435/1985?",
+    "options": [
+      { "id": "a", "text": "Indefinida o determinada, según necesidades artísticas." },
+      { "id": "b", "text": "Solo temporal, sin posibilidad de contrato indefinido." },
+      { "id": "c", "text": "Solo indefinida, salvo autorización judicial." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 5 admite contratos indefinidos o de duración determinada; la modalidad temporal debe estar justificada por las necesidades de la actividad artística.",
+    "temporalContext": "vigente-hasta-2027-05-24",
+    "source": { "lawId": "rd-1435-1985", "anchorId": "rd-1435-1985-a5", "reference": "Real Decreto 1435/1985, artículo 5; vigente hasta el 24/05/2027", "url": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con" }
+  },
+  {
+    "id": "m3-contract-014",
+    "topicId": "especifico-45",
+    "prompt": "¿Qué jurisdicción conoce de los conflictos derivados del contrato artístico?",
+    "options": [
+      { "id": "a", "text": "El orden jurisdiccional social, según el artículo 11." },
+      { "id": "b", "text": "El orden contencioso-administrativo en todo caso." },
+      { "id": "c", "text": "El orden civil por tratarse de una actividad creativa." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 11 atribuye al orden jurisdiccional social los conflictos entre personas trabajadoras y empresas derivados del contrato.",
+    "temporalContext": "vigente-hasta-2027-05-24",
+    "source": { "lawId": "rd-1435-1985", "anchorId": "rd-1435-1985-a11", "reference": "Real Decreto 1435/1985, artículo 11; vigente hasta el 24/05/2027", "url": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con" }
+  },
+  {
+    "id": "m3-contract-015",
+    "topicId": "especifico-45",
+    "prompt": "¿Qué norma se aplica supletoriamente al régimen artístico vigente?",
+    "options": [
+      { "id": "a", "text": "El Estatuto de los Trabajadores y normas laborales compatibles." },
+      { "id": "b", "text": "Solo la Ley de Contratos del Sector Público." },
+      { "id": "c", "text": "Únicamente los usos profesionales del sector artístico." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 12 aplica supletoriamente el Estatuto de los Trabajadores y demás normas laborales generales en lo no regulado y siempre que sean compatibles con la naturaleza especial.",
+    "temporalContext": "vigente-hasta-2027-05-24",
+    "source": { "lawId": "rd-1435-1985", "anchorId": "rd-1435-1985-a12", "reference": "Real Decreto 1435/1985, artículo 12; vigente hasta el 24/05/2027", "url": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con" }
+  },
+  {
+    "id": "m3-contract-016",
+    "topicId": "especifico-45",
+    "prompt": "¿Cuándo entra en vigor el Real Decreto 607/2026?",
+    "options": [
+      { "id": "a", "text": "El 25 de mayo de 2027." },
+      { "id": "b", "text": "El 25 de julio de 2026, al publicarse." },
+      { "id": "c", "text": "El 1 de enero de 2027, al comenzar el año." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La disposición final segunda del RD 607/2026 fija su entrada en vigor el 25 de mayo de 2027; hasta esa fecha el régimen aplicable para el test es el del RD 1435/1985.",
+    "temporalContext": "prospectivo-hasta-2027-05-24",
+    "source": { "lawId": "rd-607-2026", "anchorId": "rd-607-2026-df-2", "reference": "Real Decreto 607/2026, disposición final segunda; reforma futura", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-16173" }
   }
 ]
