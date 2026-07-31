@@ -4487,5 +4487,347 @@
       "reference": "TFUE, artículo 288; TUE, artículo 1",
       "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12012E%2FTXT"
     }
+  },
+  {
+    "id": "m3-inaem-001",
+    "topicId": "especifico-01",
+    "prompt": "¿Cuándo entró en vigor la reforma organizativa del INAEM aprobada por el Real Decreto 1028/2025?",
+    "options": [
+      { "id": "a", "text": "El 14 de noviembre de 2025." },
+      { "id": "b", "text": "El 13 de noviembre de 2025." },
+      { "id": "c", "text": "El 1 de enero de 2026." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El Real Decreto 1028/2025 se publicó el 13 de noviembre de 2025 y su disposición final cuarta establece que entra en vigor al día siguiente, el 14 de noviembre de 2025.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-df-4",
+      "reference": "Real Decreto 1028/2025, disposición final cuarta",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-002",
+    "topicId": "especifico-01",
+    "prompt": "Tras la reforma de 2025, ¿qué funciones permanecen en el INAEM?",
+    "options": [
+      { "id": "a", "text": "La gestión y programación de sus unidades de producción." },
+      { "id": "b", "text": "Todo el fomento sectorial y la gestión de las subvenciones." },
+      { "id": "c", "text": "Solo la coordinación de los museos estatales de cultura." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El preámbulo del Real Decreto 1028/2025 mantiene en el INAEM las funciones de gestión y programación de las unidades de producción; las competencias de fomento se reordenan en la Dirección General de Artes Escénicas y Música.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-pre",
+      "reference": "Real Decreto 1028/2025, preámbulo",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-003",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué órgano ministerial asume las competencias de fomento que venía ejerciendo el INAEM?",
+    "options": [
+      { "id": "a", "text": "La Dirección General de Artes Escénicas y Música." },
+      { "id": "b", "text": "La Secretaría General del INAEM." },
+      { "id": "c", "text": "La Subdirección General Económico-Administrativa del INAEM." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La reforma crea la Dirección General de Artes Escénicas y Música en el Ministerio de Cultura y le atribuye las competencias de fomento que antes ejercía el INAEM.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-pre",
+      "reference": "Real Decreto 1028/2025, preámbulo",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-004",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué subdirecciones generales dependen de la Dirección General del INAEM según la nueva redacción del artículo 7?",
+    "options": [
+      { "id": "a", "text": "Personal y Económico-Administrativa, junto con la Secretaría General." },
+      { "id": "b", "text": "Teatro y Circo, Música y Danza y Creación Interdisciplinar." },
+      { "id": "c", "text": "Teatro, Música y Danza, y Fomento de las Artes Escénicas." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 7.1 del Real Decreto 2491/1996, en la redacción dada por el Real Decreto 1028/2025, enumera la Secretaría General, la Subdirección General de Personal y la Subdirección General Económico-Administrativa.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-7-1",
+      "reference": "Real Decreto 1028/2025, artículo primero; artículo 7.1 del Real Decreto 2491/1996",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-005",
+    "topicId": "especifico-01",
+    "prompt": "¿Cuál es una función propia de la Secretaría General del INAEM?",
+    "options": [
+      { "id": "a", "text": "Coordinar Personal y Económico-Administrativa." },
+      { "id": "b", "text": "Diseñar la política estatal de danza." },
+      { "id": "c", "text": "Gestionar circuitos de teatro y circo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 7.2 atribuye a la Secretaría General la supervisión y dirección de los asuntos de personal y económico-administrativos, la coordinación de las dos subdirecciones citadas y las funciones que le encomiende la Dirección General.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-7-2",
+      "reference": "Real Decreto 1028/2025, artículo 7.2 del Real Decreto 2491/1996",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-006",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué tarea corresponde a la Subdirección General de Personal del INAEM?",
+    "options": [
+      { "id": "a", "text": "Gestionar recursos humanos y tramitar expedientes sancionadores." },
+      { "id": "b", "text": "Elaborar el anteproyecto de presupuestos y gestionar el régimen interior." },
+      { "id": "c", "text": "Coordinar la proyección exterior de la música y sus circuitos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 7.3 atribuye a la Subdirección General de Personal la gestión de recursos humanos, la inspección y tramitación de expedientes sancionadores dentro de las atribuciones del organismo y la negociación y cumplimiento de convenios colectivos del personal laboral.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-7-3",
+      "reference": "Real Decreto 1028/2025, artículo 7.3 del Real Decreto 2491/1996",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-007",
+    "topicId": "especifico-01",
+    "prompt": "¿Cuál de estas funciones corresponde a la Subdirección General Económico-Administrativa?",
+    "options": [
+      { "id": "a", "text": "Elaborar el anteproyecto de presupuestos y gestionar los servicios generales." },
+      { "id": "b", "text": "Negociar los convenios colectivos del personal laboral del INAEM." },
+      { "id": "c", "text": "Gestionar los circuitos de danza y creación interdisciplinar." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 7.4 atribuye a esta subdirección la gestión económico-administrativa y financiera, la elaboración del anteproyecto de presupuestos y la gestión de los servicios generales y del régimen interior.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-7-4",
+      "reference": "Real Decreto 1028/2025, artículo 7.4 del Real Decreto 2491/1996",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-008",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué unidades dependen de la Dirección General de Artes Escénicas y Música?",
+    "options": [
+      { "id": "a", "text": "Tres subdirecciones y una división especializada." },
+      { "id": "b", "text": "La Secretaría General y dos subdirecciones del INAEM." },
+      { "id": "c", "text": "Solo las subdirecciones de Teatro y Circo y Música." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 5 bis.2 del Real Decreto 323/2024 enumera la Subdirección General de Teatro y Circo, la de Música, la de Danza y Creación Interdisciplinar y la División de Archivo, Documentación y Gestión del Patrimonio Escénico y Musical.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-5bis-5",
+      "reference": "Real Decreto 1028/2025, artículo tercero; artículo 5 bis.2 del Real Decreto 323/2024",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-009",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué ámbito corresponde a la Subdirección General de Teatro y Circo?",
+    "options": [
+      { "id": "a", "text": "Promoción, proyección, participación y circuitos de teatro y circo." },
+      { "id": "b", "text": "Gestión de recursos humanos y convenios colectivos del INAEM." },
+      { "id": "c", "text": "Archivo, documentación y patrimonio escénico y musical." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 5 bis.2.a atribuye a la Subdirección General de Teatro y Circo las funciones de la Dirección General correspondientes a los párrafos a), b), c) y d), relativos al diseño de políticas, proyección, participación sectorial y circuitos de teatro y circo.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-5bis-1",
+      "reference": "Real Decreto 1028/2025, artículo 5 bis.1.a-d y 5 bis.2.a",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-010",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué función se atribuye específicamente a la Subdirección General de Música?",
+    "options": [
+      { "id": "a", "text": "Proteger, promover y difundir la música, incluidas ayudas y premios." },
+      { "id": "b", "text": "Gestionar el Museo Nacional de Artes Escénicas y sus exposiciones." },
+      { "id": "c", "text": "Tramitar expedientes sancionadores del personal del INAEM." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La Subdirección General de Música ejerce las funciones de los párrafos e), f), g) y h) del artículo 5 bis.1: protección, promoción, difusión, ayudas, relaciones institucionales, proyección y circuitos musicales.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-5bis-2",
+      "reference": "Real Decreto 1028/2025, artículo 5 bis.1.e-h y 5 bis.2.b",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-011",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué materias se integran en la Subdirección General de Danza y Creación Interdisciplinar?",
+    "options": [
+      { "id": "a", "text": "Políticas de danza y creación interdisciplinar." },
+      { "id": "b", "text": "Presupuestos y régimen interior del INAEM." },
+      { "id": "c", "text": "Producción teatral y giras del INAEM." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 5 bis.2.c le atribuye las funciones de los párrafos i), j), k), l) y m): difusión, promoción y protección, proyección, formación y educación, participación, circuitos y proyectos, planes y estudios.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-5bis-3",
+      "reference": "Real Decreto 1028/2025, artículo 5 bis.1.i-m y 5 bis.2.c",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-012",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué unidad asume el archivo, la documentación y la gestión del patrimonio escénico y musical?",
+    "options": [
+      { "id": "a", "text": "La División de Archivo, Documentación y Gestión del Patrimonio Escénico y Musical." },
+      { "id": "b", "text": "La Secretaría General del INAEM, como órgano de coordinación administrativa." },
+      { "id": "c", "text": "La Subdirección General de Teatro y Circo, por su función de difusión." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 5 bis.2.d atribuye esa materia a la División de Archivo, Documentación y Gestión del Patrimonio Escénico y Musical, que depende de la Dirección General.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-5bis-4",
+      "reference": "Real Decreto 1028/2025, artículo 5 bis.1.n-p y 5 bis.2.d",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-013",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué órganos del INAEM suprimió expresamente el Real Decreto 1028/2025?",
+    "options": [
+      { "id": "a", "text": "Teatro y Música y Danza del INAEM." },
+      { "id": "b", "text": "La Secretaría General del INAEM." },
+      { "id": "c", "text": "La Dirección General y sus unidades de producción." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La disposición adicional primera declara suprimidas la Subdirección General de Teatro y la Subdirección General de Música y Danza del INAEM. No suprime las unidades de producción ni la estructura administrativa básica del organismo.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-da-1",
+      "reference": "Real Decreto 1028/2025, disposición adicional primera",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-014",
+    "topicId": "especifico-01",
+    "prompt": "¿Cómo deben entenderse las referencias normativas a las subdirecciones del INAEM suprimidas?",
+    "options": [
+      { "id": "a", "text": "Referidas a los órganos creados, sustitutos o competentes según la nueva estructura." },
+      { "id": "b", "text": "Derogadas automáticamente, sin órgano sucesor ni atribución competencial." },
+      { "id": "c", "text": "Mantenidas siempre en la antigua denominación hasta una ley posterior." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La disposición adicional segunda establece una regla de adaptación: las referencias se entienden hechas a los órganos que se crean, los sustituyen o asumen sus competencias y, en defecto de estos, al órgano del que dependieran.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-da-2",
+      "reference": "Real Decreto 1028/2025, disposición adicional segunda",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-015",
+    "topicId": "especifico-01",
+    "prompt": "¿Hasta qué fecha mantienen su validez las delegaciones de competencias afectadas por la nueva Dirección General?",
+    "options": [
+      { "id": "a", "text": "Hasta el 31 de diciembre de 2025, con la adaptación prevista en la norma." },
+      { "id": "b", "text": "Hasta el 14 de noviembre de 2025, fecha de entrada en vigor." },
+      { "id": "c", "text": "Hasta el 31 de diciembre de 2026, por el primer ejercicio completo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La disposición adicional tercera mantiene las delegaciones vigentes hasta el 31 de diciembre de 2025 y las entiende efectuadas por los órganos de la estructura ministerial que tengan atribuidas las competencias.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-da-3",
+      "reference": "Real Decreto 1028/2025, disposición adicional tercera.1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-016",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué órgano de la Secretaría de Estado de Cultura se incorpora en la estructura orgánica básica de 2025?",
+    "options": [
+      { "id": "a", "text": "La Dirección General de Artes Escénicas y Música." },
+      { "id": "b", "text": "La Dirección General de Producción y Programación del INAEM." },
+      { "id": "c", "text": "La Dirección General de Teatro, Circo, Música y Danza." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo segundo del Real Decreto 1028/2025 incorpora la Dirección General de Artes Escénicas y Música entre los órganos directivos dependientes de la Secretaría de Estado de Cultura.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-5bis",
+      "reference": "Real Decreto 1028/2025, artículo segundo y artículo tercero",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-017",
+    "topicId": "especifico-01",
+    "prompt": "¿Qué combinación describe correctamente una función de la Dirección General de Artes Escénicas y Música?",
+    "options": [
+      { "id": "a", "text": "Proteger el patrimonio escénico y musical y gestionar el MNAE y el CDAEM." },
+      { "id": "b", "text": "Gestionar exclusivamente las nóminas y los expedientes disciplinarios del INAEM." },
+      { "id": "c", "text": "Programar todas las unidades de producción del INAEM sin intervención del organismo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 5 bis.1.n-p atribuye a la Dirección General la protección y difusión del patrimonio escénico y musical, la investigación y la gestión del Museo Nacional de Artes Escénicas y del CDAEM.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-5bis-4",
+      "reference": "Real Decreto 1028/2025, artículo 5 bis.1.n-p",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
+  },
+  {
+    "id": "m3-inaem-018",
+    "topicId": "especifico-01",
+    "prompt": "¿Con qué debe coordinar el INAEM la distribución y gestión de sus giras?",
+    "options": [
+      { "id": "a", "text": "Con la proyección estatal y exterior de la Dirección General." },
+      { "id": "b", "text": "Con la Secretaría General y los convenios colectivos del INAEM." },
+      { "id": "c", "text": "Con la División de Archivo, Documentación y Patrimonio del INAEM." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 3.c del Real Decreto 2491/1996, en la redacción de 2025, mantiene en el INAEM la distribución y gestión de giras, coordinada con la proyección estatal y exterior de la Dirección General.",
+    "editorialRuleIds": ["inaem-organizacion-post-2025"],
+    "source": {
+      "lawId": "rd-1028-2025",
+      "anchorId": "rd-1028-2025-art-3-c",
+      "reference": "Real Decreto 1028/2025, artículo 3.c del Real Decreto 2491/1996",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948"
+    }
   }
 ]

@@ -140,6 +140,16 @@
       "versionDate": "20121026",
       "file": "eu-tfeu-2012.html",
       "sourceType": "eur-lex-consolidado"
+    },
+    {
+      "lawId": "rd-1028-2025",
+      "slug": "rd-1028-2025",
+      "title": "Real Decreto 1028/2025, de 12 de noviembre, de reforma de la estructura del INAEM y del Ministerio de Cultura",
+      "legalReference": "Real Decreto 1028/2025, de 12 de noviembre, por el que se modifican el Real Decreto 2491/1996, el Real Decreto 1009/2023, el Real Decreto 323/2024 y el Real Decreto 1122/2024.",
+      "officialUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
+      "versionDate": "20251114",
+      "file": "rd-1028-2025.html",
+      "sourceType": "boe-oficial"
     }
   ]
 }
