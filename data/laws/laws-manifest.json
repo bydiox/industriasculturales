@@ -230,6 +230,36 @@
       "versionDate": "20100725",
       "file": "orden-cul-1993-2010-cnd.html",
       "sourceType": "boe-oficial-pre-reforma"
+    },
+    {
+      "lawId": "rd-992-2014-cte",
+      "slug": "rd-992-2014-cte",
+      "title": "Real Decreto 992/2014, de 28 de noviembre, Centro de Tecnología del Espectáculo",
+      "legalReference": "Real Decreto 992/2014, de 28 de noviembre, por el que se califica como Centro de Referencia Nacional al Centro de Tecnología del Espectáculo.",
+      "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620",
+      "versionDate": "20141231",
+      "file": "rd-992-2014-cte.html",
+      "sourceType": "boe-consolidado"
+    },
+    {
+      "lawId": "cultura-magalia-2025",
+      "slug": "cultura-magalia-2025",
+      "title": "Castillo-Palacio de Magalia — reactivación y residencias artísticas 2025",
+      "legalReference": "Nota de prensa del Ministerio de Cultura, 6 de junio de 2025.",
+      "officialUrl": "https://www.cultura.gob.es/cultura/artesescenicas/contenedora-noticias-prensa/a2025/junio/reapertura-magalia.html",
+      "versionDate": "20250606",
+      "file": "cultura-magalia-2025.html",
+      "sourceType": "ministerio-informacion-oficial"
+    },
+    {
+      "lawId": "cultura-inaem-centros-2026",
+      "slug": "cultura-inaem-centros-2026",
+      "title": "Órganos rectores y centros adscritos al INAEM — página institucional 2026",
+      "legalReference": "Página institucional del Ministerio de Cultura, actualizada el 11 de junio de 2026.",
+      "officialUrl": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html",
+      "versionDate": "20260611",
+      "file": "cultura-inaem-centros-2026.html",
+      "sourceType": "ministerio-informacion-oficial"
     }
   ]
 }

@@ -5445,5 +5445,159 @@
     "explanation": "El Estatuto de la CND incorpora el acercamiento de nuevos públicos y la proyección nacional e internacional como elementos de su misión y objetivos estratégicos.",
     "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
     "source": { "lawId": "orden-cul-1993-2010-cnd", "anchorId": "orden-cul-1993-2010-cnd-a1", "reference": "Orden CUL/1993/2010, apartado Primero", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823" }
+  },
+  {
+    "id": "m3-centro-045",
+    "topicId": "especifico-05",
+    "prompt": "¿Qué calificación tiene el Centro de Tecnología del Espectáculo según el Real Decreto 992/2014?",
+    "options": [
+      { "id": "a", "text": "Centro de Referencia Nacional en Espectáculos en vivo." },
+      { "id": "b", "text": "Centro estatal de producción de teatro contemporáneo." },
+      { "id": "c", "text": "Centro nacional de documentación musical." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1 del Real Decreto 992/2014 califica el CTE como Centro de Referencia Nacional en el área profesional Espectáculos en vivo.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "rd-992-2014-cte", "anchorId": "rd-992-2014-cte-a1", "reference": "Real Decreto 992/2014, artículo 1", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620" }
+  },
+  {
+    "id": "m3-centro-046",
+    "topicId": "especifico-05",
+    "prompt": "¿En qué familia profesional y ámbito se califica al CTE como Centro de Referencia Nacional?",
+    "options": [
+      { "id": "a", "text": "Imagen y sonido, en el ámbito de la formación profesional." },
+      { "id": "b", "text": "Artes gráficas, en el ámbito universitario." },
+      { "id": "c", "text": "Administración y gestión, en la formación de empleados públicos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 1 sitúa la calificación en el área profesional Espectáculos en vivo de la familia profesional Imagen y sonido, dentro de la formación profesional.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "rd-992-2014-cte", "anchorId": "rd-992-2014-cte-a1", "reference": "Real Decreto 992/2014, artículo 1", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620" }
+  },
+  {
+    "id": "m3-centro-047",
+    "topicId": "especifico-05",
+    "prompt": "¿Qué normas integran el régimen jurídico de la calificación del CTE?",
+    "options": [
+      { "id": "a", "text": "La Ley Orgánica 5/2002, el Real Decreto 229/2008 y el convenio incorporado." },
+      { "id": "b", "text": "Solo la Ley de Contratos del Sector Público y el Estatuto de los Trabajadores." },
+      { "id": "c", "text": "El Real Decreto 1028/2025 y una orden ministerial de precios públicos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 2 remite a la Ley Orgánica 5/2002, al Real Decreto 229/2008 y al convenio de colaboración que se incorpora al propio real decreto.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "rd-992-2014-cte", "anchorId": "rd-992-2014-cte-a2", "reference": "Real Decreto 992/2014, artículo 2", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620" }
+  },
+  {
+    "id": "m3-centro-048",
+    "topicId": "especifico-05",
+    "prompt": "¿Qué instituciones están representadas en el Consejo Social del Centro de Referencia Nacional del CTE?",
+    "options": [
+      { "id": "a", "text": "Administración, SEPE, INAEM, organizaciones empresariales y sindicales." },
+      { "id": "b", "text": "Solo el INAEM y las compañías privadas de espectáculos." },
+      { "id": "c", "text": "Únicamente universidades y centros de formación artística." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El anexo del real decreto prevé ocho miembros con representación de la Administración, el SEPE, el INAEM, organizaciones empresariales y organizaciones sindicales más representativas.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "rd-992-2014-cte", "anchorId": "rd-992-2014-cte-anexo", "reference": "Real Decreto 992/2014, anexo", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620" }
+  },
+  {
+    "id": "m3-centro-049",
+    "topicId": "especifico-05",
+    "prompt": "¿Qué nuevo uso se anunció para el Castillo-Palacio de Magalia en 2025?",
+    "options": [
+      { "id": "a", "text": "Centro de referencia para la creación artística y encuentro cultural." },
+      { "id": "b", "text": "Sede exclusiva de la Subdirección General de Personal del INAEM." },
+      { "id": "c", "text": "Archivo general de todos los ministerios del Estado." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La nota institucional de 6 de junio de 2025 describe la nueva etapa de Magalia como centro de referencia para la creación artística y lugar de encuentro del sector cultural, con atención especial a artes escénicas y música.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "cultura-magalia-2025", "anchorId": "cultura-magalia-2025-mision", "reference": "Ministerio de Cultura, nota de 6 de junio de 2025", "url": "https://www.cultura.gob.es/cultura/artesescenicas/contenedora-noticias-prensa/a2025/junio/reapertura-magalia.html" }
+  },
+  {
+    "id": "m3-centro-050",
+    "topicId": "especifico-05",
+    "prompt": "¿Qué espacio se orienta especialmente a las artes escénicas y la música tras la reapertura de Magalia?",
+    "options": [
+      { "id": "a", "text": "El Castillo-Palacio de Magalia, con residencias y espacios de creación." },
+      { "id": "b", "text": "El Auditorio Nacional de Música, como centro de residencias de teatro." },
+      { "id": "c", "text": "El Centro de Tecnología del Espectáculo, como residencia artística." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La nota oficial describe Magalia como espacio reorientado al sector cultural y dotado de salas de ensayo, estudio de danza, sala de conciertos y otros espacios de creación y encuentro.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "cultura-magalia-2025", "anchorId": "cultura-magalia-2025-reapertura", "reference": "Ministerio de Cultura, nota de 6 de junio de 2025", "url": "https://www.cultura.gob.es/cultura/artesescenicas/contenedora-noticias-prensa/a2025/junio/reapertura-magalia.html" }
+  },
+  {
+    "id": "m3-centro-051",
+    "topicId": "especifico-05",
+    "prompt": "¿Cuál de estos espacios se menciona entre las instalaciones de Magalia en 2025?",
+    "options": [
+      { "id": "a", "text": "Tres salas de ensayo, un estudio de danza y una sala de conciertos." },
+      { "id": "b", "text": "Un plató cinematográfico y un laboratorio de restauración pictórica." },
+      { "id": "c", "text": "Un archivo sonoro nacional y un auditorio sin salas de ensayo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La nota oficial enumera 38 habitaciones, tres salas de ensayo, un estudio de danza, una sala de conciertos, un salón de reuniones y una biblioteca.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "cultura-magalia-2025", "anchorId": "cultura-magalia-2025-espacios", "reference": "Ministerio de Cultura, nota de 6 de junio de 2025", "url": "https://www.cultura.gob.es/cultura/artesescenicas/contenedora-noticias-prensa/a2025/junio/reapertura-magalia.html" }
+  },
+  {
+    "id": "m3-centro-052",
+    "topicId": "especifico-05",
+    "prompt": "¿Qué centro figura entre los adscritos al INAEM en la página institucional actualizada en junio de 2026?",
+    "options": [
+      { "id": "a", "text": "El Auditorio Nacional de Música de Madrid." },
+      { "id": "b", "text": "El Museo del Prado como centro INAEM." },
+      { "id": "c", "text": "La Biblioteca Nacional como unidad INAEM." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La página de órganos rectores y organigrama del Ministerio de Cultura enumera el Auditorio Nacional de Música entre los centros adscritos al INAEM. La página es informativa y no sustituye a las normas específicas.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "cultura-inaem-centros-2026", "anchorId": "cultura-inaem-centros-2026-listado", "reference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026", "url": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html" }
+  },
+  {
+    "id": "m3-centro-053",
+    "topicId": "especifico-05",
+    "prompt": "¿Qué alcance tiene la página institucional de centros del INAEM?",
+    "options": [
+      { "id": "a", "text": "Identifica centros, sin sustituir sus normas." },
+      { "id": "b", "text": "Deroga los estatutos anteriores." },
+      { "id": "c", "text": "Fija competencias por sí sola." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La propia ficha del corpus califica la página como información administrativa para identificar centros y su presentación actual; las competencias deben buscarse en la norma o fuente oficial correspondiente.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "cultura-inaem-centros-2026", "anchorId": "cultura-inaem-centros-2026-categorias", "reference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026", "url": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html" }
+  },
+  {
+    "id": "m3-centro-054",
+    "topicId": "especifico-05",
+    "prompt": "¿Qué relación debe hacerse entre el CTE y el INAEM?",
+    "options": [
+      { "id": "a", "text": "Pertenece al INAEM y es Centro de Referencia Nacional." },
+      { "id": "b", "text": "Es un organismo independiente del INAEM y universitario." },
+      { "id": "c", "text": "Es una unidad de producción musical de la OCNE." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El Real Decreto 992/2014 identifica al CTE como perteneciente al INAEM y lo califica como Centro de Referencia Nacional en formación profesional.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "rd-992-2014-cte", "anchorId": "rd-992-2014-cte-a1", "reference": "Real Decreto 992/2014, artículo 1", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620" }
+  },
+  {
+    "id": "m3-centro-055",
+    "topicId": "especifico-05",
+    "prompt": "¿Qué tipo de información debe usarse para estudiar el organigrama actual de los centros del INAEM?",
+    "options": [
+      { "id": "a", "text": "Página vigente, contrastada con el RD 1028/2025." },
+      { "id": "b", "text": "Solo los estatutos de 2010, sin reformas posteriores." },
+      { "id": "c", "text": "Exclusivamente memorias anuales anteriores a 2015." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "La estructura de 2025 exige estudiar el organigrama y la normativa vigente; las páginas institucionales sirven para comprobar la adscripción actual, mientras los estatutos antiguos se conservan para misiones y modelos de gestión no incompatibles.",
+    "editorialRuleIds": ["centros-inaem-estatutos-pre-reforma-2025"],
+    "source": { "lawId": "cultura-inaem-centros-2026", "anchorId": "cultura-inaem-centros-2026-categorias", "reference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026; Real Decreto 1028/2025", "url": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html" }
   }
 ]
