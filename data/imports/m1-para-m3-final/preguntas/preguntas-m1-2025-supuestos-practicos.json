@@ -1,0 +1,47 @@
+[
+ {
+  "id": "m1sp-2025-sonido-s2-02",
+  "topicId": "especifico-38",
+  "prompt": "¿Qué tipo de cables y conectores necesitamos para conectar nuestra mesa a nuestro rack de escenario?",
+  "contexto": "Salimos de gira con una compañía y contamos con el siguiente equipo propio: • 12 micrófonos inalámbricos. • 1 mesa Digico SD9 • 1 SD-mini Rack 16 entradas 16 salidas • Un ordenador con Qlab • Un proyector de 6.000 lumens con una óptica Ratio 1,23 - 1,53: 1 El resto del equipo utilizaremos el equipo disponible en cada teatro.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Conectores BNC y cable coaxial."
+   },
+   {
+    "id": "B",
+    "text": "Conectores RJ 45 y cable CAT 6."
+   },
+   {
+    "id": "C",
+    "text": "Conectores RJ 45 y cables coaxiales."
+   },
+   {
+    "id": "D",
+    "text": "Conectores BMC y cable CAT 6."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 2. M1 Sonido para Audiovisuales y Espectáculos, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "supuesto": 2,
+   "numeroOriginal": 2
+  },
+  "active": true,
+  "optionCount": 4
+ }
+]

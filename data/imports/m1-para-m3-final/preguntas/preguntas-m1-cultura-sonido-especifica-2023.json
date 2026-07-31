@@ -1,0 +1,154 @@
+[
+ {
+  "id": "m1-cultura-sonido-2023-95",
+  "topicId": "especifico-41",
+  "prompt": "Según la clasificación de los láseres en función de las categorías de riesgos según la norma UNE EN 60825-1, en el caso de utilización de equipos láser de las clases más peligrosas (Clase 3 B y Clase 4)",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las medidas preventivas establecidas deberán garantizar el establecimiento de un área controlada. Además, los operadores de estos equipos láser deben haber recibido formación específica para su utilización segura."
+   },
+   {
+    "id": "B",
+    "text": "Se seleccionarán, preferentemente, los equipos láser de clase más baja para su utilización en el desarrollo del evento, evitando el uso de los equipos de clase 4. Es recomendable la designación de un “responsable de seguridad láser” cuya presencia sería sustitutoria de la figura del técnico de prevención."
+   },
+   {
+    "id": "C",
+    "text": "Ambas son correctas."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 95. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 95
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-sonido-2023-93",
+  "topicId": "especifico-41",
+  "prompt": "Según el Real Decreto 1215/1997, de 18 de julio, por el que se establecen las disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo y las normas UNE-EN 280 sobre “Plataformas elevadoras móviles de personal”, la conducción de equipos de trabajo automotores estará reservada a los trabajadores que hayan recibido una formación específica. Dicha certificación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Tiene una vigencia de 3 años desde su expedición. Para llevar a cabo la renovación, el operario debe volver a realizar la formación específica."
+   },
+   {
+    "id": "B",
+    "text": "Tiene una vigencia de 5 años desde su expedición Para llevar a cabo la renovación, el operario debe volver a realizar la formación específica."
+   },
+   {
+    "id": "C",
+    "text": "Tiene una vigencia de 5 años desde su expedición. Para llevar a cabo la renovación, el operario debe demostrar un uso continuado del equipo y realizar un curso de actualización."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 93. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 93
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-sonido-2023-98",
+  "topicId": "especifico-39",
+  "prompt": "En Qlab, los grupos de cues:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Siempre ejecutan todos los hijos simultáneamente avanzando el puntero al siguiente cue después del grupo, por lo que es importante asignar tiempos de prewait dentro del mismo"
+   },
+   {
+    "id": "B",
+    "text": "Es posible seleccionar si queremos que todos los hijos se ejecuten simultáneamente como también podemos elegir si queremos que se ejecute el primer hijo, en cuyo caso el puntero avanzará al siguiente cue, ejecutando los demás hijos del grupo SÓLO si están en autocontinue o autofollow"
+   },
+   {
+    "id": "C",
+    "text": "Ninguna de las anteriores es correcta"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 98. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 98
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-sonido-2023-102",
+  "topicId": "especifico-39",
+  "prompt": "Con respecto al audio en QLab",
+  "options": [
+   {
+    "id": "A",
+    "text": "La asignación de salidas de audio se corresponde a las seleccionadas a nivel sistema operativo"
+   },
+   {
+    "id": "B",
+    "text": "El patch de ruteo permite asignar la salida general de audio del programa a las distintas salidas del dispositivo seleccionado"
+   },
+   {
+    "id": "C",
+    "text": "El patch de ruteo permite asignar las salidas de cada cue a las distintas salidas del dispositivo seleccionado"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 102. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 102
+  },
+  "active": true,
+  "optionCount": 3
+ }
+]

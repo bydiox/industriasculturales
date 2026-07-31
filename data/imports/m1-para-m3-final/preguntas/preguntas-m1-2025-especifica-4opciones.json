@@ -1,0 +1,926 @@
+[
+ {
+  "id": "m1e-2025-sonido-42",
+  "topicId": "especifico-30",
+  "prompt": "¿Qué es una estrada?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Una galería donde desembarcan y se manejan los tiros de las varas."
+   },
+   {
+    "id": "B",
+    "text": "El palco más próximo al escenario."
+   },
+   {
+    "id": "C",
+    "text": "Una pasarela que une el escenario y el patio de butacas."
+   },
+   {
+    "id": "D",
+    "text": "La zona del escenario por delante del telón de boca."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 42. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 42
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-43",
+  "topicId": "especifico-30",
+  "prompt": "¿A qué se denomina telar?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Al almacén de telas."
+   },
+   {
+    "id": "B",
+    "text": "Al husillo de hacer punto."
+   },
+   {
+    "id": "C",
+    "text": "A la parte alta del escenario donde quedan ocultos al público decorados y telones colgados."
+   },
+   {
+    "id": "D",
+    "text": "Dependencias de un teatro donde se almacenan la utilería y el vestuario."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 43. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 43
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-41",
+  "topicId": "especifico-30",
+  "prompt": "¿Como se denomina el espacio situado detrás del foro?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Trasforo."
+   },
+   {
+    "id": "B",
+    "text": "Hombro central."
+   },
+   {
+    "id": "C",
+    "text": "Chácena."
+   },
+   {
+    "id": "D",
+    "text": "Corbata."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 41. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 41
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-maquinaria-43",
+  "topicId": "especifico-30",
+  "prompt": "¿Qué caracteriza a un espacio efímero en el contexto teatral?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un espacio fijo que se mantiene igual durante toda la temporada."
+   },
+   {
+    "id": "B",
+    "text": "Un espacio montado y desmontado para una producción específica y de duración limitada."
+   },
+   {
+    "id": "C",
+    "text": "Un espacio dedicado solo a la iluminación."
+   },
+   {
+    "id": "D",
+    "text": "Un espacio con el público en pie."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte específica), turno libre, pregunta 43. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 43
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-maquinaria-66",
+  "topicId": "especifico-30",
+  "prompt": "¿Cuál es la función principal del foso en la escenografía teatral?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Almacenar el equipo escénico."
+   },
+   {
+    "id": "B",
+    "text": "Facilitar el movimiento de los elementos desde abajo del escenario."
+   },
+   {
+    "id": "C",
+    "text": "Asegurar la estabilidad del telón de fondo."
+   },
+   {
+    "id": "D",
+    "text": "Oscurecer el espacio escénico."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte específica), turno libre, pregunta 66. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 66
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-imagen-71",
+  "topicId": "especifico-30",
+  "prompt": "¿Qué espacio técnico del teatro se utiliza para colgar luces y decorados?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Platea."
+   },
+   {
+    "id": "B",
+    "text": "Vestíbulo."
+   },
+   {
+    "id": "C",
+    "text": "Peine."
+   },
+   {
+    "id": "D",
+    "text": "Camerino."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte específica), turno libre, pregunta 71. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 71
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-maquinaria-61",
+  "topicId": "especifico-32",
+  "prompt": "¿Qué tipo de estructura es utilizada en la escenografía para soportar maquinaria pesada con los sistemas de elevación?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Truss."
+   },
+   {
+    "id": "B",
+    "text": "Pared de ladrillo."
+   },
+   {
+    "id": "C",
+    "text": "Muro de contención."
+   },
+   {
+    "id": "D",
+    "text": "Áncora de contrapeso."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte específica), turno libre, pregunta 61. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 61
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-maquinaria-58",
+  "topicId": "especifico-32",
+  "prompt": "¿Qué tipo de sistema se usa generalmente en el montaje de decorados grandes y pesados, y que requiere un control preciso?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Sistema motorizado de elevación."
+   },
+   {
+    "id": "B",
+    "text": "Sistema de poleas manuales."
+   },
+   {
+    "id": "C",
+    "text": "Sistema cabrestantes manuales."
+   },
+   {
+    "id": "D",
+    "text": "Sistema de eslingas encadenadas."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte específica), turno libre, pregunta 58. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 58
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-maquinaria-63",
+  "topicId": "especifico-41",
+  "prompt": "¿Qué significan las siglas CMU?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Carga Máxima de Uso."
+   },
+   {
+    "id": "B",
+    "text": "Coeficiente Máximo de Uso."
+   },
+   {
+    "id": "C",
+    "text": "Coeficiente Mecánico de Uso."
+   },
+   {
+    "id": "D",
+    "text": "Crane Multipurpose Usage."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte específica), turno libre, pregunta 63. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 63
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-75",
+  "topicId": "especifico-41",
+  "prompt": "¿Quién firma el documento con la evaluación de riesgos?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El servicio de prevención de riesgos."
+   },
+   {
+    "id": "B",
+    "text": "El servicio de prevención de riesgos y el empresario."
+   },
+   {
+    "id": "C",
+    "text": "El servicio de prevención de riesgos, el empresario y el trabajador."
+   },
+   {
+    "id": "D",
+    "text": "El ministerio de trabajo."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 75. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 75
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-maquinaria-45",
+  "topicId": "especifico-41",
+  "prompt": "Según la norma UNE 311002:2024, para realizar operaciones de elevación de una de las actrices durante la representación (vuelo), ¿qué marcaje deben tener las motorizaciones usadas?",
+  "options": [
+   {
+    "id": "A",
+    "text": "C1."
+   },
+   {
+    "id": "B",
+    "text": "D8."
+   },
+   {
+    "id": "C",
+    "text": "D8+."
+   },
+   {
+    "id": "D",
+    "text": "La B y la C son correctas."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte específica), turno libre, pregunta 45. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 45
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-maquinaria-50",
+  "topicId": "especifico-31",
+  "prompt": "¿Qué tipo de apertura en un escenario combina pabellón y guillotina?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Apertura a la francesa."
+   },
+   {
+    "id": "B",
+    "text": "Apertura a la veneciana."
+   },
+   {
+    "id": "C",
+    "text": "Apertura a la italiana."
+   },
+   {
+    "id": "D",
+    "text": "Apertura romana."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte específica), turno libre, pregunta 50. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 50
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-maquinaria-53",
+  "topicId": "especifico-31",
+  "prompt": "¿Cuál de los siguientes es un elemento escenográfico común en un decorado teatral?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Bastidores."
+   },
+   {
+    "id": "B",
+    "text": "Un escotillón."
+   },
+   {
+    "id": "C",
+    "text": "Un mecanismo de contrapeso."
+   },
+   {
+    "id": "D",
+    "text": "El motor de cadena."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte específica), turno libre, pregunta 53. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 53
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-maquinaria-49",
+  "topicId": "especifico-31",
+  "prompt": "¿Qué equipo se utilizaría para crear un efecto de caída de un telón en un espectáculo?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un Kabuki."
+   },
+   {
+    "id": "B",
+    "text": "Una cuna o catre."
+   },
+   {
+    "id": "C",
+    "text": "Un sistema de guía americana."
+   },
+   {
+    "id": "D",
+    "text": "Un practicable."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte específica), turno libre, pregunta 49. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 49
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-77",
+  "topicId": "especifico-36",
+  "prompt": "¿Qué se entiende por “poner la pasada”?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Recoger todos los elementos, materiales y herramientas utilizados durante la representación."
+   },
+   {
+    "id": "B",
+    "text": "Colocar en su cota de escena los elementos escenográficos móviles."
+   },
+   {
+    "id": "C",
+    "text": "Preparar todos los elementos, materiales y herramientas necesarios para el comienzo de la representación."
+   },
+   {
+    "id": "D",
+    "text": "Marcar el escenario."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 77. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 77
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-imagen-74",
+  "topicId": "especifico-33",
+  "prompt": "¿Qué es un multímetro?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un dispositivo para medir solo resistencia."
+   },
+   {
+    "id": "B",
+    "text": "Un instrumento para medir varias magnitudes eléctricas."
+   },
+   {
+    "id": "C",
+    "text": "Un dispositivo para generar corriente alterna."
+   },
+   {
+    "id": "D",
+    "text": "Ninguna de las anteriores."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte específica), turno libre, pregunta 74. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 74
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-64",
+  "topicId": "especifico-33",
+  "prompt": "¿Qué es el DANTE Controller?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Una tarjeta virtual que nos sirve para gestionar hasta 64 pistas de grabación."
+   },
+   {
+    "id": "B",
+    "text": "Una software que nos sirve para gestionar una red DANTE."
+   },
+   {
+    "id": "C",
+    "text": "Una controladora de cifrado/descifrado DANTE."
+   },
+   {
+    "id": "D",
+    "text": "Todas las respuestas son válidas."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 64. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 64
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-71",
+  "topicId": "especifico-33",
+  "prompt": "¿Qué es una proyección de vídeo con proyectores en DUAL?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La proyección de un vídeo en dos pantallas diferentes con un proyector para cada una de ellas."
+   },
+   {
+    "id": "B",
+    "text": "La proyección de dos vídeos diferentes en una misma pantalla."
+   },
+   {
+    "id": "C",
+    "text": "La proyección de la misma señal de vídeo de forma simultánea en dos proyectores sobre la misma superficie, para lograr una mayor luminosidad."
+   },
+   {
+    "id": "D",
+    "text": "La proyección combinando varios proyectores, solapando parte de la imagen proyectada, para generar una imagen de gran formato, más luminosa y de alta definición. M1_SPA - 10"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 71. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 71
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-72",
+  "topicId": "especifico-33",
+  "prompt": "¿Qué es una proyección de vídeo con proyectores en BLENDING?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La proyección de un vídeo en dos pantallas diferentes con un proyector para cada una de ellas."
+   },
+   {
+    "id": "B",
+    "text": "La proyección de dos vídeos diferentes en una misma pantalla."
+   },
+   {
+    "id": "C",
+    "text": "La proyección de la misma señal de vídeo de forma simultánea en dos proyectores para una mayor luminosidad, sobre la misma superficie."
+   },
+   {
+    "id": "D",
+    "text": "La proyección combinando varios proyectores, solapando parte de la imagen proyectada, para generar una imagen de gran formato, más luminosa y de alta definición."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 72. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 72
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-66",
+  "topicId": "especifico-33",
+  "prompt": "¿Qué tipo de conectores utiliza una señal de video SDI transmitida por cable coaxial?",
+  "options": [
+   {
+    "id": "A",
+    "text": "RJ 45."
+   },
+   {
+    "id": "B",
+    "text": "BNC."
+   },
+   {
+    "id": "C",
+    "text": "RCA."
+   },
+   {
+    "id": "D",
+    "text": "XLR."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 66. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 66
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-80",
+  "topicId": "especifico-39",
+  "prompt": "¿Para qué sirve hot key en la pestaña trigger?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Para asignar cualquier tecla del teclado que dispare ese cue."
+   },
+   {
+    "id": "B",
+    "text": "Para establecer la función stop general a una key."
+   },
+   {
+    "id": "C",
+    "text": "Para asignar una tecla MIDI de un teclado externo el disparo de ese cue."
+   },
+   {
+    "id": "D",
+    "text": "Para establecer un punto de código de tiempo al disparo de ese cue."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 80. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 80
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1e-2025-sonido-79",
+  "topicId": "especifico-39",
+  "prompt": "¿Cómo nos indica Qlab que un cue ha perdido la referencia de target?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Aparece el nombre en rojo."
+   },
+   {
+    "id": "B",
+    "text": "Aparece una x roja a la izquierda del cue."
+   },
+   {
+    "id": "C",
+    "text": "Desaparece el cue del listado."
+   },
+   {
+    "id": "D",
+    "text": "Solo lo sabremos pulsando en el cue y viendo que no tiene sonido. M1_SPA - 11"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos (parte específica), turno libre, pregunta 79. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "numeroOriginal": 79
+  },
+  "active": true,
+  "optionCount": 4
+ }
+]

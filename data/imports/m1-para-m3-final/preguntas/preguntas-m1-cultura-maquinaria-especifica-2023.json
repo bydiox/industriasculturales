@@ -1,0 +1,496 @@
+[
+ {
+  "id": "m1-cultura-maquinaria-2023-91",
+  "topicId": "especifico-06",
+  "prompt": "¿Qué significa “poner la pasada”?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Durante un ensayo, poner de nuevo los elementos escenográficos del último movimiento."
+   },
+   {
+    "id": "B",
+    "text": "Antes de la función, poner a punto todo el equipamiento técnico que se va a necesitar durante la representación."
+   },
+   {
+    "id": "C",
+    "text": "Después de la función, limpiar y recoger todo el equipamiento técnico que se ha empleado durante la representación, dejando todo ordenado."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 91. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 91
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-36",
+  "topicId": "especifico-06",
+  "prompt": "¿Quién escribió El gran teatro del mundo?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Calderón de la Barca."
+   },
+   {
+    "id": "B",
+    "text": "Tirso de Molina."
+   },
+   {
+    "id": "C",
+    "text": "Lope de Vega."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 36. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 36
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-59",
+  "topicId": "especifico-32",
+  "prompt": "¿Qué es un Bofetón?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Plataforma que gira, también denominada devanadera."
+   },
+   {
+    "id": "B",
+    "text": "Mecanismo consistente en un bastidor que gira sobre un eje vertical en su centro."
+   },
+   {
+    "id": "C",
+    "text": "Elemento que gira libremente arrollando una tela o pantalla."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 59. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 59
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-46",
+  "topicId": "especifico-41",
+  "prompt": "Según el Instituto Nacional de Seguridad y Salud en el trabajo, una eslinga es:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un accesorio de eslingado."
+   },
+   {
+    "id": "B",
+    "text": "Un accesorio de elevación."
+   },
+   {
+    "id": "C",
+    "text": "Un accesorio de extremo."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 46. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 46
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-85",
+  "topicId": "especifico-31",
+  "prompt": "¿Qué es una cuna?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Armazón de madera curvo que sirve para realizar efectos escénicos."
+   },
+   {
+    "id": "B",
+    "text": "Armadura metálica curva que sirve para simular una luna sobre la que se sitúan personajes suspendidos."
+   },
+   {
+    "id": "C",
+    "text": "Tela perforada que sirve para simular el efecto de lluvia o nevada."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 85. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 85
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-57",
+  "topicId": "especifico-31",
+  "prompt": "¿Qué es una dovela?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Pieza inferior sobre la que se apoya el fuste de la columna."
+   },
+   {
+    "id": "B",
+    "text": "Pieza horizontal superior de puertas y ventanas."
+   },
+   {
+    "id": "C",
+    "text": "Piedra labrada en forma de cuña, para formar arcos o bóvedas."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 57. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 57
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-66",
+  "topicId": "especifico-31",
+  "prompt": "¿Qué es un inglete?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Ángulo de 45º que forma el corte de dos piezas que se han de unir o ensamblar."
+   },
+   {
+    "id": "B",
+    "text": "Ángulo de 90º que forma el corte de dos piezas que se han de unir o ensamblar."
+   },
+   {
+    "id": "C",
+    "text": "Ángulo de 135º que forma el corte de dos piezas que se han de unir o ensamblar."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 66. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 66
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-88",
+  "topicId": "especifico-34",
+  "prompt": "¿Para qué se utiliza una rema?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Para ocultar focos que están en el suelo del escenario."
+   },
+   {
+    "id": "B",
+    "text": "Para mantener un trasto o bastidor vertical."
+   },
+   {
+    "id": "C",
+    "text": "Para sujetar un polipasto en el peine."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 88. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 88
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-105",
+  "topicId": "especifico-34",
+  "prompt": "¿Para qué sirve un pie de rey?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Para sujetar piezas."
+   },
+   {
+    "id": "B",
+    "text": "Para medir pequeños objetos."
+   },
+   {
+    "id": "C",
+    "text": "Para apretar tuercas."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 105. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 105
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-71",
+  "topicId": "especifico-34",
+  "prompt": "¿Para qué se utiliza una guindaleta?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Para suspender un trasto."
+   },
+   {
+    "id": "B",
+    "text": "Para guiar un trasto o telón."
+   },
+   {
+    "id": "C",
+    "text": "Para unir temporalmente dos trastos."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 71. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 71
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-70",
+  "topicId": "especifico-34",
+  "prompt": "¿Qué es el paso de rosca en un tornillo?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Es el perfil del filete con el que se ha tallado el tornillo."
+   },
+   {
+    "id": "B",
+    "text": "Es lo que mide la rosca y el cuello juntos."
+   },
+   {
+    "id": "C",
+    "text": "Es la distancia que existe entre dos crestas consecutivas."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 70. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 70
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-92",
+  "topicId": "especifico-37",
+  "prompt": "¿En qué consiste un ensayo a la italiana?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Ensayo en el que solamente se pasa la letra."
+   },
+   {
+    "id": "B",
+    "text": "Ensayo donde se ajustan los movimientos y acciones."
+   },
+   {
+    "id": "C",
+    "text": "Ensayo que se realiza en un espacio de configuración público/escena frontal."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 92. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 92
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-maquinaria-2023-90",
+  "topicId": "especifico-37",
+  "prompt": "¿Qué departamento se encarga de coordinar la ejecución técnica y artística de la representación?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Dirección."
+   },
+   {
+    "id": "B",
+    "text": "Regiduría."
+   },
+   {
+    "id": "C",
+    "text": "Producción."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 90. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 90
+  },
+  "active": true,
+  "optionCount": 3
+ }
+]

@@ -1,0 +1,993 @@
+[
+ {
+  "id": "m1sp-2025-maquinaria-s1-01",
+  "topicId": "especifico-31",
+  "prompt": "¿Cómo definimos el sistema propuesto?",
+  "contexto": "La escenografía que debemos montar en uno de los teatros donde actuamos, consta entre otros elementos escenográficos de una pared que simula cristal de 7000 mm x 9000 mm. La pared está diseñada para estar suspendida desde los paneles superiores, de una de las varas del teatro o de dos tiros puntuales, como muestra el dibujo de la figura 1. Figura 1 En este caso decidimos no usar las varas del teatro y proponemos el montaje según el esquema de la figura 1, donde solo se contempla el sistema de contrapeso sin la maniobra.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Sistema contrapesado simple."
+   },
+   {
+    "id": "B",
+    "text": "Sistema contrapesado directo."
+   },
+   {
+    "id": "C",
+    "text": "Sistema contrapesado de pared con remas."
+   },
+   {
+    "id": "D",
+    "text": "Sistema contrapesado de doble recorrido."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 1, pregunta 1. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 1,
+   "numeroOriginal": 1
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s1-02",
+  "topicId": "especifico-31",
+  "prompt": "Sabemos que la pared de cristal está formada por 21 bastidores que se unen entre ellos y que cada uno de ellos pesa 25 kg con la tornillería de unión. ¿Cuánto peso debemos poner en el contrapeso?",
+  "contexto": "La escenografía que debemos montar en uno de los teatros donde actuamos, consta entre otros elementos escenográficos de una pared que simula cristal de 7000 mm x 9000 mm. La pared está diseñada para estar suspendida desde los paneles superiores, de una de las varas del teatro o de dos tiros puntuales, como muestra el dibujo de la figura 1. Figura 1 En este caso decidimos no usar las varas del teatro y proponemos el montaje según el esquema de la figura 1, donde solo se contempla el sistema de contrapeso sin la maniobra.",
+  "options": [
+   {
+    "id": "A",
+    "text": "525 kg."
+   },
+   {
+    "id": "B",
+    "text": "745 kg."
+   },
+   {
+    "id": "C",
+    "text": "1.050 kg."
+   },
+   {
+    "id": "D",
+    "text": "2.100 kg."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 1, pregunta 2. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 1,
+   "numeroOriginal": 2
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s1-03",
+  "topicId": "especifico-31",
+  "prompt": "El desplazamiento vertical de la pared debe ser de 12 metros para poder esconderla, desde su posición 0 de la figura 1 hasta el suelo. ¿Qué recorrido hará el contrapeso?",
+  "contexto": "La escenografía que debemos montar en uno de los teatros donde actuamos, consta entre otros elementos escenográficos de una pared que simula cristal de 7000 mm x 9000 mm. La pared está diseñada para estar suspendida desde los paneles superiores, de una de las varas del teatro o de dos tiros puntuales, como muestra el dibujo de la figura 1. Figura 1 En este caso decidimos no usar las varas del teatro y proponemos el montaje según el esquema de la figura 1, donde solo se contempla el sistema de contrapeso sin la maniobra.",
+  "options": [
+   {
+    "id": "A",
+    "text": "3 metros."
+   },
+   {
+    "id": "B",
+    "text": "6 metros."
+   },
+   {
+    "id": "C",
+    "text": "9 metros."
+   },
+   {
+    "id": "D",
+    "text": "12 metros."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 1, pregunta 3. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 1,
+   "numeroOriginal": 3
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s1-04",
+  "topicId": "especifico-31",
+  "prompt": "Debemos ser muy precisos con el movimiento de aparición de la pared en escena, por ello debemos disponer de la maniobra adecuada y de movimiento concordante con el de la pared. ¿Cuál de los sistemas de maniobra de la figura 2 montaremos con el objetivo de que la cuerda de maniobra se desplace en el mismo sentido y velocidad que la vara? Señala la opción correcta. Figura 2",
+  "contexto": "La escenografía que debemos montar en uno de los teatros donde actuamos, consta entre otros elementos escenográficos de una pared que simula cristal de 7000 mm x 9000 mm. La pared está diseñada para estar suspendida desde los paneles superiores, de una de las varas del teatro o de dos tiros puntuales, como muestra el dibujo de la figura 1. Figura 1 En este caso decidimos no usar las varas del teatro y proponemos el montaje según el esquema de la figura 1, donde solo se contempla el sistema de contrapeso sin la maniobra.",
+  "options": [
+   {
+    "id": "A",
+    "text": "B) C) D)"
+   },
+   {
+    "id": "B",
+    "text": "262,5 kg."
+   },
+   {
+    "id": "C",
+    "text": "525 kg."
+   },
+   {
+    "id": "D",
+    "text": "1.050 kg."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 1, pregunta 4. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 1,
+   "numeroOriginal": 4
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s1-06",
+  "topicId": "especifico-31",
+  "prompt": "De la figura 3 ¿Qué tensión soporta el cable a’ teniendo en cuenta que entre a’ i a’’ hay un ángulo de 90º?",
+  "contexto": "La escenografía que debemos montar en uno de los teatros donde actuamos, consta entre otros elementos escenográficos de una pared que simula cristal de 7000 mm x 9000 mm. La pared está diseñada para estar suspendida desde los paneles superiores, de una de las varas del teatro o de dos tiros puntuales, como muestra el dibujo de la figura 1. Figura 1 En este caso decidimos no usar las varas del teatro y proponemos el montaje según el esquema de la figura 1, donde solo se contempla el sistema de contrapeso sin la maniobra.",
+  "options": [
+   {
+    "id": "A",
+    "text": "𝑇𝑎′ = 𝑇𝑎 𝑇𝑎"
+   },
+   {
+    "id": "B",
+    "text": "𝑇𝑎′ = 2𝑥𝑐𝑜𝑠45º 𝑎"
+   },
+   {
+    "id": "C",
+    "text": "𝑇𝑎′ = 𝑐𝑜𝑠45º 𝑎"
+   },
+   {
+    "id": "D",
+    "text": "𝑇𝑎′ = 𝑐𝑜𝑠90º"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 1, pregunta 6. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 1,
+   "numeroOriginal": 6
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s1-07",
+  "topicId": "especifico-31",
+  "prompt": "¿Cuál de las afirmaciones siguientes es incorrecta?:",
+  "contexto": "La escenografía que debemos montar en uno de los teatros donde actuamos, consta entre otros elementos escenográficos de una pared que simula cristal de 7000 mm x 9000 mm. La pared está diseñada para estar suspendida desde los paneles superiores, de una de las varas del teatro o de dos tiros puntuales, como muestra el dibujo de la figura 1. Figura 1 En este caso decidimos no usar las varas del teatro y proponemos el montaje según el esquema de la figura 1, donde solo se contempla el sistema de contrapeso sin la maniobra.",
+  "options": [
+   {
+    "id": "A",
+    "text": "La tensión que soporta a’ i b’’ son iguales: Ta’=Tb’’."
+   },
+   {
+    "id": "B",
+    "text": "La suma de las tensiones a’ i a’’ es igual a la tensión de a: Ta’+Ta’’=Ta."
+   },
+   {
+    "id": "C",
+    "text": "La tensión del cable a es inferior a las tensiones de a’ i a’’ sumadas: TaTa’+Ta’’."
+   },
+   {
+    "id": "D",
+    "text": "La tensión a y la tensión b son iguales."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 1, pregunta 7. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 1,
+   "numeroOriginal": 7
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s1-08",
+  "topicId": "especifico-31",
+  "prompt": "Elige el cable para el tramo a de la figura 3 teniendo en cuenta que, durante el movimiento de la pared, habrá personas transitando el espacio escénico.",
+  "contexto": "La escenografía que debemos montar en uno de los teatros donde actuamos, consta entre otros elementos escenográficos de una pared que simula cristal de 7000 mm x 9000 mm. La pared está diseñada para estar suspendida desde los paneles superiores, de una de las varas del teatro o de dos tiros puntuales, como muestra el dibujo de la figura 1. Figura 1 En este caso decidimos no usar las varas del teatro y proponemos el montaje según el esquema de la figura 1, donde solo se contempla el sistema de contrapeso sin la maniobra.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Cable de 250 kg de Carga Máxima de Uso."
+   },
+   {
+    "id": "B",
+    "text": "Cable de 262,5 kg de Carga Máxima de Uso."
+   },
+   {
+    "id": "C",
+    "text": "Cable de 525 kg de Carga Máxima de Uso."
+   },
+   {
+    "id": "D",
+    "text": "Cable de 1.050 kg de Carga Máxima de Uso."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 1, pregunta 8. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 1,
+   "numeroOriginal": 8
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s1-09",
+  "topicId": "especifico-31",
+  "prompt": "Elige el cable a’ de la figura 3 teniendo en cuenta que, durante el movimiento de la pared, habrá personas transitando el espacio escénico.",
+  "contexto": "La escenografía que debemos montar en uno de los teatros donde actuamos, consta entre otros elementos escenográficos de una pared que simula cristal de 7000 mm x 9000 mm. La pared está diseñada para estar suspendida desde los paneles superiores, de una de las varas del teatro o de dos tiros puntuales, como muestra el dibujo de la figura 1. Figura 1 En este caso decidimos no usar las varas del teatro y proponemos el montaje según el esquema de la figura 1, donde solo se contempla el sistema de contrapeso sin la maniobra.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Cable de 𝑇𝑎′ = 𝑇𝑎 Kg de Carga Máxima de Uso. 𝑇𝑎"
+   },
+   {
+    "id": "B",
+    "text": "Cable de 𝑇𝑎′ = 2𝑥𝑐𝑜𝑠45º kg de Carga Máxima de Uso. 𝑇𝑎"
+   },
+   {
+    "id": "C",
+    "text": "Cable de 𝑇𝑎′ = 𝑐𝑜𝑠45º kg de Carga Máxima de Uso. 2𝑇𝑎"
+   },
+   {
+    "id": "D",
+    "text": "Cable de 𝑇𝑎′ = kg de Carga Máxima de Uso. 2𝑥𝑐𝑜𝑠45º"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 1, pregunta 9. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 1,
+   "numeroOriginal": 9
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s1-10",
+  "topicId": "especifico-31",
+  "prompt": "De los siguientes procedimientos propuestos, cuál consideras que es el más adecuado para el montaje del sistema.",
+  "contexto": "La escenografía que debemos montar en uno de los teatros donde actuamos, consta entre otros elementos escenográficos de una pared que simula cristal de 7000 mm x 9000 mm. La pared está diseñada para estar suspendida desde los paneles superiores, de una de las varas del teatro o de dos tiros puntuales, como muestra el dibujo de la figura 1. Figura 1 En este caso decidimos no usar las varas del teatro y proponemos el montaje según el esquema de la figura 1, donde solo se contempla el sistema de contrapeso sin la maniobra.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Procedimiento 1: 1. Montar la pared entera plana en el suelo con las patas de gallo. 2. Montar todo el sistema de contrapeso con su maniobra. 3. Con el contrapeso vacío, elevarlo hasta poder enganchar los cables a y b a las patas de gallo. 4. Añadir peso en el contrapeso paulatinamente mientras, manualmente, se acompaña la pared hasta su posición vertical. 5. Con la pared en posición vertical, acabar de añadir el peso necesario en el contrapeso hasta que la pared quede contrapesada. 6. Verificar el correcto funcionamiento del sistema."
+   },
+   {
+    "id": "B",
+    "text": "Procedimiento 2: 1. Montar la pared en vertical desde la base y siguiendo por las filas superiores soportándola con remas y riostras. 2. Montar el sistema de contrapeso y el de maniobra. 3. Con el contrapeso vacío, elevarlo hasta la posición adecuada. 4. Con la ayuda de una plataforma elevadora montar las patas de gallo y unir los cables a y b a la pared. 5. Contrapesar el sistema desde el puente o puentes. 6. Verificar el correcto funcionamiento del sistema."
+   },
+   {
+    "id": "C",
+    "text": "Procedimiento 3: 1. Montar la hilera superior de paneles con las patas de gallo del sistema y suspenderla de dos polipastos motorizados de CMU adecuada dejando los cables a y b en banda. 2. Elevar la pared progresivamente y montar las siguientes hileras hasta completar el montaje y tener la pared en su posición. 3. Montar el sistema de maniobra suspendiendo el contrapeso con un polipasto motorizado de CMU adecuada. 4. Cargar el contrapeso con el peso necesario y elevarlo hasta su posición. 5. Montar el sistema de contrapeso pasando los cables a y b por todas las poleas. 6. Soltar los polipastos motorizados paulatinamente y verificar el correcto funcionamiento del sistema."
+   },
+   {
+    "id": "D",
+    "text": "Procedimiento 4:"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 1, pregunta 10. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 1,
+   "numeroOriginal": 10
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-01",
+  "topicId": "especifico-31",
+  "prompt": "Entre las siguientes opciones, define cuál de los siguientes puntos es el punto 0,0.",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "A"
+   },
+   {
+    "id": "B",
+    "text": "B"
+   },
+   {
+    "id": "C",
+    "text": "C"
+   },
+   {
+    "id": "D",
+    "text": "D"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 1. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 1
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-02",
+  "topicId": "especifico-31",
+  "prompt": "¿Cuál de las siguientes opciones es la línea de centro?",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "E"
+   },
+   {
+    "id": "B",
+    "text": "F"
+   },
+   {
+    "id": "C",
+    "text": "G"
+   },
+   {
+    "id": "D",
+    "text": "H"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 2. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 2
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-03",
+  "topicId": "especifico-31",
+  "prompt": "El listado de los cortinajes necesario para el montaje que se describe en el plano es:",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las patas y las bambalinas que se detallan."
+   },
+   {
+    "id": "B",
+    "text": "12 patas + 2 bambalinas + 1 telón de boca con apertura americana + foro."
+   },
+   {
+    "id": "C",
+    "text": "12 patas + 2 bambalinas + 1 telón de boca con apertura americana + tul + ciclorama."
+   },
+   {
+    "id": "D",
+    "text": "12 patas + 3 bambalinas + tul + ciclorama."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 3. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 3
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-04",
+  "topicId": "especifico-31",
+  "prompt": "El plano define un suelo y una pared con puerta entre otros elementos escenográficos, éstos son los correspondientes a las letras:",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "J - K"
+   },
+   {
+    "id": "B",
+    "text": "J - L"
+   },
+   {
+    "id": "C",
+    "text": "K - L"
+   },
+   {
+    "id": "D",
+    "text": "K – M"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 4. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 4
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-05",
+  "topicId": "especifico-31",
+  "prompt": "¿En qué parte va montada y guardada la pared escenográfica?",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Montada en el centro izquierda y guardada en el hombro izquierdo"
+   },
+   {
+    "id": "B",
+    "text": "Montada en el centro derecha y guardada en el hombro derecho"
+   },
+   {
+    "id": "C",
+    "text": "En el centro del escenario y no se especifica donde se guarda"
+   },
+   {
+    "id": "D",
+    "text": "En la boca del escenario y guardada en el foro"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 5. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 5
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-06",
+  "topicId": "especifico-31",
+  "prompt": "En el montaje hay una lámpara de 10 kg. que aparece en escena y se enciende en el momento en que llega a su posición marcada. ¿Cómo colgaremos esta lámpara móvil sin usar una vara?",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Colgaremos la lámpara del cable eléctrico pasando por unas poleas de nylon en el peine hasta el desembarco encima del puente de maniobra."
+   },
+   {
+    "id": "B",
+    "text": "Colgaremos la lámpara del propio cable que la electrifica y a este le uniremos un coordino con el que mecanizaremos el sistema de subida y bajada."
+   },
+   {
+    "id": "C",
+    "text": "Colgaremos la lámpara de un sistema de suspensión paralelo que garantice la suspensión de la lámpara sin usar el cable eléctrico, y cuando llegue a su posición miraremos que una de las actrices lo pueda conectar."
+   },
+   {
+    "id": "D",
+    "text": "Colgaremos la lámpara de un sistema de suspensión paralelo que garantice la suspensión de la lámpara sin usar el cable eléctrico como elemento de suspensión, pero sí que ira en paralelo hacia el peine donde estará conectado."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 6. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 6
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-07",
+  "topicId": "especifico-31",
+  "prompt": "La pared de la escenografía está formada por seis plafones uno de los cuales es una puerta practicable. Cuando esta se abre se ve el cortinaje de detrás y parte del cuadro artístico que pretende estar en ese lugar sin ser visto por el público. Nuestra propuesta para ocultar lo que hay por detrás de un metro a la puerta cuando esta se abre es:",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Pedir a dirección que la puerta se abra muy poco para que todo quede aforado."
+   },
+   {
+    "id": "B",
+    "text": "Montar un forillo."
+   },
+   {
+    "id": "C",
+    "text": "Montar una gasa o tul."
+   },
+   {
+    "id": "D",
+    "text": "Es un problema de diseño de escenografía y no lo debe solucionar la maquinaria."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 7. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 7
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-08",
+  "topicId": "especifico-31",
+  "prompt": "En un oscuro del espectáculo la pared debe desaparecer. La altura de peine nos permite hacerla desaparecer hacia arriba pero el movimiento debe ser al doble de la velocidad que nos ofrecen los motores de que disponemos. La propuesta que hacemos es:",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Hablar con dirección para que se alargue el tiempo del cambio."
+   },
+   {
+    "id": "B",
+    "text": "Desconectar el neutro de la acometida eléctrica de los motores para doblar su velocidad."
+   },
+   {
+    "id": "C",
+    "text": "Montaremos un sistema contrapesado disponiendo del material adecuado con el que podremos subir la pared con la velocidad que se determine siempre cumpliendo con los principios de seguridad, de simple o de doble recorrido."
+   },
+   {
+    "id": "D",
+    "text": "Usaremos dos de las varas vacías del teatro (contrapesadas), y las moveremos de forma simultánea con la pared colgada."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 8. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 8
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-09",
+  "topicId": "especifico-31",
+  "prompt": "Define la forma en la que montarías un linóleo o tapiz de danza de color uniforme sin pintar, para otro espectáculo en el mismo espacio escénico una vez retirada la escenografía.",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Empezando por el foro y avanzando hacia boca. Con las uniones de cada tira en paralelo a la línea boca."
+   },
+   {
+    "id": "B",
+    "text": "Empezando por el hombro izquierdo y avanzando hacia el derecho con las uniones de cada tira en perpendicular a la línea boca."
+   },
+   {
+    "id": "C",
+    "text": "Empezando por el hombro derecho y avanzando hacia el izquierdo con las uniones de cada tira en perpendicular a la línea boca."
+   },
+   {
+    "id": "D",
+    "text": "Empezando por boca y centro y avanzando hacia los lados, con las uniones de cada tira en perpendicular a la línea de boca."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 9. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 9
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1sp-2025-maquinaria-s2-10",
+  "topicId": "especifico-31",
+  "prompt": "Una vez que tengamos el linóleum en la posición deseada, marca la opción correcta:",
+  "contexto": "M1_MES - 8 En la figura 1 tenemos un plano de la escenografía de nuestro próximo proyecto. En referencia a este plano responde las siguientes cuestiones que se plantean a continuación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Dejaremos el linóleum en su posición para que se acomode a la temperatura del espacio desenrollado antes de tensar y encintar las uniones."
+   },
+   {
+    "id": "B",
+    "text": "Encintaremos rápidamente para controlar con la cinta la posición marcada."
+   },
+   {
+    "id": "C",
+    "text": "Encintaremos lo mínimo y necesario, solo las partes del tapiz en que se vean diferencias de nivel."
+   },
+   {
+    "id": "D",
+    "text": "Dejaremos el linóleum en su posición para que se acomode a la temperatura del espacio desenrollado antes de tensar y encintar las uniones con cinta de doble cara por su parte inferior."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de supuesto práctico. Respuesta según plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Supuesto práctico nº 2, pregunta 10. M1 Maquinaria Escénica para el Espectáculo en Vivo, Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "parte": "segunda parte — supuesto práctico",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "supuesto": 2,
+   "numeroOriginal": 10
+  },
+  "active": false,
+  "optionCount": 4,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1-cultura-realizacion-2023-38",
+  "topicId": "especifico-36",
+  "prompt": "¿El Segundo Apunte o Traspunte evolucionó a la figura del Regidor en la primera mitad del siglo XX?",
+  "options": [
+   {
+    "id": "A",
+    "text": "No, el Regidor es una evolución del Primer apunte."
+   },
+   {
+    "id": "B",
+    "text": "Sí, el Avisador y el Segundo apunte o Traspunte, pasaron a ser el Regidor."
+   },
+   {
+    "id": "C",
+    "text": "No, el Segundo Apunte pasó a ser el Apuntador."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 38. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 38
+  },
+  "active": false,
+  "optionCount": 3,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ },
+ {
+  "id": "m1-cultura-sonido-2023-33",
+  "topicId": "especifico-31",
+  "prompt": "Qué es un bambalinón:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Es un telón de gasa que se sitúa en cualquier parte del escenario."
+   },
+   {
+    "id": "B",
+    "text": "Es la primera bambalina, situada en la embocadura del escenario."
+   },
+   {
+    "id": "C",
+    "text": "Es la primera bambalina, situada al fondo del escenario."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 33. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 33
+  },
+  "active": false,
+  "optionCount": 3,
+  "inactiveReason": "Duplicado exacto de otra pregunta ya presente"
+ },
+ {
+  "id": "m1-cultura-sonido-2023-103",
+  "topicId": "especifico-36",
+  "prompt": "La figura que se encarga de determinar las necesidades, supervisar y regir los procesos técnicos y artísticos durante los ensayos y representaciones de espectáculos en vivo y eventos de acuerdo al proyecto artístico y a los criterios de calidad y seguridad establecidos, las características del espacio escénico y los condicionantes técnicos, económicos, humanos y de seguridad, para artistas, técnicos y público asistente, es:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El ayudante de producción"
+   },
+   {
+    "id": "B",
+    "text": "El regidor"
+   },
+   {
+    "id": "C",
+    "text": "El jefe de producción AD - 13"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Sonido para Audiovisuales y Espectáculos, turno libre, pregunta 103. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Sonido para Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 103
+  },
+  "active": false,
+  "optionCount": 3,
+  "inactiveReason": "Depende de una figura o plano no disponible en el material extraído"
+ }
+]

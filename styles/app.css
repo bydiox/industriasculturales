@@ -121,6 +121,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .option.wrong { border-color: #d75d66; background: #3a2026; }
 .feedback { border-left: 3px solid #f0b52d; padding: 10px 14px; background: #202a35; }
 .question-origin { margin: 10px 0 14px; padding: 8px 10px; border: 1px solid #3d4b5a; border-radius: 8px; color: #f0c96b; font-size: .82rem; }
+.question-context { margin: 10px 0 18px; padding: 14px 16px; border-left: 3px solid #55b7c9; border-radius: 10px; background: #132731; color: #d7e8ed; white-space: pre-line; font-size: .94rem; line-height: 1.5; }
 .official-material { margin-top: 26px; padding: 14px 16px; border: 1px solid #334353; border-radius: 10px; background: #151d26; }
 .official-material p { color: #b9c4cf; }
 .official-material li { margin: 8px 0; }

@@ -1,0 +1,154 @@
+[
+ {
+  "id": "m1-cultura-sastreria-2023-42",
+  "topicId": "especifico-35",
+  "prompt": "¿Qué es un coleto?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un abrigo largo de cuero, de época clásica."
+   },
+   {
+    "id": "B",
+    "text": "Un tipo de sombrero de ala ancha, utilizado en el siglo XVII en la indumentaria civil."
+   },
+   {
+    "id": "C",
+    "text": "Una prenda superior de cuero, con o sin mangas que se utilizaba en torno al siglo XVI."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal. [Corrección del Tribunal Calificador, 22/03/2024, aplicada.]",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 42. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 42
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-sastreria-2023-110",
+  "topicId": "especifico-35",
+  "prompt": "¿Qué es un TAHALÍ?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un tipo de casco de perfil curvo partido, con cimera, utilizado en el siglo XVI."
+   },
+   {
+    "id": "B",
+    "text": "Nombre del calzón ceñido del torero, con botones en la parte baja de la pernera."
+   },
+   {
+    "id": "C",
+    "text": "Cinto con tirantes de cuero del que colgaba la vaina del sable o la bayoneta. UL - 14 RESERVA"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 110. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 110
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-sastreria-2023-49",
+  "topicId": "especifico-35",
+  "prompt": "¿Qué es un ESMOQUIN?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Es un tipo de traje de etiqueta masculino que consta de chaqueta y pantalón negro, aparecido a finales del siglo XIX, y que pervive en el traje contemporáneo."
+   },
+   {
+    "id": "B",
+    "text": "Es un tipo de traje masculino que surge a finales del siglo XVIII, entallado y con largos faldones por detrás."
+   },
+   {
+    "id": "C",
+    "text": "Es un tipo de traje de ceremonia, aparecido a finales del siglo XIX, que consta de chaqueta con faldones y pantalón rayado."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 49. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 49
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-sastreria-2023-67",
+  "topicId": "especifico-35",
+  "prompt": "¿Qué es un “tontillo”?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Es un elemento ahuecador, en forma de cono, que aparece en las faldas del traje femenino a finales del s. XV."
+   },
+   {
+    "id": "B",
+    "text": "Es un elemento ahuecador, utilizado en las faldas del traje femenino del siglo XVIII."
+   },
+   {
+    "id": "C",
+    "text": "Es un sombrero masculino de fieltro, de ala ancha y copa circular, usado en el s. XVII."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Gestión de Sastrería del Espectáculo en Vivo, turno libre, pregunta 67. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Gestión de Sastrería del Espectáculo en Vivo",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 67
+  },
+  "active": true,
+  "optionCount": 3
+ }
+]

@@ -1,0 +1,4553 @@
+[
+ {
+  "id": "m1c-2025-pool1-03",
+  "topicId": "comun-12",
+  "prompt": "De acuerdo con el TREBEP, NO podrán formar parte de los órganos de selección:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El personal funcionario de carrera."
+   },
+   {
+    "id": "B",
+    "text": "El personal de elección o de designación política, los funcionarios interinos y el personal laboral fijo."
+   },
+   {
+    "id": "C",
+    "text": "El personal de elección o de designación política, los funcionarios interinos y el personal eventual."
+   },
+   {
+    "id": "D",
+    "text": "El personal de elección o de designación política, los funcionarios de carrera y los funcionarios interinos."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 3. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 3
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-02",
+  "topicId": "comun-12",
+  "prompt": "De acuerdo con lo dispuesto en el artículo 59 del TREBEP, ¿qué porcentaje de vacantes debe reservarse en las ofertas de empleo público para las personas con discapacidad?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se reservará un cupo no inferior al siete por ciento de las vacantes, de las que, al menos, el dos por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual."
+   },
+   {
+    "id": "B",
+    "text": "Se reservará un cupo no inferior al seis por ciento de las vacantes, de las que, al menos, el dos por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual."
+   },
+   {
+    "id": "C",
+    "text": "Se reservará un cupo no inferior al siete por ciento de las vacantes, de las que, al menos, el tres por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual."
+   },
+   {
+    "id": "D",
+    "text": "Se reservará un cupo no inferior al siete por ciento de las vacantes, de las que, al menos, un uno por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 2. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a59"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 2
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-02",
+  "topicId": "comun-12",
+  "prompt": "Según el artículo 61 del TREBEP, los órganos de selección no podrán proponer el acceso a la condición de funcionario de un número superior de aprobados al de plazas convocadas, excepto:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Cuando sea autorizado por el Consejo de Ministros."
+   },
+   {
+    "id": "B",
+    "text": "Cuando surjan necesidades imprevistas de personal."
+   },
+   {
+    "id": "C",
+    "text": "Cuando así lo prevea la propia convocatoria."
+   },
+   {
+    "id": "D",
+    "text": "Cuando el número de aprobados sea inferior al de plazas convocadas."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 2. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a61"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 2
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-05",
+  "topicId": "comun-12",
+  "prompt": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, podrá autorizarse la compatibilidad para el desempeño de un puesto de trabajo:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Como Profesor ayudante doctor en régimen de dedicación a tiempo completo."
+   },
+   {
+    "id": "B",
+    "text": "Como Profesor titular universitario en régimen de dedicación no superior a la de tiempo parcial."
+   },
+   {
+    "id": "C",
+    "text": "Como Profesor universitario asociado en régimen de dedicación no superior a la de tiempo parcial."
+   },
+   {
+    "id": "D",
+    "text": "Como Catedrático de Universidad en régimen de dedicación a tiempo completo."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 5. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ley-53-1984"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 5
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-05",
+  "topicId": "comun-12",
+  "prompt": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, señale cuál de las siguientes actividades quedaría EXCEPTUADA del régimen de incompatibilidades:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La colaboración y la asistencia regular a Congresos, seminarios, conferencias o cursos de carácter profesional."
+   },
+   {
+    "id": "B",
+    "text": "La participación en Tribunales calificadores de pruebas selectivas para ingreso en las Administraciones Públicas."
+   },
+   {
+    "id": "C",
+    "text": "El ejercicio de forma retribuida del cargo de Presidente de un Patronato de Funcionarios."
+   },
+   {
+    "id": "D",
+    "text": "La creación literaria como consecuencia de una prestación de servicios. M1_GI - 1"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 5. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ley-53-1984"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 5
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-04",
+  "topicId": "comun-12",
+  "prompt": "Señale la respuesta CORRECTA respecto a los servicios prestados en un segundo puesto o actividad pública:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Podrán computarse a efectos de trienios o derechos pasivos."
+   },
+   {
+    "id": "B",
+    "text": "No podrán computarse a efectos de trienios, pero sí de derechos pasivos."
+   },
+   {
+    "id": "C",
+    "text": "Podrán percibirse pagas extraordinarias por ambos puestos, siempre que la cantidad total percibida por ambos puestos o actividades no supere la remuneración establecida en los presupuestos generales del estado."
+   },
+   {
+    "id": "D",
+    "text": "No se computarán a efectos de trienios o derechos pasivos."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 4. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 4
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-03",
+  "topicId": "comun-12",
+  "prompt": "Señale la opción CORRECTA según lo establecido en la normativa en cuanto a las Ofertas de Empleo Público:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo de dos años, prorrogable por un año más."
+   },
+   {
+    "id": "B",
+    "text": "La ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de tres años."
+   },
+   {
+    "id": "C",
+    "text": "La ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo de tres años, prorrogable por un año más."
+   },
+   {
+    "id": "D",
+    "text": "La ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de dos años."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 3. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 3
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-26",
+  "topicId": "comun-12",
+  "prompt": "Señale la respuesta CORRECTA. Según la Constitución Española de 1978, el acceso a la función pública debe basarse en:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La recomendación de un superior."
+   },
+   {
+    "id": "B",
+    "text": "La antigüedad en el puesto."
+   },
+   {
+    "id": "C",
+    "text": "El mérito y la capacidad."
+   },
+   {
+    "id": "D",
+    "text": "La afinidad política."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 26. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 26
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-04",
+  "topicId": "comun-12",
+  "prompt": "Señale la respuesta CORRECTA según lo dispuesto en el artículo 3 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Para el ejercicio de una segunda actividad en el sector público, será indispensable la previa y expresa autorización de compatibilidad, que podrá suponer la modificación de la jornada de trabajo."
+   },
+   {
+    "id": "B",
+    "text": "Para el ejercicio de una segunda actividad en el sector público, será indispensable la previa autorización de compatibilidad, que no tendrá por qué emitirse de forma expresa."
+   },
+   {
+    "id": "C",
+    "text": "Para el ejercicio de una segunda actividad en el sector público, será indispensable la previa y expresa autorización de compatibilidad, que no supondrá la modificación de la jornada de trabajo, pero podrá autorizar la modificación del horario en razón del interés público."
+   },
+   {
+    "id": "D",
+    "text": "Para el ejercicio de una segunda actividad en el sector público, será indispensable la previa y expresa autorización de compatibilidad, que no supondrá la modificación de la jornada de trabajo y horario de los dos puestos."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 4. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ley-53-1984"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 4
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-05",
+  "topicId": "comun-12",
+  "prompt": "Las solicitudes formuladas en los procedimientos en materia de incompatibilidades para el ejercicio de actividades privadas, se podrán entender estimadas una vez transcurrido, sin que se hubiera dictado resolución expresa, un periodo de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "1 mes."
+   },
+   {
+    "id": "B",
+    "text": "4 meses."
+   },
+   {
+    "id": "C",
+    "text": "2 meses."
+   },
+   {
+    "id": "D",
+    "text": "3 meses. M1_IC - 1"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 5. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 5
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-04",
+  "topicId": "comun-12",
+  "prompt": "El personal incluido en el ámbito de aplicación de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, podrá compatibilizar sus actividades con el desempeño de los cargos electivos siguientes:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Miembros del Congreso de los Diputados, salvo que perciban retribuciones periódicas por el desempeño de la función o que por las mismas se establezca la incompatibilidad."
+   },
+   {
+    "id": "B",
+    "text": "Miembros de las Corporaciones locales, incluyendo aquellos que desempeñen en los mismos cargos retribuidos en régimen de dedicación exclusiva."
+   },
+   {
+    "id": "C",
+    "text": "Miembros de las Asambleas Legislativas de las Comunidades Autónomas, salvo que perciban retribuciones periódicas por el desempeño de la función o que por las mismas se establezca la incompatibilidad."
+   },
+   {
+    "id": "D",
+    "text": "Miembros del Gobierno, salvo que desempeñen cargos retribuidos en régimen de dedicación exclusiva."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 4. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ley-53-1984"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 4
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-01",
+  "topicId": "comun-12",
+  "prompt": "El artículo 60 del Texto Refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre (en adelante TREBEP) establece que la composición de los órganos de selección deberá ajustarse a los principios de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Imparcialidad y profesionalidad."
+   },
+   {
+    "id": "B",
+    "text": "Capacidad y transparencia."
+   },
+   {
+    "id": "C",
+    "text": "Imparcialidad y transparencia."
+   },
+   {
+    "id": "D",
+    "text": "Voluntariedad y profesionalidad."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 1. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a60"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 1
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-07",
+  "topicId": "comun-13",
+  "prompt": "De acuerdo con el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, las familias profesionales:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Agrupan unitariamente las aptitudes profesionales, las titulaciones y el contenido general de la prestación laboral que se corresponde con las mismas."
+   },
+   {
+    "id": "B",
+    "text": "Determinan el contenido concreto de la prestación laboral y establecen el perfil profesional de cada puesto."
+   },
+   {
+    "id": "C",
+    "text": "Son el conjunto de tareas, funciones y actividades propias de un puesto."
+   },
+   {
+    "id": "D",
+    "text": "Agrupan el conjunto de titulaciones, cualificaciones, profesiones, oficios y ocupaciones atendiendo a criterios de afinidad de la competencia profesional."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 7. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 7
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-09",
+  "topicId": "comun-13",
+  "prompt": "Según lo establecido en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, la Comisión Paritaria funcionará:",
+  "options": [
+   {
+    "id": "A",
+    "text": "En Pleno y en Comisión Permanente."
+   },
+   {
+    "id": "B",
+    "text": "En Pleno y en Comisiones temporales."
+   },
+   {
+    "id": "C",
+    "text": "En Pleno y en Salas temáticas."
+   },
+   {
+    "id": "D",
+    "text": "En Subcomisiones temporales y permanentes."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 9. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 9
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-08",
+  "topicId": "comun-13",
+  "prompt": "Según lo establecido en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, la Comisión Paritaria se reunirá:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Con carácter ordinario al menos dos veces al mes, y con carácter extraordinario, cuando lo soliciten al menos siete de las personas que componen la parte social o de la Administración."
+   },
+   {
+    "id": "B",
+    "text": "Con carácter ordinario al menos una vez cada dos meses, y con carácter extraordinario, cuando lo soliciten al menos cinco de las personas que componen la parte social o de la Administración."
+   },
+   {
+    "id": "C",
+    "text": "Con carácter ordinario al menos una vez al mes, y con carácter extraordinario, cuando lo soliciten al menos siete de las personas que componen la parte social o de la Administración."
+   },
+   {
+    "id": "D",
+    "text": "Con carácter ordinario al menos una vez a la semana, y con carácter extraordinario, cuando lo soliciten al menos cinco de las personas que componen la parte social o de la Administración."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 8. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 8
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-08",
+  "topicId": "comun-13",
+  "prompt": "Según lo dispuesto en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, NO son funciones de la Comisión Paritaria:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Interpretar la totalidad del articulado, disposiciones y anexos del convenio, vigilar y exigir su cumplimiento."
+   },
+   {
+    "id": "B",
+    "text": "Recibir información de las contrataciones formalizadas fuera de Convenio en aquellos casos en los que exista personal laboral del ámbito del Convenio que realice idénticas funciones."
+   },
+   {
+    "id": "C",
+    "text": "Intervenir en la solución de conflictos colectivos, que se susciten en el ámbito del Convenio, en los términos que se establecen en el mismo."
+   },
+   {
+    "id": "D",
+    "text": "Autorizar los reingresos al servicio activo realizados por el personal laboral en el marco del convenio."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 8. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 8
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-07",
+  "topicId": "comun-13",
+  "prompt": "De acuerdo con lo establecido en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, la Comisión Paritaria se constituirá:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Dentro de los quince días siguientes a la fecha de la publicación de este Convenio."
+   },
+   {
+    "id": "B",
+    "text": "Dentro de los veinte días siguientes a la fecha de la publicación de este Convenio."
+   },
+   {
+    "id": "C",
+    "text": "Dentro de los quince días siguientes a la fecha de entrada en vigor de este Convenio."
+   },
+   {
+    "id": "D",
+    "text": "Dentro de los veinte días siguientes a la fecha de entrada en vigor de este Convenio."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 7. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 7
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-10",
+  "topicId": "comun-13",
+  "prompt": "Según lo establecido en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, serán funciones de las Subcomisiones Paritarias:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Recibir comunicación y ser consultada sobre la distribución anual de la jornada y la fijación diaria y semanal de los horarios y turnos de trabajo."
+   },
+   {
+    "id": "B",
+    "text": "En materia de ropa de trabajo y uniformidad: financiar la ropa de trabajo y/o uniformidad."
+   },
+   {
+    "id": "C",
+    "text": "Autorizar la realización de horas extraordinarias."
+   },
+   {
+    "id": "D",
+    "text": "Juzgar y evaluar los acuerdos de la Comisión Paritaria."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 10. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 10
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-14",
+  "topicId": "comun-13",
+  "prompt": "Según el artículo 93 del IV Convenio colectivo único para el personal laboral de la Administración General del Estado, NO es una causa de suspensión del contrato de trabajo:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Riesgo durante el embarazo o riesgo durante la lactancia natural."
+   },
+   {
+    "id": "B",
+    "text": "Invalidez permanente del trabajador o trabajadora."
+   },
+   {
+    "id": "C",
+    "text": "Nombramiento del personal laboral como personal funcionario en prácticas o para la realización de períodos de prueba como personal laboral fijo en el ámbito de una Administración Pública."
+   },
+   {
+    "id": "D",
+    "text": "La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tenga carácter firme."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 14. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 14
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-06",
+  "topicId": "comun-13",
+  "prompt": "Según lo establecido en IV Convenio colectivo único para el personal laboral de la Administración General del Estado, señale la titulación exigida para el acceso en el Grupo profesional M3:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico o equivalentes."
+   },
+   {
+    "id": "B",
+    "text": "Título de Bachiller o Técnico o equivalentes."
+   },
+   {
+    "id": "C",
+    "text": "Título clasificado en el Nivel 2 del Marco Español de Cualificaciones para la Educación Superior o equivalentes."
+   },
+   {
+    "id": "D",
+    "text": "Título clasificado en el Nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalentes."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 6. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 6
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-07",
+  "topicId": "comun-13",
+  "prompt": "De acuerdo con lo establecido en IV Convenio colectivo único para el personal laboral de la Administración General del Estado, señale la respuesta CORRECTA respecto a la Comisión Paritaria:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Comisión Paritaria es el órgano encargado de la negociación en el marco del Convenio único, de conformidad con lo dispuesto en el artículo 88 del Estatuto de los Trabajadores."
+   },
+   {
+    "id": "B",
+    "text": "La Comisión Paritaria estará compuesta por representantes externos a las partes firmantes del convenio."
+   },
+   {
+    "id": "C",
+    "text": "El IV convenio no prevé la creación de una Comisión Paritaria."
+   },
+   {
+    "id": "D",
+    "text": "La Comisión Paritaria es el órgano máximo de interpretación, vigilancia, seguimiento, estudio y aplicación de lo pactado en el presente Convenio colectivo durante su vigencia. Estará compuesta por representantes de las partes firmantes del convenio."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 7. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 7
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-06",
+  "topicId": "comun-13",
+  "prompt": "Según lo establecido en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, señale la titulación exigida para el acceso en el Grupo profesional M1:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico o equivalentes."
+   },
+   {
+    "id": "B",
+    "text": "Título de Bachiller o Técnico o equivalentes."
+   },
+   {
+    "id": "C",
+    "text": "Título clasificado en el Nivel 1 del Marco Español de Cualificaciones para la Educación Superior o equivalentes."
+   },
+   {
+    "id": "D",
+    "text": "Sin titulación prevista en el sistema educativo."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 6. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 6
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-19",
+  "topicId": "comun-13",
+  "prompt": "Según lo establecido en IV Convenio colectivo único para el personal laboral de la Administración General del Estado, las trabajadoras víctimas de violencia de género, tendrán derecho a solicitar la excedencia:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Durante un periodo máximo de un año para hacer efectiva su protección."
+   },
+   {
+    "id": "B",
+    "text": "Sin necesidad de haber prestado un tiempo mínimo de servicios previos y sin que sea exigible un plazo de permanencia en la misma."
+   },
+   {
+    "id": "C",
+    "text": "Siempre y cuando haya prestado un tiempo mínimo de dos años de servicios previos y durante un tiempo máximo de 5 años."
+   },
+   {
+    "id": "D",
+    "text": "Sin necesidad de haber prestado un tiempo mínimo de servicios previos y durante un plazo mínimo de dos años."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 19. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 19
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-09",
+  "topicId": "comun-13",
+  "prompt": "De acuerdo con el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, ¿cuál de los siguientes grupos de trabajo tiene carácter permanente dentro de la Comisión Paritaria?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Grupo de Trabajo de Negociación del Convenio único."
+   },
+   {
+    "id": "B",
+    "text": "Grupo de Trabajo de Interpretación del Convenio Único."
+   },
+   {
+    "id": "C",
+    "text": "Grupo de Trabajo de Aplicación del régimen disciplinario."
+   },
+   {
+    "id": "D",
+    "text": "Grupo de Trabajo de Concursos del personal laboral."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 9. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 9
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-08",
+  "topicId": "comun-13",
+  "prompt": "Según lo establecido en el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, cada organización sindical integrante de la Comisión Negociadora podrá designar asesores o asesoras:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Con voz y voto, hasta un número equivalente al 80% de su representatividad."
+   },
+   {
+    "id": "B",
+    "text": "Con voz pero sin voto, hasta un número equivalente al 60% de su representatividad."
+   },
+   {
+    "id": "C",
+    "text": "Con voz y voto, hasta un número equivalente al 60% de su representatividad."
+   },
+   {
+    "id": "D",
+    "text": "Con voz pero sin voto, hasta un número equivalente al 80% de su representatividad."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 8. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 8
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-06",
+  "topicId": "comun-13",
+  "prompt": "Según lo establecido en IV Convenio colectivo único para el personal laboral de la Administración General del Estado, el título de Graduado en Educación Secundaria Obligatoria o Título Profesional Básico es la titulación exigida para el grupo profesional:",
+  "options": [
+   {
+    "id": "A",
+    "text": "M1."
+   },
+   {
+    "id": "B",
+    "text": "E0."
+   },
+   {
+    "id": "C",
+    "text": "E2."
+   },
+   {
+    "id": "D",
+    "text": "E1."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 6. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 6
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-12",
+  "topicId": "comun-13",
+  "prompt": "De acuerdo con el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, ¿cuántos créditos de horas retribuidas le corresponden a un Delegado o Delegada de Personal, para poder ejercer su labor de representación, en un ámbito de 150 trabajadores/as?:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Quince horas mensuales."
+   },
+   {
+    "id": "B",
+    "text": "Veinte horas mensuales."
+   },
+   {
+    "id": "C",
+    "text": "Quince horas semanales."
+   },
+   {
+    "id": "D",
+    "text": "Treinta horas mensuales."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 12. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 12
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-10",
+  "topicId": "comun-13",
+  "prompt": "De acuerdo con el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, las Subcomisiones Paritarias estarán integradas por representantes de cada una de las partes firmantes del Convenio, cuyo número, por cada una de las partes, no podrá ser superior a:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Veinte."
+   },
+   {
+    "id": "B",
+    "text": "Quince."
+   },
+   {
+    "id": "C",
+    "text": "Diez."
+   },
+   {
+    "id": "D",
+    "text": "Veinticinco. M1_GI - 2"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 10. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 10
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-13",
+  "topicId": "comun-13",
+  "prompt": "Podrán ser Delegados y Delegadas Sindicales en el ámbito del IV Convenio colectivo único para el personal laboral de la Administración General del Estado:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Personal jubilado"
+   },
+   {
+    "id": "B",
+    "text": "Personal funcionario interino"
+   },
+   {
+    "id": "C",
+    "text": "Personal laboral en activo"
+   },
+   {
+    "id": "D",
+    "text": "Personal laboral en excedencia voluntaria"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 13. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 13
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-10",
+  "topicId": "comun-13",
+  "prompt": "El IV Convenio colectivo único para el personal laboral de la Administración General del Estado establece una clasificación de grupos profesionales compuesta por:",
+  "options": [
+   {
+    "id": "A",
+    "text": "4 grupos profesionales y 2 subgrupos."
+   },
+   {
+    "id": "B",
+    "text": "6 grupos profesionales."
+   },
+   {
+    "id": "C",
+    "text": "8 grupos profesionales."
+   },
+   {
+    "id": "D",
+    "text": "6 grupos profesionales y 2 subgrupos."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 10. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 10
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-13",
+  "topicId": "comun-13",
+  "prompt": "El artículo 89 del IV Convenio colectivo único para el personal laboral de la Administración General del Estado, establece que aquellos sindicatos que no hayan obtenido el 10% de los votos estarán representados por:",
+  "options": [
+   {
+    "id": "A",
+    "text": "1 delegado sindical."
+   },
+   {
+    "id": "B",
+    "text": "2 delegados sindicales."
+   },
+   {
+    "id": "C",
+    "text": "3 delegados sindicales."
+   },
+   {
+    "id": "D",
+    "text": "No tendrán derecho a representación."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 13. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "convenio-iv"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 13
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-11",
+  "topicId": "comun-14",
+  "prompt": "De acuerdo con el artículo 15 del Estatuto de los Trabajadores, el contrato de trabajo se presume concertado por tiempo:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Temporal"
+   },
+   {
+    "id": "B",
+    "text": "Indefinido"
+   },
+   {
+    "id": "C",
+    "text": "Indefinido o temporal"
+   },
+   {
+    "id": "D",
+    "text": "Indeterminado M1_IC - 2"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 11. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-2-2015",
+   "anchorId": "rdleg-2-2015-a15"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 11
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-11",
+  "topicId": "comun-14",
+  "prompt": "De acuerdo con lo previsto en el Estatuto de los Trabajadores, a efectos de la duración del contrato de trabajo, se entenderá por circunstancias de la producción:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El incremento ocasional e imprevisible de la actividad y las oscilaciones, que aun tratándose de la actividad normal de la empresa, generan un desajuste temporal entre el empleo estable disponible y el que se requiere."
+   },
+   {
+    "id": "B",
+    "text": "El incremento ocasional de la actividad excepcional de la empresa que genere un desajuste temporal entre el empleo estable disponible y el que se requiere."
+   },
+   {
+    "id": "C",
+    "text": "El incremento ocasional y previsible de la actividad y las oscilaciones, que aun tratándose de la actividad anormal de la empresa, generan un desajuste temporal entre el empleo estable disponible y el que se requiere."
+   },
+   {
+    "id": "D",
+    "text": "El incremento regular y previsible de la actividad y las oscilaciones, que aun tratándose de la actividad normal de la empresa, generan un desajuste temporal entre el empleo estable disponible y el que se requiere."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 11. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-2-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 11
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-12",
+  "topicId": "comun-14",
+  "prompt": "Según el Estatuto de los Trabajadores, el contrato que tiene por objeto compatibilizar la actividad laboral retribuida con los correspondientes procesos formativos en el ámbito de la formación profesional, los estudios universitarios o del Catálogo de especialidades formativas del Sistema Nacional de Empleo, se denomina:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Contrato formativo"
+   },
+   {
+    "id": "B",
+    "text": "Contrato fijo - discontinuo"
+   },
+   {
+    "id": "C",
+    "text": "Contrato de prácticas"
+   },
+   {
+    "id": "D",
+    "text": "Contrato de formación en alternancia"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 12. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-2-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 12
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-15",
+  "topicId": "comun-14",
+  "prompt": "De acuerdo con el Estatuto de los Trabajadores, a la finalización del contrato, excepto en los contratos formativos y el contrato de duración determinada por causa de sustitución, la persona trabajadora tendrá derecho a recibir una indemnización de cuantía equivalente a la parte proporcional de la cantidad que resultaría de abonar:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Dieciocho días de salario por cada año de servicio, o la establecida, en su caso, en la normativa específica que sea de aplicación."
+   },
+   {
+    "id": "B",
+    "text": "Siete días de salario por cada año de servicio, o la establecida, en su caso, en la normativa específica que sea de aplicación."
+   },
+   {
+    "id": "C",
+    "text": "Catorce días de salario por cada año de servicio, o la establecida, en su caso, en la normativa específica que sea de aplicación."
+   },
+   {
+    "id": "D",
+    "text": "Doce días de salario por cada año de servicio, o la establecida, en su caso, en la normativa específica que sea de aplicación."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 15. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-2-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 15
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-15",
+  "topicId": "comun-14",
+  "prompt": "El Estatuto de los Trabajadores establece que los contratos de relevo podrán celebrarse:",
+  "options": [
+   {
+    "id": "A",
+    "text": "A jornada completa o a tiempo parcial."
+   },
+   {
+    "id": "B",
+    "text": "Únicamente a tiempo parcial."
+   },
+   {
+    "id": "C",
+    "text": "Únicamente a jornada completa y por periodos acumulados."
+   },
+   {
+    "id": "D",
+    "text": "Por un tiempo mínimo de 25 horas a la semana."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 15. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-2-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 15
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-12",
+  "topicId": "comun-14",
+  "prompt": "Señale el artículo de la Constitución Española de 1978 en el que se recoge el derecho a la libertad sindical:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Artículo 9."
+   },
+   {
+    "id": "B",
+    "text": "Artículo 28."
+   },
+   {
+    "id": "C",
+    "text": "Artículo 27."
+   },
+   {
+    "id": "D",
+    "text": "Artículo 30."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 12. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 12
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-15",
+  "topicId": "comun-14",
+  "prompt": "Según establece el Estatuto de los Trabajadores, serán causas justas para que el trabajador pueda solicitar la extinción del contrato:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las modificaciones sustanciales en las condiciones de trabajo llevadas a cabo de mutuo acuerdo y que no redunden en menoscabo de la dignidad del trabajador."
+   },
+   {
+    "id": "B",
+    "text": "La falta de pago o retrasos continuados en el abono del salario pactado."
+   },
+   {
+    "id": "C",
+    "text": "El incumplimiento de sus obligaciones por parte del empresario, cuando medie causa de fuerza mayor."
+   },
+   {
+    "id": "D",
+    "text": "El reintegro al trabajador en sus anteriores condiciones de trabajo en los supuestos previstos en los artículos 40 y 41, cuando una sentencia judicial haya declarado los mismos injustificados."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 15. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-2-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 15
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-14",
+  "topicId": "comun-14",
+  "prompt": "El personal laboral fijo que se encuentre en la situación de suspensión del contrato de trabajo deberá solicitar su reincorporación desde la finalización de la situación que dio origen a la suspensión en el plazo de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "2 meses."
+   },
+   {
+    "id": "B",
+    "text": "1 mes."
+   },
+   {
+    "id": "C",
+    "text": "3 meses."
+   },
+   {
+    "id": "D",
+    "text": "La reincorporación se realiza de oficio por parte del órgano competente."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 14. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 14
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-14",
+  "topicId": "comun-14",
+  "prompt": "Señale la respuesta CORRECTA. De acuerdo a lo dispuesto en la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, los trabajadores afiliados a un sindicato podrán, en el ámbito de la empresa o centro de trabajo:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Celebrar reuniones, sin previa notificación al empresario."
+   },
+   {
+    "id": "B",
+    "text": "Recaudar cuotas durante las horas de trabajo."
+   },
+   {
+    "id": "C",
+    "text": "Distribuir información, aunque esta perturbe la actividad normal de la empresa."
+   },
+   {
+    "id": "D",
+    "text": "Recibir la información que le remita su sindicato."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 14. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "lo-11-1985"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 14
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-13",
+  "topicId": "comun-14",
+  "prompt": "De acuerdo a lo dispuesto en la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, las organizaciones sindicales en el ejercicio de la libertad sindical, tienen derecho a no ser suspendidas ni disueltas sino mediante:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Resolución provisional de la autoridad judicial."
+   },
+   {
+    "id": "B",
+    "text": "Ley orgánica."
+   },
+   {
+    "id": "C",
+    "text": "Resolución firme de la autoridad judicial."
+   },
+   {
+    "id": "D",
+    "text": "Resolución del Consejo de Ministros."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 13. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "lo-11-1985"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 13
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-11",
+  "topicId": "comun-14",
+  "prompt": "El Estatuto de los Trabajadores determina que las empresas podrán formalizar contratos por circunstancias de la producción para atender situaciones ocasionales, previsibles y que tengan una duración reducida y delimitada por un máximo de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "90 días en un periodo de seis meses."
+   },
+   {
+    "id": "B",
+    "text": "180 días en el año natural."
+   },
+   {
+    "id": "C",
+    "text": "90 días en el año natural."
+   },
+   {
+    "id": "D",
+    "text": "180 días en un periodo de dos años."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 11. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-2-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 11
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-16",
+  "topicId": "especifico-16",
+  "prompt": "Según el artículo 8 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la discriminación por embarazo o maternidad se considera:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Discriminación indirecta por razón de sexo."
+   },
+   {
+    "id": "B",
+    "text": "Discriminación directa o indirecta, dependiendo del acto que la motive."
+   },
+   {
+    "id": "C",
+    "text": "Discriminación directa por razón de sexo."
+   },
+   {
+    "id": "D",
+    "text": "No se considera un tipo de discriminación."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 16. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "lo-3-2007",
+   "anchorId": "lo-3-2007-a8"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 16
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-17",
+  "topicId": "especifico-16",
+  "prompt": "En los litigios sobre acoso sexual y acoso por razón de sexo, estarán legitimados:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La persona acosada será la única legitimada."
+   },
+   {
+    "id": "B",
+    "text": "Cualquier persona estará legitimada."
+   },
+   {
+    "id": "C",
+    "text": "Estarán legitimados la persona acosada y cualquier persona que sea testigo de los hechos."
+   },
+   {
+    "id": "D",
+    "text": "Únicamente estarán legitimados para persona acosada y sus familiares en primer grado."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 17. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 17
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-18",
+  "topicId": "especifico-17",
+  "prompt": "¿Cómo se denomina el instrumento de cooperación para la articulación de los servicios sociales y la promoción de la autonomía y atención a las personas en situación de dependencia?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Instituto de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia."
+   },
+   {
+    "id": "B",
+    "text": "Observatorio de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia."
+   },
+   {
+    "id": "C",
+    "text": "Comité interterritorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia."
+   },
+   {
+    "id": "D",
+    "text": "Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 18. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 18
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-17",
+  "topicId": "especifico-17",
+  "prompt": "Señale la respuesta CORRECTA. La Ley Orgánica 39/2006, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, prevé los siguientes grados de dependencia:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Grado I. Dependencia severa."
+   },
+   {
+    "id": "B",
+    "text": "Grado II. Dependencia moderada."
+   },
+   {
+    "id": "C",
+    "text": "Grado I. Dependencia moderada."
+   },
+   {
+    "id": "D",
+    "text": "Grado II. Gran dependencia. M1_IC - 3"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 17. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 17
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-18",
+  "topicId": "especifico-17",
+  "prompt": "A efectos de la Ley Orgánica 39/2006, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, la capacidad de controlar, afrontar y tomar, por propia iniciativa, decisiones personales acerca de cómo vivir de acuerdo con las normas y preferencias propias así como de desarrollar las actividades básicas de la vida diaria, se define como:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Dependencia."
+   },
+   {
+    "id": "B",
+    "text": "Autonomía."
+   },
+   {
+    "id": "C",
+    "text": "Cuidados profesionales."
+   },
+   {
+    "id": "D",
+    "text": "Necesidades de apoyo."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 18. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 18
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-29",
+  "topicId": "comun-01",
+  "prompt": "De acuerdo con el marco que establece la Constitución Española de 1978, señale la respuesta VERDADERA:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La cultura es una competencia exclusiva del Estado, sin que puedan las Comunidades Autónomas asumir competencias en esa materia."
+   },
+   {
+    "id": "B",
+    "text": "Sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el Estado considerará el servicio de la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas."
+   },
+   {
+    "id": "C",
+    "text": "La cultura es una competencia exclusiva de las Comunidades Autónomas, sin perjuicio de que el Estado pueda emitir recomendaciones o sugerencias para marcar la estrategia de la política pública."
+   },
+   {
+    "id": "D",
+    "text": "Todas son falsas."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 29. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 29
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-30",
+  "topicId": "comun-01",
+  "prompt": "Según la Constitución Española de 1978, el gobierno y la administración autónoma de las provincias estarán encomendados a:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Cámaras de representación provincial."
+   },
+   {
+    "id": "B",
+    "text": "Gobiernos locales."
+   },
+   {
+    "id": "C",
+    "text": "Diputaciones u otras Corporaciones de carácter representativo."
+   },
+   {
+    "id": "D",
+    "text": "Los miembros del Consejo de gobierno correspondiente."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 30. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 30
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-25",
+  "topicId": "comun-01",
+  "prompt": "La protección de los derechos fundamentales se garantiza a través de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La ley ordinaria."
+   },
+   {
+    "id": "B",
+    "text": "Los principios generales del derecho."
+   },
+   {
+    "id": "C",
+    "text": "El recurso de amparo ante el Tribunal Constitucional."
+   },
+   {
+    "id": "D",
+    "text": "La acción directa de los ciudadanos."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 25. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 25
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-24",
+  "topicId": "comun-01",
+  "prompt": "Señale cuál de estos derechos NO se recoge en la Constitución Española de 1978:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo."
+   },
+   {
+    "id": "B",
+    "text": "Derecho a disfrutar de una vivienda digna y adecuada."
+   },
+   {
+    "id": "C",
+    "text": "Derecho a la devolución de los productos adquiridos en el libre mercado."
+   },
+   {
+    "id": "D",
+    "text": "Derecho de acceso a la cultura."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 24. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 24
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-25",
+  "topicId": "comun-01",
+  "prompt": "¿Cuál de estas afirmaciones es VERDADERA en relación con los derechos fundamentales?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Pueden ser suspendidos en cualquier circunstancia."
+   },
+   {
+    "id": "B",
+    "text": "Son derechos inalienables e irrenunciables."
+   },
+   {
+    "id": "C",
+    "text": "Solo se aplican a los ciudadanos españoles."
+   },
+   {
+    "id": "D",
+    "text": "Son el derecho a la vivienda y el derecho a disfrutar de un medio ambiente adecuado, entre otros."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 25. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 25
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-21",
+  "topicId": "comun-01",
+  "prompt": "Señala la respuesta CORRECTA sobre el artículo 1 de la Constitución Española de 1978:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Establece que España es una monarquía absoluta."
+   },
+   {
+    "id": "B",
+    "text": "Define los valores superiores del ordenamiento jurídico español."
+   },
+   {
+    "id": "C",
+    "text": "Regula el derecho a la educación."
+   },
+   {
+    "id": "D",
+    "text": "Describe los procedimientos de reforma constitucional. M1_GI - 4"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 21. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978",
+   "anchorId": "ce-1978-a1"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 21
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-24",
+  "topicId": "comun-01",
+  "prompt": "Señale la respuesta CORRECTA según el artículo 44 de la Constitución Española de 1978:",
+  "options": [
+   {
+    "id": "A",
+    "text": "No reconoce el derecho de acceso a la cultura."
+   },
+   {
+    "id": "B",
+    "text": "Los poderes públicos promoverán y tutelarán el acceso a la cultura, a la que todos tienen derecho."
+   },
+   {
+    "id": "C",
+    "text": "Los poderes públicos promoverán y tutelarán el acceso a la cultura, aunque no todos tienen derecho."
+   },
+   {
+    "id": "D",
+    "text": "El derecho a la cultura se define como el derecho a crear obras musicales, literarias y artísticas y a disfrutar de las que produzcan los demás."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 24. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978",
+   "anchorId": "ce-1978-a44"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 24
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-27",
+  "topicId": "comun-01",
+  "prompt": "Señale la respuesta CORRECTA según el artículo 137 de la Constitución Española de 1978:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan."
+   },
+   {
+    "id": "B",
+    "text": "El Estado se organiza territorialmente en municipios, en provincias y en diecisiete Comunidades Autónomas."
+   },
+   {
+    "id": "C",
+    "text": "El Estado se organiza territorialmente en municipios, en provincias y en municipalidades singulares."
+   },
+   {
+    "id": "D",
+    "text": "El Estado se organiza territorialmente según que establezca el Gobierno de la Nación y se ratifique por el pueblo español."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 27. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978",
+   "anchorId": "ce-1978-a137"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 27
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-21",
+  "topicId": "comun-01",
+  "prompt": "¿Cuál de las siguientes afirmaciones sobre la Constitución Española de 1978 es VERDADERA?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Tribunal Constitucional no puede interpretar la Constitución Española."
+   },
+   {
+    "id": "B",
+    "text": "La Constitución Española de 1978 establece que la forma política del Estado español es la República."
+   },
+   {
+    "id": "C",
+    "text": "La Constitución Española de 1978 reconoce el pluralismo político como valor superior del ordenamiento jurídico español."
+   },
+   {
+    "id": "D",
+    "text": "La Constitución Española de 1978 no se puede modificar."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 21. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 21
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-21",
+  "topicId": "comun-01",
+  "prompt": "¿Cuál de las siguientes afirmaciones sobre la Constitución Española de 1978 es VERDADERA?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas."
+   },
+   {
+    "id": "B",
+    "text": "La soberanía nacional reside en el Gobierno de la Nación, del que emanan los poderes del Estado."
+   },
+   {
+    "id": "C",
+    "text": "La forma política del Estado español es la República."
+   },
+   {
+    "id": "D",
+    "text": "España se constituye en un Estado anacrónico y democrático de Derecho."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 21. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 21
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-22",
+  "topicId": "comun-01",
+  "prompt": "En relación con el artículo 9 de la Constitución Española de 1978, señale la respuesta FALSA:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico."
+   },
+   {
+    "id": "B",
+    "text": "La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+   },
+   {
+    "id": "C",
+    "text": "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; favorecer obstáculos que impidan o dificulten su plenitud e impedir la participación de todos los ciudadanos en la vida política, económica, cultural y social."
+   },
+   {
+    "id": "D",
+    "text": "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 22. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978",
+   "anchorId": "ce-1978-a9"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 22
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-22",
+  "topicId": "comun-01",
+  "prompt": "En relación con el artículo 9 de la Constitución Española de 1978, señale la respuesta INCORRECTA:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Garantiza el principio de inseguridad jurídica"
+   },
+   {
+    "id": "B",
+    "text": "Garantiza el principio de jerarquía normativa"
+   },
+   {
+    "id": "C",
+    "text": "Garantiza el principio de legalidad"
+   },
+   {
+    "id": "D",
+    "text": "Garantiza el principio de irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 22. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978",
+   "anchorId": "ce-1978-a9"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 22
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-23",
+  "topicId": "comun-01",
+  "prompt": "Señale la respuesta CORRECTA en relación con “La libertad, justicia, igualdad y pluralismo político”:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Son derechos fundamentales"
+   },
+   {
+    "id": "B",
+    "text": "Son deberes constitucionales"
+   },
+   {
+    "id": "C",
+    "text": "Son valores superiores del ordenamiento jurídico"
+   },
+   {
+    "id": "D",
+    "text": "Ninguna de las anteriores"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 23. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 23
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-24",
+  "topicId": "comun-01",
+  "prompt": "¿Cuál de los siguientes derechos NO es un derecho fundamental según la Constitución Española de 1978?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Derecho al honor, a la intimidad personal y familiar y a la propia imagen."
+   },
+   {
+    "id": "B",
+    "text": "Derecho a la vida."
+   },
+   {
+    "id": "C",
+    "text": "Derecho de asociación."
+   },
+   {
+    "id": "D",
+    "text": "Derecho a la propiedad privada y a la herencia."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 24. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 24
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-23",
+  "topicId": "comun-01",
+  "prompt": "¿Cuáles son los valores superiores del ordenamiento jurídico español de acuerdo con la Constitución Española de 1978?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Libertad, justicia, igualdad y pluralismo político."
+   },
+   {
+    "id": "B",
+    "text": "Libertad, igualdad, disciplina y orden."
+   },
+   {
+    "id": "C",
+    "text": "Justicia, orden, paz y protección."
+   },
+   {
+    "id": "D",
+    "text": "Igualdad, unidad, libertad y soberanía."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 23. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 23
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-26",
+  "topicId": "comun-01",
+  "prompt": "El artículo 103 de la Constitución Española de 1978 establece que la Administración Pública sirve los intereses generales con:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Satisfacción."
+   },
+   {
+    "id": "B",
+    "text": "Objetividad."
+   },
+   {
+    "id": "C",
+    "text": "Urgencia."
+   },
+   {
+    "id": "D",
+    "text": "Conformidad."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 26. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978",
+   "anchorId": "ce-1978-a103"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 26
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-30",
+  "topicId": "comun-01",
+  "prompt": "A tenor de lo previsto en la Constitución Española de 1978 en relación con el principio de solidaridad, señale la respuesta FALSA:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Es un principio que no aparece recogido en la Constitución Española pero que debe inspirar la actuación de todos los poderes públicos."
+   },
+   {
+    "id": "B",
+    "text": "El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2 de la Constitución."
+   },
+   {
+    "id": "C",
+    "text": "El Estado garantizará su realización velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a las circunstancias del hecho insular."
+   },
+   {
+    "id": "D",
+    "text": "La Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 30. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 30
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-26",
+  "topicId": "comun-01",
+  "prompt": "¿Cuál de los siguientes principios NO rige la actuación de la Administración Pública en España según el artículo 103 de la Constitución Española de 1978?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Eficacia."
+   },
+   {
+    "id": "B",
+    "text": "Jerarquía."
+   },
+   {
+    "id": "C",
+    "text": "Coordinación."
+   },
+   {
+    "id": "D",
+    "text": "Oportunidad. M1_GI - 5"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 26. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978",
+   "anchorId": "ce-1978-a103"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 26
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-25",
+  "topicId": "comun-01",
+  "prompt": "¿Qué mecanismo permite a los ciudadanos proteger sus derechos fundamentales en España de conformidad con el artículo 53 de la Constitución Española de 1978?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Recurso de alzada."
+   },
+   {
+    "id": "B",
+    "text": "Recurso de amparo ante el Tribunal Constitucional."
+   },
+   {
+    "id": "C",
+    "text": "Recurso potestativo de reposición."
+   },
+   {
+    "id": "D",
+    "text": "Sugerencia ante la figura del Defensor del Pueblo."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 25. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978",
+   "anchorId": "ce-1978-a53"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 25
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-28",
+  "topicId": "comun-05",
+  "prompt": "¿Cuál es la función del Consejo de Estado en relación con las Comunidades Autónomas?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Aprobar las leyes autonómicas."
+   },
+   {
+    "id": "B",
+    "text": "Asesorar al Gobierno en asuntos relacionados con las Comunidades Autónomas."
+   },
+   {
+    "id": "C",
+    "text": "Elegir a los presidentes autonómicos."
+   },
+   {
+    "id": "D",
+    "text": "Gestionar los recursos económicos de las Comunidades Autónomas."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 28. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 28
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-35",
+  "topicId": "comun-05",
+  "prompt": "Según la Ley 40/2015, de 1 de octubre, ¿qué estructura debe tener un ministerio en cuanto a órganos directivos?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los Ministerios contarán, en todo caso, con una Subsecretaría."
+   },
+   {
+    "id": "B",
+    "text": "Los Ministerios contarán, en todo caso, con cinco Direcciones Generales cada uno."
+   },
+   {
+    "id": "C",
+    "text": "No se permite la creación de órganos directivos."
+   },
+   {
+    "id": "D",
+    "text": "Solo puede haber un Consejo Asesor."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 35. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ley-40-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 35
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-27",
+  "topicId": "comun-05",
+  "prompt": "¿Cómo se organiza la Administración General del Estado en el territorio?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Solo en la capital."
+   },
+   {
+    "id": "B",
+    "text": "A través de Delegaciones y Subdelegaciones del Gobierno."
+   },
+   {
+    "id": "C",
+    "text": "Sin ninguna organización territorial."
+   },
+   {
+    "id": "D",
+    "text": "A través de Ayuntamientos."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 27. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 27
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-28",
+  "topicId": "comun-05",
+  "prompt": "¿Qué procedimiento deben seguir las Comunidades Autónomas para modificar su Estatuto de Autonomía?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Únicamente la aprobación del Parlamento autonómico."
+   },
+   {
+    "id": "B",
+    "text": "Referéndum entre la población de todo el país."
+   },
+   {
+    "id": "C",
+    "text": "Aprobación por las Cortes Generales, mediante Ley Orgánica."
+   },
+   {
+    "id": "D",
+    "text": "Aprobación del Gobierno central mediante Real Decreto."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 28. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 28
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-30",
+  "topicId": "comun-05",
+  "prompt": "¿Qué institución se encarga de la representación Territorial de acuerdo con la Constitución de 1978?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Senado."
+   },
+   {
+    "id": "B",
+    "text": "El Congreso de los Diputados."
+   },
+   {
+    "id": "C",
+    "text": "El Consejo de Estado."
+   },
+   {
+    "id": "D",
+    "text": "El Tribunal Constitucional."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 30. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 30
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-29",
+  "topicId": "comun-05",
+  "prompt": "En atención al marco competencial que establece la Constitución Española de 1978, señale la respuesta FALSA:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Estado tiene competencia exclusiva sobre las relaciones internacionales."
+   },
+   {
+    "id": "B",
+    "text": "El Estado tiene competencia exclusiva sobre la legislación sobre propiedad intelectual e industrial."
+   },
+   {
+    "id": "C",
+    "text": "El Estado tiene competencia exclusiva sobre las ferias interiores de las Comunidades Autónomas."
+   },
+   {
+    "id": "D",
+    "text": "El Estado tiene competencia exclusiva sobre las bases del régimen jurídico de las Administraciones públicas. M1_IC - 5"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 29. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 29
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-29",
+  "topicId": "comun-05",
+  "prompt": "En relación con el régimen de distribución competencial entre el Estado y las Comunidades Autónomas, señale la respuesta VERDADERA:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Constitución Española de 1978 establece en el artículo 149.1 las materias sobre las que el Estado tiene competencia exclusiva y en el artículo 148.1 establece aquellas materias sobre las que las Comunidades Autónomas pueden asumir competencias."
+   },
+   {
+    "id": "B",
+    "text": "La Constitución Española de 1978 no reconoce competencias exclusivas del Estado sobre determinadas materias."
+   },
+   {
+    "id": "C",
+    "text": "Las Comunidades Autónomas tienen competencia exclusiva en materia de Defensa y Fuerzas Armadas."
+   },
+   {
+    "id": "D",
+    "text": "El reparto competencial entre el Estado y las Comunidades Autónomas se decide anualmente en Conferencias Sectoriales."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 29. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 29
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-27",
+  "topicId": "comun-05",
+  "prompt": "En relación con la organización territorial del Estado, cuál de las siguientes afirmaciones es VERDADERA según la Constitución Española de 1978:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El gobierno y la administración autónoma de las provincias estarán encomendados al Gobierno de la Nación."
+   },
+   {
+    "id": "B",
+    "text": "La Constitución garantiza la autonomía de los municipios. Estos gozarán de personalidad jurídica plena."
+   },
+   {
+    "id": "C",
+    "text": "El gobierno y administración de las provincias corresponderá a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales."
+   },
+   {
+    "id": "D",
+    "text": "Ninguna es correcta."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 27. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 27
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-28",
+  "topicId": "comun-05",
+  "prompt": "Señale la respuesta FALSA, en relación con el control de la actividad de los órganos de las Comunidades Autónomas, según el artículo 153 de la Constitución Española de 1978:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se ejercerá por el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley."
+   },
+   {
+    "id": "B",
+    "text": "Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150."
+   },
+   {
+    "id": "C",
+    "text": "Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias."
+   },
+   {
+    "id": "D",
+    "text": "Por la persona titular del Ministerio de Economía, el control económico y presupuestario."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 28. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ce-1978",
+   "anchorId": "ce-1978-a153"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 28
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-31",
+  "topicId": "especifico-44",
+  "prompt": "¿Qué papel desempeña el Gobierno en la elaboración de los Presupuestos Generales del Estado?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Ninguno, es responsabilidad del Congreso de los Diputados."
+   },
+   {
+    "id": "B",
+    "text": "Solo lo presenta, pero no lo elabora."
+   },
+   {
+    "id": "C",
+    "text": "Lo elabora y lo presenta ante el Congreso de los Diputados."
+   },
+   {
+    "id": "D",
+    "text": "Solo supervisa su legalidad."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 31. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 31
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-32",
+  "topicId": "comun-04",
+  "prompt": "¿Quién preside el Consejo de Ministros?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El titular del Departamento Ministerial que tenga menor edad."
+   },
+   {
+    "id": "B",
+    "text": "El titular del Departamento Ministerial que tenga mayor edad."
+   },
+   {
+    "id": "C",
+    "text": "El Presidente del Gobierno."
+   },
+   {
+    "id": "D",
+    "text": "La persona titular del Ministerio de Asuntos Exteriores."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 32. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 32
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-33",
+  "topicId": "comun-04",
+  "prompt": "¿Quién propone al Presidente del Gobierno?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Congreso de los Diputados."
+   },
+   {
+    "id": "B",
+    "text": "El Senado."
+   },
+   {
+    "id": "C",
+    "text": "El Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso."
+   },
+   {
+    "id": "D",
+    "text": "El Consejo de Ministros."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 33. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 33
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-33",
+  "topicId": "comun-04",
+  "prompt": "¿Quién nombra a los Ministros del Gobierno?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Rey, a propuesta del Presidente del Gobierno."
+   },
+   {
+    "id": "B",
+    "text": "El Congreso de los Diputados."
+   },
+   {
+    "id": "C",
+    "text": "El Secretario de Estado del Ministerio que corresponda."
+   },
+   {
+    "id": "D",
+    "text": "El Senado."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 33. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 33
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-35",
+  "topicId": "comun-04",
+  "prompt": "¿Cuál de las siguientes funciones NO es competencia de los Subsecretarios?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Dirigir los servicios comunes de los Departamentos Ministeriales."
+   },
+   {
+    "id": "B",
+    "text": "Ejercer las facultades de dirección, impulso y supervisión de la Secretaría General Técnica."
+   },
+   {
+    "id": "C",
+    "text": "Nombrar y separar a los titulares de las Secretarías de Estado."
+   },
+   {
+    "id": "D",
+    "text": "Asistir a los órganos superiores en materia de relaciones de puestos de trabajo, planes de empleo y política de directivos del Ministerio y sus Organismos públicos, así como en la elaboración, ejecución y seguimiento de los presupuestos y la planificación de los sistemas de información y comunicación."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 35. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 35
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-35",
+  "topicId": "comun-04",
+  "prompt": "¿Cómo se nombra a los Subsecretarios?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Por resolución del Senado."
+   },
+   {
+    "id": "B",
+    "text": "Por orden verbal de la persona titular de la Presidencia del Gobierno."
+   },
+   {
+    "id": "C",
+    "text": "Por resolución del Congreso de los Diputados."
+   },
+   {
+    "id": "D",
+    "text": "Por Real Decreto del Consejo de Ministros, a propuesta del titular del Ministerio."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 35. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 35
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-32",
+  "topicId": "comun-04",
+  "prompt": "¿Cuál es el órgano colegiado del Gobierno?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Consejo de Ministros."
+   },
+   {
+    "id": "B",
+    "text": "El Congreso de los Diputados."
+   },
+   {
+    "id": "C",
+    "text": "La Junta de Gobierno."
+   },
+   {
+    "id": "D",
+    "text": "El Parlamento."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 32. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 32
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-31",
+  "topicId": "comun-04",
+  "prompt": "¿Cuál es el órgano superior del Poder Ejecutivo en España?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Parlamento."
+   },
+   {
+    "id": "B",
+    "text": "El Gobierno."
+   },
+   {
+    "id": "C",
+    "text": "El Poder Judicial."
+   },
+   {
+    "id": "D",
+    "text": "El Tribunal Constitucional."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 31. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 31
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-31",
+  "topicId": "comun-04",
+  "prompt": "¿Cuál de las siguientes funciones NO corresponde al Gobierno?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Proponer leyes al Parlamento."
+   },
+   {
+    "id": "B",
+    "text": "Administrar la justicia."
+   },
+   {
+    "id": "C",
+    "text": "Elaborar los Presupuestos Generales del Estado."
+   },
+   {
+    "id": "D",
+    "text": "Representar a España en el exterior."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 31. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 31
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-34",
+  "topicId": "comun-04",
+  "prompt": "¿Cuál es la relación entre los Secretarios de Estado y los Ministros?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los Secretarios de Estado no tienen relación con los Ministros."
+   },
+   {
+    "id": "B",
+    "text": "Los Secretarios de Estado son superiores a los Ministros."
+   },
+   {
+    "id": "C",
+    "text": "Los Secretarios de Estado dependen jerárquicamente de los Ministros. Cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del Presidente."
+   },
+   {
+    "id": "D",
+    "text": "Los Secretarios de Estado son designados por el Congreso."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 34. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 34
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-33",
+  "topicId": "comun-04",
+  "prompt": "¿Cuál es la principal función del Presidente del Gobierno según la Ley 50/1997?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Elaborar el presupuesto de una determinada Comunidad Autónoma."
+   },
+   {
+    "id": "B",
+    "text": "Establecer el programa político del Gobierno y determinar las directrices de la política interior y exterior y velar por su cumplimiento."
+   },
+   {
+    "id": "C",
+    "text": "Aprobar Reales Decretos-Leyes."
+   },
+   {
+    "id": "D",
+    "text": "Impartir justicia."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 33. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ley-50-1997"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 33
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-34",
+  "topicId": "comun-04",
+  "prompt": "¿Cuántos Ministerios puede crear el Presidente del Gobierno según la Ley 50/1997?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Ninguno, solo existen los establecidos por ley."
+   },
+   {
+    "id": "B",
+    "text": "Los que considere necesarios."
+   },
+   {
+    "id": "C",
+    "text": "Solo los que autorice el Parlamento."
+   },
+   {
+    "id": "D",
+    "text": "Un máximo de 23 Ministerios."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 34. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "ley-50-1997"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 34
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-34",
+  "topicId": "comun-04",
+  "prompt": "¿Cuál de las siguientes afirmaciones sobre los Secretarios de Estado es VERDADERA?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Son responsables de la administración de justicia."
+   },
+   {
+    "id": "B",
+    "text": "No tienen poder de decisión."
+   },
+   {
+    "id": "C",
+    "text": "Pueden ser nombrados por el Congreso."
+   },
+   {
+    "id": "D",
+    "text": "Desempeñan funciones en áreas específicas de política gubernamental."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 34. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 34
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-32",
+  "topicId": "comun-04",
+  "prompt": "De las funciones que tiene atribuidas el Consejo de Ministros, señale la respuesta FALSA:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Probar los proyectos de ley y su remisión al Congreso de los Diputados o, en su caso, al Senado."
+   },
+   {
+    "id": "B",
+    "text": "Acordar la negociación y firma de Tratados internacionales, así como su aplicación provisional."
+   },
+   {
+    "id": "C",
+    "text": "Crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales."
+   },
+   {
+    "id": "D",
+    "text": "Interpretar la Constitución Española de 1978. M1_GI - 6"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 32. Ministerio de Cultura, 18/02/2025."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 32
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-36",
+  "topicId": "comun-11",
+  "prompt": "Según el TREBEP, el personal laboral puede ser:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Fijo, por tiempo indefinido o temporal."
+   },
+   {
+    "id": "B",
+    "text": "Únicamente indefinido."
+   },
+   {
+    "id": "C",
+    "text": "Únicamente temporal."
+   },
+   {
+    "id": "D",
+    "text": "Ninguno de los anteriores."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 36. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 36
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-02",
+  "topicId": "comun-11",
+  "prompt": "Según el artículo 8 del TREBEP, son empleados públicos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Quienes desempeñan funciones, ya sean retribuidas o no retribuidas, en las Administraciones Públicas al servicio de los intereses generales."
+   },
+   {
+    "id": "B",
+    "text": "Cualquier persona que desempeñe una actividad en las Administraciones Públicas."
+   },
+   {
+    "id": "C",
+    "text": "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales."
+   },
+   {
+    "id": "D",
+    "text": "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de sus propios intereses."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 2. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a8"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 2
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-36",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo con el TREBEP, los empleados públicos se clasifican en:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Exclusivamente en funcionarios de carrera y funcionarios interinos."
+   },
+   {
+    "id": "B",
+    "text": "Los funcionarios de carrera; los funcionarios interinos, el personal laboral, excepto el contratado temporalmente y el personal eventual."
+   },
+   {
+    "id": "C",
+    "text": "Los funcionarios de carrera; los funcionarios interinos; el personal laboral, ya sea fijo, por tiempo indefinido o temporal y el personal eventual."
+   },
+   {
+    "id": "D",
+    "text": "Los funcionarios de carrera, los funcionarios interinos y el personal laboral."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 36. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 36
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-39",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo con el código de conducta que incorpora el TREBEP, señale la respuesta FALSA.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se recoge como principio de conducta mantener actualizada su formación y cualificación."
+   },
+   {
+    "id": "B",
+    "text": "Se incorpora como principio de conducta observar las normas de seguridad y salud laboral."
+   },
+   {
+    "id": "C",
+    "text": "Se establece como principio de conducta aceptar regalos, favores o servicios en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía."
+   },
+   {
+    "id": "D",
+    "text": "Se recoge como principio de conducta garantizar la atención al ciudadano en la lengua que lo solicite siempre que sea oficial en el territorio."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 39. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 39
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-39",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo con el artículo 53.3 del TREBEP, los empleados públicos ajustarán su actuación a los principios de lealtad y buena fe:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Con la Administración en la que presten sus servicios, y con sus superiores, compañeros, subordinados y con los ciudadanos."
+   },
+   {
+    "id": "B",
+    "text": "Con la Administración en la que presten sus servicios, y con sus superiores, compañeros, subordinados y con los ciudadanos, pero tan solo en cuanto al principio de buena fe, no así al de lealtad."
+   },
+   {
+    "id": "C",
+    "text": "Tan solo con la Administración en la que presten sus servicios, y con sus superiores y subordinados."
+   },
+   {
+    "id": "D",
+    "text": "Los principios de lealtad y buena fe son principios éticos, no recogidos en el Texto refundido de la Ley del Estatuto Básico del Empleado Público."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 39. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a53"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 39
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-36",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo con el artículo 1 del TREBEP, ¿cuál de los siguientes fundamentos de actuación NO se menciona como objetivo del régimen estatutario de los empleados públicos?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Sometimiento pleno a la ley y al Derecho."
+   },
+   {
+    "id": "B",
+    "text": "Promoción de la diversidad cultural."
+   },
+   {
+    "id": "C",
+    "text": "Igualdad, mérito y capacidad en el acceso y en la promoción profesional."
+   },
+   {
+    "id": "D",
+    "text": "Transparencia. M1_IC - 6"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 36. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a1"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 36
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-03",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo con lo dispuesto en el TREBEP, podrá eximirse del requisito de la nacionalidad por razones de interés general para el acceso a la condición de personal funcionario:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Solo por ley de las Cortes Generales."
+   },
+   {
+    "id": "B",
+    "text": "Por Ley Ordinaria o Decreto-Ley emitido por el Consejo de Ministros."
+   },
+   {
+    "id": "C",
+    "text": "Se podrá eximir de este requisito siempre que lo establezcan las bases de la convocatoria del proceso selectivo."
+   },
+   {
+    "id": "D",
+    "text": "Por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 3. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 3
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-01",
+  "topicId": "comun-11",
+  "prompt": "Según el artículo 10 del Texto Refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre (en adelante TREBEP), los procedimientos de selección de personal funcionario se regirán por los principios de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Igualdad, mérito, capacidad, publicidad y celeridad."
+   },
+   {
+    "id": "B",
+    "text": "Igualdad, mérito, capacidad, eficiencia y celeridad."
+   },
+   {
+    "id": "C",
+    "text": "Eficacia, mérito, capacidad, publicidad y transparencia."
+   },
+   {
+    "id": "D",
+    "text": "Eficacia, eficiencia, mérito, publicidad y transparencia."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 1. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a10"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 1
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-01",
+  "topicId": "comun-11",
+  "prompt": "Según el Texto Refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre (en adelante TREBEP), todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Igualdad y mérito."
+   },
+   {
+    "id": "B",
+    "text": "Igualdad, mérito y capacidad."
+   },
+   {
+    "id": "C",
+    "text": "Mérito y capacidad."
+   },
+   {
+    "id": "D",
+    "text": "Transparencia, mérito y capacidad."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 1. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 1
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-40",
+  "topicId": "comun-11",
+  "prompt": "Por representación, a los efectos del TREBEP, se entiende:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados."
+   },
+   {
+    "id": "B",
+    "text": "El derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine."
+   },
+   {
+    "id": "C",
+    "text": "El derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública."
+   },
+   {
+    "id": "D",
+    "text": "Ninguna de las anteriores es correcta."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 40. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 40
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-40",
+  "topicId": "comun-11",
+  "prompt": "Por negociación colectiva, a los efectos del TREBEP, se entiende:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine."
+   },
+   {
+    "id": "B",
+    "text": "El derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública."
+   },
+   {
+    "id": "C",
+    "text": "La facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados."
+   },
+   {
+    "id": "D",
+    "text": "Ninguna de las anteriores es correcta."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 40. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 40
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-40",
+  "topicId": "comun-11",
+  "prompt": "Por participación institucional, a los efectos del TREBEP, se entiende:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública."
+   },
+   {
+    "id": "B",
+    "text": "La facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados."
+   },
+   {
+    "id": "C",
+    "text": "El derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine."
+   },
+   {
+    "id": "D",
+    "text": "Ninguna de las anteriores es correcta."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 40. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 40
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-37",
+  "topicId": "comun-11",
+  "prompt": "¿Cuál de los siguientes NO es un derecho de los empleados públicos según el TREBEP?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La progresión en la carrera profesional y promoción interna según principios constitucionales de igualdad, mérito y capacidad mediante la implantación de sistemas objetivos y transparentes de evaluación."
+   },
+   {
+    "id": "B",
+    "text": "La formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente en horario laboral."
+   },
+   {
+    "id": "C",
+    "text": "La intimidad en el uso de dispositivos digitales puestos a su disposición y frente al uso de dispositivos de videovigilancia y geolocalización, así como a la desconexión digital en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales."
+   },
+   {
+    "id": "D",
+    "text": "Utilizar recursos de la Administración para fines personales."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 37. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 37
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool1-38",
+  "topicId": "comun-11",
+  "prompt": "De conformidad con el art. 47 bis del TREBEP, la prestación el servicio mediante teletrabajo:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Habrá de ser expresamente autorizada y será compatible con la modalidad presencial."
+   },
+   {
+    "id": "B",
+    "text": "Requiere comunicación previa al superior jerárquico, pero no autorización."
+   },
+   {
+    "id": "C",
+    "text": "No requiere comunicación ni autorización, por ser la modalidad habitual de trabajo de los funcionarios."
+   },
+   {
+    "id": "D",
+    "text": "Ninguna de las anteriores es correcta."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 38. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Maquinaria Escénica para el Espectáculo en Vivo",
+   "numeroOriginal": 38
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-37",
+  "topicId": "comun-11",
+  "prompt": "En relación con el artículo 53 del TREBEP, señale cuál de los siguientes NO es un principio ético que deban seguir los empleados públicos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Ajustarán su actuación a los principios de lealtad y buena fe con la Administración en la que presten sus servicios, y con sus superiores, compañeros, subordinados y con los ciudadanos."
+   },
+   {
+    "id": "B",
+    "text": "Influirán en aquellos asuntos en los que tengan un interés personal, así como en toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público."
+   },
+   {
+    "id": "C",
+    "text": "No aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas."
+   },
+   {
+    "id": "D",
+    "text": "Actuarán de acuerdo con los principios de eficacia, economía y eficiencia, y vigilarán la consecución del interés general y el cumplimiento de los objetivos de la organización."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 37. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a53"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 37
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool3-38",
+  "topicId": "comun-11",
+  "prompt": "De conformidad con el artículo 14 del TREBEP, ¿cuál de los siguientes NO es reconocido como un derecho individual de los empleados públicos?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Derecho a recibir protección eficaz en materia de seguridad y salud en el trabajo."
+   },
+   {
+    "id": "B",
+    "text": "Derecho a la inamovilidad en el puesto de trabajo."
+   },
+   {
+    "id": "C",
+    "text": "Derecho a la intimidad en el uso de dispositivos digitales puestos a su disposición y frente al uso de dispositivos de videovigilancia y geolocalización, así como a la desconexión digital en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales."
+   },
+   {
+    "id": "D",
+    "text": "Derecho a la libertad de expresión dentro de los límites del ordenamiento jurídico."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 38. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a14"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Iluminación, Captación y Tratamiento de Imagen",
+   "numeroOriginal": 38
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "m1c-2025-pool2-38",
+  "topicId": "comun-11",
+  "prompt": "De conformidad con lo previsto en el artículo 15 del TREBEP, de los siguientes derechos de los empleados públicos indique los que se ejercen de forma colectiva:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Libertad sindical y libre asociación profesional."
+   },
+   {
+    "id": "B",
+    "text": "Huelga y protección eficaz en materia de seguridad y salud en el trabajo."
+   },
+   {
+    "id": "C",
+    "text": "Libertad sindical y ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad."
+   },
+   {
+    "id": "D",
+    "text": "Libertad sindical y prevención de riesgos laborales. M1_GI - 7"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 38. Ministerio de Cultura, 18/02/2025.",
+   "lawId": "rdleg-5-2015",
+   "anchorId": "rdleg-5-2015-a15"
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+   "ministerio": "Ministerio de Cultura",
+   "grupo": "M1",
+   "turno": "libre",
+   "fecha": "2025-02-18",
+   "especialidad": "Guía, Información y Asistencia Turística",
+   "numeroOriginal": 38
+  },
+  "active": true,
+  "optionCount": 4
+ }
+]

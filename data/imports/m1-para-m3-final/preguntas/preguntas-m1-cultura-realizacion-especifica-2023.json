@@ -1,0 +1,230 @@
+[
+ {
+  "id": "m1-cultura-realizacion-2023-32",
+  "topicId": "especifico-06",
+  "prompt": "¿Qué es un “coturno”?",
+  "options": [
+   {
+    "id": "A",
+    "text": "En la Antigüedad grecorromana, calzado de suela muy gruesa usado por los actores trágicos para aumentar su estatura."
+   },
+   {
+    "id": "B",
+    "text": "Plataforma móvil que, en el teatro griego, servía para que un actor se subiera y, con ayuda del coro, imitase el movimiento de una barca en el mar."
+   },
+   {
+    "id": "C",
+    "text": "Artilugio, a modo de megáfono que iba insertado en las máscaras del teatro grecorromano."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 32. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 32
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-realizacion-2023-81",
+  "topicId": "especifico-37",
+  "prompt": "¿Quién marca la duración de los saludos al final de la función?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los propios actores."
+   },
+   {
+    "id": "B",
+    "text": "El regidor/a en base a la cantidad de aplausos del público."
+   },
+   {
+    "id": "C",
+    "text": "El Ayudante de Dirección que ha asistido a la representación."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 81. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 81
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-realizacion-2023-98",
+  "topicId": "especifico-37",
+  "prompt": "¿Es tarea del Regidor/a marcar u ordenar marcar las zonas de tránsito de actores y técnicos entre cajas?",
+  "options": [
+   {
+    "id": "A",
+    "text": "No, en los ensayos avanzados corresponde al departamento de utilería que todos los tránsitos estén en condiciones seguras."
+   },
+   {
+    "id": "B",
+    "text": "El Regidor/a solo supervisará las marcas de los elementos escenográficos y los focos."
+   },
+   {
+    "id": "C",
+    "text": "Sí, es tarea del Regidor/a que el escenario y los hombros estén marcados convenientemente para que el espacio sea lo más seguro posible."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 98. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 98
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-realizacion-2023-61",
+  "topicId": "especifico-33",
+  "prompt": "¿Qué es un “crossover”?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Es un estabilizador de señales con demasiadas variaciones de nivel, que viene a ser lo mismo que tener demasiada dinámica."
+   },
+   {
+    "id": "B",
+    "text": "Es una serie de filtros electrónicos que sirve para separar las señales en sus componentes de bajos medios y agudos."
+   },
+   {
+    "id": "C",
+    "text": "Es una serie de efectos de modulación, los más utilizados son el Flanger, el Chorus y el Vibrato."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 61. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 61
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-realizacion-2023-58",
+  "topicId": "especifico-33",
+  "prompt": "¿Qué son las tomas Cetac?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Son tomas de corriente industriales especializadas para instalaciones de baja tensión."
+   },
+   {
+    "id": "B",
+    "text": "Son tomas de corriente industriales especializadas para instalaciones de alta tensión."
+   },
+   {
+    "id": "C",
+    "text": "Son tomas de corriente que también se llaman “Schukos”."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 58. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 58
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-realizacion-2023-40",
+  "topicId": "especifico-45",
+  "prompt": "¿Qué es un “Rider Técnico”?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Es sinónimo de “libro de regiduría”, recoge todos los aspectos técnicos de una función para su archivo."
+   },
+   {
+    "id": "B",
+    "text": "Es un documento oficial que describe el desarrollo de los cambios técnicos del espectáculo, se entrega a Prevención de Riesgos Laborales."
+   },
+   {
+    "id": "C",
+    "text": "Es un documento que se utiliza en el ámbito artístico e indica todos los requerimientos técnicos que tiene un espectáculo para poder llevarse a cabo de la mejor manera posible."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Realización de Proyectos Audiovisuales y Espectáculos, turno libre, pregunta 40. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Realización de Proyectos Audiovisuales y Espectáculos",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 40
+  },
+  "active": true,
+  "optionCount": 3
+ }
+]

@@ -1107,6 +1107,14 @@ function renderQuestion() {
     origin.hidden = true;
   }
   $('#question-text').textContent = question.prompt;
+  const questionContext = $('#question-context');
+  if (question.contexto) {
+    questionContext.textContent = question.contexto;
+    questionContext.hidden = false;
+  } else {
+    questionContext.textContent = '';
+    questionContext.hidden = true;
+  }
   $('#options').innerHTML = shuffledOptions(question.options)
     .map(option => `<button class="option" data-option="${escapeHtml(option.id)}">${escapeHtml(option.text)}</button>`)
     .join('');

@@ -1,0 +1,78 @@
+[
+ {
+  "id": "m1-cultura-peluqueria-2023-85",
+  "topicId": "especifico-01",
+  "prompt": "¿Quién realiza el diseño de los personajes de una función?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El director técnico."
+   },
+   {
+    "id": "B",
+    "text": "El caracterizador o figurinista."
+   },
+   {
+    "id": "C",
+    "text": "El jefe de producción."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 85. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Estilismo y Dirección de Peluquería",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 85
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m1-cultura-peluqueria-2023-46",
+  "topicId": "especifico-01",
+  "prompt": "¿Cómo se llama a la persona responsable de la parte del teatro ocupada por el público desde el telón hasta la entrada y taquillas?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Jefe de Montaje."
+   },
+   {
+    "id": "B",
+    "text": "Jefe de pista."
+   },
+   {
+    "id": "C",
+    "text": "Jefe de Sala."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M1 Estilismo y Dirección de Peluquería, turno libre, pregunta 46. Ministerio de Cultura y Deporte, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, 31/05/2023)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M1",
+   "especialidad": "Estilismo y Dirección de Peluquería",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "numeroOriginal": 46
+  },
+  "active": true,
+  "optionCount": 3
+ }
+]

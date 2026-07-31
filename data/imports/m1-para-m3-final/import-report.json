@@ -1,0 +1,857 @@
+{
+  "source": "data/imports/m1-para-m3-final",
+  "sourceQuestions": 248,
+  "imported": [
+    "m1c-2025-pool1-03",
+    "m1c-2025-pool3-02",
+    "m1c-2025-pool1-02",
+    "m1c-2025-pool1-05",
+    "m1c-2025-pool2-05",
+    "m1c-2025-pool2-04",
+    "m1c-2025-pool3-03",
+    "m1c-2025-pool1-26",
+    "m1c-2025-pool1-04",
+    "m1c-2025-pool3-05",
+    "m1c-2025-pool3-04",
+    "m1c-2025-pool1-01",
+    "m1c-2025-pool2-07",
+    "m1c-2025-pool2-09",
+    "m1c-2025-pool3-08",
+    "m1c-2025-pool1-08",
+    "m1c-2025-pool3-07",
+    "m1c-2025-pool1-10",
+    "m1c-2025-pool1-14",
+    "m1c-2025-pool1-06",
+    "m1c-2025-pool1-07",
+    "m1c-2025-pool2-06",
+    "m1c-2025-pool1-19",
+    "m1c-2025-pool1-09",
+    "m1c-2025-pool2-08",
+    "m1c-2025-pool3-06",
+    "m1c-2025-pool3-12",
+    "m1c-2025-pool2-10",
+    "m1c-2025-pool1-13",
+    "m1c-2025-pool3-10",
+    "m1c-2025-pool2-13",
+    "m1c-2025-pool3-11",
+    "m1c-2025-pool2-11",
+    "m1c-2025-pool1-12",
+    "m1c-2025-pool3-15",
+    "m1c-2025-pool2-15",
+    "m1c-2025-pool2-12",
+    "m1c-2025-pool1-15",
+    "m1c-2025-pool3-14",
+    "m1c-2025-pool2-14",
+    "m1c-2025-pool3-13",
+    "m1c-2025-pool1-11",
+    "m1c-2025-pool3-16",
+    "m1c-2025-pool1-17",
+    "m1c-2025-pool1-18",
+    "m1c-2025-pool3-17",
+    "m1c-2025-pool2-18",
+    "m1c-2025-pool1-29",
+    "m1c-2025-pool1-30",
+    "m1c-2025-pool1-25",
+    "m1c-2025-pool3-24",
+    "m1c-2025-pool2-25",
+    "m1c-2025-pool2-21",
+    "m1c-2025-pool2-24",
+    "m1c-2025-pool2-27",
+    "m1c-2025-pool1-21",
+    "m1c-2025-pool3-21",
+    "m1c-2025-pool2-22",
+    "m1c-2025-pool1-22",
+    "m1c-2025-pool1-23",
+    "m1c-2025-pool1-24",
+    "m1c-2025-pool2-23",
+    "m1c-2025-pool3-26",
+    "m1c-2025-pool3-30",
+    "m1c-2025-pool2-26",
+    "m1c-2025-pool3-25",
+    "m1c-2025-pool1-28",
+    "m1c-2025-pool3-35",
+    "m1c-2025-pool1-27",
+    "m1c-2025-pool2-28",
+    "m1c-2025-pool2-30",
+    "m1c-2025-pool3-29",
+    "m1c-2025-pool2-29",
+    "m1c-2025-pool3-27",
+    "m1c-2025-pool3-28",
+    "m1c-2025-pool1-31",
+    "m1c-2025-pool1-32",
+    "m1c-2025-pool2-33",
+    "m1c-2025-pool3-33",
+    "m1c-2025-pool1-35",
+    "m1c-2025-pool2-35",
+    "m1c-2025-pool3-32",
+    "m1c-2025-pool2-31",
+    "m1c-2025-pool3-31",
+    "m1c-2025-pool1-34",
+    "m1c-2025-pool1-33",
+    "m1c-2025-pool2-34",
+    "m1c-2025-pool3-34",
+    "m1c-2025-pool2-32",
+    "m1c-2025-pool1-36",
+    "m1c-2025-pool2-02",
+    "m1c-2025-pool2-36",
+    "m1c-2025-pool2-39",
+    "m1c-2025-pool1-39",
+    "m1c-2025-pool3-36",
+    "m1c-2025-pool2-03",
+    "m1c-2025-pool2-01",
+    "m1c-2025-pool3-01",
+    "m1c-2025-pool3-40",
+    "m1c-2025-pool2-40",
+    "m1c-2025-pool1-40",
+    "m1c-2025-pool1-37",
+    "m1c-2025-pool1-38",
+    "m1c-2025-pool2-37",
+    "m1c-2025-pool3-38",
+    "m1c-2025-pool2-38",
+    "m1e-2025-sonido-42",
+    "m1e-2025-sonido-43",
+    "m1e-2025-sonido-41",
+    "m1e-2025-maquinaria-43",
+    "m1e-2025-maquinaria-66",
+    "m1e-2025-imagen-71",
+    "m1e-2025-maquinaria-61",
+    "m1e-2025-maquinaria-58",
+    "m1e-2025-maquinaria-63",
+    "m1e-2025-sonido-75",
+    "m1e-2025-maquinaria-45",
+    "m1e-2025-maquinaria-50",
+    "m1e-2025-maquinaria-53",
+    "m1e-2025-maquinaria-49",
+    "m1e-2025-sonido-77",
+    "m1e-2025-imagen-74",
+    "m1e-2025-sonido-64",
+    "m1e-2025-sonido-71",
+    "m1e-2025-sonido-72",
+    "m1e-2025-sonido-66",
+    "m1e-2025-sonido-80",
+    "m1e-2025-sonido-79",
+    "m1sp-2025-sonido-s2-02"
+  ],
+  "skippedExistingIds": [
+    {
+      "id": "m1-cultura-asistencia-2023-96",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-97",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-95",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-101",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-51",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-50",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-84",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-56",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-76",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-71",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-42",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-69",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-57",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-61",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-91",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-93",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-77",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-94",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-39",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-37",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-44",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-70",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-85",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-23",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-26",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-24",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-25",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-27",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-11",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-10",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-30",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-06",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-04",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-03",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-02",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-01",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": true
+    },
+    {
+      "id": "m1-cultura-comun-2023-20",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-19",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-18",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-21",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-22",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-09",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-08",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-07",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-13",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-15",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-17",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-comun-2023-05",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-91",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-36",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-59",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-46",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-85",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-57",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-66",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-88",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-105",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-71",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-70",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-92",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-90",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-peluqueria-2023-85",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-peluqueria-2023-46",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-78",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-80",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-63",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-54",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-58",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-69",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-108",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-57",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-107",
+      "keptOptionCount": 4,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-90",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-88",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-45",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-39",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-67",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-84",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-35",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-42",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-81",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-32",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-33",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-94",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-79",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-76",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-100",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-104",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-52",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-46",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-49",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-47",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-53",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-50",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-74",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-71",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-56",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-72",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-75",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-92",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-93",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-97",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-95",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-96",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-produccion-2023-98",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-realizacion-2023-32",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-realizacion-2023-81",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-realizacion-2023-98",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-realizacion-2023-61",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-realizacion-2023-58",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-realizacion-2023-40",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-sastreria-2023-42",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-sastreria-2023-110",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-sastreria-2023-49",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-sastreria-2023-67",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-sonido-2023-95",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-sonido-2023-93",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-sonido-2023-98",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    },
+    {
+      "id": "m1-cultura-sonido-2023-102",
+      "keptOptionCount": 3,
+      "incomingOptionCount": 3,
+      "promptDiffers": false
+    }
+  ],
+  "skippedDuplicates": [],
+  "replacedWithFourOptions": [],
+  "optionCounts": {
+    "3": 119,
+    "4": 129
+  }
+}
