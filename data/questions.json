@@ -2849,5 +2849,617 @@
       "reference": "Constitución Española, artículo 167.1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
     }
+  },
+  {
+    "id": "m3-emp-001",
+    "topicId": "comun-11",
+    "prompt": "¿Cuál de las siguientes categorías forma parte de la clasificación de empleados públicos del TREBEP?",
+    "options": [
+      { "id": "a", "text": "Funcionarios de carrera, interinos, personal laboral y eventual." },
+      { "id": "b", "text": "Funcionarios permanentes, asesores, contratistas y eventuales." },
+      { "id": "c", "text": "Funcionarios directivos, laborales, becarios y asesores." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 8.2 clasifica a los empleados públicos en funcionarios de carrera, funcionarios interinos, personal laboral —fijo, indefinido o temporal— y personal eventual.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a8",
+      "reference": "TREBEP, artículo 8.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-002",
+    "topicId": "comun-11",
+    "prompt": "¿A quién corresponde exclusivamente el ejercicio de funciones que impliquen potestades públicas?",
+    "options": [
+      { "id": "a", "text": "Al personal eventual, cuando exista delegación expresa." },
+      { "id": "b", "text": "A los funcionarios públicos, en los términos legales." },
+      { "id": "c", "text": "A cualquier empleado público con titulación suficiente." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 9.2 reserva esas funciones a los funcionarios públicos, en los términos que establezca la ley de desarrollo de cada Administración.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a9",
+      "reference": "TREBEP, artículo 9.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-003",
+    "topicId": "comun-11",
+    "prompt": "¿Qué derecho reconoce el artículo 14 del TREBEP en materia de carrera profesional?",
+    "options": [
+      { "id": "a", "text": "La promoción interna sin evaluación objetiva." },
+      { "id": "b", "text": "La carrera y promoción interna con evaluación objetiva." },
+      { "id": "c", "text": "La promoción automática por antigüedad." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 14.c reconoce la progresión en la carrera y la promoción interna conforme a igualdad, mérito y capacidad, mediante sistemas objetivos y transparentes de evaluación.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a14",
+      "reference": "TREBEP, artículo 14.c",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-004",
+    "topicId": "comun-11",
+    "prompt": "¿Qué derecho colectivo aparece expresamente entre los derechos individuales ejercidos colectivamente?",
+    "options": [
+      { "id": "a", "text": "El ejercicio de la huelga con mantenimiento de los servicios esenciales." },
+      { "id": "b", "text": "La libre fijación de los servicios mínimos por cada empleado." },
+      { "id": "c", "text": "La negociación individual de las condiciones generales de trabajo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 15.c reconoce el ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a15",
+      "reference": "TREBEP, artículo 15.c",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-005",
+    "topicId": "comun-11",
+    "prompt": "¿Cuál de estos principios integra el Código de Conducta del empleado público?",
+    "options": [
+      { "id": "a", "text": "Objetividad, integridad, neutralidad y confidencialidad." },
+      { "id": "b", "text": "Rentabilidad, oportunidad, jerarquía y discrecionalidad." },
+      { "id": "c", "text": "Preferencia corporativa, reserva y defensa del interés particular." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 52 enumera, entre otros, objetividad, integridad, neutralidad, responsabilidad, imparcialidad y confidencialidad como principios de actuación.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a52",
+      "reference": "TREBEP, artículo 52",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-006",
+    "topicId": "comun-11",
+    "prompt": "¿Qué debe hacer un empleado público cuando tenga un interés personal en un asunto?",
+    "options": [
+      { "id": "a", "text": "Continuar si su superior confirma la conveniencia del trámite." },
+      { "id": "b", "text": "Abstenerse cuando exista interés personal o riesgo de conflicto." },
+      { "id": "c", "text": "Delegar siempre la decisión en una persona externa." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 53.5 exige abstenerse en asuntos con interés personal y frente a actividades o intereses privados que puedan plantear conflictos con el puesto público.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a53",
+      "reference": "TREBEP, artículo 53.5",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-007",
+    "topicId": "comun-11",
+    "prompt": "¿Cuándo puede un empleado público apartarse de una orden profesional de un superior?",
+    "options": [
+      { "id": "a", "text": "Cuando la orden no coincida con su criterio técnico personal." },
+      { "id": "b", "text": "Cuando constituya una infracción manifiesta del ordenamiento jurídico." },
+      { "id": "c", "text": "Cuando la tarea no esté incluida en una instrucción escrita." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 54.3 ordena obedecer las instrucciones profesionales salvo que constituyan una infracción manifiesta del ordenamiento; en ese caso deben comunicarse a los órganos de inspección procedentes.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a54",
+      "reference": "TREBEP, artículo 54.3",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-008",
+    "topicId": "comun-11",
+    "prompt": "¿Qué conducta exige el artículo 54 respecto de regalos, favores o servicios?",
+    "options": [
+      { "id": "a", "text": "Aceptar los regalos si no superan una cuantía fijada por el superior." },
+      { "id": "b", "text": "Rechazar los que excedan los usos habituales, sociales y de cortesía." },
+      { "id": "c", "text": "Aceptar siempre los regalos ofrecidos después del servicio." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 54.6 dispone que se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a54",
+      "reference": "TREBEP, artículo 54.6",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-009",
+    "topicId": "comun-11",
+    "prompt": "¿Qué derecho digital reconoce el artículo 14 del TREBEP?",
+    "options": [
+      { "id": "a", "text": "La intimidad en el uso de dispositivos digitales puestos a disposición del empleado." },
+      { "id": "b", "text": "La utilización privada ilimitada de todos los dispositivos públicos." },
+      { "id": "c", "text": "La supresión de cualquier control de videovigilancia en el trabajo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 14.j bis reconoce la intimidad en el uso de dispositivos digitales y frente a videovigilancia y geolocalización, además de la desconexión digital en los términos legales.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a14",
+      "reference": "TREBEP, artículo 14.j bis",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-010",
+    "topicId": "comun-11",
+    "prompt": "¿En qué horario se reconoce preferentemente la formación continua de los empleados públicos?",
+    "options": [
+      { "id": "a", "text": "Preferentemente fuera de la jornada laboral." },
+      { "id": "b", "text": "Preferentemente durante el horario laboral." },
+      { "id": "c", "text": "Exclusivamente durante los períodos de vacaciones." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 14.g reconoce el derecho a la formación continua y actualización permanente, preferentemente en horario laboral.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a14",
+      "reference": "TREBEP, artículo 14.g",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-011",
+    "topicId": "comun-12",
+    "prompt": "¿Qué principios deben garantizar los procesos de selección de empleados públicos?",
+    "options": [
+      { "id": "a", "text": "Igualdad, mérito, capacidad, publicidad y transparencia." },
+      { "id": "b", "text": "Antigüedad, confianza, oportunidad y reserva de las bases." },
+      { "id": "c", "text": "Discrecionalidad, jerarquía, libre designación y urgencia." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 55 exige igualdad, mérito y capacidad, además de publicidad, transparencia, imparcialidad, profesionalidad e independencia de los órganos de selección, entre otros principios.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a55",
+      "reference": "TREBEP, artículo 55",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-012",
+    "topicId": "comun-12",
+    "prompt": "¿Cuál es la edad mínima general para participar en un proceso selectivo de empleo público?",
+    "options": [
+      { "id": "a", "text": "Dieciséis años cumplidos." },
+      { "id": "b", "text": "Dieciocho años cumplidos." },
+      { "id": "c", "text": "Veintiún años cumplidos." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 56.1.c fija como requisito tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a56",
+      "reference": "TREBEP, artículo 56.1.c",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-013",
+    "topicId": "comun-12",
+    "prompt": "¿Quiénes no pueden formar parte de los órganos de selección?",
+    "options": [
+      { "id": "a", "text": "El personal funcionario de carrera con experiencia acreditada." },
+      { "id": "b", "text": "El personal de elección o designación política, interino o eventual." },
+      { "id": "c", "text": "El personal laboral fijo del ámbito de la convocatoria." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 60.2 excluye de los órganos de selección al personal de elección o designación política, a los funcionarios interinos y al personal eventual.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a60",
+      "reference": "TREBEP, artículo 60.2",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-014",
+    "topicId": "comun-12",
+    "prompt": "¿Cuándo puede aplicarse excepcionalmente el sistema de concurso para funcionarios de carrera?",
+    "options": [
+      { "id": "a", "text": "Cuando lo decida libremente el órgano convocante." },
+      { "id": "b", "text": "Solo en virtud de ley y con carácter excepcional." },
+      { "id": "c", "text": "Siempre que la convocatoria valore también una entrevista." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 61.6 establece que los sistemas ordinarios son oposición y concurso-oposición; solo en virtud de ley puede aplicarse excepcionalmente el concurso basado únicamente en méritos.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a61",
+      "reference": "TREBEP, artículo 61.6",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-015",
+    "topicId": "comun-12",
+    "prompt": "¿Cuál es el primer requisito de la secuencia de adquisición de la condición de funcionario de carrera?",
+    "options": [
+      { "id": "a", "text": "La toma de posesión dentro del plazo establecido." },
+      { "id": "b", "text": "La superación del proceso selectivo." },
+      { "id": "c", "text": "La publicación del nombramiento en el diario oficial." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 62.1 enumera sucesivamente la superación del proceso selectivo, el nombramiento publicado, el acatamiento y la toma de posesión.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a62",
+      "reference": "TREBEP, artículo 62.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-016",
+    "topicId": "comun-12",
+    "prompt": "¿Cuál de estas circunstancias produce la pérdida de la condición de funcionario de carrera?",
+    "options": [
+      { "id": "a", "text": "La sanción firme de separación del servicio." },
+      { "id": "b", "text": "Un cambio voluntario de destino." },
+      { "id": "c", "text": "La participación en una comisión de servicios." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 63.d incluye la sanción disciplinaria firme de separación del servicio entre las causas de pérdida de la condición de funcionario de carrera.",
+    "source": {
+      "lawId": "rdleg-5-2015",
+      "anchorId": "rdleg-5-2015-a63",
+      "reference": "TREBEP, artículo 63.d",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    }
+  },
+  {
+    "id": "m3-emp-017",
+    "topicId": "comun-12",
+    "prompt": "¿Qué regla general establece la Ley 53/1984 sobre un segundo puesto en el sector público?",
+    "options": [
+      { "id": "a", "text": "Se prohíbe, salvo los supuestos previstos legalmente." },
+      { "id": "b", "text": "Se permite si el segundo puesto es de jornada parcial." },
+      { "id": "c", "text": "Se permite siempre que no exista relación jerárquica." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo primero.1 establece que no se puede compatibilizar la actividad con un segundo puesto o actividad en el sector público, salvo los supuestos previstos en la propia Ley.",
+    "source": {
+      "lawId": "ley-53-1984",
+      "anchorId": "ley-53-1984-aprimero",
+      "reference": "Ley 53/1984, artículo primero.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151"
+    }
+  },
+  {
+    "id": "m3-emp-018",
+    "topicId": "comun-12",
+    "prompt": "¿Qué participación en el capital de ciertas empresas resulta incompatible según la Ley 53/1984?",
+    "options": [
+      { "id": "a", "text": "Una participación superior al 5 por 100." },
+      { "id": "b", "text": "Una participación superior al 10 por 100." },
+      { "id": "c", "text": "Cualquier participación, aunque sea simbólica." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo doce.1.d prohíbe una participación superior al 10 por 100 en el capital de las empresas o sociedades a las que se refiere el precepto.",
+    "source": {
+      "lawId": "ley-53-1984",
+      "anchorId": "ley-53-1984-adoce",
+      "reference": "Ley 53/1984, artículo doce.1.d",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151"
+    }
+  },
+  {
+    "id": "m3-emp-019",
+    "topicId": "comun-12",
+    "prompt": "¿Qué exige la Ley 53/1984 para ejercer actividades profesionales o mercantiles fuera de las Administraciones?",
+    "options": [
+      { "id": "a", "text": "Una comunicación posterior al inicio de la actividad." },
+      { "id": "b", "text": "El previo reconocimiento de compatibilidad." },
+      { "id": "c", "text": "Una autorización judicial en todos los casos." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo catorce exige el previo reconocimiento de compatibilidad; la resolución motivada debe dictarse en el plazo de dos meses.",
+    "source": {
+      "lawId": "ley-53-1984",
+      "anchorId": "ley-53-1984-acatorce",
+      "reference": "Ley 53/1984, artículo catorce",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151"
+    }
+  },
+  {
+    "id": "m3-emp-020",
+    "topicId": "comun-12",
+    "prompt": "¿Qué límite establece el artículo trece de la Ley 53/1984 sobre una actividad privada?",
+    "options": [
+      { "id": "a", "text": "No puede reconocerse si la suma de jornadas alcanza la máxima." },
+      { "id": "b", "text": "Puede reconocerse siempre que la actividad privada sea por cuenta propia." },
+      { "id": "c", "text": "Solo se prohíbe cuando la actividad privada tenga carácter mercantil." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo trece impide reconocer compatibilidad para actividades privadas a quien tenga autorizada otra actividad pública cuando la suma de jornadas sea igual o superior a la máxima de las Administraciones.",
+    "source": {
+      "lawId": "ley-53-1984",
+      "anchorId": "ley-53-1984-atrece",
+      "reference": "Ley 53/1984, artículo trece",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151"
+    }
+  },
+  {
+    "id": "m3-emp-021",
+    "topicId": "comun-13",
+    "prompt": "¿A qué personal se aplica principalmente el IV Convenio Único?",
+    "options": [
+      { "id": "a", "text": "Al personal funcionario de la Administración General del Estado." },
+      { "id": "b", "text": "Al personal laboral de la AGE y sus organismos autónomos." },
+      { "id": "c", "text": "A todo el personal de cualquier entidad pública estatal." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 1.1 establece como ámbito principal el personal laboral de la AGE y sus organismos autónomos, con las inclusiones adicionales que detalla el propio artículo.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a1",
+      "reference": "IV Convenio Único, artículo 1.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-022",
+    "topicId": "comun-13",
+    "prompt": "¿Qué personal queda expresamente excluido del IV Convenio Único?",
+    "options": [
+      { "id": "a", "text": "El personal laboral que presta servicios en el exterior." },
+      { "id": "b", "text": "El personal laboral de los organismos autónomos de la AGE." },
+      { "id": "c", "text": "El personal laboral del Museo Reina Sofía." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 2.a excluye del ámbito del Convenio al personal laboral que presta servicios en el exterior.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a2",
+      "reference": "IV Convenio Único, artículo 2.a",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-023",
+    "topicId": "comun-13",
+    "prompt": "¿Cómo se configura el principio de igualdad en el IV Convenio Único?",
+    "options": [
+      { "id": "a", "text": "Como un criterio limitado a la selección de personal." },
+      { "id": "b", "text": "Como un principio transversal y criterio interpretativo del Convenio." },
+      { "id": "c", "text": "Como una medida aplicable únicamente al personal directivo." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 5 configura la igualdad de trato y oportunidades como principio básico transversal y criterio interpretativo en la aplicación del Convenio.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a5",
+      "reference": "IV Convenio Único, artículo 5.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-024",
+    "topicId": "comun-13",
+    "prompt": "¿Qué elemento determina el contenido concreto de la prestación laboral y el perfil profesional de un puesto?",
+    "options": [
+      { "id": "a", "text": "El grupo profesional." },
+      { "id": "b", "text": "La familia profesional." },
+      { "id": "c", "text": "La especialidad." }
+    ],
+    "correctOptionId": "c",
+    "explanation": "El artículo 7.5 atribuye a la especialidad la determinación del contenido concreto de la prestación laboral y del perfil profesional de cada puesto.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a7",
+      "reference": "IV Convenio Único, artículo 7.5",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-025",
+    "topicId": "comun-13",
+    "prompt": "¿Qué nivel del Marco Español de Cualificaciones para la Educación Superior corresponde al grupo profesional M3?",
+    "options": [
+      { "id": "a", "text": "Nivel 1." },
+      { "id": "b", "text": "Nivel 3." },
+      { "id": "c", "text": "Nivel 2." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 8.1.a vincula el grupo M3 al título clasificado en el nivel 3 del Marco Español de Cualificaciones para la Educación Superior o equivalente.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a8",
+      "reference": "IV Convenio Único, artículo 8.1.a",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-026",
+    "topicId": "comun-13",
+    "prompt": "¿Qué órganos de seguimiento establece el artículo 12 del IV Convenio Único?",
+    "options": [
+      { "id": "a", "text": "Una Comisión Negociadora y una Comisión Paritaria." },
+      { "id": "b", "text": "Una Comisión Ejecutiva y un Tribunal de Selección." },
+      { "id": "c", "text": "Una Comisión de Personal y un Consejo de Dirección." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 12 establece en el Convenio una Comisión Negociadora y una Comisión Paritaria.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a1-4",
+      "reference": "IV Convenio Único, artículo 12.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-027",
+    "topicId": "comun-13",
+    "prompt": "¿Qué función corresponde a la Comisión Paritaria?",
+    "options": [
+      { "id": "a", "text": "Interpretar la totalidad del articulado del Convenio." },
+      { "id": "b", "text": "Nombrar a todo el personal laboral de la AGE." },
+      { "id": "c", "text": "Aprobar los Presupuestos Generales del Estado." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 15 incluye entre las funciones de la Comisión Paritaria la interpretación de la totalidad del articulado del Convenio.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a1-7",
+      "reference": "IV Convenio Único, artículo 15.a",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-028",
+    "topicId": "comun-13",
+    "prompt": "¿A quién atribuye el IV Convenio Único la facultad exclusiva de organizar el trabajo?",
+    "options": [
+      { "id": "a", "text": "A la Administración, con los límites legales." },
+      { "id": "b", "text": "A la Comisión Paritaria, en todos los centros." },
+      { "id": "c", "text": "A los Comités de Empresa, mediante acuerdo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 22.1 considera la organización del trabajo facultad exclusiva de la Administración, sin perjuicio de los derechos de información, consulta y negociación que correspondan.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a2-4",
+      "reference": "IV Convenio Único, artículo 22.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-029",
+    "topicId": "comun-13",
+    "prompt": "¿Qué sistemas selectivos prevé el artículo 29 del IV Convenio Único?",
+    "options": [
+      { "id": "a", "text": "Oposición, concurso y concurso-oposición." },
+      { "id": "b", "text": "Solo oposición y entrevista curricular." },
+      { "id": "c", "text": "Concurso, libre designación y sorteo público." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 29 enumera como sistemas selectivos la oposición, el concurso y el concurso-oposición, sometidos a los principios de igualdad, mérito, capacidad y publicidad.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a2-11",
+      "reference": "IV Convenio Único, artículo 29",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-030",
+    "topicId": "comun-13",
+    "prompt": "¿Cuál es el sistema ordinario de provisión y movilidad del personal laboral fijo?",
+    "options": [
+      { "id": "a", "text": "El concurso de traslados abierto y permanente." },
+      { "id": "b", "text": "La designación directa por la Subsecretaría correspondiente." },
+      { "id": "c", "text": "La permuta automática entre centros de trabajo." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "El artículo 36.1 define el concurso de traslados abierto y permanente como sistema ordinario de provisión y movilidad del personal laboral fijo.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a3-8",
+      "reference": "IV Convenio Único, artículo 36.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-031",
+    "topicId": "comun-13",
+    "prompt": "¿Cuál es la duración máxima de la jornada general de trabajo prevista en el IV Convenio Único?",
+    "options": [
+      { "id": "a", "text": "Treinta y cinco horas semanales de trabajo efectivo." },
+      { "id": "b", "text": "Treinta y siete horas y media semanales de trabajo efectivo." },
+      { "id": "c", "text": "Cuarenta horas semanales de trabajo efectivo." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 64.1 fija una duración máxima de 37,5 horas semanales de trabajo efectivo para la jornada general.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a6-6",
+      "reference": "IV Convenio Único, artículo 64.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-032",
+    "topicId": "comun-13",
+    "prompt": "¿Cuántos días hábiles de vacaciones anuales retribuidas reconoce con carácter general el Convenio?",
+    "options": [
+      { "id": "a", "text": "Veinte días hábiles por año completo de servicios." },
+      { "id": "b", "text": "Veintidós días hábiles por año completo de servicios." },
+      { "id": "c", "text": "Treinta días naturales por año completo de servicios." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 73.1 reconoce 22 días hábiles de vacaciones por año completo de servicios, o los días proporcionales que correspondan.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a7-5",
+      "reference": "IV Convenio Único, artículo 73.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-033",
+    "topicId": "comun-13",
+    "prompt": "¿En qué plazo prescriben las faltas muy graves del personal laboral según el IV Convenio Único?",
+    "options": [
+      { "id": "a", "text": "A los seis meses." },
+      { "id": "b", "text": "A los dos años." },
+      { "id": "c", "text": "A los tres años." }
+    ],
+    "correctOptionId": "c",
+    "explanation": "El artículo 112.1 establece que las infracciones muy graves prescriben a los tres años; las graves, a los dos años, y las leves, al año.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a1-24",
+      "reference": "IV Convenio Único, artículo 112.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
+  },
+  {
+    "id": "m3-emp-034",
+    "topicId": "comun-13",
+    "prompt": "¿Cuál es la duración máxima del procedimiento disciplinario prevista en el artículo 117?",
+    "options": [
+      { "id": "a", "text": "Tres meses desde su incoación." },
+      { "id": "b", "text": "Seis meses desde su incoación." },
+      { "id": "c", "text": "Un año desde la denuncia de los hechos." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "El artículo 117.1 dispone que la duración del procedimiento disciplinario no excederá de seis meses desde su incoación.",
+    "source": {
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a1-29",
+      "reference": "IV Convenio Único, artículo 117.1",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414"
+    }
   }
 ]
