@@ -341,7 +341,8 @@ const studyCategories = [
   { id: 'oficial', icon: '▣', title: 'Material oficial', summary: 'Cuestionarios y documentos de convocatorias anteriores.' }
 ];
 let activeStudyCategory = 'practico';
-const documentCategory = documentId => ({ readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', tecnico: 'fuentes' }[documentId] || 'fuentes');
+const documentCategory = documentId => ({ readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', tecnico: 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
+studyDocuments.push({ id: 'm1-cuestionarios', title: 'Cuestionarios t\u00e9cnicos M1 Cultura', summary: 'Ex\u00e1menes oficiales del Ministerio que sirven como referencia para el bloque t\u00e9cnico.', file: 'docs/CUESTIONARIOS_M1_CULTURA.md' });
 let activeLawId = null;
 let activeLawAnchorId = null;
 let lawReturnToStory = false;
@@ -393,6 +394,12 @@ function renderExamChoicePanel() {
     $('#start-selected-exam').textContent = `Comenzar examen ${selected === 'historico' ? 'histórico' : 'aleatorio'}`;
   }));
   $('#start-selected-exam').addEventListener('click', () => start('examen', null, selected));
+}
+
+function renderOfficialStudyLink() {
+  const list = $('#home-official ul');
+  if (!list || list.querySelector('[data-m1-study-link]')) return;
+  list.insertAdjacentHTML('beforeend', '<li><a data-m1-study-link href="docs/CUESTIONARIOS_M1_CULTURA.md">Gu&#237;a de cuestionarios t&#233;cnicos M1 Cultura</a></li>');
 }
 
 function openExamChoicePanel() {
@@ -450,6 +457,7 @@ function markdownToHtml(markdown) {
   const toc = [];
   let paragraph = [];
   let list = null;
+  let tableRows = null;
   const flushParagraph = () => {
     if (paragraph.length) {
       output.push(`<p>${inlineMarkdown(paragraph.join(' '))}</p>`);
@@ -461,8 +469,23 @@ function markdownToHtml(markdown) {
     output.push(`</${list}>`);
     list = null;
   };
+  const flushTable = () => {
+    if (!tableRows?.length) { tableRows = null; return; }
+    const [header, ...rows] = tableRows;
+    output.push(`<div class="study-table-wrap"><table><thead><tr>${header.map(cell => `<th>${inlineMarkdown(cell)}</th>`).join('')}</tr></thead><tbody>${rows.map(row => `<tr>${header.map((_, index) => `<td>${inlineMarkdown(row[index] || '')}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`);
+    tableRows = null;
+  };
   for (const line of lines) {
-    if (!line.trim()) { flushParagraph(); closeList(); continue; }
+    if (!line.trim()) { flushParagraph(); closeList(); flushTable(); continue; }
+    const tableLine = line.match(/^\s*\|(.+)\|\s*$/);
+    if (tableLine) {
+      flushParagraph(); closeList();
+      const cells = tableLine[1].split('|').map(cell => cell.trim());
+      if (cells.every(cell => /^:?-{3,}:?$/.test(cell))) continue;
+      (tableRows ||= []).push(cells);
+      continue;
+    }
+    flushTable();
     const heading = line.match(/^(#{1,4})\s+(.+)$/);
     if (heading) {
       flushParagraph(); closeList();
@@ -488,6 +511,7 @@ function markdownToHtml(markdown) {
   }
   flushParagraph();
   closeList();
+  flushTable();
   return { html: output.join(''), toc };
 }
 
@@ -1115,6 +1139,7 @@ function renderProgress() {
 renderHomeMenu();
 renderPracticalPanel();
 renderExamChoicePanel();
+renderOfficialStudyLink();
 document.querySelector('.app-header h1').textContent = 'M3 - Industrias culturales';
 
 $('#start-free').addEventListener('click', () => start('libre'));
