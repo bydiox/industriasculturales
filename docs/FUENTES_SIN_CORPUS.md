@@ -2,7 +2,7 @@
 
 Esta oposición no se prepara solo con leyes. Hay temas de historia, públicos, programación, escena, planificación o tecnología que no tienen un artículo legal detrás. Para esos temas usamos fuentes de apoyo: documentos oficiales, publicaciones institucionales y referencias profesionales.
 
-La regla importante es esta: **las fuentes largas no son deberes de lectura completa**. Están en la app para justificar preguntas, consultar dudas y abrir el apartado exacto con “Ver fuente”. María debe estudiar el concepto del temario, no memorizar documentos enteros.
+La regla importante es esta: **las fuentes largas no son deberes de lectura completa**. Están en la app para justificar preguntas, consultar dudas y abrir el apartado exacto con “Ver fuente”. Hay que estudiar el concepto del temario, no memorizar documentos enteros.
 
 ## Historia de las artes
 
@@ -134,6 +134,6 @@ Fuentes de respaldo:
 
 ## Cómo usar “Ver fuente”
 
-Cuando una pregunta no sale de una ley, “Ver fuente” abre el documento que justifica esa pregunta. Eso no significa que María tenga que leerse el documento entero. Significa: “esta pregunta sale de este apartado”.
+Cuando una pregunta no sale de una ley, “Ver fuente” abre el documento que justifica esa pregunta. Eso no significa que haya que leer el documento entero. Significa: “esta pregunta sale de este apartado”.
 
 Si una fuente parece demasiado larga, el criterio es simple: estudiar solo el apartado conectado con la pregunta y con el epígrafe oficial de la convocatoria.

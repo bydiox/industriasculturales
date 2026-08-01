@@ -1,6 +1,6 @@
 # Mapa de estudio del modo Historia
 
-Este documento explica qué debe estudiar María en cada mundo del modo Historia. La idea es sencilla: no todo el temario nace de una ley. Algunas partes se estudian con legislación, otras con fuentes oficiales técnicas y otras con referencias profesionales o académicas.
+Este documento explica qué se estudia en cada mundo del modo Historia. La idea es sencilla: no todo el temario nace de una ley. Algunas partes se estudian con legislación, otras con fuentes oficiales técnicas y otras con referencias profesionales o académicas.
 
 La app no debe inventar leyes para los temas que no son jurídicos. Cuando un tema es editorial, técnico o bibliográfico, se marca así y se estudia con fuentes de apoyo.
 

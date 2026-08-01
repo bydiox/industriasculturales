@@ -1,6 +1,6 @@
 # Delimitación explícita de la convocatoria
 
-Este documento traduce el temario oficial a una regla práctica de estudio: qué debe estudiar María, qué se usa solo como apoyo y qué no debe crecer por acumulación de materiales.
+Este documento traduce el temario oficial a una regla práctica de estudio: qué debe estudiarse, qué se usa solo como apoyo y qué no debe crecer por acumulación de materiales.
 
 Regla principal: entra lo que dice el epígrafe de la convocatoria. Una ley, un examen oficial anterior o una fuente técnica no amplían por sí solos el temario. Solo sirven para explicar, anclar o practicar lo que el epígrafe pide.
 

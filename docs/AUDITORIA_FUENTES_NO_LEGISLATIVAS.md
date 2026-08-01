@@ -5,7 +5,7 @@ Esta app separa dos cosas:
 - **Legislación**: normas jurídicas con artículos y anclas.
 - **Fuentes / bibliografía**: documentos institucionales, técnicos o profesionales que ayudan a estudiar temas que no salen de una ley.
 
-La regla editorial es sencilla: una fuente no legislativa no debe convertirse en una “ley falsa”. Sirve para entender conceptos, justificar preguntas y abrir el apartado relacionado, pero María no tiene que memorizar documentos completos si la convocatoria solo pide conceptos básicos.
+La regla editorial es sencilla: una fuente no legislativa no debe convertirse en una “ley falsa”. Sirve para entender conceptos, justificar preguntas y abrir el apartado relacionado, pero no debe memorizarse completa si la convocatoria solo pide conceptos básicos.
 
 ## Estado actual
 
@@ -29,7 +29,7 @@ Las 40 referencias sin HTML interno no son necesariamente incorrectas: son pregu
 | INSST y estadísticas culturales | 11 | E20, E42 | Carga mental, estrés, riesgos psicosociales y estadísticas culturales. |
 | Temario INAEM M1 2022 | 11 | E9, E32, E35, E36, E37, E38 | Calibrador técnico. Usar solo para nivel y vocabulario básico; no convertir M3 en un examen M1. |
 
-## Qué debe ver María
+## Qué debe verse en la app
 
 En **Estudio**, estas fuentes deben aparecer junto a las leyes, pero con color y etiqueta de fuente. La lectura recomendada es por apartados:
 

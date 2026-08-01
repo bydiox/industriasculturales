@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "description": "Brújula editorial para distinguir qué debe estudiar María, qué es parcial, qué es fuente de apoyo y qué es contexto.",
+  "description": "Brújula editorial para distinguir qué se debe estudiar, qué es parcial, qué es fuente de apoyo y qué es contexto.",
   "statuses": {
     "study": {
       "label": "Estudiar",
@@ -231,13 +231,13 @@
     },
     "rd-992-2014-cte": {
       "status": "partial",
-      "study": "Centro de Tecnolog?a del Espect?culo como Centro de Referencia Nacional: calificaci?n, r?gimen jur?dico y ?rganos b?sicos."
+      "study": "Centro de Tecnología del Espectáculo como Centro de Referencia Nacional: calificación, régimen jurídico y órganos básicos."
     }
   },
   "documents": {
     "guia-maria": {
       "status": "study",
-      "study": "Guía de orientación general para María."
+      "study": "Guía de orientación general para preparar esta oposición."
     },
     "delimitacion": {
       "status": "study",

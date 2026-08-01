@@ -22,7 +22,8 @@ const state = {
   answered: 0,
   blank: 0,
   expandedUnits: new Set(),
-  storyExpansionInitialized: false
+  storyExpansionInitialized: false,
+  quizIntroPending: false
 };
 
 const $ = selector => document.querySelector(selector);
@@ -37,8 +38,13 @@ const OPTION_LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
 const THEME_STORAGE_KEY = 'm3-theme-preference';
 const THEME_LABELS = {
   system: 'Sistema',
-  light: 'Claro',
-  dark: 'Oscuro'
+  light: 'Blanco',
+  dark: 'Negro'
+};
+const THEME_SHORT_LABELS = {
+  system: 'S',
+  light: 'B',
+  dark: 'N'
 };
 const THEME_COLORS = {
   light: '#f5efe4',
@@ -84,7 +90,7 @@ function applyTheme(preference = themePreference) {
   if (meta) meta.setAttribute('content', THEME_COLORS[theme]);
   const toggle = $('#theme-toggle');
   if (toggle) {
-    toggle.textContent = `Tema: ${THEME_LABELS[preference]}`;
+    toggle.textContent = `Tema: ${THEME_SHORT_LABELS[preference]}`;
     toggle.title = `Tema actual: ${THEME_LABELS[preference]}. Tocar para cambiar.`;
     toggle.setAttribute('aria-label', `Cambiar tema de color. Tema actual: ${THEME_LABELS[preference]}.`);
   }
@@ -502,27 +508,26 @@ function renderGuide() {
 }
 
 const studyDocuments = [
-  { id: 'guia-maria', title: 'Guía 1 · Orientación para María', summary: 'La explicación de partida: qué oposición es, cómo estudiar y dónde poner el esfuerzo.', file: 'docs/GUIA_MARIA.md' },
-  { id: 'delimitacion', title: 'Delimitación explícita de la convocatoria', summary: 'Tema por tema: qué entra, qué fuente lo cubre y qué no debe ampliarse.', file: 'docs/DELIMITACION_EXPLICITA_CONVOCATORIA.md' },
-  { id: 'mapa-historia', title: 'Mapa de estudio del modo Historia', summary: 'Qué se estudia en cada mundo y qué parte es legislación, técnica o editorial.', file: 'docs/MAPA_ESTUDIO_MODO_HISTORIA.md' },
-  { id: 'readme', title: 'Léeme antes de empezar', summary: 'Qué contiene la app, cómo avanzar y cómo interpretar los resultados.', file: 'docs/LEEME.md' },
-  { id: 'practico', title: 'Análisis histórico del supuesto práctico', summary: 'Qué pidió el tribunal en supuestos reales, qué patrones se observan y cómo entrenar sin convertirlo en predicción.', file: 'docs/practico_dossier_estudio.md' },
-  { id: 'formato', title: 'Cómo es el examen', summary: 'Formato, puntuación, penalización y estrategia de respuesta.', file: 'docs/FORMATO_EXAMEN.md' },
-  { id: 'fuentes', title: 'Guía de fuentes no legislativas', summary: 'Qué estudiar en historia, públicos, programación, técnica y planificación sin leer documentos enormes.', file: 'docs/FUENTES_SIN_CORPUS.md' },
-  { id: 'auditoria-fuentes', title: 'Auditoría de fuentes no legislativas', summary: 'Qué fuentes internas existen, qué temas cubren y qué referencias quedan fuera del HTML interno.', file: 'docs/AUDITORIA_FUENTES_NO_LEGISLATIVAS.md' },
-  { id: 'tecnico', title: 'Fuentes técnicas del INAEM', summary: 'Cualificaciones y estándares profesionales para el bloque escénico.', file: 'docs/FUENTE_TEMARIOS_TECNICOS_M1.md' }
+  { id: 'guia-maria', title: 'Guía de orientación', summary: 'Qué oposición es, cómo estudiar y dónde conviene poner el esfuerzo.', file: 'docs/GUIA_MARIA.md', showInStudyCatalog: true },
+  { id: 'delimitacion', title: 'Delimitación explícita de la convocatoria', summary: 'Documento interno de control: tema por tema, qué entra y qué no debe ampliarse.', file: 'docs/DELIMITACION_EXPLICITA_CONVOCATORIA.md', showInStudyCatalog: false },
+  { id: 'mapa-historia', title: 'Mapa de estudio del modo Historia', summary: 'Documento interno de apoyo: qué se estudia en cada mundo y qué parte es legislación, técnica o editorial.', file: 'docs/MAPA_ESTUDIO_MODO_HISTORIA.md', showInStudyCatalog: false },
+  { id: 'readme', title: 'Léeme antes de empezar', summary: 'Qué contiene la app, cómo avanzar y cómo interpretar los resultados.', file: 'docs/LEEME.md', showInStudyCatalog: true },
+  { id: 'practico', title: 'Supuesto práctico', summary: 'Qué pidió el tribunal en supuestos reales y cómo entrenar respuestas escritas.', file: 'docs/practico_dossier_estudio.md', showInStudyCatalog: true },
+  { id: 'formato', title: 'Cómo es el examen', summary: 'Formato, puntuación, penalización y estrategia de respuesta.', file: 'docs/FORMATO_EXAMEN.md', showInStudyCatalog: true },
+  { id: 'fuentes', title: 'Guía de fuentes no legislativas', summary: 'Documento interno de criterio: cómo usar fuentes largas sin convertirlas en deberes de lectura.', file: 'docs/FUENTES_SIN_CORPUS.md', showInStudyCatalog: false },
+  { id: 'auditoria-fuentes', title: 'Auditoría de fuentes no legislativas', summary: 'Documento interno de revisión editorial y trazabilidad.', file: 'docs/AUDITORIA_FUENTES_NO_LEGISLATIVAS.md', showInStudyCatalog: false },
+  { id: 'tecnico', title: 'Fuentes técnicas del INAEM', summary: 'Documento interno de respaldo sobre cualificaciones y estándares profesionales.', file: 'docs/FUENTE_TEMARIOS_TECNICOS_M1.md', showInStudyCatalog: false }
 ];
 
 const studyCategories = [
   { id: 'readme', icon: '?', title: 'Léeme', summary: 'Orientación rápida para empezar a estudiar.' },
   { id: 'practico', icon: '◆', title: 'Supuesto práctico', summary: 'Análisis de supuestos reales, protocolos y entrenamiento escrito.' },
   { id: 'examen', icon: '✓', title: 'Examen y estrategia', summary: 'Formato, puntuación y cómo organizar el estudio.' },
-  { id: 'fuentes', icon: '▤', title: 'Fuentes y temario', summary: 'Materiales para estudiar lo que no procede de una ley.' },
-  { id: 'oficial', icon: '▣', title: 'Material oficial', summary: 'Cuestionarios y documentos de convocatorias anteriores.' }
+  { id: 'fuentes', icon: '▤', title: 'Fuentes y temario', summary: 'Fichas breves para estudiar lo que no procede de una ley.' }
 ];
 let activeStudyCategory = 'practico';
 const documentCategory = documentId => ({ 'guia-maria': 'readme', readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', 'auditoria-fuentes': 'fuentes', tecnico: 'fuentes', delimitacion: 'fuentes', 'mapa-historia': 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
-studyDocuments.push({ id: 'm1-cuestionarios', title: 'Cuestionarios t\u00e9cnicos M1 Cultura', summary: 'Ex\u00e1menes oficiales del Ministerio que sirven como referencia para el bloque t\u00e9cnico.', file: 'docs/CUESTIONARIOS_M1_CULTURA.md' });
+studyDocuments.push({ id: 'm1-cuestionarios', title: 'Cuestionarios técnicos M1 Cultura', summary: 'Documento interno de calibración técnica. No sustituye el temario M3.', file: 'docs/CUESTIONARIOS_M1_CULTURA.md', showInStudyCatalog: false });
 let activeLawId = null;
 let activeLawAnchorId = null;
 let lawReturnToStory = false;
@@ -1112,7 +1117,8 @@ function renderLawCatalog() {
   const laws = Object.values(state.content.lawsById || {})
     .filter(law => law.lawId !== 'norma-demo')
     .sort((a, b) => lawCatalogMeta(a).order - lawCatalogMeta(b).order || String(a.title).localeCompare(String(b.title), 'es'));
-  const sourceDocuments = allStudyDocuments().filter(document => document.showInStudyCatalog || ['mapa-historia', 'fuentes', 'tecnico', 'm1-cuestionarios', 'practico'].includes(document.id));
+  const sourceDocuments = allStudyDocuments()
+    .filter(document => document.showInStudyCatalog === true && studyDocumentCategory(document.id) === 'fuentes');
   let currentGroup = '';
   const sourceCards = `
     <h3 class="law-catalog-group source-catalog-group">Fuentes y bibliografía</h3>
@@ -1236,7 +1242,7 @@ function renderStudyCutPlaceholder(law) {
   main.innerHTML = `<section class="law-study-cut-placeholder">
     <h2>Lectura delimitada</h2>
     <p>Esta fuente está en la app para consulta, pero no debe estudiarse completa como bloque de memoria.</p>
-    <p><strong>Qué debe mirar María:</strong> ${escapeHtml(scope.study)}</p>
+    <p><strong>Qué se debe estudiar:</strong> ${escapeHtml(scope.study)}</p>
     <p>Si hace falta revisar el texto íntegro, usa el botón <em>Ver norma completa</em>.</p>
   </section>`;
   return main;
@@ -1812,16 +1818,35 @@ function renderHistoryBrief() {
   const panel = $('#history-brief');
   if (!panel) return;
   const brief = historyBriefForCurrentQuiz();
-  if (!brief || state.index > 0) {
+  if (!brief || !state.quizIntroPending || state.index > 0) {
     panel.hidden = true;
     panel.innerHTML = '';
-    return;
+    return false;
   }
   panel.innerHTML = `
     <span>${escapeHtml(brief.kicker)}</span>
     <strong>${escapeHtml(brief.title)}</strong>
-    <ul>${brief.points.map(point => `<li>${escapeHtml(point)}</li>`).join('')}</ul>`;
+    <ul>${brief.points.map(point => `<li>${escapeHtml(point)}</li>`).join('')}</ul>
+    <button class="primary history-brief-action" type="button" data-start-history-test>Empezar test</button>`;
   panel.hidden = false;
+  panel.querySelector('[data-start-history-test]')?.addEventListener('click', () => {
+    state.quizIntroPending = false;
+    renderQuestion();
+  });
+  return true;
+}
+
+function setQuizBodyHidden(hidden) {
+  ['#question-origin', '#question-context', '#question-text', '#options', '#feedback'].forEach(selector => {
+    const node = $(selector);
+    if (!node) return;
+    node.hidden = hidden;
+    if (hidden && (selector === '#question-text' || selector === '#options')) node.innerHTML = '';
+  });
+  const tools = document.querySelector('.question-tools');
+  const actions = document.querySelector('.actions');
+  if (tools) tools.hidden = hidden;
+  if (actions) actions.hidden = hidden;
 }
 
 function resumeActiveSession() {
@@ -1846,6 +1871,7 @@ function resumeActiveSession() {
   state.answered = Number(saved.answered) || 0;
   state.blank = Number(saved.blank) || 0;
   state.freeFilters = saved.freeFilters || {};
+  state.quizIntroPending = false;
   $('#mode-label').textContent = modeLabel();
   renderQuestion();
   show('quiz');
@@ -1867,6 +1893,7 @@ function start(mode, targetId = null, examType = 'aleatorio', unitId = null, exc
   state.correct = 0;
   state.answered = 0;
   state.blank = 0;
+  state.quizIntroPending = mode?.startsWith('historia');
   if (mode === 'examen' && sampled.blocked) {
     announce(`El simulacro parcial se desbloquea al alcanzar el 50 % de cobertura. Ahora hay ${Math.round((sampled.coverage || 0) * 100)} % con preguntas de cuatro opciones.`);
     show('home');
@@ -1894,7 +1921,9 @@ function renderQuestion() {
   quizNotice.textContent = state.sessionNotice;
   quizNotice.hidden = !state.sessionNotice;
   $('#question-count').textContent = `${state.index + 1} / ${state.questions.length}`;
-  renderHistoryBrief();
+  const showingIntro = renderHistoryBrief();
+  setQuizBodyHidden(showingIntro);
+  if (showingIntro) return;
   const origin = $('#question-origin');
   if (question.origin) {
     origin.textContent = `${question.origin.label} · Pregunta ${question.origin.questionNumber} · material histórico de comparación`;
@@ -2176,7 +2205,7 @@ renderPracticalPanel();
 renderExamChoicePanel();
 renderFreePracticePanel();
 renderOfficialStudyLink();
-$('#app-home-link').textContent = 'M3 - Industrias culturales';
+$('#app-home-link').textContent = '⌂';
 
 $('#start-free').addEventListener('click', openFreePracticePanel);
 $('#app-home-link').addEventListener('click', returnHome);
@@ -2316,7 +2345,7 @@ Promise.all([loadContent(), initAuth()])
     state.content = content;
     const appVersion = content.syllabus.app?.version || '0.0.0';
     $('#app-version').textContent = `v${appVersion}`;
-    document.title = `M3 - Industrias culturales · v${appVersion}`;
+    document.title = `M3 · v${appVersion}`;
     renderGuide();
     renderFreePracticeOptions();
     renderStudyLibrary();

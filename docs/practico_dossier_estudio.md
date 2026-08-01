@@ -18,7 +18,7 @@ Segundo ejercicio: caso práctico sobre los temas de la parte específica. **2 h
 
 Criterios literales de las bases: *«se valorarán las capacidades para desempeñar las funciones del puesto […] los conocimientos, la claridad y el orden de ideas y la calidad de expresión escrita, así como su forma de presentación o exposición oral»*.
 
-De cuatro criterios, solo uno es «conocimientos». Los otros tres premian cómo se resuelve y cómo se cuenta. Para un perfil de historia y mundo editorial, eso es una ventaja competitiva real: **el test es donde María compite en desventaja; el práctico es su terreno.**
+De cuatro criterios, solo uno es «conocimientos». Los otros tres premian cómo se resuelve y cómo se cuenta. Para un perfil cultural, histórico o editorial, eso puede ser una ventaja real: **el test exige mucha norma; el práctico premia ordenar información y producir un documento claro.**
 
 Un dato de los criterios de corrección publicados por otro tribunal de personal laboral: la calificación resulta de **la media aritmética de las puntuaciones de cada miembro del tribunal, eliminadas la máxima y la mínima**. Consecuencia práctica: no basta con convencer a uno. **La respuesta convencional y bien estructurada bate a la original y heterodoxa**, porque esta pierde su nota más alta en el descarte.
 
@@ -92,7 +92,7 @@ Está presente en varios supuestos M3 analizados. El enunciado plantea un encarg
 
 ### Patrón B — Incidente en función
 
-Es el precedente directo de la especialidad de María: el supuesto M3 Industrias Culturales de 2022, con *La Gatita* en configuración invertida, dos incidentes escalonados —desmayo del público e incendio no controlado— y planos adjuntos.
+Es el precedente directo de la especialidad M3 Industrias Culturales: el supuesto de 2022, con *La Gatita* en configuración invertida, dos incidentes escalonados —desmayo del público e incendio no controlado— y planos adjuntos.
 
 Este histórico sí debe estudiarse con atención porque enseña cómo el tribunal convierte un plano y una incidencia en una respuesta de gestión: seguridad, cadena de mando, evacuación, coordinación y decisión de no reanudar.
 
@@ -115,7 +115,7 @@ Este supuesto no es una predicción cerrada. Es un **modelo de entrenamiento** c
 > 3. Elabore un breve plan de comunicación de la temporada, incorporando la perspectiva de género.
 > 4. Responda sucintamente: ¿qué particularidades presenta la contratación de servicios artísticos en el sector público?
 
-**Cómo usarlo:** María no tiene que memorizar este caso como si fuera el examen. Tiene que practicar la estructura: leer datos, ordenarlos, producir el documento pedido y cerrar con dos o tres referencias públicas bien colocadas.
+**Cómo usarlo:** no hay que memorizar este caso como si fuera el examen. Hay que practicar la estructura: leer datos, ordenarlos, producir el documento pedido y cerrar con dos o tres referencias públicas bien colocadas.
 
 ---
 

@@ -30,9 +30,8 @@
         <span id="session-user" class="session-user" hidden></span>
         <button id="sign-out" class="secondary compact-action" type="button" hidden>Salir</button>
         <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Cambiar tema de color">Tema</button>
-        <button id="open-guide" class="guide-button" type="button" aria-label="Abrir Léeme">
+        <button id="open-guide" class="guide-button icon-only" type="button" aria-label="Abrir Léeme" title="Léeme">
           <span class="guide-icon" aria-hidden="true">i</span>
-          <span>Léeme</span>
         </button>
       </div>
     </header>
@@ -50,10 +49,10 @@
       </div>
     </section>
     <section data-screen="home" hidden>
-      <h2>M3 · Industrias culturales</h2>
+      <h2 class="sr-only">Inicio</h2>
       <section id="home-guidance" class="home-guidance" aria-live="polite"></section>
       <nav id="home-menu" class="home-menu" aria-label="Secciones principales">
-        <button class="home-menu-card" type="button" data-home-action="readme"><span class="home-menu-icon" aria-hidden="true">?</span><span class="home-menu-label">Léeme</span><small>Antes de empezar: cómo usar la app y el recorrido.</small></button>
+        <button class="home-menu-card" type="button" data-home-action="readme"><span class="home-menu-icon" aria-hidden="true">?</span><span class="home-menu-label">Guía</span><small>Antes de empezar: cómo usar la app y el recorrido.</small></button>
         <button class="home-menu-card" type="button" data-home-action="story"><span class="home-menu-icon" aria-hidden="true">H</span><span class="home-menu-label">Modo historia</span><small>Avanza por unidades y desbloquea cada cuestionario.</small></button>
         <button class="home-menu-card is-primary" id="start-free" type="button"><span class="home-menu-icon" aria-hidden="true">P</span><span class="home-menu-label">Práctica libre</span><small>Preguntas del banco completo, sin orden obligatorio.</small></button>
         <button class="home-menu-card" id="start-exam" type="button"><span class="home-menu-icon" aria-hidden="true">E</span><span class="home-menu-label">Modo examen</span><small>Simulacro proporcional con la configuración elegida.</small></button>

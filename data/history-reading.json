@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "description": "Lecturas previas al test de cada unidad de Historia: legislación cuando procede y documentos de estudio cuando el tema es técnico, bibliográfico o editorial. Las guías generales del modo Historia se muestran arriba y no se repiten dentro de cada unidad.",
-  "generalDocumentIds": ["guia-maria", "mapa-historia"],
+  "generalDocumentIds": ["guia-maria"],
   "units": {
     "U01": {
       "lawIds": ["ce-1978", "ley-50-1997"],
