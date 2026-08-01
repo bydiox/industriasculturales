@@ -2205,8 +2205,6 @@ renderPracticalPanel();
 renderExamChoicePanel();
 renderFreePracticePanel();
 renderOfficialStudyLink();
-$('#app-home-link').textContent = '⌂';
-
 $('#start-free').addEventListener('click', openFreePracticePanel);
 $('#app-home-link').addEventListener('click', returnHome);
 $('#start-exam').addEventListener('click', openExamChoicePanel);
