@@ -41555,8 +41555,8 @@
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 11. Ministerio de Cultura, 18/02/2025.",
-      "lawId": "rdleg-2-2015",
-      "anchorId": "rdleg-2-2015-a15"
+      "lawId": "rdleg-2-2015-et",
+      "note": "El cuestionario oficial cita rdleg-2-2015-a15; el HTML consolidado actual no contiene esa ancla, por lo que se conserva la ley canónica sin enlace a un artículo no verificado."
     },
     "origin": {
       "type": "official_exam",
@@ -41601,7 +41601,7 @@
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 11. Ministerio de Cultura, 18/02/2025.",
-      "lawId": "rdleg-2-2015"
+      "lawId": "rdleg-2-2015-et"
     },
     "origin": {
       "type": "official_exam",
@@ -41646,7 +41646,7 @@
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 12. Ministerio de Cultura, 18/02/2025.",
-      "lawId": "rdleg-2-2015"
+      "lawId": "rdleg-2-2015-et"
     },
     "origin": {
       "type": "official_exam",
@@ -41691,7 +41691,7 @@
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 15. Ministerio de Cultura, 18/02/2025.",
-      "lawId": "rdleg-2-2015"
+      "lawId": "rdleg-2-2015-et"
     },
     "origin": {
       "type": "official_exam",
@@ -41736,7 +41736,7 @@
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 15. Ministerio de Cultura, 18/02/2025.",
-      "lawId": "rdleg-2-2015"
+      "lawId": "rdleg-2-2015-et"
     },
     "origin": {
       "type": "official_exam",
@@ -41826,7 +41826,7 @@
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 15. Ministerio de Cultura, 18/02/2025.",
-      "lawId": "rdleg-2-2015"
+      "lawId": "rdleg-2-2015-et"
     },
     "origin": {
       "type": "official_exam",
@@ -41915,7 +41915,7 @@
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Guía, Información y Asistencia Turística (parte común), turno libre, pregunta 14. Ministerio de Cultura, 18/02/2025.",
-      "lawId": "lo-11-1985"
+      "lawId": "lo-11-1985-lols"
     },
     "origin": {
       "type": "official_exam",
@@ -41960,7 +41960,7 @@
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen (parte común), turno libre, pregunta 13. Ministerio de Cultura, 18/02/2025.",
-      "lawId": "lo-11-1985"
+      "lawId": "lo-11-1985-lols"
     },
     "origin": {
       "type": "official_exam",
@@ -42005,7 +42005,7 @@
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo (parte común), turno libre, pregunta 11. Ministerio de Cultura, 18/02/2025.",
-      "lawId": "rdleg-2-2015"
+      "lawId": "rdleg-2-2015-et"
     },
     "origin": {
       "type": "official_exam",
@@ -45910,5 +45910,3789 @@
     },
     "active": true,
     "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-01",
+    "topicId": "comun-08",
+    "prompt": "De conformidad con el artículo 1 del Código Civil, indique la respuesta correcta en relación con las fuentes del derecho:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las fuentes del ordenamiento jurídico español son la ley, el reglamento y la costumbre."
+      },
+      {
+        "id": "B",
+        "text": "La costumbre sólo regirá en defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público, y que resulte probada."
+      },
+      {
+        "id": "C",
+        "text": "Las normas jurídicas contenidas en los tratados internacionales serán de aplicación directa en España desde su ratificación."
+      },
+      {
+        "id": "D",
+        "text": "La jurisprudencia complementará el ordenamiento jurídico con la doctrina que, de modo reiterado, establezca el Tribunal Constitucional al interpretar y aplicar la ley, la costumbre y los principios generales del derecho."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 1. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 1,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 1
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-02",
+    "topicId": "comun-08",
+    "prompt": "La fuente típica del Derecho administrativo es",
+    "options": [
+      {
+        "id": "A",
+        "text": "La ley ordinaria"
+      },
+      {
+        "id": "B",
+        "text": "La ley orgánica"
+      },
+      {
+        "id": "C",
+        "text": "El Reglamento"
+      },
+      {
+        "id": "D",
+        "text": "Decretos-leyes"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 2. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 2,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 2
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-03",
+    "topicId": "comun-08",
+    "prompt": "Los Reglamentos que se dictan para desarrollar y ejecutar el contenido, total o parcial, de una ley se denominan",
+    "options": [
+      {
+        "id": "A",
+        "text": "Independientes"
+      },
+      {
+        "id": "B",
+        "text": "De necesidad"
+      },
+      {
+        "id": "C",
+        "text": "Autónomos"
+      },
+      {
+        "id": "D",
+        "text": "Ejecutivos"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 3. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 3,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 3
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-04",
+    "topicId": "comun-09",
+    "prompt": "La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva de conformidad con el artículo 35.2 de la Ley 39/2015, de 1 de octubre:",
+    "options": [
+      {
+        "id": "A",
+        "text": "No precisan motivación."
+      },
+      {
+        "id": "B",
+        "text": "Se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, sin tener que acreditar en el procedimiento los fundamentos de la resolución que se adopte."
+      },
+      {
+        "id": "C",
+        "text": "Se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte."
+      },
+      {
+        "id": "D",
+        "text": "Ninguna es correcta."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 4. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 4,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 4
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-05",
+    "topicId": "comun-09",
+    "prompt": "De conformidad con el art.82 de la Ley 39/2015, de 1 de octubre, el trámite de audiencia al interesado se entiende en la fase:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Iniciación del procedimiento."
+      },
+      {
+        "id": "B",
+        "text": "Ordenación del procedimiento."
+      },
+      {
+        "id": "C",
+        "text": "Instrucción del procedimiento."
+      },
+      {
+        "id": "D",
+        "text": "Finalización del procedimiento."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 5. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 5,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 5
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-06",
+    "topicId": "comun-10",
+    "prompt": "En toda contratación pública se incorporan de manera transversal y preceptiva según el artículo 1.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "options": [
+      {
+        "id": "A",
+        "text": "Criterios éticos y sociales que guarde relación con el objeto del contrato."
+      },
+      {
+        "id": "B",
+        "text": "Criterios sociales y medioambientales siempre que guarde relación con el objeto del contrato."
+      },
+      {
+        "id": "C",
+        "text": "Criterios de igualdad y de transparencia siempre que guarde relación con el objeto del contrato."
+      },
+      {
+        "id": "D",
+        "text": "Criterios éticos, sociales y de igualdad que guarde relación con el objeto del contrato."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 6. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 6,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 6
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-07",
+    "topicId": "comun-10",
+    "prompt": "De conformidad con el artículo 26 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tendrán la consideración de contratos privados (art.26):",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los celebrados por entidades del sector público que siendo poder adjudicador no reúnan la condición de Administración Pública."
+      },
+      {
+        "id": "B",
+        "text": "Los celebrados por entidades del sector público que siendo poder adjudicador reúnan la condición de Administración Pública."
+      },
+      {
+        "id": "C",
+        "text": "Los celebrados por entidades del sector privado que no reúnan la condición de Administración pública."
+      },
+      {
+        "id": "D",
+        "text": "Ninguna es correcta."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 7. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 7,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 7
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-08",
+    "topicId": "comun-10",
+    "prompt": "Los contratos que celebren los poderes adjudicadores, a excepción de los contratos menores y de los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición a los que se refiere el artículo 36.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público se perfeccionan:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Con su formalización"
+      },
+      {
+        "id": "B",
+        "text": "Con su adjudicación definitiva"
+      },
+      {
+        "id": "C",
+        "text": "Con su adjudicación provisional"
+      },
+      {
+        "id": "D",
+        "text": "Con su aprobación"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 8. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 8,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 8
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-11",
+    "topicId": "comun-13",
+    "prompt": "En el artículo 21 del IV Convenio Único para el personal laboral de la Administración General del Estado se establece que la instancia previa en la que habrá de intentarse, en primer término, la solución de los conflictos colectivos que se susciten en el ámbito del mencionado Convenio es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La Subcomisión Departamental."
+      },
+      {
+        "id": "B",
+        "text": "La Subcomisión Negociadora."
+      },
+      {
+        "id": "C",
+        "text": "La Comisión Paritaria."
+      },
+      {
+        "id": "D",
+        "text": "La Comisión Interdepartamental."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 11. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 11,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 11
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-14",
+    "topicId": "comun-03",
+    "prompt": "¿Cúando finaliza el mandato de los Senadores?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuando lo disponga el Ministro de la Presidencia."
+      },
+      {
+        "id": "B",
+        "text": "Cuatro años después de su elección o el día de la disolución de la Cámara."
+      },
+      {
+        "id": "C",
+        "text": "Únicamente cuando renuncien a su escaño."
+      },
+      {
+        "id": "D",
+        "text": "Únicamente el día de la disolución de la Cámara."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 14. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 14,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 14
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-15",
+    "topicId": "comun-03",
+    "prompt": "Según el artículo 68 de la Constitución Española, las elecciones al Congreso de los Diputados tendrán lugar:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Entre los treinta y sesenta días desde la terminación del mandato."
+      },
+      {
+        "id": "B",
+        "text": "Dentro de los veinticinco días siguientes a la terminación del mandato."
+      },
+      {
+        "id": "C",
+        "text": "Entre los veinticinco y sesenta días desde la terminación del mandato."
+      },
+      {
+        "id": "D",
+        "text": "Dentro de los cuarenta y cinco días siguientes a la terminación del mandato."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 15. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 15,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 15
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-16",
+    "topicId": "comun-03",
+    "prompt": "Las Cámaras del Congreso de los Diputados y del Senado podrán reunirse en sesiones extraordinarias:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A petición del Presidente del Gobierno."
+      },
+      {
+        "id": "B",
+        "text": "Únicamente a petición de la mayoría absoluta de los miembros de cualquiera de las Cámaras."
+      },
+      {
+        "id": "C",
+        "text": "A petición de las Comisiones de Investigación."
+      },
+      {
+        "id": "D",
+        "text": "A petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 16. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 16,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 16
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-17",
+    "topicId": "comun-04",
+    "prompt": "La creación, modificación y supresión de las Comisiones Delegadas del Gobierno se acuerda por el Consejo de Ministros mediante Real Decreto, a propuesta de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Rey."
+      },
+      {
+        "id": "B",
+        "text": "El Presidente del Gobierno."
+      },
+      {
+        "id": "C",
+        "text": "El propio Consejo de Ministros, previa consulta al Rey."
+      },
+      {
+        "id": "D",
+        "text": "El Presidente del Gobierno, previa consulta al Rey."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 17. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 17,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 17
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-18",
+    "topicId": "comun-04",
+    "prompt": "La Comisión Delegada del Gobierno para Asuntos de Inteligencia estará presidida por:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Presidente del Gobierno, en todo caso."
+      },
+      {
+        "id": "B",
+        "text": "El Presidente del Gobierno, excepto cuando S.M. el Rey asista a sus reuniones, en cuyo caso le corresponderá presidirlo."
+      },
+      {
+        "id": "C",
+        "text": "La Vicepresidenta Primera del Gobierno y Ministra de Hacienda."
+      },
+      {
+        "id": "D",
+        "text": "La Vicepresidenta Segunda del Gobierno y Ministra de Trabajo y Economía Social."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 18. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 18,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 18
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-19",
+    "topicId": "comun-04",
+    "prompt": "Una vez presentada una moción de censura, ¿podrán presentarse mociones de censura alternativas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No, en ningún caso."
+      },
+      {
+        "id": "B",
+        "text": "Sí, durante los cinco primeros días desde la presentación de la primera moción de censura."
+      },
+      {
+        "id": "C",
+        "text": "Sí, pudiendo utilizar todo el tiempo de plazo estipulado desde la presentación de la primera moción de censura hasta su votación en el Congreso de los Diputados."
+      },
+      {
+        "id": "D",
+        "text": "Sí, en los dos primeros días del plazo estipulado desde la presentación de la primera moción de censura hasta su votación en el Congreso de los Diputados."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 19. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 19,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 19
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-20",
+    "topicId": "especifico-17",
+    "prompt": "Según el Real Decreto Legislativo 1/2013, de 29 de noviembre, la situación en que se encuentra una persona con discapacidad cuando es tratada de manera menos favorable que otra en situación análoga por motivo de o por razón de su discapacidad, se denomina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Discriminación por asociación."
+      },
+      {
+        "id": "B",
+        "text": "Acoso."
+      },
+      {
+        "id": "C",
+        "text": "Discriminación directa."
+      },
+      {
+        "id": "D",
+        "text": "Discriminación indirecta."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 20. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 20,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 20
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-22",
+    "topicId": "comun-06",
+    "prompt": "¿En qué año se produce la adhesión del grupo más numeroso, 10 nuevos países, a la UE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1995"
+      },
+      {
+        "id": "B",
+        "text": "2000"
+      },
+      {
+        "id": "C",
+        "text": "2004"
+      },
+      {
+        "id": "D",
+        "text": "2007"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 22. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 22,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 22
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-23",
+    "topicId": "comun-06",
+    "prompt": "¿Cuál de las siguientes reformas fue introducida por el tratado de Lisboa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La introducción del Principio de Subsidiariedad como principio rector de la UE."
+      },
+      {
+        "id": "B",
+        "text": "La creación de la figura del Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad."
+      },
+      {
+        "id": "C",
+        "text": "La creación del Banco Central Europeo como Institución Central de la Unión."
+      },
+      {
+        "id": "D",
+        "text": "La adopción de medidas destinadas a establecer progresivamente el Mercado Interior."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 23. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 23,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 23
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-24",
+    "topicId": "comun-07",
+    "prompt": "¿Qué instituciones ejercen conjuntamente la función legislativa en la UE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consejo Europeo y Parlamento Europeo."
+      },
+      {
+        "id": "B",
+        "text": "Parlamento Europeo y Consejo de la UE."
+      },
+      {
+        "id": "C",
+        "text": "Comisión Europea y Consejo de la UE."
+      },
+      {
+        "id": "D",
+        "text": "Parlamento Europeo y Consejo de Europa."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 24. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 24,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 24
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-25",
+    "topicId": "comun-07",
+    "prompt": "¿Qué Acto Jurídico de la Unión obligará al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando, sin embargo, a las autoridades nacionales la elección de la forma y de los medios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Directiva."
+      },
+      {
+        "id": "B",
+        "text": "Decisión."
+      },
+      {
+        "id": "C",
+        "text": "Recomendación."
+      },
+      {
+        "id": "D",
+        "text": "Reglamento."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 25. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 25,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 25
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-26",
+    "topicId": "comun-07",
+    "prompt": "¿Cuál de las siguientes afirmaciones sobre la Primacía y el Efecto Directo del Derecho Comunitario es correcta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son conceptos que no guardan ningún tipo de relación entre sí."
+      },
+      {
+        "id": "B",
+        "text": "Los dos principios están formulados expresamente en los Tratados Constitutivos."
+      },
+      {
+        "id": "C",
+        "text": "Son fruto de la Jurisprudencia."
+      },
+      {
+        "id": "D",
+        "text": "Son conceptos ya en desuso."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 26. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 26,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 26
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-27",
+    "topicId": "comun-11",
+    "prompt": "¿Cuál es la titulación exigida para el acceso al grupo de clasificación profesional C1 del personal funcionario de carrera?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Título de Graduado en Educación Secundaria Obligatoria."
+      },
+      {
+        "id": "B",
+        "text": "Título Universitario de Grado."
+      },
+      {
+        "id": "C",
+        "text": "Título de Técnico Superior."
+      },
+      {
+        "id": "D",
+        "text": "Título de Bachiller o Técnico."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 27. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 27,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 27
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-28",
+    "topicId": "comun-11",
+    "prompt": "¿Según el R.D. 5/2015, cuál de los siguientes derechos corresponde a los empleados públicos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El derecho a recibir protección eficaz en materia de seguridad y salud en el trabajo."
+      },
+      {
+        "id": "B",
+        "text": "El derecho a la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, fuera del horario laboral."
+      },
+      {
+        "id": "C",
+        "text": "El derecho a la libertad de expresión sin límite alguno."
+      },
+      {
+        "id": "D",
+        "text": "El derecho a percibir las retribuciones y las indemnizaciones que el superior decida."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 28. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 28,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 28
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-29",
+    "topicId": "comun-11",
+    "prompt": "¿Cuál de los siguientes es un Principio Ético, que forma parte del Código de Conducta a seguir por los empleados públicos en el desempeño de sus tareas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observarán las normas sobre seguridad y salud laboral."
+      },
+      {
+        "id": "B",
+        "text": "Tratarán con atención y respeto a los ciudadanos, a sus superiores y a los restantes empleados públicos."
+      },
+      {
+        "id": "C",
+        "text": "Se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público."
+      },
+      {
+        "id": "D",
+        "text": "Garantizarán la atención al ciudadano en la lengua que lo solicite siempre que sea oficial en el territorio."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 29. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 29,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 29
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-30",
+    "topicId": "comun-01",
+    "prompt": "La libertad se recoge en el art. 1.1 de la CE, pero está en transversalidad con la mayoría de los derechos, como se muestra, entre otros, en los artículos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "17, 19, 20, 28"
+      },
+      {
+        "id": "B",
+        "text": "11, 12, 14, 15"
+      },
+      {
+        "id": "C",
+        "text": "2, 3, 4, 5"
+      },
+      {
+        "id": "D",
+        "text": "15, 29, 30, 36"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 30. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 30,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 30
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-31",
+    "topicId": "comun-01",
+    "prompt": "Según el texto constitucional, cabe recurso de amparo ante el Tribunal Constitucional para:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las normas contenidas en los preceptos del Capítulo III de la CE"
+      },
+      {
+        "id": "B",
+        "text": "Los derechos y libertades reconocidos en el art. 31 de la CE"
+      },
+      {
+        "id": "C",
+        "text": "Todos los derechos reconocidos en la sección 2ª del Capítulo II del texto constitucional"
+      },
+      {
+        "id": "D",
+        "text": "El art. 14 de la CE"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 31. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 31,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 31
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-32",
+    "topicId": "comun-05",
+    "prompt": "El art. 54 de la Ley 40/2015 de Régimen Jurídico del Sector Público, añade los siguientes principios para el funcionamiento de la Administración General del Estado:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Descentralización funcional y desconcentración funcional y territorial"
+      },
+      {
+        "id": "B",
+        "text": "Planificación y dirección por objetivos y eficacia en el cumplimiento de los mismos"
+      },
+      {
+        "id": "C",
+        "text": "Economía, suficiencia y eficiencia"
+      },
+      {
+        "id": "D",
+        "text": "Cooperación, colaboración y coordinación entre las Administraciones Públicas"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 32. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 32,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 32
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-33",
+    "topicId": "comun-05",
+    "prompt": "La determinación del número, la denominación y el ámbito de competencia respectivo de los Ministerios y las Secretarías de Estado, se establecen mediante:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Real Decreto del Presidente del Gobierno"
+      },
+      {
+        "id": "B",
+        "text": "Real Decreto del Consejo de Ministros"
+      },
+      {
+        "id": "C",
+        "text": "Real Decreto Ley"
+      },
+      {
+        "id": "D",
+        "text": "Real Decreto Legislativo"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 33. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 33,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 33
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-34",
+    "topicId": "comun-05",
+    "prompt": "El artículo 107 de la CE indica que el supremo órgano consultivo del Gobierno es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Consejo de Estado"
+      },
+      {
+        "id": "B",
+        "text": "Los Gabinetes"
+      },
+      {
+        "id": "C",
+        "text": "Las Secretarías de Estado"
+      },
+      {
+        "id": "D",
+        "text": "El Secretariado del Gobierno"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 34. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 34,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 34
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-35",
+    "topicId": "comun-14",
+    "prompt": "La suspensión del contrato para el personal laboral de las Administraciones Públicas:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se regulará por el Estatuto de los Trabajadores y los Convenios Colectivos."
+      },
+      {
+        "id": "B",
+        "text": "Es la interrupción total de la relación laboral."
+      },
+      {
+        "id": "C",
+        "text": "En ningún caso podrá acarrear la reserva del puesto de trabajo."
+      },
+      {
+        "id": "D",
+        "text": "No incluye la excedencia forzosa."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 35. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 35,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 35
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-36",
+    "topicId": "comun-14",
+    "prompt": "Con la modificación del Texto Refundido del Estatuto de los Trabajadores producida en 2021, en relación al despido colectivo para el personal laboral de las administraciones públicas, podemos afirmar que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El art. 50 especifica que se realizará por causas económicas, técnicas, organizativas o de producción."
+      },
+      {
+        "id": "B",
+        "text": "Se entiende que concurren causas económicas cuando de los resultados de la empresa se desprenda una situación económica positiva."
+      },
+      {
+        "id": "C",
+        "text": "Deberá ir precedido de un periodo de consultas con los representantes de, como mucho, treinta días hábiles."
+      },
+      {
+        "id": "D",
+        "text": "La disposición adicional decimosexta ha quedado derogada."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 36. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 36,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 36
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-37",
+    "topicId": "comun-14",
+    "prompt": "Según el artículo 69 del Texto Refundido de la Ley del Estatuto de los Trabajadores, en las elecciones sindicales serán electores todos los trabajadores de la empresa o centro de trabajo:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mayores de dieciséis años y con una antigüedad en la empresa de, al menos, un mes"
+      },
+      {
+        "id": "B",
+        "text": "Mayores de dieciocho años y con una antigüedad en la empresa de, al menos, un mes"
+      },
+      {
+        "id": "C",
+        "text": "Mayores de dieciséis años y con una antigüedad en la empresa de, al menos, tres meses"
+      },
+      {
+        "id": "D",
+        "text": "Mayores de dieciocho años y con una antigüedad en la empresa de, al menos, tres meses"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 37. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 37,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 37
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-38",
+    "topicId": "comun-12",
+    "prompt": "¿Cuál es la edad mínima requerida para poder participar en los procesos selectivos de acceso al empleo público?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16 años."
+      },
+      {
+        "id": "B",
+        "text": "18 años, cumplidos a fecha de la publicación de la convocatoria."
+      },
+      {
+        "id": "C",
+        "text": "18 años, cumplidos en el transcurso del año de publicación de la convocatoria."
+      },
+      {
+        "id": "D",
+        "text": "No hay requisitos de edad, siempre que se esté en posesión de la titulación requerida para el desempeño del puesto de trabajo Art. 56.1.c) del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 38. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 38,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 38
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-39",
+    "topicId": "comun-12",
+    "prompt": "¿A qué organismo público dependiente del Ministerio para la Transformación Digital y de la Función Pública corresponden las siglas INAP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Instituto Nacional de Autonomía Política"
+      },
+      {
+        "id": "B",
+        "text": "Instituto Nacional de Administración Pública"
+      },
+      {
+        "id": "C",
+        "text": "Instituto Nacional de Adhesión Periódica"
+      },
+      {
+        "id": "D",
+        "text": "Instituto Nacional de Ámbitos Protegidos"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 39. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 39,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 39
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-40",
+    "topicId": "comun-12",
+    "prompt": "La ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro de un plazo de",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 años"
+      },
+      {
+        "id": "B",
+        "text": "1 año, prorrogable en 6 meses"
+      },
+      {
+        "id": "C",
+        "text": "3 años, improrrogable"
+      },
+      {
+        "id": "D",
+        "text": "3 años, prorrogable"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 40. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 40,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 40
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-41",
+    "topicId": "comun-13",
+    "prompt": "Según el IV Convenio Colectivo Único para el personal laboral de la Administración General del Estado, se establecen los siguientes grupos profesionales:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A2, A1, M3, M2, M1, E1"
+      },
+      {
+        "id": "B",
+        "text": "M3, M2, M1, E1, C2, C1"
+      },
+      {
+        "id": "C",
+        "text": "M3, M1, E2, E0, A1, C1"
+      },
+      {
+        "id": "D",
+        "text": "M3, M2, M1, E2, E1, E0"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 41. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 41,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 41
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-42",
+    "topicId": "especifico-44",
+    "prompt": "Según la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en el presupuesto del estado los créditos estarán especificados a nivel de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Epígrafe"
+      },
+      {
+        "id": "B",
+        "text": "Párrafo"
+      },
+      {
+        "id": "C",
+        "text": "Concepto"
+      },
+      {
+        "id": "D",
+        "text": "Título"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 42. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 42,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 42
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-43",
+    "topicId": "especifico-44",
+    "prompt": "Según el artículo 140 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿quién ejerce el control interno de la gestión económica y financiera del sector público estatal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Gobierno"
+      },
+      {
+        "id": "B",
+        "text": "El Tribunal de Cuentas"
+      },
+      {
+        "id": "C",
+        "text": "La Intervención General de la Administración del Estado"
+      },
+      {
+        "id": "D",
+        "text": "La Dirección General de Inspección del Ministerio de Hacienda"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 43. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 43,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 43
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-44",
+    "topicId": "especifico-44",
+    "prompt": "Según la Ley 47/2003 de 26 de noviembre, General Presupuestaria, los estados de ingresos se ordenarán siguiendo:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una clasificación orgánica, por programas y económica."
+      },
+      {
+        "id": "B",
+        "text": "Una clasificación orgánica y económica únicamente."
+      },
+      {
+        "id": "C",
+        "text": "Una clasificación económica y por programas únicamente."
+      },
+      {
+        "id": "D",
+        "text": "Una clasificación orgánica y por programas únicamente."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 44. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 44,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 44
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-45",
+    "topicId": "comun-02",
+    "prompt": "Según el artículo 62 de la Constitución Española, cuál de las siguientes funciones NO corresponde al Rey:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sancionar y promulgar las leyes"
+      },
+      {
+        "id": "B",
+        "text": "Convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución"
+      },
+      {
+        "id": "C",
+        "text": "El alto patronazgo de las Reales Academias"
+      },
+      {
+        "id": "D",
+        "text": "Expedir la autorización de indultos generales"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 45. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 45,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 45
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-46",
+    "topicId": "comun-02",
+    "prompt": "Los asuntos de la Corona se regulan en la Constitución Española en el título:",
+    "options": [
+      {
+        "id": "A",
+        "text": "I"
+      },
+      {
+        "id": "B",
+        "text": "II"
+      },
+      {
+        "id": "C",
+        "text": "III"
+      },
+      {
+        "id": "D",
+        "text": "IV"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 46. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 46,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 46
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-47",
+    "topicId": "especifico-41",
+    "prompt": "En una empresa con varios centros de trabajo el empresario podrá asumir personalmente las funciones de prevención de riesgos laborales si esta tiene hasta un máximo de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 trabajadores"
+      },
+      {
+        "id": "B",
+        "text": "25 trabajadores"
+      },
+      {
+        "id": "C",
+        "text": "100 trabajadores"
+      },
+      {
+        "id": "D",
+        "text": "500 trabajadores"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 47. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 47,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 47
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-48",
+    "topicId": "especifico-41",
+    "prompt": "Equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o accesorio destinado a tal fin:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Equipo de trabajo"
+      },
+      {
+        "id": "B",
+        "text": "Equipo de prevención"
+      },
+      {
+        "id": "C",
+        "text": "Equipo de seguridad"
+      },
+      {
+        "id": "D",
+        "text": "Equipo de protección individual"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 48. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": 48,
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": 48
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-r1",
+    "topicId": "comun-02",
+    "prompt": "Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decreto – Ley"
+      },
+      {
+        "id": "B",
+        "text": "Ley Universal"
+      },
+      {
+        "id": "C",
+        "text": "Ley Orgánica"
+      },
+      {
+        "id": "D",
+        "text": "Ley Ordinaria"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de reserva de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 1 de reserva. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": "reserva-1",
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": "reserva-1"
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-r2",
+    "topicId": "comun-13",
+    "prompt": "Respecto a los órganos de seguimiento y aplicación del IV CUAGE, ¿Dónde se inscribirán los acuerdos de la Comisión Negociadora?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En el Registro Central de Convenios"
+      },
+      {
+        "id": "B",
+        "text": "En un anexo a incorporar al Convenio"
+      },
+      {
+        "id": "C",
+        "text": "En una nota a pie de página del documento original"
+      },
+      {
+        "id": "D",
+        "text": "En la SGAE"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de reserva de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 2 de reserva. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": "reserva-2",
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": "reserva-2"
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-2025-comun-r3",
+    "topicId": "especifico-41",
+    "prompt": "En las relaciones de trabajo a través de empresas de trabajo temporal, ¿quién será responsable de las condiciones de ejecución del trabajo en todo lo relacionado con la protección de la seguridad y la salud de los trabajadores?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La empresa de trabajo temporal"
+      },
+      {
+        "id": "B",
+        "text": "El propio trabajador cuando haya recibido los cursos de formación correspondientes"
+      },
+      {
+        "id": "C",
+        "text": "La empresa usuaria"
+      },
+      {
+        "id": "D",
+        "text": "El propio trabajador en cualquier caso"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de reserva de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 3 de reserva. Ministerio de Cultura, 17/02/2025."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 17 de julio de 2024, de la Subsecretaría (BOE núm. 178, de 24 de julio)",
+      "ministerio": "Ministerio de Cultura",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por todas las especialidades M3 de la convocatoria",
+      "turno": "libre",
+      "fecha": "2025-02-17",
+      "numeroOriginal": "reserva-3",
+      "label": "M3 · parte común, compartida por todas las especialidades M3 de la convocatoria · 2025",
+      "questionNumber": "reserva-3"
+    },
+    "active": true,
+    "optionCount": 4
+  },
+  {
+    "id": "m3-cultura-comun-2023-01",
+    "topicId": "comun-09",
+    "prompt": "Según el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, las Administraciones Públicas actuarán de acuerdo con los siguientes principios. Indique la respuesta correcta:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Principio de igualdad."
+      },
+      {
+        "id": "B",
+        "text": "Principio de subsidiariedad."
+      },
+      {
+        "id": "C",
+        "text": "Principio de proporcionalidad."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 1. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 1,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 1
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-02",
+    "topicId": "comun-09",
+    "prompt": "Entre los requisitos que exige el artículo 115 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas para la interposición del recurso administrativo, se encuentra el siguiente:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Indicar el código de identificación del órgano, centro o unidad administrativa al que se dirige."
+      },
+      {
+        "id": "B",
+        "text": "Indicar fecha en que se dictó el acto que se recurre."
+      },
+      {
+        "id": "C",
+        "text": "Justificar la capacidad jurídica del recurrente."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 2. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 2,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 2
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-03",
+    "topicId": "comun-09",
+    "prompt": "En relación con los actos nulos de pleno derecho, indique la afirmación correcta:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son actos nulos aquellos que incurran en desviación de poder."
+      },
+      {
+        "id": "B",
+        "text": "La realización de actuaciones administrativas fuera del tiempo establecido sólo implicará la nulidad del acto cuando así lo imponga la naturaleza del término o plazo."
+      },
+      {
+        "id": "C",
+        "text": "Son actos nulos aquellos que tengan un contenido imposible"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 3. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 3,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 3
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-04",
+    "topicId": "comun-10",
+    "prompt": "Los contratos de servicios que se celebren por una Administración Pública y que tengan por objeto la creación e interpretación artística y literaria, según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP), tendrán la consideración de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Contrato privado."
+      },
+      {
+        "id": "B",
+        "text": "Contrato administrativo."
+      },
+      {
+        "id": "C",
+        "text": "Contrato administrativo especial."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 4. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 4,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 4
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-05",
+    "topicId": "comun-06",
+    "prompt": "¿Por medio de qué tratado modificativo se integró el acervo de Schengen en el marco jurídico de la Unión Europea?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acta Única Europea."
+      },
+      {
+        "id": "B",
+        "text": "Tratado de Ámsterdam."
+      },
+      {
+        "id": "C",
+        "text": "Tratado de Niza."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 5. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 5,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 5
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-06",
+    "topicId": "comun-06",
+    "prompt": "¿Cuál de los siguientes países de la Unión Europea pertenece a la zona del euro?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Polonia."
+      },
+      {
+        "id": "B",
+        "text": "Bulgaria."
+      },
+      {
+        "id": "C",
+        "text": "Eslovenia."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 6. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 6,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 6
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-07",
+    "topicId": "comun-09",
+    "prompt": "Señale la respuesta correcta acerca de la iniciativa legislativa y de la potestad para dictar reglamentos y otras disposiciones:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las normas con rango de ley y los reglamentos habrán de publicarse en el diario oficial correspondiente para que entren en vigor y produzcan efectos jurídicos, no pudiendo establecerse medios de publicidad complementarios."
+      },
+      {
+        "id": "B",
+        "text": "Anualmente, las Administraciones Públicas harán público un Plan Normativo que contendrá las iniciativas legales o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente."
+      },
+      {
+        "id": "C",
+        "text": "Una vez aprobado, el Plan Anual Normativo se publicará en el diario o boletín oficial de la Administración Pública correspondiente."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 7. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 7,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 7
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-08",
+    "topicId": "comun-05",
+    "prompt": "En relación con el deber de colaboración entre las Administraciones Públicas, según se regular en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, señale la respuesta correcta:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La asistencia y colaboración requerida no podrá negarse alegando que el organismo público o la entidad del que se solicita no disponga de medios suficientes para ello."
+      },
+      {
+        "id": "B",
+        "text": "La Administración General del Estado, las de las Comunidades Autónomas y las de las Entidades Locales deberán colaborar y auxiliarse para la ejecución de sus actos que hayan de realizarse o tengan efectos fuera de sus respectivos ámbitos territoriales."
+      },
+      {
+        "id": "C",
+        "text": "Los posibles costes que pueda generar el deber de colaboración no podrán repercutirse en ningún caso."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 8. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 8,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 8
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-09",
+    "topicId": "comun-09",
+    "prompt": "Indique la respuesta correcta respecto al cómputo de plazos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Siempre que por Ley o disposición administrativa no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose los sábados, los domingos y los declarados festivos."
+      },
+      {
+        "id": "B",
+        "text": "Los plazos expresados en días se contarán a partir del día en que tenga lugar la notificación o publicación del acto de que se trate, o desde aquel en que se produzca la estimación o la desestimación por silencio administrativo."
+      },
+      {
+        "id": "C",
+        "text": "Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o la inversa, se considerará inhábil en todo caso."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 9. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 9,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 9
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-10",
+    "topicId": "comun-10",
+    "prompt": "En los contratos de obras, suministros y servicios, se entenderá por valor estimado:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido."
+      },
+      {
+        "id": "B",
+        "text": "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, sin incluir el Impuesto sobre el Valor Añadido."
+      },
+      {
+        "id": "C",
+        "text": "El importe total pagadero según las estimaciones del órgano de contratación, sin incluir el Impuesto sobre el Valor Añadido."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 10. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 10,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 10
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-11",
+    "topicId": "comun-11",
+    "prompt": "En relación con el personal eventual, seleccione la respuesta correcta:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las leyes de Función Pública que se dicten en desarrollo del Estatuto Básico del Empleado Público determinarán los órganos de gobierno de las Administraciones Públicas que podrán disponer de este tipo de personal."
+      },
+      {
+        "id": "B",
+        "text": "Su designación atenderá a principios de mérito y capacidad y a criterios de idoneidad, y se llevará a cabo mediante procedimientos que garanticen la publicidad y concurrencia."
+      },
+      {
+        "id": "C",
+        "text": "La condición de personal eventual constituirá mérito para el acceso a la Función Pública y para la promoción interna."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 11. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 11,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 11
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-12",
+    "topicId": "comun-13",
+    "prompt": "Indique cuál de las siguientes afirmaciones es correctas en lo relativo a la movilidad por violencia de género:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Este traslado tendrá la consideración de traslado voluntario."
+      },
+      {
+        "id": "B",
+        "text": "El traslado tendrá una duración inicial de seis meses, sin que se tenga derecho a la reserva del puesto de trabajo."
+      },
+      {
+        "id": "C",
+        "text": "En las actuaciones y procedimientos relacionados con la violencia de género se protegerá la intimidad de las víctimas, en especial sus datos personales, los de sus descendientes y las de cualquier persona que esté bajo su guarda o custodia."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 12. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 12,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 12
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-13",
+    "topicId": "comun-13",
+    "prompt": "Respecto al periodo de prueba, indique la respuesta correcta:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La duración del periodo de prueba será de tres meses para los grupos profesionales M3 y M2 y de dos meses para los demás trabajadores o trabajadoras, excepto para el personal sin titulación, para el que será de un mes."
+      },
+      {
+        "id": "B",
+        "text": "Durante el periodo de prueba, tanto la Administración como el trabajador o trabajadora podrá poner fin a la relación laboral, sin que ninguna de las partes tenga por ello derecho a indemnización alguna."
+      },
+      {
+        "id": "C",
+        "text": "Se podrá establecer de común acuerdo entre la Administración y el trabajador o la trabajadora un periodo de prueba cuando la persona haya ya desempeñado las mismas funciones con anterioridad, bajo cualquier modalidad de contratación, dentro del ámbito del presente Convenio."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 13. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 13,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 13
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-14",
+    "topicId": "comun-13",
+    "prompt": "En relación con las medidas cautelares que recoge el IV Convenio Único en la tramitación del expediente disciplinario, señale la respuesta correcta:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Durante cualquier fase de un expediente disciplinario por falta muy grave o falta grave podrá acordarse, por el órgano que acordó su iniciación, la suspensión provisional de empleo del trabajador o trabajadora presuntamente responsable de la falta."
+      },
+      {
+        "id": "B",
+        "text": "La suspensión provisional no podrá exceder de seis meses, salvo en caso de paralización del procedimiento imputable a la persona interesada."
+      },
+      {
+        "id": "C",
+        "text": "Durante la suspensión provisional el trabajador o trabajadora tendrá derecho a percibir únicamente las retribuciones salariales básicas, con exclusión de la cuantía derivada de la antigüedad y demás complementos."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 14. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 14,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 14
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-15",
+    "topicId": "comun-15",
+    "prompt": "Las huelgas de celo o reglamento son aquellas que",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consisten en la ejecución minuciosa o una aplicación estricta del reglamento de la empresa por parte de las personas trabajadoras."
+      },
+      {
+        "id": "B",
+        "text": "Consisten en paros parciales que interrumpen el proceso productivo."
+      },
+      {
+        "id": "C",
+        "text": "Consisten en la cesación de la prestación de los servicios por las personas trabajadoras afectadas."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 15. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 15,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 15
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-16",
+    "topicId": "comun-01",
+    "prompt": "¿Cuál es la forma política del Estado español?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Presidencialista."
+      },
+      {
+        "id": "B",
+        "text": "Monarquía parlamentaria."
+      },
+      {
+        "id": "C",
+        "text": "Monarquía asamblearia."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 16. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 16,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 16
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-17",
+    "topicId": "comun-15",
+    "prompt": "La Constitución española recoge la huelga como derecho fundamental en:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El artículo 24 de la Constitución española."
+      },
+      {
+        "id": "B",
+        "text": "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical."
+      },
+      {
+        "id": "C",
+        "text": "El artículo 28 de la Constitución española."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 17. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 17,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 17
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-18",
+    "topicId": "comun-13",
+    "prompt": "El personal de nuevo ingreso por turno libre estará sometido a un período de prueba, que se pactará por escrito en el contrato de trabajo, cuya duración será:",
+    "options": [
+      {
+        "id": "A",
+        "text": "De tres meses para los grupos profesionales M3 y M2"
+      },
+      {
+        "id": "B",
+        "text": "De dos meses para los grupos profesionales M3 y M2"
+      },
+      {
+        "id": "C",
+        "text": "De tres meses para los grupos profesionales M3, M2 y M1"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 18. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 18,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 18
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-19",
+    "topicId": "comun-03",
+    "prompt": "¿Qué consecuencias tiene la inviolabilidad de los Diputados y Senadores por las opiniones manifestadas en el ejercicio de sus funciones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La falta de capacidad de obrar en el tráfico jurídico de la Jefatura del Estado."
+      },
+      {
+        "id": "B",
+        "text": "La limitación de la libertad de expresión de los parlamentarios en todo lo que exceda el debate político de las cámaras."
+      },
+      {
+        "id": "C",
+        "text": "La irresponsabilidad jurídica de los parlamentarios por las opiniones manifestadas en el ejercicio de sus funciones."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 19. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 19,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 19
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-20",
+    "topicId": "comun-02",
+    "prompt": "El artículo 56.3 CE establece que los actos del Rey \"estarán siempre refrendados en la forma establecida en el artículo 64, careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65.2\". El fundamento del refrendo se debe a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La falta de capacidad de obrar en el tráfico jurídico de la Jefatura del Estado."
+      },
+      {
+        "id": "B",
+        "text": "El carácter intangible de la Jefatura del Estado, gracias al cual el Rey simboliza, modera y arbitra, pero no asume decisiones."
+      },
+      {
+        "id": "C",
+        "text": "La delegación de competencias de la Monarquía en el Parlamento."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 20. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 20,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 20
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-21",
+    "topicId": "comun-02",
+    "prompt": "Corresponde al Rey o Reina:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Convocar a referéndum en los casos previstos en la Constitución."
+      },
+      {
+        "id": "B",
+        "text": "El mando supremo del G.E.O."
+      },
+      {
+        "id": "C",
+        "text": "Nombrar y separar a los miembros de las Cortes Generales."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 21. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 21,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 21
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-22",
+    "topicId": "comun-02",
+    "prompt": "¿Qué funciones constitucionales podrá asumir, en su caso, la Reina consorte o el consorte de la Reina?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La que determine el reglamento de la Corona."
+      },
+      {
+        "id": "B",
+        "text": "Ninguna, salvo que el Rey o Reina disponga lo contrario."
+      },
+      {
+        "id": "C",
+        "text": "Ninguna, salvo lo dispuesto para la Regencia."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 22. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 22,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 22
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-23",
+    "topicId": "comun-14",
+    "prompt": "El contrato de trabajo podrá extinguirse por:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Por ineptitud de la persona trabajadora causada por la actividad en la empresa."
+      },
+      {
+        "id": "B",
+        "text": "Por ineptitud de la persona trabajadora conocida o sobrevenida con anterioridad a su colocación efectiva en la empresa."
+      },
+      {
+        "id": "C",
+        "text": "Por ineptitud de la persona trabajadora conocida o sobrevenida con posterioridad a su colocación efectiva en la empresa."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 23. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 23,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 23
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-24",
+    "topicId": "comun-03",
+    "prompt": "Para constituirse en Grupo Parlamentario serán necesarios:",
+    "options": [
+      {
+        "id": "A",
+        "text": "En todo caso un mínimo de quince Diputados."
+      },
+      {
+        "id": "B",
+        "text": "Cinco escaños y, al menos, el quince por ciento de los votos correspondientes a las circunscripciones en que hubieren presentado candidatura o el cinco por ciento de los emitidos en el conjunto de la Nación."
+      },
+      {
+        "id": "C",
+        "text": "No hay un mínimo de diputados para constituirse en Grupo Parlamentario."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 24. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 24,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 24
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-25",
+    "topicId": "comun-03",
+    "prompt": "¿A quién corresponde la iniciativa legislativa sobre los Presupuestos Generales del Estado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al Gobierno, al Congreso y al Senado."
+      },
+      {
+        "id": "B",
+        "text": "Al Gobierno, sin perjuicio de las enmiendas de texto alternativo que puedan plantear los grupos parlamentarios y sean aprobadas por la respectiva Cámara."
+      },
+      {
+        "id": "C",
+        "text": "Al Gobierno."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 25. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 25,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 25
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-26",
+    "topicId": "especifico-44",
+    "prompt": "La realización de actuaciones de gasto por cualquiera de las entidades integrantes del sector público estatal con presupuesto limitativo se realizará, sin perjuicio de la posible acumulación en un solo acto de varias fases, a través de las siguientes fases y orden:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aprobación del gasto, compromiso del gasto, reconocimiento de la obligación, ordenación del pago y pago material."
+      },
+      {
+        "id": "B",
+        "text": "Compromiso del gasto, reconocimiento de la obligación, aprobación de la obligación, ordenación del pago y pago material."
+      },
+      {
+        "id": "C",
+        "text": "Retención del crédito, compromiso del gasto, aprobación de la obligación, ordenación del pago y pago material."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 26. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 26,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 26
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-27",
+    "topicId": "especifico-44",
+    "prompt": "Los Presupuestos Generales del Estado:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deberán presentar equilibrio presupuestario y no incurrir en déficit estructural que supere los márgenes establecidos por la Unión Europea para sus Estados Miembros."
+      },
+      {
+        "id": "B",
+        "text": "Deberán incluir regulación suficiente sobre la prelación de pagos, gozando de prioridad absoluta los créditos destinados a pensiones, sanidad y educación."
+      },
+      {
+        "id": "C",
+        "text": "Deberán incluir los créditos necesarios para satisfacer los intereses y el capital de la deuda pública del Estado a que deba hacerse frente en dicha anualidad, cuyo pago gozará de prioridad absoluta."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 27. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 27,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 27
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-28",
+    "topicId": "especifico-44",
+    "prompt": "El control interno de la gestión económica y financiera del sector público estatal corresponde a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El Tribunal de Cuentas, supremo órgano fiscalizador de las cuentas y de la gestión económica de Estado, y a la Intervención General de la Administración del Estado."
+      },
+      {
+        "id": "B",
+        "text": "La Intervención General de la Administración del Estado, que actuará con plena autonomía respecto de las autoridades y demás entidades cuya gestión controle."
+      },
+      {
+        "id": "C",
+        "text": "El Tribunal de Cuentas, que dependerá directamente de las Cortes Generales y ejercerá sus funciones por delegación de ellas."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 28. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 28,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 28
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-29",
+    "topicId": "especifico-41",
+    "prompt": "¿Cuál es la noma marco de referencia en materia de prevención de riesgos laborales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La Ley 31/1995, de 8 de noviembre de 1995, de prevención de riesgos laborales."
+      },
+      {
+        "id": "B",
+        "text": "La Ley 28/1994, de 15 de octubre de 1994, de riesgos laborales."
+      },
+      {
+        "id": "C",
+        "text": "El Real Decreto 192/2003, de 21 de marzo, por el que se regula la prevención de riesgos laborales."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 29. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 29,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 29
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-30",
+    "topicId": "especifico-41",
+    "prompt": "¿Cuál de las siguientes medidas NO es efectiva para prevenir riesgos laborales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Realizar inspecciones periódicas de seguridad en el lugar de trabajo."
+      },
+      {
+        "id": "B",
+        "text": "Ignorar los procedimientos de seguridad establecidos y confiar en la experiencia de los trabajadores con más antigüedad."
+      },
+      {
+        "id": "C",
+        "text": "Proporcionar equipos de protección personal adecuados a los trabajadores."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 30. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 30,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 30
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-31",
+    "topicId": "comun-15",
+    "prompt": "El ejercicio del derecho a la huelga supone",
+    "options": [
+      {
+        "id": "A",
+        "text": "La extinción de la relación laboral."
+      },
+      {
+        "id": "B",
+        "text": "La suspensión del contrato de trabajo."
+      },
+      {
+        "id": "C",
+        "text": "El ejercicio a huelga no afecta a la relación laboral."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 31. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 31,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 31
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-32",
+    "topicId": "comun-01",
+    "prompt": "Los valores superiores del ordenamiento jurídico español son:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La libertad, la justicia, la igualdad y el bipartidismo."
+      },
+      {
+        "id": "B",
+        "text": "La igualdad, la justicia, la seguridad y el pluralismo político."
+      },
+      {
+        "id": "C",
+        "text": "La libertad, la justicia, la igualdad y el pluralismo político."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 32. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 32,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 32
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-33",
+    "topicId": "comun-03",
+    "prompt": "Requerirá la conformidad del Gobierno la tramitación por las Cámaras de proposiciones legislativas o enmiendas que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Afecten a la regulación constitucional o legal del Gobierno o de la Administración."
+      },
+      {
+        "id": "B",
+        "text": "Supongan un aumento de los créditos o disminución de los ingresos presupuestarios."
+      },
+      {
+        "id": "C",
+        "text": "Supongan una alteración sustancial del régimen de ejercicio de los derechos fundamentales por los ciudadanos."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 33. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 33,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 33
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-34",
+    "topicId": "comun-05",
+    "prompt": "Según el artículo 149 de la Constitución Española, señale cuál de las siguientes es una competencia exclusiva del Estado:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La agricultura y la ganadería, de acuerdo con la ordenación general de la economía."
+      },
+      {
+        "id": "B",
+        "text": "La defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación."
+      },
+      {
+        "id": "C",
+        "text": "La gestión en materia de protección del medio ambiente."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 34. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 34,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 34
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-35",
+    "topicId": "comun-12",
+    "prompt": "¿En qué momento adquiere la condición de personal laboral fijo la persona que haya superado el correspondiente proceso selectivo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En el momento en que el órgano competente publica la resolución por la que se aprueba la relación de personas aspirantes que han superado el proceso selectivo."
+      },
+      {
+        "id": "B",
+        "text": "En el momento en que se formalice el contrato y la persona se incorpore al puesto de trabajo correspondiente."
+      },
+      {
+        "id": "C",
+        "text": "Una vez transcurrido el periodo de prueba que se determine."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 35. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 35,
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": 35
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-r1",
+    "topicId": "especifico-16",
+    "prompt": "Las Administraciones Públicas están obligadas a respetar la igualdad de trato y de oportunidades en el ámbito laboral",
+    "options": [
+      {
+        "id": "A",
+        "text": "Siempre que el centro cuente con más de 50 trabajadores."
+      },
+      {
+        "id": "B",
+        "text": "Siempre que el centro cuente con más de 100 trabajadores."
+      },
+      {
+        "id": "C",
+        "text": "Con independencia del número de trabajadores que tengan los centros."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de reserva de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 1 de reserva. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": "reserva-1",
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": "reserva-1"
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-r2",
+    "topicId": "comun-01",
+    "prompt": "La legislación en materia de derechos fundamentales se deberá hacer mediante:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ley ordinaria con una mayoría de tres cuartos del Congreso en una votación final sobre el conjunto del proyecto."
+      },
+      {
+        "id": "B",
+        "text": "Ley orgánica con una mayoría simple del Congreso en una votación final sobre el conjunto del proyecto."
+      },
+      {
+        "id": "C",
+        "text": "Ley orgánica con una mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de reserva de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 2 de reserva. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": "reserva-2",
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": "reserva-2"
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-comun-2023-r3",
+    "topicId": "comun-07",
+    "prompt": "Señale la respuesta correcta en relación con los actos jurídicos de la Unión Europea:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La decisión obligará al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando, sin embargo, a las autoridades nacionales la elección de la forma y de los medios."
+      },
+      {
+        "id": "B",
+        "text": "Las directivas que tengan por destinatarios a todos los Estados miembros se publicarán en el Diario Oficial de la Unión Europea y entrarán en vigor en la fecha ellas fijen o, a falta de ella, al día siguiente de la publicación."
+      },
+      {
+        "id": "C",
+        "text": "Cuando se requieran condiciones uniformes de ejecución de los actos jurídicamente vinculantes de la Unión, éstos conferirán competencias de ejecución a la Comisión o, en casos específicos debidamente justificados, al Consejo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de reserva de la parte común. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 (parte común), turno libre, pregunta 3 de reserva. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "parte común, compartida por las especialidades M3",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": "reserva-3",
+      "label": "M3 · parte común, compartida por las especialidades M3 · 2023",
+      "questionNumber": "reserva-3"
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-audiovisual-2023-48",
+    "topicId": "especifico-28",
+    "prompt": "Según la Ley de Propiedad Intelectual, ¿cuánto duran los derechos de explotación de una obra?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hasta la muerte del autor o el titular del derecho inscrito."
+      },
+      {
+        "id": "B",
+        "text": "Toda la vida del autor y setenta años después de su muerte."
+      },
+      {
+        "id": "C",
+        "text": "Hasta que el autor o sus herederos lo soliciten y siempre que no se vean perjudicados derechos de terceros."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "Comunicación Audiovisual",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 48,
+      "label": "M3 · Comunicación Audiovisual · 2023",
+      "questionNumber": 48
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-audiovisual-2023-64",
+    "topicId": "especifico-28",
+    "prompt": "En el caso de obras colectivas y salvo pacto en contrario, los derechos de propiedad intelectual sobre esta corresponderán:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A la persona que la edite y divulgue bajo su nombre."
+      },
+      {
+        "id": "B",
+        "text": "A todos los artistas que participen y colaboren en la misma."
+      },
+      {
+        "id": "C",
+        "text": "A la persona que la edite y divulgue bajo su nombre, que siempre deberá abonar una participación de los ingresos obtenidos por la explotación de la obra a todos los artistas que participen y colaboren en la misma."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 64. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "Comunicación Audiovisual",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 64,
+      "label": "M3 · Comunicación Audiovisual · 2023",
+      "questionNumber": 64
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-audiovisual-2023-65",
+    "topicId": "especifico-27",
+    "prompt": "¿Qué concepto sobre el conjunto de sectores encargados de la creación, producción, exhibición y/o difusión de servicios culturales desarrollaron Adorno y Horkheimer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alta y baja cultura."
+      },
+      {
+        "id": "B",
+        "text": "Industrias culturales."
+      },
+      {
+        "id": "C",
+        "text": "Cultura de masas."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 65. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "Comunicación Audiovisual",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 65,
+      "label": "M3 · Comunicación Audiovisual · 2023",
+      "questionNumber": 65
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-audiovisual-2023-67",
+    "topicId": "especifico-28",
+    "prompt": "¿En qué casos es legal exhibir un producto audiovisual públicamente sin permiso de la productora o distribuidora?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En caso de que sea con fines educativos"
+      },
+      {
+        "id": "B",
+        "text": "En caso de que sea con fines benéficos"
+      },
+      {
+        "id": "C",
+        "text": "En ningún caso de los previstos en las respuestas a y b"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 67. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "Comunicación Audiovisual",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 67,
+      "label": "M3 · Comunicación Audiovisual · 2023",
+      "questionNumber": 67
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-audiovisual-2023-70",
+    "topicId": "especifico-28",
+    "prompt": "No será necesaria autorización del autor cuando una obra se reproduzca, distribuya o comunique públicamente:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Siempre que se lleve a cabo por una persona física sin fines directa ni indirectamente comerciales."
+      },
+      {
+        "id": "B",
+        "text": "Siempre que el autor haya previamente distribuido, aun de forma limitada, la obra en cuestión."
+      },
+      {
+        "id": "C",
+        "text": "Con fines de seguridad pública o para el correcto desarrollo de procedimientos administrativos, judiciales o parlamentarios."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 70. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "Comunicación Audiovisual",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 70,
+      "label": "M3 · Comunicación Audiovisual · 2023",
+      "questionNumber": 70
+    },
+    "active": true,
+    "optionCount": 3
+  },
+  {
+    "id": "m3-cultura-ccinfo-2023-39",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué festival nacional tiene entre sus principales objetivos dar a conocer y preservar el teatro clásico universal de los siglos XVI y XVII, con especial atención al teatro barroco español?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Festival Internacional de Teatro Clásico de Mérida."
+      },
+      {
+        "id": "B",
+        "text": "Festival Temporada Alta."
+      },
+      {
+        "id": "C",
+        "text": "Festival Internacional de Teatro Clásico de Almagro."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 39. Ministerio de Cultura y Deporte, 27/11/2023."
+    },
+    "origin": {
+      "type": "official_exam",
+      "historical": true,
+      "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+      "ministerio": "Ministerio de Cultura y Deporte",
+      "grupo": "M3",
+      "especialidad": "Ciencias de la Información",
+      "turno": "libre",
+      "fecha": "2023-11-27",
+      "numeroOriginal": 39,
+      "label": "M3 · Ciencias de la Información · 2023",
+      "questionNumber": 39
+    },
+    "active": true,
+    "optionCount": 3
   }
 ]

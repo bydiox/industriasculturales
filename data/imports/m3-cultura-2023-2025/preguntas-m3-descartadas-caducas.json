@@ -1,0 +1,41 @@
+[
+ {
+  "id": "m3-cultura-ccinfo-2023-38",
+  "topicId": "especifico-13",
+  "prompt": "¿Actualmente, quién preside la Academia de las Artes Escénicas de España?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Manuel Campo Vidal."
+   },
+   {
+    "id": "B",
+    "text": "Cayetana Guillén Cuervo."
+   },
+   {
+    "id": "C",
+    "text": "Mariano Barroso."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 38. Ministerio de Cultura y Deporte, 27/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-27",
+   "numeroOriginal": 38
+  },
+  "active": false,
+  "optionCount": 3,
+  "inactiveReason": "Dato con caducidad: pregunta por el presidente actual de una institución"
+ }
+]

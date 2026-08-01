@@ -1,6 +1,6 @@
 {
   "name": "m3-gestion-industrias-culturales-creativas",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "private": true,
   "type": "module",
   "scripts": {
@@ -44,6 +44,8 @@
     "content:validate:inaem-reference": "node scripts/validate-inaem-reference.mjs",
     "content:validate:references": "node scripts/validate-reference-questions.mjs",
     "content:import:official-2021": "node scripts/import-official-m3-2021.mjs",
-    "content:import:m1-para-m3": "node scripts/import-m1-para-m3-final.mjs"
+    "content:import:m1-para-m3": "node scripts/import-m1-para-m3-final.mjs",
+    "content:normalize:law-aliases": "node scripts/normalize-law-aliases.mjs",
+    "content:import:m3-cultura": "node scripts/import-m3-cultura-2023-2025.mjs"
   }
 }

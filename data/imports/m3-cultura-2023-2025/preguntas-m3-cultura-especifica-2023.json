@@ -1,0 +1,230 @@
+[
+ {
+  "id": "m3-cultura-audiovisual-2023-48",
+  "topicId": "especifico-28",
+  "prompt": "Según la Ley de Propiedad Intelectual, ¿cuánto duran los derechos de explotación de una obra?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Hasta la muerte del autor o el titular del derecho inscrito."
+   },
+   {
+    "id": "B",
+    "text": "Toda la vida del autor y setenta años después de su muerte."
+   },
+   {
+    "id": "C",
+    "text": "Hasta que el autor o sus herederos lo soliciten y siempre que no se vean perjudicados derechos de terceros."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 27/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M3",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-27",
+   "numeroOriginal": 48
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-cultura-audiovisual-2023-64",
+  "topicId": "especifico-28",
+  "prompt": "En el caso de obras colectivas y salvo pacto en contrario, los derechos de propiedad intelectual sobre esta corresponderán:",
+  "options": [
+   {
+    "id": "A",
+    "text": "A la persona que la edite y divulgue bajo su nombre."
+   },
+   {
+    "id": "B",
+    "text": "A todos los artistas que participen y colaboren en la misma."
+   },
+   {
+    "id": "C",
+    "text": "A la persona que la edite y divulgue bajo su nombre, que siempre deberá abonar una participación de los ingresos obtenidos por la explotación de la obra a todos los artistas que participen y colaboren en la misma."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 64. Ministerio de Cultura y Deporte, 27/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M3",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-27",
+   "numeroOriginal": 64
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-cultura-audiovisual-2023-65",
+  "topicId": "especifico-27",
+  "prompt": "¿Qué concepto sobre el conjunto de sectores encargados de la creación, producción, exhibición y/o difusión de servicios culturales desarrollaron Adorno y Horkheimer?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Alta y baja cultura."
+   },
+   {
+    "id": "B",
+    "text": "Industrias culturales."
+   },
+   {
+    "id": "C",
+    "text": "Cultura de masas."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 65. Ministerio de Cultura y Deporte, 27/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M3",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-27",
+   "numeroOriginal": 65
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-cultura-audiovisual-2023-67",
+  "topicId": "especifico-28",
+  "prompt": "¿En qué casos es legal exhibir un producto audiovisual públicamente sin permiso de la productora o distribuidora?",
+  "options": [
+   {
+    "id": "A",
+    "text": "En caso de que sea con fines educativos"
+   },
+   {
+    "id": "B",
+    "text": "En caso de que sea con fines benéficos"
+   },
+   {
+    "id": "C",
+    "text": "En ningún caso de los previstos en las respuestas a y b"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 67. Ministerio de Cultura y Deporte, 27/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M3",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-27",
+   "numeroOriginal": 67
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-cultura-audiovisual-2023-70",
+  "topicId": "especifico-28",
+  "prompt": "No será necesaria autorización del autor cuando una obra se reproduzca, distribuya o comunique públicamente:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Siempre que se lleve a cabo por una persona física sin fines directa ni indirectamente comerciales."
+   },
+   {
+    "id": "B",
+    "text": "Siempre que el autor haya previamente distribuido, aun de forma limitada, la obra en cuestión."
+   },
+   {
+    "id": "C",
+    "text": "Con fines de seguridad pública o para el correcto desarrollo de procedimientos administrativos, judiciales o parlamentarios."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Comunicación Audiovisual, turno libre, pregunta 70. Ministerio de Cultura y Deporte, 27/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M3",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-27",
+   "numeroOriginal": 70
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m3-cultura-ccinfo-2023-39",
+  "topicId": "especifico-06",
+  "prompt": "¿Qué festival nacional tiene entre sus principales objetivos dar a conocer y preservar el teatro clásico universal de los siglos XVI y XVII, con especial atención al teatro barroco español?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Festival Internacional de Teatro Clásico de Mérida."
+   },
+   {
+    "id": "B",
+    "text": "Festival Temporada Alta."
+   },
+   {
+    "id": "C",
+    "text": "Festival Internacional de Teatro Clásico de Almagro."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial de la parte específica. Respuesta según la plantilla del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M3 Ciencias de la Información, turno libre, pregunta 39. Ministerio de Cultura y Deporte, 27/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de 26 de mayo de 2023, Secretaría de Estado de Función Pública (BOE núm. 129, de 31 de mayo)",
+   "ministerio": "Ministerio de Cultura y Deporte",
+   "grupo": "M3",
+   "especialidad": "Ciencias de la Información",
+   "turno": "libre",
+   "fecha": "2023-11-27",
+   "numeroOriginal": 39
+  },
+  "active": true,
+  "optionCount": 3
+ }
+]
