@@ -1,0 +1,1142 @@
+[
+ {
+  "id": "ref-08-01",
+  "topicId": "especifico-08",
+  "prompt": "El Mapa del patrimonio de danza en España del CDAEM abarca, entre otros, documentos que registran notaciones y descripciones de danzas cortesanas de los siglos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "XVIII y XIX"
+   },
+   {
+    "id": "B",
+    "text": "XIX y XX"
+   },
+   {
+    "id": "C",
+    "text": "XIV y XV"
+   },
+   {
+    "id": "D",
+    "text": "XVI y XVII"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "El Mapa abarca todo tipo de danza: desde documentos que registran notaciones y descripciones de danzas cortesanas de los siglos XVI y XVII hasta los relativos a la danza académica, la contemporánea, la de tradición oral, la social, la ritual, el flamenco y la danza española.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "cdaem-danza-patrimonio",
+   "anchorId": "cdaem-danza-patrimonio-mapa-patrimonio-03",
+   "reference": "Mapa del patrimonio de danza en España, párrafo 3"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-08-02",
+  "topicId": "especifico-08",
+  "prompt": "En la clasificación por géneros que emplea el CDAEM para su selección bibliográfica de danza, ¿cuál de los siguientes NO figura?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Danza histórica"
+   },
+   {
+    "id": "B",
+    "text": "Danza tradicional"
+   },
+   {
+    "id": "C",
+    "text": "Danza-teatro"
+   },
+   {
+    "id": "D",
+    "text": "Danza acrobática"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "La selección bibliográfica del CDAEM organiza la danza en siete géneros: baile flamenco, danza clásica, danza española, danza histórica, danza contemporánea, danza tradicional y danza-teatro. La danza acrobática no figura entre ellos.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "cdaem-danza-patrimonio",
+   "anchorId": "cdaem-danza-patrimonio-generos-01",
+   "reference": "Géneros de danza en la selección bibliográfica del CDAEM"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-08-03",
+  "topicId": "especifico-08",
+  "prompt": "¿Cuál de las siguientes figuras cuenta con un legado descrito y catalogado entre los fondos documentales de danza del CDAEM?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Vicente Escudero"
+   },
+   {
+    "id": "B",
+    "text": "Mariemma"
+   },
+   {
+    "id": "C",
+    "text": "Antonio Gades"
+   },
+   {
+    "id": "D",
+    "text": "Antonia Mercé «La Argentina»"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "El CDAEM tiene descritos y catalogados cuatro legados de danza: Antonio Ruiz Soler, Alberto Lorca, José Antonio y los Ballets Españoles, y Antonio Gades. Vicente Escudero, Mariemma y Antonia Mercé aparecen en exposiciones y publicaciones del Centro, pero no como legados catalogados.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "cdaem-danza-patrimonio",
+   "anchorId": "cdaem-danza-patrimonio-legados-01",
+   "reference": "Fondos documentales de danza: legados"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-10-04",
+  "topicId": "especifico-10",
+  "prompt": "¿Cuál es la periodicidad de la Estadística de Museos y Colecciones Museográficas del Plan Estadístico Nacional?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Quinquenal"
+   },
+   {
+    "id": "B",
+    "text": "Trienal"
+   },
+   {
+    "id": "C",
+    "text": "Anual"
+   },
+   {
+    "id": "D",
+    "text": "Bienal"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "La Estadística de Museos y Colecciones Museográficas es una operación de periodicidad bienal perteneciente al Plan Estadístico Nacional, desarrollada por el Ministerio de Cultura con la colaboración del Ministerio de Defensa, de Patrimonio Nacional y de las comunidades y ciudades autónomas.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "anuario-cultura-2024",
+   "anchorId": "anuario-cultura-2024-s11-museos-y-colecciones-museogr-f-01",
+   "reference": "Museos y colecciones museográficas, párrafo 1"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-10-05",
+  "topicId": "especifico-10",
+  "prompt": "En el Anuario de Estadísticas Culturales, el epígrafe de Patrimonio ofrece información relativa, concretamente, a:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los bienes inmuebles declarados Patrimonio Mundial por la UNESCO"
+   },
+   {
+    "id": "B",
+    "text": "Los fondos de los museos de titularidad estatal"
+   },
+   {
+    "id": "C",
+    "text": "El conjunto de bienes integrantes del Patrimonio Histórico Español, estén o no inscritos"
+   },
+   {
+    "id": "D",
+    "text": "Los bienes muebles e inmuebles inscritos como Bienes de Interés Cultural"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "El epígrafe de Patrimonio del Anuario ofrece información relativa al patrimonio cultural, concretamente a los bienes muebles e inmuebles inscritos como Bienes de Interés Cultural. Los datos proceden de la Subdirección General de Registros y Documentación del Patrimonio Histórico del Ministerio de Cultura.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "anuario-cultura-2024",
+   "anchorId": "anuario-cultura-2024-s10-patrimonio-01",
+   "reference": "Patrimonio, párrafo 1"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-10-06",
+  "topicId": "especifico-10",
+  "prompt": "Según los indicadores de hábitos y prácticas culturales del Anuario de Estadísticas Culturales 2024, la actividad «visitar monumentos y yacimientos arqueológicos» registró un porcentaje de personas que la realizaron en el último año:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Idéntico al de asistir a archivos"
+   },
+   {
+    "id": "B",
+    "text": "Superior al de visitar museos, exposiciones y galerías de arte"
+   },
+   {
+    "id": "C",
+    "text": "Inferior al de visitar museos, exposiciones y galerías de arte"
+   },
+   {
+    "id": "D",
+    "text": "Inferior al de asistir a archivos"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Según los datos recogidos en el Anuario, visitar monumentos y yacimientos arqueológicos alcanzó el 42,8 %, por encima del 39,4 % de visitar museos, exposiciones y galerías de arte, y muy por encima del 5,6 % de asistir a archivos.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "anuario-cultura-2024",
+   "anchorId": "anuario-cultura-2024-s09-h-bitos-y-pr-cticas-culturales-01",
+   "reference": "Hábitos y prácticas culturales"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-19-07",
+  "topicId": "especifico-19",
+  "prompt": "Según el artículo 25 de la Agenda 21 de la cultura, ¿qué se propone promover?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La elaboración de un inventario obligatorio del patrimonio inmaterial de cada municipio"
+   },
+   {
+    "id": "B",
+    "text": "La implementación de formas de evaluación del impacto cultural, con carácter preceptivo, para las iniciativas que impliquen cambios significativos en la vida cultural de las ciudades"
+   },
+   {
+    "id": "C",
+    "text": "La creación de un fondo internacional de compensación para municipios con déficit de equipamientos"
+   },
+   {
+    "id": "D",
+    "text": "La reserva de un porcentaje mínimo del presupuesto municipal para la actividad cultural"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "El artículo 25 de la Agenda 21 de la cultura propone «promover la implementación de formas de evaluación del impacto cultural para considerar, con carácter preceptivo, las iniciativas públicas o privadas que impliquen cambios significativos en la vida cultural de las ciudades».",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "femp-indicadores-politicas-culturales",
+   "anchorId": "femp-indicadores-politicas-culturales-p03",
+   "reference": "Sistema de indicadores, párrafo 3"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-19-08",
+  "topicId": "especifico-19",
+  "prompt": "Según el Plan de Derechos Culturales, ¿qué permite evaluar el balance social y comunitario?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La rentabilidad financiera de las inversiones culturales públicas frente a las privadas"
+   },
+   {
+    "id": "B",
+    "text": "La eficiencia comparada de los equipamientos culturales según su número de visitantes"
+   },
+   {
+    "id": "C",
+    "text": "El grado de cumplimiento de los objetivos presupuestarios anuales de las entidades culturales"
+   },
+   {
+    "id": "D",
+    "text": "El impacto de una organización, proyecto o política más allá de los aspectos económicos, atendiendo a su contribución al bien común y la cohesión social"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "La medida 15 del Plan de Derechos Culturales define el balance social y comunitario como una herramienta que permite evaluar el impacto de una organización, proyecto o política más allá de los aspectos económicos, centrándose en su contribución al bien común, la cohesión social y el fortalecimiento de la comunidad, así como para medir su retorno social.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "plan-derechos-culturales-2025",
+   "anchorId": "plan-derechos-culturales-2025-medida-015",
+   "reference": "Medida 15: Estudio sobre la aplicación del balance social y comunitario"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-19-09",
+  "topicId": "especifico-19",
+  "prompt": "El Sistema de indicadores para la evaluación de las políticas culturales locales está concebido como:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un sistema de auditoría externa de obligado cumplimiento para las corporaciones locales"
+   },
+   {
+    "id": "B",
+    "text": "Un ejercicio de autoevaluación, a modo de «caja de herramientas» de aplicación progresiva y gradual"
+   },
+   {
+    "id": "C",
+    "text": "Un instrumento de fiscalización previa de las subvenciones culturales municipales"
+   },
+   {
+    "id": "D",
+    "text": "Un modelo único y cerrado de aplicación uniforme en todos los municipios"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "El Sistema consiste en un ejercicio de autoevaluación, concebido como una «caja de herramientas» utilizable total o parcialmente por municipios distintos de formas diferentes, adecuando su aplicación a la realidad propia. Es un sistema de aplicación progresiva y gradual.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "femp-indicadores-politicas-culturales",
+   "anchorId": "femp-indicadores-politicas-culturales-p11",
+   "reference": "Sistema de indicadores, párrafo 11"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-22-10",
+  "topicId": "especifico-22",
+  "prompt": "Los resultados de hábitos y prácticas culturales que recoge el Anuario de Estadísticas Culturales proceden de encuestas correspondientes a los periodos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "2012-2013, 2016-2017 y 2020-2021"
+   },
+   {
+    "id": "B",
+    "text": "2014-2015, 2018-2019 y 2021-2022"
+   },
+   {
+    "id": "C",
+    "text": "2010-2011, 2014-2015 y 2018-2019"
+   },
+   {
+    "id": "D",
+    "text": "2016-2017, 2019-2020 y 2022-2023"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "El Anuario advierte en nota metodológica que los resultados de hábitos y prácticas culturales proceden de las encuestas correspondientes a los periodos 2014-2015, 2018-2019 y 2021-2022. Para periodos anteriores remite a CULTURABase.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "anuario-cultura-2024",
+   "anchorId": "anuario-cultura-2024-s09-h-bitos-y-pr-cticas-culturales-02",
+   "reference": "Hábitos y prácticas culturales, nota metodológica"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-22-11",
+  "topicId": "especifico-22",
+  "prompt": "En el Sistema de indicadores de la FEMP, el ámbito A «Participación ciudadana» tiene como primera necesidad de información:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Conocer el grado de profesionalización de los agentes culturales del municipio"
+   },
+   {
+    "id": "B",
+    "text": "Conocer el tratamiento que hacen las administraciones locales del factor precio"
+   },
+   {
+    "id": "C",
+    "text": "Conocer el uso y la asistencia que hace la ciudadanía de la oferta cultural promovida por las entidades públicas locales"
+   },
+   {
+    "id": "D",
+    "text": "Conocer los resultados de las políticas culturales en la recuperación de la memoria colectiva"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "El objetivo A1 del Sistema de indicadores busca conocer el uso y la asistencia que hace la ciudadanía de la oferta cultural, actividades y servicios, promovida y configurada desde las entidades públicas locales, con el objetivo de incrementar dicho uso y asistencia.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "femp-indicadores-politicas-culturales",
+   "anchorId": "femp-indicadores-politicas-culturales-p20",
+   "reference": "Sistema de indicadores, ámbito A: Participación ciudadana"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-22-12",
+  "topicId": "especifico-22",
+  "prompt": "En la ficha del indicador A1.1.1 del Sistema de indicadores de la FEMP, la «asistencia» se define como:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La media de espectadores por sesión en los espacios escénicos locales"
+   },
+   {
+    "id": "B",
+    "text": "El número de entradas vendidas en los equipamientos de titularidad municipal"
+   },
+   {
+    "id": "C",
+    "text": "La acción de acudir a un acto escénico programado por la entidad pública local"
+   },
+   {
+    "id": "D",
+    "text": "El número de personas abonadas a las temporadas estables del municipio"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "La ficha del indicador define asistencia como la acción de acudir a un acto escénico programado por la entidad pública local. Entre sus limitaciones se advierte que no mide la asistencia a actos escénicos organizados por terceros.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "femp-indicadores-politicas-culturales",
+   "anchorId": "femp-indicadores-politicas-culturales-p27",
+   "reference": "Sistema de indicadores, ficha del indicador A1.1.1"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-24-13",
+  "topicId": "especifico-24",
+  "prompt": "La medida del Plan de Derechos Culturales sobre coordinación cultural en centros educativos persigue:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Crear una asignatura obligatoria de educación artística en la enseñanza secundaria"
+   },
+   {
+    "id": "B",
+    "text": "Establecer un cupo mínimo de visitas escolares en los museos de titularidad estatal"
+   },
+   {
+    "id": "C",
+    "text": "Articular una función que facilite la colaboración entre agentes culturales y educativos dentro de los centros escolares y en su entorno territorial"
+   },
+   {
+    "id": "D",
+    "text": "Transferir a los centros educativos la gestión de los equipamientos culturales municipales"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "La medida 29 parte de que el fortalecimiento del vínculo entre cultura y educación requiere una función de articulación que facilite la colaboración entre agentes culturales y educativos, tanto dentro de los centros escolares como en su entorno territorial.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "plan-derechos-culturales-2025",
+   "anchorId": "plan-derechos-culturales-2025-medida-029",
+   "reference": "Medida 29: Coordinación cultural en centros educativos"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-24-14",
+  "topicId": "especifico-24",
+  "prompt": "¿Cuál es el objetivo del programa Cultura y Ciudadanía según el Plan de Derechos Culturales?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Evaluar el impacto de las políticas culturales estatales sobre la ciudadanía"
+   },
+   {
+    "id": "B",
+    "text": "Coordinar la programación cultural entre el Estado y las comunidades autónomas"
+   },
+   {
+    "id": "C",
+    "text": "Financiar proyectos culturales presentados directamente por asociaciones vecinales"
+   },
+   {
+    "id": "D",
+    "text": "Promover la participación ciudadana en cultura en colaboración con agentes públicos y privados"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "El Plan describe el programa Cultura y Ciudadanía como aquel cuyo objetivo es promover la participación ciudadana en cultura en colaboración con agentes públicos y privados, y prevé una edición para el impulso de iniciativas y experiencias propuestas en el propio Plan.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "plan-derechos-culturales-2025",
+   "anchorId": "plan-derechos-culturales-2025-medida-022",
+   "reference": "Medida 22: Cultura y Ciudadanía"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-24-15",
+  "topicId": "especifico-24",
+  "prompt": "Según el Plan de Derechos Culturales, los laboratorios comunitarios se plantean desde una perspectiva que:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Limita la participación a las entidades culturales legalmente constituidas"
+   },
+   {
+    "id": "B",
+    "text": "Prioriza la evaluación cuantitativa sobre la deliberación participativa"
+   },
+   {
+    "id": "C",
+    "text": "Rompe la distinción y la jerarquía existente entre saberes expertos y no expertos"
+   },
+   {
+    "id": "D",
+    "text": "Reserva el diagnóstico de los problemas a los equipos técnicos de la Administración"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "La medida 97 concibe la participación social como herramienta fundamental de gobernanza para el diagnóstico y la generación de propuestas, desde una perspectiva que rompe la distinción y la jerarquía existente entre saberes expertos y no expertos.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "plan-derechos-culturales-2025",
+   "anchorId": "plan-derechos-culturales-2025-medida-097",
+   "reference": "Medida 97: Laboratorios comunitarios"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-27-16",
+  "topicId": "especifico-27",
+  "prompt": "¿Cuáles son los tres retos principales que aborda el Componente 24 del Plan de Recuperación, Transformación y Resiliencia?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Internacionalización, protección del patrimonio y formación profesional"
+   },
+   {
+    "id": "B",
+    "text": "Fomento del mecenazgo, reforma fiscal y protección de los derechos de autor"
+   },
+   {
+    "id": "C",
+    "text": "Mejora de la competitividad; dinamización y cohesión del territorio; y digitalización y sostenibilidad de los grandes servicios culturales"
+   },
+   {
+    "id": "D",
+    "text": "Descentralización territorial, accesibilidad universal e igualdad de género"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "El Componente 24, integrado en la palanca IX «Impulso de la industria de la cultura y el deporte», aborda tres retos: la mejora de la competitividad, la dinamización y cohesión del territorio, y la digitalización y sostenibilidad de los grandes servicios culturales.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "componente-24",
+   "anchorId": "componente-24-sec-2",
+   "reference": "Principales retos y objetivos"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-27-17",
+  "topicId": "especifico-27",
+  "prompt": "¿Cuál es el objetivo esencial de la Cuenta Satélite de la Cultura en España?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Proporcionar un sistema de información económica sobre el sector cultural, con estimaciones de su aportación al PIB"
+   },
+   {
+    "id": "B",
+    "text": "Registrar el número de empresas cuya actividad principal es cultural"
+   },
+   {
+    "id": "C",
+    "text": "Medir los hábitos y prácticas culturales de la población residente"
+   },
+   {
+    "id": "D",
+    "text": "Cuantificar la recaudación de las entidades de gestión de derechos de propiedad intelectual"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "La Cuenta Satélite de la Cultura en España es una operación estadística del Plan Estadístico Nacional desarrollada por el Ministerio de Cultura con colaboración metodológica del INE, cuyo objetivo esencial es proporcionar un sistema de información económica del sector cultural, ofreciendo indicadores sobre su aportación al PIB.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "anuario-cultura-2024",
+   "anchorId": "anuario-cultura-2024-s18-cuenta-01",
+   "reference": "Cuenta Satélite de la Cultura"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-21-18",
+  "topicId": "especifico-21",
+  "prompt": "En el Sistema de indicadores de la FEMP, el objetivo B1 se dirige a conocer el tratamiento que hacen las administraciones locales de un factor concreto para garantizar la accesibilidad de la oferta cultural. Ese factor es:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El horario"
+   },
+   {
+    "id": "B",
+    "text": "La lengua"
+   },
+   {
+    "id": "C",
+    "text": "La localización"
+   },
+   {
+    "id": "D",
+    "text": "El precio"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "El objetivo B1 del Sistema de indicadores busca conocer qué tratamiento hacen las administraciones locales del factor precio para garantizar la accesibilidad de la oferta cultural. El factor comunicativo se aborda en el objetivo B2.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "femp-indicadores-politicas-culturales",
+   "anchorId": "femp-indicadores-politicas-culturales-p21",
+   "reference": "Sistema de indicadores, objetivo B1"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-21-19",
+  "topicId": "especifico-21",
+  "prompt": "Entre los indicadores indirectos de acceso a la oferta cultural que recoge el Sistema de la FEMP figuran expresamente:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las encuestas de satisfacción realizadas a la salida de los espectáculos"
+   },
+   {
+    "id": "B",
+    "text": "Los convenios de patrocinio con empresas privadas"
+   },
+   {
+    "id": "C",
+    "text": "Los abonos para actividades como festivales, ciclos y temporadas"
+   },
+   {
+    "id": "D",
+    "text": "Las campañas de publicidad exterior contratadas por el municipio"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "El Sistema recoge entre sus indicadores indirectos los abonos para actividades —festivales, ciclos, temporadas—, junto a otras medidas relacionadas con el tratamiento del factor precio en el acceso a la oferta cultural.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "femp-indicadores-politicas-culturales",
+   "anchorId": "femp-indicadores-politicas-culturales-p25",
+   "reference": "Sistema de indicadores, indicadores indirectos"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-23-20",
+  "topicId": "especifico-23",
+  "prompt": "En el Sistema de indicadores de la FEMP, el objetivo B2 se dirige a conocer el tratamiento que hacen las administraciones locales de los factores comunicativos con la finalidad de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Mejorar la reputación institucional de la corporación local"
+   },
+   {
+    "id": "B",
+    "text": "Garantizar la accesibilidad de la oferta cultural"
+   },
+   {
+    "id": "C",
+    "text": "Aumentar la recaudación de taquilla de los equipamientos municipales"
+   },
+   {
+    "id": "D",
+    "text": "Fomentar la creación artística de proximidad"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "El objetivo B2 busca conocer qué tratamiento hacen las administraciones locales de los factores comunicativos para garantizar la accesibilidad de la oferta cultural, dentro del objetivo general de garantizar la equidad en el acceso de la ciudadanía a la vida cultural local.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "femp-indicadores-politicas-culturales",
+   "anchorId": "femp-indicadores-politicas-culturales-p22",
+   "reference": "Sistema de indicadores, objetivo B2"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-23-21",
+  "topicId": "especifico-23",
+  "prompt": "La Plataforma Cine en Municipios prevista en el Plan de Derechos Culturales se orienta a:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Sustituir las salas de exhibición comerciales por una plataforma pública de acceso individual"
+   },
+   {
+    "id": "B",
+    "text": "Digitalizar el fondo fílmico conservado por la Filmoteca Española"
+   },
+   {
+    "id": "C",
+    "text": "Facilitar el acceso colectivo a proyecciones cinematográficas en municipios pequeños, zonas rurales y territorios despoblados sin salas de cine cercanas"
+   },
+   {
+    "id": "D",
+    "text": "Financiar la producción de largometrajes rodados en zonas de reto demográfico"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "La medida 76 pone en marcha un proyecto piloto de plataforma de cine orientado a facilitar el acceso colectivo a proyecciones cinematográficas en municipios pequeños, zonas rurales y territorios despoblados que carecen de salas de cine cercanas, ofreciendo un catálogo para su programación local.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "plan-derechos-culturales-2025",
+   "anchorId": "plan-derechos-culturales-2025-medida-076",
+   "reference": "Medida 76: Plataforma Cine en Municipios"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-25-22",
+  "topicId": "especifico-25",
+  "prompt": "La medida del Plan de Derechos Culturales sobre garantía de acceso a la cultura en zonas de reto demográfico persigue, entre otros fines:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Estimular la descentralización de la programación cultural pública"
+   },
+   {
+    "id": "B",
+    "text": "Concentrar la programación estable en las capitales de provincia"
+   },
+   {
+    "id": "C",
+    "text": "Sustituir la programación presencial por difusión en línea en el medio rural"
+   },
+   {
+    "id": "D",
+    "text": "Transferir la programación cultural a las diputaciones provinciales"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "La medida 77 tiene como fin estimular la descentralización de la programación cultural pública, estableciendo facilidades de acceso a actividades culturales y reforzando la programación de eventos en las zonas definidas como de reto demográfico, con especial atención a las que actúan como cabeceras de comarca.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "plan-derechos-culturales-2025",
+   "anchorId": "plan-derechos-culturales-2025-medida-077",
+   "reference": "Medida 77: Garantía de acceso a la cultura en zonas de reto demográfico"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-25-23",
+  "topicId": "especifico-25",
+  "prompt": "La Red de residencias artísticas prevista en el Plan de Derechos Culturales contempla, además de su creación:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La actualización del inventario de residencias Localizart"
+   },
+   {
+    "id": "B",
+    "text": "La creación de un registro estatal obligatorio de artistas residentes"
+   },
+   {
+    "id": "C",
+    "text": "La sustitución de las ayudas a la creación por estancias en residencia"
+   },
+   {
+    "id": "D",
+    "text": "La cesión de los teatros nacionales para residencias de larga duración"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "La medida 57 pone en marcha una red de residencias artísticas para impulsar el acceso de personas con orígenes diversos que encuentran barreras en estos programas, y prevé actualizar el inventario de residencias Localizart con criterios que reconozcan a este colectivo.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "plan-derechos-culturales-2025",
+   "anchorId": "plan-derechos-culturales-2025-medida-057",
+   "reference": "Medida 57: Red de residencias artísticas"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-09-24",
+  "topicId": "especifico-09",
+  "prompt": "En los temarios técnicos del INAEM, los espacios efímeros del espectáculo se estudian junto a:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El edificio teatral, sus tipos, características y partes que lo componen"
+   },
+   {
+    "id": "B",
+    "text": "La gestión económica de las unidades de producción"
+   },
+   {
+    "id": "C",
+    "text": "La contratación de servicios técnicos externos"
+   },
+   {
+    "id": "D",
+    "text": "El régimen laboral de los artistas en espectáculos públicos"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "El tema 1 de los temarios técnicos del INAEM agrupa los conceptos de historia de las artes escénicas, géneros y estilos, los espacios escénicos, el edificio teatral con sus tipos, características y partes, y los espacios efímeros del espectáculo, donde se encuadran las carpas de circo y las artes escénicas de calle.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "inaem-m1-2022",
+   "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t1",
+   "reference": "Temarios técnicos del INAEM, Maquinaria Escénica, tema 1"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-25-x01",
+  "topicId": "especifico-25",
+  "prompt": "La medida del Plan de Derechos Culturales sobre cesión de espacios para iniciativas culturales ciudadanas plantea:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La cesión obligatoria de un porcentaje de la programación a colectivos ciudadanos"
+   },
+   {
+    "id": "B",
+    "text": "Una estrategia progresiva, adecuada a las condiciones institucionales, para poner infraestructuras existentes al servicio de proyectos culturales impulsados por la ciudadanía"
+   },
+   {
+    "id": "C",
+    "text": "La construcción de nuevos equipamientos culturales de gestión vecinal"
+   },
+   {
+    "id": "D",
+    "text": "La privatización de la gestión de los espacios culturales infrautilizados"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "La medida 17 plantea una estrategia progresiva y adecuada a las condiciones institucionales para poner al servicio de los proyectos culturales impulsados por la ciudadanía algunas infraestructuras existentes, partiendo del reconocimiento de la necesidad de aprovechar los espacios disponibles.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "plan-derechos-culturales-2025",
+   "anchorId": "plan-derechos-culturales-2025-medida-017",
+   "reference": "Medida 17: Cesión de espacios para iniciativas culturales ciudadanas"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-27-x02",
+  "topicId": "especifico-27",
+  "prompt": "¿De qué operación estadística procede el número de empresas cuya actividad económica principal es cultural que recoge el Anuario de Estadísticas Culturales?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Cuenta Satélite de la Cultura"
+   },
+   {
+    "id": "B",
+    "text": "La Encuesta de Presupuestos Familiares"
+   },
+   {
+    "id": "C",
+    "text": "El Directorio Central de Empresas (DIRCE)"
+   },
+   {
+    "id": "D",
+    "text": "La Encuesta de Población Activa"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "El número de empresas cuya actividad económica principal es cultural procede del Directorio Central de Empresas (DIRCE), operación estadística del Plan Estadístico Nacional elaborada por el Instituto Nacional de Estadística.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "anuario-cultura-2024",
+   "anchorId": "anuario-cultura-2024-s02-empresas-culturales-01",
+   "reference": "Empresas culturales, párrafo 1"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-21-x03",
+  "topicId": "especifico-21",
+  "prompt": "¿Qué estadística permite estimar el gasto de los hogares en bienes y servicios culturales que recoge el Anuario?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Estadística de Financiación y Gasto Público en Cultura"
+   },
+   {
+    "id": "B",
+    "text": "La Encuesta de Presupuestos Familiares"
+   },
+   {
+    "id": "C",
+    "text": "El Índice de Precios de Consumo"
+   },
+   {
+    "id": "D",
+    "text": "La Encuesta de Población Activa"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "El gasto de consumo cultural de los hogares se estima mediante una explotación específica de la Encuesta de Presupuestos Familiares, estadística oficial del Plan Estadístico Nacional elaborada por el Instituto Nacional de Estadística.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "anuario-cultura-2024",
+   "anchorId": "anuario-cultura-2024-s04-gasto-de-consumo-cultural-de-l-01",
+   "reference": "Gasto de consumo cultural de los hogares, párrafo 1"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-23-x04",
+  "topicId": "especifico-23",
+  "prompt": "Entre los indicadores del Sistema de la FEMP relativos al conocimiento de los públicos figura la pregunta sobre si existe:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un convenio de difusión con los medios de comunicación locales"
+   },
+   {
+    "id": "B",
+    "text": "Algún sistema de recogida de datos de los usuarios y públicos de los servicios y actividades culturales ofertados por la entidad pública local"
+   },
+   {
+    "id": "C",
+    "text": "Un gabinete de prensa propio en cada equipamiento cultural"
+   },
+   {
+    "id": "D",
+    "text": "Un plan municipal de comunicación aprobado por el pleno de la corporación"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "El Sistema incluye entre sus indicadores la cuestión de si existe algún sistema de recogida de datos de los usuarios y públicos de los servicios y actividades culturales ofertados por la entidad pública local, junto a indicadores del número de asistentes y su variación porcentual interanual.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "femp-indicadores-politicas-culturales",
+   "anchorId": "femp-indicadores-politicas-culturales-p24",
+   "reference": "Sistema de indicadores, indicadores de públicos"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-09-x05",
+  "topicId": "especifico-09",
+  "prompt": "En el temario técnico del INAEM, ¿dónde se encuadran las carpas de circo y las artes escénicas de calle?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Entre las instalaciones de carácter provisional del foso"
+   },
+   {
+    "id": "B",
+    "text": "Entre los equipamientos escénicos móviles"
+   },
+   {
+    "id": "C",
+    "text": "Entre los espacios efímeros del espectáculo"
+   },
+   {
+    "id": "D",
+    "text": "Entre los sistemas de elevación en telar"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "El temario agrupa en un mismo tema los espacios escénicos, el edificio teatral con sus tipos y partes, y los espacios efímeros del espectáculo, categoría en la que se encuadran las carpas de circo y las artes escénicas de calle, tal como también recoge el temario de la especialidad de Gestión de Industrias Culturales y Creativas.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "inaem-m1-2022",
+   "anchorId": "inaem-m1-2022-maquinaria-escenica-para-el-espectacul-t1",
+   "reference": "Temarios técnicos del INAEM, Maquinaria Escénica, tema 1"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "ref-09-x06",
+  "topicId": "especifico-09",
+  "prompt": "Los temarios técnicos del INAEM abordan los conceptos de historia de las artes escénicas atendiendo a:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El repertorio de las unidades de producción"
+   },
+   {
+    "id": "B",
+    "text": "La biografía de los directores de escena"
+   },
+   {
+    "id": "C",
+    "text": "Los géneros y estilos"
+   },
+   {
+    "id": "D",
+    "text": "La cronología de los teatros nacionales"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "El primer tema de los temarios técnicos del INAEM parte de los conceptos de historia de las artes escénicas organizados por géneros y estilos, antes de pasar a los espacios escénicos y al edificio teatral.",
+  "source": {
+   "kind": "referencia",
+   "sourceId": "inaem-m1-2022",
+   "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t1",
+   "reference": "Temarios técnicos del INAEM, Asistencia a la Dirección Técnica, tema 1"
+  },
+  "origin": {
+   "type": "reference",
+   "historical": false,
+   "elaboracion": "Elaborada a partir de fuente institucional con ancla verificada"
+  },
+  "active": true,
+  "optionCount": 4
+ }
+]

@@ -164,17 +164,3 @@ Normativa de apoyo: arts. 20-21 Ley 31/1995 · RD 393/2007 · RD 2816/1982 · Le
 **Se supone**: que el supuesto de María seguirá la familia A o la B. Es inferencia razonada sobre siete casos, no certeza.
 
 **No se sabe**: cómo pondera el tribunal cada tarea dentro del supuesto. Los criterios de corrección publicados por otros tribunales son solo logísticos y no lo aclaran.
-
----
-
-## 8. Supuestos originales incorporados
-
-Estos PDF sirven para entrenar lectura de enunciados reales. No hay que memorizarlos como ley: hay que ver qué tipo de documento pide el tribunal y cómo convierte los datos del caso en una respuesta profesional.
-
-- [M3 Industrias Culturales 2022 · supuesto práctico](data/practico/supuestos_originales/supuesto-industrias-culturales-m3-2022.pdf)
-- [M3 Antropología · promoción interna](data/practico/supuestos_originales/supuesto-antropologia-m3-pi.pdf)
-- [M3 Arqueología · promoción interna](data/practico/supuestos_originales/supuesto-arqueologia-m3-pi.pdf)
-- [M3 Arqueología · turno libre](data/practico/supuestos_originales/supuesto-arqueologia-m3-tl.pdf)
-- [M3 Comunicación Audiovisual · promoción interna](data/practico/supuestos_originales/supuesto-caudiov-m3-pi.pdf)
-- [M3 Ciencias de la Información · promoción interna](data/practico/supuestos_originales/supuesto-ccinf--m3-pi.pdf)
-- [M3 Ciencias de la Información · turno libre](data/practico/supuestos_originales/supuesto-ccinf-m3-tl.pdf)

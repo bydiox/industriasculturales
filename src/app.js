@@ -328,7 +328,7 @@ function renderGuide() {
 const studyDocuments = [
   { id: 'guia-maria', title: 'Guía 1 · Orientación para María', summary: 'La explicación de partida: qué oposición es, cómo estudiar y dónde poner el esfuerzo.', file: 'docs/GUIA_MARIA.md' },
   { id: 'readme', title: 'Léeme antes de empezar', summary: 'Qué contiene la app, cómo avanzar y cómo interpretar los resultados.', file: 'docs/LEEME.md' },
-  { id: 'practico', title: 'Dossier del supuesto práctico', summary: 'Supuesto histórico, hipótesis probables, plantillas de respuesta y entrenamiento.', file: 'docs/practico_dossier_estudio.md' },
+  { id: 'practico', title: 'Dossier del supuesto práctico', summary: 'Evidencia real, entregables, familias de supuesto y entrenamiento.', file: 'docs/practico_dossier_estudio.md' },
   { id: 'formato', title: 'Cómo es el examen', summary: 'Formato, puntuación, penalización y estrategia de respuesta.', file: 'docs/FORMATO_EXAMEN.md' },
   { id: 'fuentes', title: 'Fuentes sin corpus legal', summary: 'Cómo estudiar historia, gestión cultural y técnica sin forzar anclas jurídicas.', file: 'docs/FUENTES_SIN_CORPUS.md' },
   { id: 'tecnico', title: 'Fuentes técnicas del INAEM', summary: 'Cualificaciones y estándares profesionales para el bloque escénico.', file: 'docs/FUENTE_TEMARIOS_TECNICOS_M1.md' }
@@ -417,15 +417,16 @@ function renderPracticalPanel() {
     <h2>Supuesto pr&#225;ctico</h2>
     <p>Empieza por uno de estos tres caminos. Cada tarjeta abre el apartado correspondiente del dossier.</p>
     <div class="practical-menu" aria-label="Apartados del supuesto pr&#225;ctico">
-      <button class="practical-menu-card practical-menu-0" type="button" data-practical-anchor="study-0-que-es-esta-prueba-y-como-se-puntua"><span class="practical-menu-icon">0</span><strong>Qu&#233; es</strong><small>Prueba, tiempo, puntuaci&#243;n y criterios.</small></button>
-      <button class="practical-menu-card practical-menu-1" type="button" data-practical-anchor="study-1-supuesto-historico-el-practico-real-de-mayo-de-2022"><span class="practical-menu-icon">1</span><strong>Hist&#243;rico</strong><small>El supuesto real de La Gatita en 2022.</small></button>
-      <button class="practical-menu-card practical-menu-2" type="button" data-practical-anchor="study-2-que-cambia-con-el-temario-2023-24"><span class="practical-menu-icon">2</span><strong>Supuesto actual</strong><small>Qu&#233; puede cambiar con el temario vigente.</small></button>
+      <button class="practical-menu-card practical-menu-0" type="button" data-practical-anchor="study-1-la-prueba"><span class="practical-menu-icon">0</span><strong>Qu&#233; es</strong><small>Formato, tiempo, puntuaci&#243;n y lectura oral.</small></button>
+      <button class="practical-menu-card practical-menu-1" type="button" data-practical-anchor="study-2-lo-que-de-verdad-pide-el-tribunal"><span class="practical-menu-icon">1</span><strong>Hist&#243;rico</strong><small>Qu&#233; han pedido siete supuestos reales.</small></button>
+      <button class="practical-menu-card practical-menu-2" type="button" data-practical-anchor="study-3-las-tres-familias-de-supuesto-revisadas"><span class="practical-menu-icon">2</span><strong>Supuesto actual</strong><small>Familias probables y c&#243;mo entrenarlas.</small></button>
     </div>
     <h3 class="practical-subtitle">Supuestos para entrenar</h3>
     <div class="practical-subcases" aria-label="Supuestos pr&#225;cticos de entrenamiento">
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-3-supuesto-probable-1-incidente-en-funcion-probabilidad-alta"><span class="practical-subcase-icon">1</span><strong>Incidente en funci&#243;n</strong><small>Parada, asistencia, emergencia y evacuaci&#243;n.</small></button>
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-4-supuesto-probable-2-montaje-o-gira-con-la-seguridad-integrada-probabilidad-media-alta"><span class="practical-subcase-icon">2</span><strong>Montaje o gira</strong><small>Coordinaci&#243;n de empresas y prevenci&#243;n.</small></button>
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-5-supuesto-probable-3-gestion-pura-probabilidad-media-baja-pero-preparable-y-rentable"><span class="practical-subcase-icon">3</span><strong>Gesti&#243;n cultural</strong><small>Programaci&#243;n, p&#250;blicos, presupuesto e indicadores.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-4-las-estructuras-que-hay-que-llevar-memorizadas"><span class="practical-subcase-icon">1</span><strong>Estructuras</strong><small>Pliego, proyecto, nota de prensa y plan.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-5-el-guion-de-emergencia-familia-b"><span class="practical-subcase-icon">2</span><strong>Emergencia</strong><small>Incidente en funci&#243;n y evacuaci&#243;n.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-6-metodo-de-preparacion"><span class="practical-subcase-icon">3</span><strong>Entrenamiento</strong><small>Una respuesta semanal a reloj y lectura oral.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-8-supuestos-originales-incorporados"><span class="practical-subcase-icon">4</span><strong>PDF reales</strong><small>Siete supuestos originales para leer en contexto.</small></button>
     </div>
     <h3 class="practical-subtitle">Material visual</h3>
     <p>Planos y esquemas para reconocer el espacio esc&#233;nico y leer un supuesto.</p>
