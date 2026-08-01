@@ -106,28 +106,28 @@
     },
     "especifico-06": {
       "pool5": 6,
-      "activeCount": 0,
-      "deficit": 6
+      "activeCount": 3,
+      "deficit": 3
     },
     "especifico-07": {
       "pool5": 6,
-      "activeCount": 0,
-      "deficit": 6
+      "activeCount": 3,
+      "deficit": 3
     },
     "especifico-08": {
       "pool5": 4,
-      "activeCount": 0,
-      "deficit": 4
+      "activeCount": 3,
+      "deficit": 1
     },
     "especifico-09": {
       "pool5": 3,
-      "activeCount": 0,
-      "deficit": 3
+      "activeCount": 2,
+      "deficit": 1
     },
     "especifico-10": {
       "pool5": 5,
-      "activeCount": 0,
-      "deficit": 5
+      "activeCount": 3,
+      "deficit": 2
     },
     "especifico-11": {
       "pool5": 8,
@@ -141,8 +141,8 @@
     },
     "especifico-13": {
       "pool5": 6,
-      "activeCount": 0,
-      "deficit": 6
+      "activeCount": 3,
+      "deficit": 3
     },
     "especifico-14": {
       "pool5": 5,
@@ -166,13 +166,13 @@
     },
     "especifico-18": {
       "pool5": 7,
-      "activeCount": 0,
-      "deficit": 7
+      "activeCount": 4,
+      "deficit": 3
     },
     "especifico-19": {
       "pool5": 5,
-      "activeCount": 0,
-      "deficit": 5
+      "activeCount": 3,
+      "deficit": 2
     },
     "especifico-20": {
       "pool5": 5,
@@ -181,28 +181,28 @@
     },
     "especifico-21": {
       "pool5": 4,
-      "activeCount": 0,
-      "deficit": 4
+      "activeCount": 2,
+      "deficit": 2
     },
     "especifico-22": {
       "pool5": 3,
-      "activeCount": 0,
-      "deficit": 3
+      "activeCount": 2,
+      "deficit": 1
     },
     "especifico-23": {
       "pool5": 3,
-      "activeCount": 0,
-      "deficit": 3
+      "activeCount": 2,
+      "deficit": 1
     },
     "especifico-24": {
       "pool5": 3,
-      "activeCount": 0,
-      "deficit": 3
+      "activeCount": 2,
+      "deficit": 1
     },
     "especifico-25": {
       "pool5": 6,
-      "activeCount": 0,
-      "deficit": 6
+      "activeCount": 3,
+      "deficit": 3
     },
     "especifico-26": {
       "pool5": 8,
@@ -211,8 +211,8 @@
     },
     "especifico-27": {
       "pool5": 5,
-      "activeCount": 0,
-      "deficit": 5
+      "activeCount": 3,
+      "deficit": 2
     },
     "especifico-28": {
       "pool5": 8,
@@ -251,8 +251,8 @@
     },
     "especifico-35": {
       "pool5": 4,
-      "activeCount": 0,
-      "deficit": 4
+      "activeCount": 2,
+      "deficit": 2
     },
     "especifico-36": {
       "pool5": 6,

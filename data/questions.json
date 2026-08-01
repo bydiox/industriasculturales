@@ -72056,5 +72056,1685 @@
       "createdAt": "2026-08-01",
       "rule": "Variante propia con cuarta opción; la pregunta oficial original conserva sus tres opciones."
     }
+  },
+  {
+    "id": "m3-ref-examgap-es18-001",
+    "topicId": "especifico-18",
+    "prompt": "En planificación estratégica, ¿qué dimensiones recoge una matriz DAFO?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demanda, audiencia, fondos y operación."
+      },
+      {
+        "id": "B",
+        "text": "Diseño, activación, formato y objetivos."
+      },
+      {
+        "id": "C",
+        "text": "Debilidades, amenazas, fortalezas y oportunidades."
+      },
+      {
+        "id": "D",
+        "text": "Diagnóstico, alcance, financiación y organigrama."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "DAFO ordena factores internos y externos: debilidades y fortalezas en el plano interno; amenazas y oportunidades en el externo.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Ministerio de Industria, Comercio y Turismo, “Herramienta DAFO”",
+      "author": "Ministerio de Industria, Comercio y Turismo",
+      "edition": "recurso en línea",
+      "locator": "Definición de DAFO",
+      "url": "https://dafo.ipyme.org/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es18-002",
+    "topicId": "especifico-18",
+    "prompt": "En un plan estratégico, ¿qué expresa la misión de una organización cultural?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La relación de recursos disponibles para ejecutarlo."
+      },
+      {
+        "id": "B",
+        "text": "La razón de ser y el propósito actual de la entidad."
+      },
+      {
+        "id": "C",
+        "text": "La imagen futura deseada hacia la que se orienta."
+      },
+      {
+        "id": "D",
+        "text": "La magnitud usada para medir avance o resultado."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La misión formula para qué existe la organización y qué papel cumple; no equivale al presupuesto, al inventario ni a la programación cerrada.",
+    "source": {
+      "kind": "referencia",
+      "reference": "European Commission, Better Regulation Toolbox",
+      "author": "European Commission",
+      "edition": "2021",
+      "locator": "Intervention logic: outputs, results and impacts",
+      "url": "https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation_en"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es18-003",
+    "topicId": "especifico-18",
+    "prompt": "En planificación, ¿qué diferencia un objetivo de un indicador?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El objetivo fija un resultado buscado; el indicador mide su avance."
+      },
+      {
+        "id": "B",
+        "text": "El objetivo mide el dato; el indicador define el cambio buscado."
+      },
+      {
+        "id": "C",
+        "text": "El objetivo equivale a la visión; el indicador equivale a la misión."
+      },
+      {
+        "id": "D",
+        "text": "El objetivo es el recurso asignado; el indicador es la actividad."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "El objetivo describe el cambio o resultado perseguido; el indicador es la variable que permite observar si se avanza hacia él.",
+    "source": {
+      "kind": "referencia",
+      "reference": "European Commission, Better Regulation Toolbox",
+      "author": "European Commission",
+      "edition": "2021",
+      "locator": "Intervention logic: outputs, results and impacts",
+      "url": "https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation_en"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es18-004",
+    "topicId": "especifico-18",
+    "prompt": "En la lógica de intervención, ¿qué identifica mejor una realización u output?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un cambio producido en los destinatarios de la intervención."
+      },
+      {
+        "id": "B",
+        "text": "Un efecto de largo alcance asociado a la política."
+      },
+      {
+        "id": "C",
+        "text": "Un recurso económico o humano destinado al proyecto."
+      },
+      {
+        "id": "D",
+        "text": "Un producto o servicio entregado por la intervención."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Las realizaciones u outputs son bienes, servicios o actividades entregadas; los resultados e impactos describen cambios posteriores.",
+    "source": {
+      "kind": "referencia",
+      "reference": "European Commission, Better Regulation Toolbox",
+      "author": "European Commission",
+      "edition": "2021",
+      "locator": "Intervention logic: outputs, results and impacts",
+      "url": "https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation_en"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es06-001",
+    "topicId": "especifico-06",
+    "prompt": "En historia del teatro, ¿qué identifica mejor una tragedia clásica?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una pieza alegórica de tema religioso o moral."
+      },
+      {
+        "id": "B",
+        "text": "Una acción grave con conflicto y desenlace funesto."
+      },
+      {
+        "id": "C",
+        "text": "Una pieza breve cómica entre actos principales."
+      },
+      {
+        "id": "D",
+        "text": "Una comedia de enredo con final reconciliador."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La tragedia se asocia a una acción seria, conflicto elevado y desenlace doloroso o funesto, a diferencia de formas cómicas o musicales.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “drama”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Géneros y estructura dramática",
+      "url": "https://www.britannica.com/art/drama-literature"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es06-002",
+    "topicId": "especifico-06",
+    "prompt": "En el teatro español del Siglo de Oro, ¿qué designa una comedia nueva?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una forma dramática que mezcla registros trágicos y cómicos."
+      },
+      {
+        "id": "B",
+        "text": "Una tragedia ajustada a las unidades clásicas estrictas."
+      },
+      {
+        "id": "C",
+        "text": "Una pieza breve costumbrista de un solo cuadro."
+      },
+      {
+        "id": "D",
+        "text": "Un melodrama musical sin alternancia de registros."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "La comedia nueva se asocia al teatro barroco español y a la mezcla de tonos, acciones y registros frente a reglas clasicistas rígidas.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “theatre”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Historia y formas teatrales",
+      "url": "https://www.britannica.com/art/theatre-art"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es06-003",
+    "topicId": "especifico-06",
+    "prompt": "En teatro, ¿qué caracteriza a un entremés?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una tragedia extensa organizada en cinco jornadas."
+      },
+      {
+        "id": "B",
+        "text": "Una loa solemne que abre una representación oficial."
+      },
+      {
+        "id": "C",
+        "text": "Un auto alegórico centrado en doctrina religiosa."
+      },
+      {
+        "id": "D",
+        "text": "Una pieza breve, normalmente cómica, representada entre partes."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "El entremés es una pieza corta de carácter cómico, tradicionalmente vinculada a la representación entre partes de una obra mayor.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “drama”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Géneros y estructura dramática",
+      "url": "https://www.britannica.com/art/drama-literature"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es07-001",
+    "topicId": "especifico-07",
+    "prompt": "En música escénica, ¿qué rasgo distingue a la ópera?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La acción dramática se desarrolla principalmente mediante canto."
+      },
+      {
+        "id": "B",
+        "text": "La acción alterna diálogo hablado y números musicales populares."
+      },
+      {
+        "id": "C",
+        "text": "La obra se interpreta como canción de cámara para voz y piano."
+      },
+      {
+        "id": "D",
+        "text": "La pieza presenta música sacra sin representación escénica."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "La ópera combina drama, música, voces, orquesta y escena; su acción se articula esencialmente a través del canto.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “opera”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Definición y elementos de la ópera",
+      "url": "https://www.britannica.com/art/opera-music"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es07-002",
+    "topicId": "especifico-07",
+    "prompt": "En historia de la música, ¿qué identifica mejor un lied?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un aria operística integrada en una acción escénica."
+      },
+      {
+        "id": "B",
+        "text": "Una romanza de zarzuela con diálogo hablado."
+      },
+      {
+        "id": "C",
+        "text": "Una canción popular transmitida de forma anónima."
+      },
+      {
+        "id": "D",
+        "text": "Una canción artística, normalmente alemana, para voz y piano."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "El lied se asocia a la canción artística alemana, especialmente del Romanticismo, con voz y acompañamiento de piano.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “Western music”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Historia de la música occidental",
+      "url": "https://www.britannica.com/art/Western-music"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es07-003",
+    "topicId": "especifico-07",
+    "prompt": "En música española, ¿qué combina habitualmente la zarzuela?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Canciones de cámara sin acción dramática."
+      },
+      {
+        "id": "B",
+        "text": "Música sacra interpretada sin puesta en escena."
+      },
+      {
+        "id": "C",
+        "text": "Números musicales, partes cantadas y diálogo hablado."
+      },
+      {
+        "id": "D",
+        "text": "Canto continuo sin diálogo hablado entre números."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La zarzuela es un género lírico escénico que alterna música, canto y diálogo hablado.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “Western music”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Historia de la música occidental",
+      "url": "https://www.britannica.com/art/Western-music"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es13-001",
+    "topicId": "especifico-13",
+    "prompt": "En políticas culturales, ¿qué expresa el concepto de economía creativa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Actividades culturales limitadas al patrimonio inmueble protegido."
+      },
+      {
+        "id": "B",
+        "text": "Actividades financiadas solo por administración pública directa."
+      },
+      {
+        "id": "C",
+        "text": "Actividades recreativas excluidas de producción simbólica."
+      },
+      {
+        "id": "D",
+        "text": "Actividades basadas en creatividad, conocimiento y producción cultural."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "La economía creativa agrupa actividades donde la creatividad, el conocimiento, los contenidos y los bienes o servicios culturales generan valor.",
+    "source": {
+      "kind": "referencia",
+      "reference": "UNESCO, Creative Economy Report",
+      "author": "UNESCO",
+      "edition": "informe de referencia",
+      "locator": "Economía creativa, cultura y desarrollo",
+      "url": "https://unesdoc.unesco.org/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es13-002",
+    "topicId": "especifico-13",
+    "prompt": "En gobernanza cultural, ¿qué idea aparece de forma central?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La gestión cultural reducida al calendario de pagos."
+      },
+      {
+        "id": "B",
+        "text": "La sustitución de planificación por programación aislada."
+      },
+      {
+        "id": "C",
+        "text": "La coordinación entre instituciones, profesionales y sociedad civil."
+      },
+      {
+        "id": "D",
+        "text": "La concentración de decisiones culturales en un único proveedor."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La gobernanza cultural se relaciona con la forma en que distintos actores participan, coordinan decisiones y comparten responsabilidades.",
+    "source": {
+      "kind": "referencia",
+      "reference": "UNESCO, Creative Economy Report",
+      "author": "UNESCO",
+      "edition": "informe de referencia",
+      "locator": "Economía creativa, cultura y desarrollo",
+      "url": "https://unesdoc.unesco.org/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es13-003",
+    "topicId": "especifico-13",
+    "prompt": "En fomento cultural, ¿qué distingue una ayuda pública de una contratación?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La ayuda define el precio de taquilla; la contratación mide los públicos."
+      },
+      {
+        "id": "B",
+        "text": "La ayuda financia una actividad de interés; la contratación adquiere una prestación."
+      },
+      {
+        "id": "C",
+        "text": "La ayuda adquiere una prestación concreta; la contratación fomenta una actividad."
+      },
+      {
+        "id": "D",
+        "text": "La ayuda adjudica una obra pública; la contratación concede una subvención."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "En términos de gestión, una ayuda impulsa o financia una actividad; una contratación pública responde a la adquisición de una obra, servicio o suministro.",
+    "source": {
+      "kind": "referencia",
+      "reference": "UNESCO, Creative Economy Report",
+      "author": "UNESCO",
+      "edition": "informe de referencia",
+      "locator": "Economía creativa, cultura y desarrollo",
+      "url": "https://unesdoc.unesco.org/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es25-001",
+    "topicId": "especifico-25",
+    "prompt": "¿Qué rasgo se asocia habitualmente a un festival frente a una temporada estable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La concentración temporal de actividades en torno a un eje."
+      },
+      {
+        "id": "B",
+        "text": "La programación continuada durante todo un curso escénico."
+      },
+      {
+        "id": "C",
+        "text": "La oferta regular de una sede con repertorio estable."
+      },
+      {
+        "id": "D",
+        "text": "La actividad permanente de una compañía residente."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Un festival suele concentrar actividades en un periodo limitado y con una identidad o eje de programación reconocible.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Donald Getz, Event Studies: Theory, Research and Policy for Planned Events",
+      "author": "Donald Getz",
+      "edition": "Routledge, 2.ª ed., 2012",
+      "locator": "Festivals and planned events",
+      "url": "https://www.routledge.com/Event-Studies/Getz/p/book/9780080966037"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es25-002",
+    "topicId": "especifico-25",
+    "prompt": "En programación artística, ¿qué tarea se asocia al comisariado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ordenar fechas de sala sin construir una línea discursiva."
+      },
+      {
+        "id": "B",
+        "text": "Diseñar únicamente la campaña gráfica de temporada."
+      },
+      {
+        "id": "C",
+        "text": "Cerrar necesidades técnicas y presupuestos de gira."
+      },
+      {
+        "id": "D",
+        "text": "Seleccionar obras y articularlas en un discurso expositivo."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "El comisariado implica seleccionar, ordenar e interpretar obras o propuestas dentro de un marco discursivo.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Tate, “Art Terms: Curator”",
+      "author": "Tate",
+      "edition": "entrada en línea",
+      "locator": "Definición de curator",
+      "url": "https://www.tate.org.uk/art/art-terms/c/curator"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es25-003",
+    "topicId": "especifico-25",
+    "prompt": "En artes escénicas, ¿qué es un circuito de programación?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una temporada regular de una única sede escénica."
+      },
+      {
+        "id": "B",
+        "text": "Una muestra puntual sin itinerancia entre sedes."
+      },
+      {
+        "id": "C",
+        "text": "Una red que facilita la circulación de espectáculos entre espacios."
+      },
+      {
+        "id": "D",
+        "text": "Una programación concentrada en pocos días bajo una marca."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Un circuito articula varios espacios, programadores o instituciones para favorecer la circulación y exhibición de espectáculos.",
+    "source": {
+      "kind": "referencia",
+      "reference": "INAEM, Programa Platea",
+      "author": "Instituto Nacional de las Artes Escénicas y de la Música",
+      "edition": "programa institucional",
+      "locator": "Circulación de espectáculos por espacios escénicos",
+      "url": "https://www.cultura.gob.es/cultura/artesescenicas/platea.html"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es10-001",
+    "topicId": "especifico-10",
+    "prompt": "En el mercado del arte, ¿qué se entiende por mercado primario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La venta en subasta de obras procedentes de colecciones."
+      },
+      {
+        "id": "B",
+        "text": "La compraventa posterior entre galerías y coleccionistas."
+      },
+      {
+        "id": "C",
+        "text": "La primera venta de una obra por artista, estudio o galería."
+      },
+      {
+        "id": "D",
+        "text": "La reventa de obras ya adquiridas por coleccionistas."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "El mercado primario se refiere a la primera comercialización de una obra; el secundario corresponde a reventas posteriores.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Sotheby’s Institute of Art, “Primary and Secondary Art Markets”",
+      "author": "Sotheby’s Institute of Art",
+      "edition": "recurso en línea",
+      "locator": "Distinción entre mercado primario y secundario",
+      "url": "https://www.sothebysinstitute.com/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es10-002",
+    "topicId": "especifico-10",
+    "prompt": "¿A qué alude la expresión white cube en la exhibición de artes visuales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A un soporte cúbico utilizado para escultura pública."
+      },
+      {
+        "id": "B",
+        "text": "A un espacio expositivo neutro, blanco y descontextualizado."
+      },
+      {
+        "id": "C",
+        "text": "A un almacén técnico para conservación preventiva."
+      },
+      {
+        "id": "D",
+        "text": "A una feria comercial dedicada a galerías privadas."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "White cube designa el modelo de galería blanca, limpia y aparentemente neutral que aísla la obra de otros contextos visuales.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Tate, “Art Terms: White Cube”",
+      "author": "Tate",
+      "edition": "entrada en línea",
+      "locator": "Definición de white cube",
+      "url": "https://www.tate.org.uk/art/art-terms/w/white-cube"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es10-003",
+    "topicId": "especifico-10",
+    "prompt": "¿Qué caracteriza a una instalación artística?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La configuración de una obra en relación con un espacio."
+      },
+      {
+        "id": "B",
+        "text": "La exhibición de una obra aislada sin relación espacial."
+      },
+      {
+        "id": "C",
+        "text": "La reproducción seriada de una imagen original."
+      },
+      {
+        "id": "D",
+        "text": "La ordenación documental de una colección."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "La instalación se define por la relación entre obra, espacio y experiencia del espectador, más que por un objeto aislado.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Tate, “Art Terms: Installation Art”",
+      "author": "Tate",
+      "edition": "entrada en línea",
+      "locator": "Definición de instalación artística",
+      "url": "https://www.tate.org.uk/art/art-terms/i/installation-art"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es19-001",
+    "topicId": "especifico-19",
+    "prompt": "¿Qué expresa el retorno social de la inversión, conocido como SROI?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La diferencia entre ingresos propios y subvención pública."
+      },
+      {
+        "id": "B",
+        "text": "La relación entre valor social generado e inversión realizada."
+      },
+      {
+        "id": "C",
+        "text": "El número bruto de entradas vendidas en taquilla."
+      },
+      {
+        "id": "D",
+        "text": "El coste contable de producción por localidad ofertada."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "El SROI traduce a una relación el valor social generado por una intervención respecto a los recursos invertidos.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Social Value International, “A Guide to Social Return on Investment”",
+      "author": "Social Value International",
+      "edition": "2012",
+      "locator": "Concepto de SROI",
+      "url": "https://www.socialvalueint.org/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es19-002",
+    "topicId": "especifico-19",
+    "prompt": "En evaluación de proyectos, ¿qué diferencia un resultado de una realización?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El resultado describe cambios; la realización, entregables."
+      },
+      {
+        "id": "B",
+        "text": "La realización describe recursos asignados al proyecto."
+      },
+      {
+        "id": "C",
+        "text": "El resultado enumera actividades ejecutadas por el gestor."
+      },
+      {
+        "id": "D",
+        "text": "La realización mide efectos sociales posteriores al cierre."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "En la cadena de resultados, las realizaciones son productos o servicios entregados; los resultados son cambios o efectos derivados.",
+    "source": {
+      "kind": "referencia",
+      "reference": "European Commission, Better Regulation Toolbox",
+      "author": "European Commission",
+      "edition": "2021",
+      "locator": "Intervention logic: outputs, results and impacts",
+      "url": "https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation_en"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es19-003",
+    "topicId": "especifico-19",
+    "prompt": "En evaluación de políticas culturales, ¿qué identifica un impacto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un producto entregado de forma inmediata por la actividad."
+      },
+      {
+        "id": "B",
+        "text": "Un recurso asignado antes de comenzar el proyecto."
+      },
+      {
+        "id": "C",
+        "text": "Un indicador usado para observar la ejecución."
+      },
+      {
+        "id": "D",
+        "text": "Un efecto de mayor alcance asociado a la intervención."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "El impacto se sitúa más allá del producto inmediato y apunta a efectos más amplios o duraderos atribuibles a la intervención.",
+    "source": {
+      "kind": "referencia",
+      "reference": "European Commission, Better Regulation Toolbox",
+      "author": "European Commission",
+      "edition": "2021",
+      "locator": "Intervention logic: outputs, results and impacts",
+      "url": "https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation_en"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es27-001",
+    "topicId": "especifico-27",
+    "prompt": "¿Qué finalidad tiene la Cuenta Satélite de la Cultura en España?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Clasificar expedientes de contratación por procedimiento."
+      },
+      {
+        "id": "B",
+        "text": "Inventariar solo bienes inmuebles declarados protegidos."
+      },
+      {
+        "id": "C",
+        "text": "Estimar el peso económico de la cultura en la contabilidad nacional."
+      },
+      {
+        "id": "D",
+        "text": "Registrar las entradas vendidas por cada espacio escénico."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La Cuenta Satélite de la Cultura es una operación estadística de síntesis orientada a estimar la contribución económica del sector cultural.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Ministerio de Cultura, Cuenta Satélite de la Cultura en España",
+      "author": "Ministerio de Cultura",
+      "edition": "metodología oficial",
+      "locator": "Descripción metodológica",
+      "url": "https://www.cultura.gob.es/servicios-a-la-ciudadania/estadisticas/cultura/mc/culturabase/cuenta-satelite/metodologia-cuenta.html"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es27-002",
+    "topicId": "especifico-27",
+    "prompt": "En economía de la cultura, ¿qué describe la cadena de valor cultural?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las etapas de ingreso, gasto, pago y contabilidad."
+      },
+      {
+        "id": "B",
+        "text": "Las fases de creación, producción, distribución, exhibición y consumo."
+      },
+      {
+        "id": "C",
+        "text": "Las categorías de titularidad pública, privada y mixta."
+      },
+      {
+        "id": "D",
+        "text": "Las fases de archivo, depósito, préstamo e inventario."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La cadena de valor cultural ordena las fases por las que un bien o servicio cultural se crea, produce, distribuye, exhibe y llega al público.",
+    "source": {
+      "kind": "referencia",
+      "reference": "UNESCO Institute for Statistics, 2009 UNESCO Framework for Cultural Statistics",
+      "author": "UNESCO Institute for Statistics",
+      "edition": "2009",
+      "locator": "Ciclo cultural y participación cultural",
+      "url": "https://uis.unesco.org/sites/default/files/documents/unesco-framework-for-cultural-statistics-2009-en_0.pdf"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es27-003",
+    "topicId": "especifico-27",
+    "prompt": "En estadísticas culturales, ¿qué mide el empleo cultural?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La ocupación vinculada a actividades culturales o creativas."
+      },
+      {
+        "id": "B",
+        "text": "El aforo anual acumulado de los espacios escénicos."
+      },
+      {
+        "id": "C",
+        "text": "El gasto medio por localidad vendida en taquilla."
+      },
+      {
+        "id": "D",
+        "text": "El número de bienes declarados de interés cultural."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "El empleo cultural agrupa ocupaciones o actividades vinculadas al sector cultural y creativo dentro de la medición estadística.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Ministerio de Cultura, Cuenta Satélite de la Cultura en España",
+      "author": "Ministerio de Cultura",
+      "edition": "metodología oficial",
+      "locator": "Descripción metodológica",
+      "url": "https://www.cultura.gob.es/servicios-a-la-ciudadania/estadisticas/cultura/mc/culturabase/cuenta-satelite/metodologia-cuenta.html"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es08-001",
+    "topicId": "especifico-08",
+    "prompt": "En terminología de ballet, ¿qué designa un pas de deux?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una variación solista de carácter virtuoso."
+      },
+      {
+        "id": "B",
+        "text": "Una entrada colectiva del cuerpo de baile."
+      },
+      {
+        "id": "C",
+        "text": "Una secuencia de saltos ejecutada en diagonal."
+      },
+      {
+        "id": "D",
+        "text": "Una danza interpretada por dos bailarines."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Pas de deux significa literalmente “paso de dos” y designa una danza para dos intérpretes dentro del vocabulario del ballet.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “ballet”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Vocabulario básico del ballet",
+      "url": "https://www.britannica.com/art/ballet"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es08-002",
+    "topicId": "especifico-08",
+    "prompt": "¿Con qué se identifica históricamente la danza moderna frente al ballet académico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Con la codificación académica de danzas de salón."
+      },
+      {
+        "id": "B",
+        "text": "Con la vuelta al academicismo del ballet romántico."
+      },
+      {
+        "id": "C",
+        "text": "Con una reacción contra las convenciones del ballet clásico."
+      },
+      {
+        "id": "D",
+        "text": "Con la restauración del repertorio cortesano barroco."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La danza moderna se describe históricamente como una reacción frente a las convenciones del ballet clásico y su código académico.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “modern dance”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Definición e historia de la danza moderna",
+      "url": "https://www.britannica.com/art/modern-dance"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es08-003",
+    "topicId": "especifico-08",
+    "prompt": "¿Qué caracteriza al Tanztheater asociado a Pina Bausch?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La supresión completa de la dimensión dramatúrgica."
+      },
+      {
+        "id": "B",
+        "text": "La mezcla de danza, gesto, escena y elementos teatrales."
+      },
+      {
+        "id": "C",
+        "text": "La reconstrucción literal de ballets del siglo XIX."
+      },
+      {
+        "id": "D",
+        "text": "El uso exclusivo de danzas de salón codificadas."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "El Tanztheater integra danza con recursos teatrales, gesto, acción escénica y construcción dramatúrgica.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “modern dance”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Definición e historia de la danza moderna",
+      "url": "https://www.britannica.com/art/modern-dance"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es21-001",
+    "topicId": "especifico-21",
+    "prompt": "En mercadotecnia cultural, ¿qué es la segmentación de públicos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La división del público en grupos con rasgos o comportamientos comunes."
+      },
+      {
+        "id": "B",
+        "text": "La definición de una única oferta para todos los asistentes."
+      },
+      {
+        "id": "C",
+        "text": "La medición de ocupación total sin distinguir perfiles."
+      },
+      {
+        "id": "D",
+        "text": "La agrupación de sedes según tamaño y titularidad."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Segmentar consiste en agrupar públicos según características compartidas para comprenderlos y orientar mejor la oferta o comunicación.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Philip Kotler y Joanne Scheff, Standing Room Only: Strategies for Marketing the Performing Arts",
+      "author": "Philip Kotler; Joanne Scheff",
+      "edition": "Harvard Business School Press, 1997",
+      "locator": "Segmentación, posicionamiento, precios y públicos",
+      "url": "https://archive.org/details/standingroomonly00kotl"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es21-002",
+    "topicId": "especifico-21",
+    "prompt": "En política de precios culturales, ¿qué es un abono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Entrada de cortesía entregada sin contraprestación económica."
+      },
+      {
+        "id": "B",
+        "text": "Recargo aplicado a localidades adquiridas fuera de taquilla."
+      },
+      {
+        "id": "C",
+        "text": "Invitación reservada a medios durante el estreno oficial."
+      },
+      {
+        "id": "D",
+        "text": "Compra agrupada de varias funciones o actividades bajo una modalidad."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Un abono agrupa varias funciones, sesiones o actividades en una misma modalidad de compra, normalmente con condiciones específicas de precio o acceso.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Philip Kotler y Joanne Scheff, Standing Room Only: Strategies for Marketing the Performing Arts",
+      "author": "Philip Kotler; Joanne Scheff",
+      "edition": "Harvard Business School Press, 1997",
+      "locator": "Segmentación, posicionamiento, precios y públicos",
+      "url": "https://archive.org/details/standingroomonly00kotl"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es35-001",
+    "topicId": "especifico-35",
+    "prompt": "En vestuario escénico, ¿qué identifica mejor un figurín?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un patrón de corte usado para construir la prenda."
+      },
+      {
+        "id": "B",
+        "text": "Una ficha de medidas tomada sobre el intérprete."
+      },
+      {
+        "id": "C",
+        "text": "Una prueba de vestuario previa al estreno."
+      },
+      {
+        "id": "D",
+        "text": "Un dibujo o diseño que define la apariencia del personaje."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "El figurín es una representación gráfica del vestuario y la apariencia del personaje, útil para construir y coordinar la caracterización.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Tiranti, The Handbook of Costume Terms",
+      "author": "Costume and theatre terminology reference",
+      "edition": "manual de terminología escénica",
+      "locator": "Vocabulario básico de vestuario escénico",
+      "url": "https://archive.org/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es35-002",
+    "topicId": "especifico-35",
+    "prompt": "En caracterización escénica, ¿para qué sirve una prótesis de maquillaje?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Para documentar el raccord de maquillaje entre funciones."
+      },
+      {
+        "id": "B",
+        "text": "Para marcar medidas de una prenda sobre el maniquí."
+      },
+      {
+        "id": "C",
+        "text": "Para modificar rasgos físicos visibles del intérprete."
+      },
+      {
+        "id": "D",
+        "text": "Para fijar una peluca sin alterar el rostro del personaje."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Las prótesis de maquillaje se usan para alterar rasgos, volúmenes o aspecto físico del intérprete dentro de la construcción del personaje.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Richard Corson, Stage Makeup",
+      "author": "Richard Corson",
+      "edition": "manual de referencia",
+      "locator": "Caracterización y maquillaje escénico",
+      "url": "https://archive.org/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es09-001",
+    "topicId": "especifico-09",
+    "prompt": "En artes circenses, ¿qué es el trapecio?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un aparato de equilibrio sobre cuerda tensada."
+      },
+      {
+        "id": "B",
+        "text": "Una estructura vertical para acrobacia en tela."
+      },
+      {
+        "id": "C",
+        "text": "Un aparato aéreo formado por una barra suspendida."
+      },
+      {
+        "id": "D",
+        "text": "Un número basado en lanzamiento y recepción de objetos."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "El trapecio es un aparato aéreo: una barra suspendida mediante cuerdas o cables sobre la que se realizan ejercicios acrobáticos.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “circus”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Artes circenses y números de circo",
+      "url": "https://www.britannica.com/art/circus-theatrical-entertainment"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es09-002",
+    "topicId": "especifico-09",
+    "prompt": "¿Qué define mejor el malabarismo en el vocabulario circense?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La caracterización cómica con maquillaje blanco."
+      },
+      {
+        "id": "B",
+        "text": "La manipulación coordinada de objetos en movimiento."
+      },
+      {
+        "id": "C",
+        "text": "La doma de animales dentro de una pista circular."
+      },
+      {
+        "id": "D",
+        "text": "La elevación del artista mediante cables ocultos."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "El malabarismo consiste en manipular objetos manteniéndolos en movimiento de forma coordinada, normalmente con lanzamiento, recepción o equilibrio.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Encyclopaedia Britannica, “circus”",
+      "author": "Encyclopaedia Britannica",
+      "edition": "entrada en línea",
+      "locator": "Artes circenses y números de circo",
+      "url": "https://www.britannica.com/art/circus-theatrical-entertainment"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es22-001",
+    "topicId": "especifico-22",
+    "prompt": "En gestión cultural, ¿qué finalidad tiene el desarrollo de audiencias?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Limitar la relación con el público a la venta de abonos."
+      },
+      {
+        "id": "B",
+        "text": "Medir únicamente la ocupación media de cada función."
+      },
+      {
+        "id": "C",
+        "text": "Concentrar la comunicación en públicos ya fidelizados."
+      },
+      {
+        "id": "D",
+        "text": "Ampliar, diversificar o profundizar la relación con los públicos."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Audience development designa estrategias orientadas a ampliar públicos, diversificarlos o profundizar su vínculo con la institución.",
+    "source": {
+      "kind": "referencia",
+      "reference": "European Commission, Study on Audience Development",
+      "author": "European Commission",
+      "edition": "2017",
+      "locator": "Definición de audience development",
+      "url": "https://op.europa.eu/en/publication-detail/-/publication/cc36509d-19c6-11e7-808e-01aa75ed71a1"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es22-002",
+    "topicId": "especifico-22",
+    "prompt": "¿Qué mide la Encuesta de Hábitos y Prácticas Culturales en España?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La clasificación presupuestaria de programas ministeriales."
+      },
+      {
+        "id": "B",
+        "text": "El inventario administrativo de bienes culturales protegidos."
+      },
+      {
+        "id": "C",
+        "text": "Los hábitos, prácticas y consumos culturales de la población."
+      },
+      {
+        "id": "D",
+        "text": "El balance económico anual de cada teatro público."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La encuesta oficial recoge información sobre hábitos y prácticas culturales de la población española, incluida asistencia y participación cultural.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Ministerio de Cultura, Encuesta de Hábitos y Prácticas Culturales en España",
+      "author": "Ministerio de Cultura",
+      "edition": "operación estadística oficial",
+      "locator": "Descripción de la operación estadística",
+      "url": "https://www.cultura.gob.es/servicios-a-la-ciudadania/estadisticas/cultura/mc/ehc.html"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es23-001",
+    "topicId": "especifico-23",
+    "prompt": "En planificación comunicativa, ¿qué son los medios propios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Impactos informativos obtenidos por cobertura periodística."
+      },
+      {
+        "id": "B",
+        "text": "Conversaciones generadas por usuarios en redes compartidas."
+      },
+      {
+        "id": "C",
+        "text": "Canales controlados por la entidad, como web o boletín."
+      },
+      {
+        "id": "D",
+        "text": "Espacios pagados contratados a un soporte externo."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Los medios propios son canales controlados por la organización, a diferencia de los pagados o de los ganados por cobertura externa.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Gini Dietrich, Spin Sucks: Communication and Reputation Management in the Digital Age",
+      "author": "Gini Dietrich",
+      "edition": "Que Publishing, 2014",
+      "locator": "PESO model: paid, earned, shared, owned media",
+      "url": "https://spinsucks.com/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es23-002",
+    "topicId": "especifico-23",
+    "prompt": "¿Qué función cumple un briefing de comunicación de un proyecto cultural?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fijar únicamente normas gráficas de identidad visual."
+      },
+      {
+        "id": "B",
+        "text": "Sintetizar objetivos, públicos, mensajes y condicionantes."
+      },
+      {
+        "id": "C",
+        "text": "Cerrar un plan de medios con tarifas e inserciones."
+      },
+      {
+        "id": "D",
+        "text": "Recoger métricas obtenidas después de la campaña."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "El briefing reúne la información básica que orienta una acción de comunicación: objetivos, destinatarios, mensajes, tono, calendario y límites.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Gini Dietrich, Spin Sucks: Communication and Reputation Management in the Digital Age",
+      "author": "Gini Dietrich",
+      "edition": "Que Publishing, 2014",
+      "locator": "PESO model: paid, earned, shared, owned media",
+      "url": "https://spinsucks.com/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es24-001",
+    "topicId": "especifico-24",
+    "prompt": "¿Qué identifica mejor la mediación cultural?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La cesión contractual de salas y equipamientos."
+      },
+      {
+        "id": "B",
+        "text": "Procesos que conectan obras, instituciones y públicos."
+      },
+      {
+        "id": "C",
+        "text": "La catalogación técnica de fondos y colecciones."
+      },
+      {
+        "id": "D",
+        "text": "La política de precios, abonos y descuentos."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La mediación cultural facilita relaciones, interpretación y participación entre públicos, obras e instituciones.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Institute for Art Education, Time for Cultural Mediation",
+      "author": "Institute for Art Education, Zurich University of the Arts",
+      "edition": "2012",
+      "locator": "Concepto de mediación cultural",
+      "url": "https://www.kultur-vermittlung.ch/time-for-cultural-mediation/"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-examgap-es24-002",
+    "topicId": "especifico-24",
+    "prompt": "Según el marco estadístico cultural de UNESCO, ¿qué encaja con participación cultural activa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tocar música, bailar o crear contenidos culturales."
+      },
+      {
+        "id": "B",
+        "text": "Ver una exposición sin intervenir en su producción."
+      },
+      {
+        "id": "C",
+        "text": "Leer una crítica publicada por un medio externo."
+      },
+      {
+        "id": "D",
+        "text": "Consultar una agenda cultural institucional."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "La participación activa implica crear, interpretar o practicar actividades culturales, no solo asistir o recibir contenidos.",
+    "source": {
+      "kind": "referencia",
+      "reference": "UNESCO Institute for Statistics, 2009 UNESCO Framework for Cultural Statistics",
+      "author": "UNESCO Institute for Statistics",
+      "edition": "2009",
+      "locator": "Ciclo cultural y participación cultural",
+      "url": "https://uis.unesco.org/sites/default/files/documents/unesco-framework-for-cultural-statistics-2009-en_0.pdf"
+    },
+    "active": true,
+    "optionCount": 4,
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · banco propio de referencia · cierre simulacro pool3",
+      "historical": false
+    },
+    "editorialStatus": "active-reference",
+    "createdAt": "2026-08-01"
   }
 ]

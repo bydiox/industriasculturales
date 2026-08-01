@@ -1,6 +1,6 @@
 {
   "name": "m3-gestion-industrias-culturales-creativas",
-  "version": "0.1.36",
+  "version": "0.1.37",
   "private": true,
   "type": "module",
   "scripts": {
@@ -53,6 +53,7 @@
     "content:import:inap-gestion-a2-2022": "node scripts/import-inap-gestion-a2-2022.mjs",
     "content:import:inap-egoa-etgoa": "node scripts/import-inap-egoa-etgoa.mjs",
     "content:questions:reference-pool3": "node scripts/add-reference-pool3-questions.mjs",
+    "content:questions:exam-ready-gaps": "node scripts/add-exam-ready-reference-gap-questions.mjs",
     "content:questions:m1-variants-b": "node scripts/add-m1-technical-variants-b.mjs",
     "content:questions:anchor-official": "node scripts/anchor-official-questions.mjs",
     "content:questions:anchor-official-curated-followup": "node scripts/anchor-official-curated-followup.mjs",
