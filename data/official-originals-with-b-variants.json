@@ -1,0 +1,482 @@
+{
+  "generatedAt": "2026-08-01",
+  "policy": "Cuando una pregunta oficial de tres opciones ya tiene variante propia -B activa de cuatro opciones, la original se conserva como histórica y deja de contar en el banco activo.",
+  "deactivated": [],
+  "skipped": [
+    {
+      "id": "m1-cultura-maquinaria-2023-37",
+      "variantId": "m1-cultura-maquinaria-2023-37-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-maquinaria-2023-55",
+      "variantId": "m1-cultura-maquinaria-2023-55-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-64",
+      "variantId": "m1-cultura-asistencia-2023-64-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-65",
+      "variantId": "m1-cultura-asistencia-2023-65-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-67",
+      "variantId": "m1-cultura-asistencia-2023-67-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-68",
+      "variantId": "m1-cultura-asistencia-2023-68-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-75",
+      "variantId": "m1-cultura-asistencia-2023-75-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-77",
+      "variantId": "m1-cultura-asistencia-2023-77-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-78",
+      "variantId": "m1-cultura-asistencia-2023-78-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-79",
+      "variantId": "m1-cultura-asistencia-2023-79-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-80",
+      "variantId": "m1-cultura-asistencia-2023-80-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-81",
+      "variantId": "m1-cultura-asistencia-2023-81-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-88",
+      "variantId": "m1-cultura-asistencia-2023-88-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-89",
+      "variantId": "m1-cultura-asistencia-2023-89-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-90",
+      "variantId": "m1-cultura-asistencia-2023-90-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-91",
+      "variantId": "m1-cultura-asistencia-2023-91-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-asistencia-2023-92",
+      "variantId": "m1-cultura-asistencia-2023-92-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-05",
+      "variantId": "m3-oficial-igualdad-2023-05-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-06",
+      "variantId": "m3-oficial-igualdad-2023-06-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-07",
+      "variantId": "m3-oficial-igualdad-2023-07-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-08",
+      "variantId": "m3-oficial-igualdad-2023-08-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-09",
+      "variantId": "m3-oficial-igualdad-2023-09-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-10",
+      "variantId": "m3-oficial-igualdad-2023-10-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-11",
+      "variantId": "m3-oficial-igualdad-2023-11-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-17",
+      "variantId": "m3-oficial-igualdad-2023-17-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-20",
+      "variantId": "m3-oficial-igualdad-2023-20-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-22",
+      "variantId": "m3-oficial-igualdad-2023-22-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-23",
+      "variantId": "m3-oficial-igualdad-2023-23-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-24",
+      "variantId": "m3-oficial-igualdad-2023-24-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-34",
+      "variantId": "m3-oficial-igualdad-2023-34-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-35",
+      "variantId": "m3-oficial-igualdad-2023-35-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-71",
+      "variantId": "m3-oficial-igualdad-2023-71-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-72",
+      "variantId": "m3-oficial-igualdad-2023-72-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-73",
+      "variantId": "m3-oficial-igualdad-2023-73-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-01",
+      "variantId": "m3-oficial-igualdad-2023-01-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-27",
+      "variantId": "m3-oficial-igualdad-2023-27-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-28",
+      "variantId": "m3-oficial-igualdad-2023-28-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-29",
+      "variantId": "m3-oficial-igualdad-2023-29-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-30",
+      "variantId": "m3-oficial-igualdad-2023-30-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-01",
+      "variantId": "m3-cultura-comun-2023-01-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-03",
+      "variantId": "m3-cultura-comun-2023-03-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-04",
+      "variantId": "m3-cultura-comun-2023-04-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-07",
+      "variantId": "m3-cultura-comun-2023-07-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-08",
+      "variantId": "m3-cultura-comun-2023-08-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-09",
+      "variantId": "m3-cultura-comun-2023-09-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-11",
+      "variantId": "m3-cultura-comun-2023-11-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-12",
+      "variantId": "m3-cultura-comun-2023-12-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-13",
+      "variantId": "m3-cultura-comun-2023-13-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-14",
+      "variantId": "m3-cultura-comun-2023-14-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-16",
+      "variantId": "m3-cultura-comun-2023-16-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-17",
+      "variantId": "m3-cultura-comun-2023-17-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-18",
+      "variantId": "m3-cultura-comun-2023-18-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-19",
+      "variantId": "m3-cultura-comun-2023-19-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-20",
+      "variantId": "m3-cultura-comun-2023-20-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-21",
+      "variantId": "m3-cultura-comun-2023-21-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-22",
+      "variantId": "m3-cultura-comun-2023-22-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-24",
+      "variantId": "m3-cultura-comun-2023-24-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-25",
+      "variantId": "m3-cultura-comun-2023-25-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-26",
+      "variantId": "m3-cultura-comun-2023-26-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-27",
+      "variantId": "m3-cultura-comun-2023-27-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-28",
+      "variantId": "m3-cultura-comun-2023-28-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-29",
+      "variantId": "m3-cultura-comun-2023-29-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-32",
+      "variantId": "m3-cultura-comun-2023-32-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-33",
+      "variantId": "m3-cultura-comun-2023-33-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-34",
+      "variantId": "m3-cultura-comun-2023-34-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-35",
+      "variantId": "m3-cultura-comun-2023-35-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-r1",
+      "variantId": "m3-cultura-comun-2023-r1-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-r2",
+      "variantId": "m3-cultura-comun-2023-r2-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-r3",
+      "variantId": "m3-cultura-comun-2023-r3-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-sonido-2023-92",
+      "variantId": "m1-cultura-sonido-2023-92-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-sonido-2023-94",
+      "variantId": "m1-cultura-sonido-2023-94-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-realizacion-2023-89",
+      "variantId": "m1-cultura-realizacion-2023-89-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-oficial-igualdad-2023-21",
+      "variantId": "m3-oficial-igualdad-2023-21-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m3-cultura-comun-2023-02",
+      "variantId": "m3-cultura-comun-2023-02-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-01",
+      "variantId": "m1-cultura-comun-2023-01-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-05",
+      "variantId": "m1-cultura-comun-2023-05-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-07",
+      "variantId": "m1-cultura-comun-2023-07-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-08",
+      "variantId": "m1-cultura-comun-2023-08-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-09",
+      "variantId": "m1-cultura-comun-2023-09-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-10",
+      "variantId": "m1-cultura-comun-2023-10-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-11",
+      "variantId": "m1-cultura-comun-2023-11-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-18",
+      "variantId": "m1-cultura-comun-2023-18-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-19",
+      "variantId": "m1-cultura-comun-2023-19-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-20",
+      "variantId": "m1-cultura-comun-2023-20-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-21",
+      "variantId": "m1-cultura-comun-2023-21-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-22",
+      "variantId": "m1-cultura-comun-2023-22-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-30",
+      "variantId": "m1-cultura-comun-2023-30-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-02",
+      "variantId": "m1-cultura-comun-2023-02-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-03",
+      "variantId": "m1-cultura-comun-2023-03-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-04",
+      "variantId": "m1-cultura-comun-2023-04-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-comun-2023-06",
+      "variantId": "m1-cultura-comun-2023-06-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-iluminacion-2023-53",
+      "variantId": "m1-cultura-iluminacion-2023-53-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-produccion-2023-51",
+      "variantId": "m1-cultura-produccion-2023-51-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-produccion-2023-56",
+      "variantId": "m1-cultura-produccion-2023-56-B",
+      "reason": "original-already-inactive"
+    },
+    {
+      "id": "m1-cultura-produccion-2023-89",
+      "variantId": "m1-cultura-produccion-2023-89-B",
+      "reason": "original-already-inactive"
+    }
+  ]
+}

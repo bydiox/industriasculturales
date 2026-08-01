@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-08-01",
+  "source": "BOE XML oficial guardado en data/imports/official-xml",
+  "inserted": [
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "26",
+      "anchorId": "ley-9-2017-lcsp-a26"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "27",
+      "anchorId": "ley-9-2017-lcsp-a27"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "34",
+      "anchorId": "ley-9-2017-lcsp-a34"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "36",
+      "anchorId": "ley-9-2017-lcsp-a36"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "101",
+      "anchorId": "ley-9-2017-lcsp-a101"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "103",
+      "anchorId": "ley-9-2017-lcsp-a103"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "120",
+      "anchorId": "ley-9-2017-lcsp-a120"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "198",
+      "anchorId": "ley-9-2017-lcsp-a198"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "208",
+      "anchorId": "ley-9-2017-lcsp-a208"
+    },
+    {
+      "lawId": "ley-9-2017-lcsp",
+      "article": "236",
+      "anchorId": "ley-9-2017-lcsp-a236"
+    },
+    {
+      "lawId": "rdleg-2-2015-et",
+      "article": "50",
+      "anchorId": "rdleg-2-2015-et-a50"
+    },
+    {
+      "lawId": "rdleg-2-2015-et",
+      "article": "69",
+      "anchorId": "rdleg-2-2015-et-a69"
+    }
+  ],
+  "skippedExisting": [],
+  "missingInXml": []
+}

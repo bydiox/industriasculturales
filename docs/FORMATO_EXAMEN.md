@@ -15,7 +15,9 @@ Las preguntas históricas de 2021 siguen disponibles en el modo histórico y lib
 
 ## Orden de migración
 
-La primera tanda se priorizará por peso del blueprint: `comun-13`, `comun-10`, `comun-07`, `comun-03`, `comun-04` y `comun-09`. Son preguntas legislativas con ancla, por lo que el cuarto distractor debe salir del mismo texto legal y pasar la revisión de pertinencia. Después se abordarán las definiciones y preguntas de oficio, donde la revisión es necesariamente más manual.
+La primera tanda se priorizar? por peso del blueprint: `comun-13`, `comun-10`, `comun-07`, `comun-03`, `comun-04` y `comun-09`. Son preguntas legislativas con ancla, por lo que el cuarto distractor debe salir del mismo texto legal y pasar la revisi?n de pertinencia.
+
+Regla editorial corregida: **no se a?aden nuevos distractores a preguntas espec?ficas que no tengan legislaci?n o una fuente oficial textual equivalente de la que pueda salir el distractor**. Si una pregunta espec?fica procede de un examen hist?rico de tres opciones y no tiene base normativa suficiente, se conserva en modo hist?rico/libre o como borrador, pero no se fuerza al formato de cuatro opciones para el simulacro actual.
 
 El progreso no guarda índices de opción: `src/progress-store.js` conserva únicamente contadores agregados y el estado de Historia. El motor baraja las opciones al mostrar cada pregunta y la respuesta se evalúa por `optionId`, por lo que la posición visible no forma parte del estado.
 
@@ -34,7 +36,7 @@ npm run content:test:options
 
 La auditoría de opciones detecta textos o IDs duplicados y, cuando existan preguntas de cuatro opciones, informa de la distribución almacenada de la respuesta correcta entre las posiciones A-D. La interfaz vuelve a barajar las opciones en cada renderizado; no se fuerza una posición fija.
 
-No se añadirá un distractor genérico o absurdo para cerrar una cifra: cada cuarta opción debe ser un concepto real del mismo campo y pasar la revisión editorial.
+No se a?adir? un distractor gen?rico o absurdo para cerrar una cifra. En legislaci?n, cada cuarta opci?n debe salir del mismo texto legal o de una norma cercana. En temas espec?ficos sin legislaci?n, la pregunta no se completar? artificialmente.
 
 ## Pasada editorial del primer lote
 

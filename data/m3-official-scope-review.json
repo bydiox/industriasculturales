@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-08-01",
+  "policy": "Preguntas oficiales: solo se mantienen activas como banco M3 si el contenido entra claramente en la convocatoria. Las normas de apoyo se conservan como referencia externa; el ruido se mueve a histórico/inactivo.",
+  "deactivatedOutOfScope": [
+    {
+      "id": "m3-2021-oficial-030",
+      "topicId": "oficial-2021-comun",
+      "matchedPolicy": "ley-19-2013",
+      "reason": "Transparencia y buen gobierno no aparece como bloque propio en el temario M3; procede dejarlo fuera del banco activo."
+    },
+    {
+      "id": "m3-2021-oficial-031",
+      "topicId": "oficial-2021-comun",
+      "matchedPolicy": "ley-19-2013",
+      "reason": "Transparencia y buen gobierno no aparece como bloque propio en el temario M3; procede dejarlo fuera del banco activo."
+    },
+    {
+      "id": "m3-2021-oficial-032",
+      "topicId": "oficial-2021-comun",
+      "matchedPolicy": "ley-19-2013",
+      "reason": "Transparencia y buen gobierno no aparece como bloque propio en el temario M3; procede dejarlo fuera del banco activo."
+    },
+    {
+      "id": "inap-advo-2024-03",
+      "topicId": "comun-05",
+      "matchedPolicy": "rd-203-2021",
+      "reason": "Administración electrónica no forma parte del temario M3 actual; era núcleo del proyecto P03."
+    },
+    {
+      "id": "inap-gace-2022-013",
+      "topicId": "comun-05",
+      "matchedPolicy": "ley-7-1985",
+      "reason": "Régimen local detallado no está delimitado en el temario M3; la organización territorial se estudia desde Constitución y marco general."
+    },
+    {
+      "id": "inap-etgoa-2024-005",
+      "topicId": "comun-01",
+      "matchedPolicy": "lo-4-2001",
+      "reason": "El derecho de petición puede aparecer en Constitución, pero el desarrollo de la LO 4/2001 queda fuera del nivel explícito del temario M3."
+    },
+    {
+      "id": "inap-etgoa-2024-012",
+      "topicId": "comun-09",
+      "matchedPolicy": "ley-7-1985",
+      "reason": "Régimen local detallado no está delimitado en el temario M3; la organización territorial se estudia desde Constitución y marco general."
+    },
+    {
+      "id": "inap-etgoa-2024-035",
+      "topicId": "comun-15",
+      "matchedPolicy": "rd-203-2021",
+      "reason": "Administración electrónica no forma parte del temario M3 actual; era núcleo del proyecto P03."
+    },
+    {
+      "id": "inap-etgoa-2024-036",
+      "topicId": "comun-09",
+      "matchedPolicy": "rd-203-2021",
+      "reason": "Administración electrónica no forma parte del temario M3 actual; era núcleo del proyecto P03."
+    },
+    {
+      "id": "inap-etgoa-2024-037",
+      "topicId": "comun-10",
+      "matchedPolicy": "ley-19-2013",
+      "reason": "Transparencia y buen gobierno no aparece como bloque propio en el temario M3; procede dejarlo fuera del banco activo."
+    },
+    {
+      "id": "inap-etgoa-2024-038",
+      "topicId": "comun-05",
+      "matchedPolicy": "ley-19-2013",
+      "reason": "Transparencia y buen gobierno no aparece como bloque propio en el temario M3; procede dejarlo fuera del banco activo."
+    },
+    {
+      "id": "inap-etgoa-2024-042",
+      "topicId": "comun-11",
+      "matchedPolicy": "ley-27-2022",
+      "reason": "La evaluación de políticas públicas AGE no está como norma de estudio en M3; los temas de planificación se tratarán como referencia profesional verificable."
+    },
+    {
+      "id": "inap-etgoa-2024-043",
+      "topicId": "comun-12",
+      "matchedPolicy": "ley-27-2022",
+      "reason": "La evaluación de políticas públicas AGE no está como norma de estudio en M3; los temas de planificación se tratarán como referencia profesional verificable."
+    },
+    {
+      "id": "inap-etgoa-2024-044",
+      "topicId": "comun-09",
+      "matchedPolicy": "ley-2-2023",
+      "reason": "Protección de informantes y lucha contra la corrupción no está delimitada en el temario M3."
+    }
+  ],
+  "keptAsExternalReference": [
+    {
+      "id": "m3-cultura-2025-comun-01",
+      "topicId": "comun-08",
+      "matchedPolicy": "codigo-civil-art-1",
+      "title": "Código Civil, artículo 1"
+    },
+    {
+      "id": "inap-gace-2024-046",
+      "topicId": "comun-08",
+      "matchedPolicy": "codigo-civil-art-1",
+      "title": "Código Civil, artículo 1"
+    },
+    {
+      "id": "inap-gace-2024-083",
+      "topicId": "comun-12",
+      "matchedPolicy": "rd-2271-2004",
+      "title": "Real Decreto 2271/2004, acceso al empleo público de personas con discapacidad"
+    },
+    {
+      "id": "inap-gace-2022-037",
+      "topicId": "comun-08",
+      "matchedPolicy": "codigo-civil-art-1",
+      "title": "Código Civil, artículo 1"
+    }
+  ],
+  "requiresCorpusExtension": [],
+  "preservedNeedsAnswerReview": [
+    "m1-cultura-produccion-2023-78"
+  ],
+  "unchanged": 1648
+}

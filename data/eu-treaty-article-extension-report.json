@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-08-01",
+  "source": "EUR-Lex, versiones españolas consolidadas TUE/TFUE 2016/C 202/01.",
+  "inserted": [
+    {
+      "lawId": "eu-tfeu-2012",
+      "article": "4",
+      "anchorId": "eu-tfeu-2012-a4"
+    },
+    {
+      "lawId": "eu-tfeu-2012",
+      "article": "45",
+      "anchorId": "eu-tfeu-2012-a45"
+    },
+    {
+      "lawId": "eu-tfeu-2012",
+      "article": "59",
+      "anchorId": "eu-tfeu-2012-a59"
+    },
+    {
+      "lawId": "eu-tfeu-2012",
+      "article": "234",
+      "anchorId": "eu-tfeu-2012-a234"
+    },
+    {
+      "lawId": "eu-tfeu-2012",
+      "article": "285",
+      "anchorId": "eu-tfeu-2012-a285"
+    },
+    {
+      "lawId": "eu-tfeu-2012",
+      "article": "312",
+      "anchorId": "eu-tfeu-2012-a312"
+    },
+    {
+      "lawId": "eu-teu-2012",
+      "article": "15",
+      "anchorId": "eu-teu-2012-a15"
+    },
+    {
+      "lawId": "eu-teu-2012",
+      "article": "20",
+      "anchorId": "eu-teu-2012-a20"
+    },
+    {
+      "lawId": "eu-teu-2012",
+      "article": "49",
+      "anchorId": "eu-teu-2012-a49"
+    },
+    {
+      "lawId": "eu-teu-2012",
+      "article": "50",
+      "anchorId": "eu-teu-2012-a50"
+    }
+  ],
+  "skippedExisting": []
+}

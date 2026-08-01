@@ -1,70 +1,393 @@
 {
-  "app": { "id": "m3-gestion-industrias-culturales-creativas", "name": "M3 Gestión de Industrias Culturales y Creativas", "version": "0.1.22" },
-  "source": { "document": "convocatoria-m3-bases-genericas-oep-2023-2024.pdf", "publishedDate": "2026-07-07", "specificPages": "74-76", "commonPages": "56", "sha256": "6CEB22FDDAF04F3EE2FF67EBAFA5485BD5AF6AB9A2134DA7010C4C6C7B968AD6" },
+  "app": {
+    "id": "m3-gestion-industrias-culturales-creativas",
+    "name": "M3 Gestión de Industrias Culturales y Creativas",
+    "version": "0.1.36"
+  },
+  "source": {
+    "document": "convocatoria-m3-bases-genericas-oep-2023-2024.pdf",
+    "publishedDate": "2026-07-07",
+    "specificPages": "74-76",
+    "commonPages": "56",
+    "sha256": "6CEB22FDDAF04F3EE2FF67EBAFA5485BD5AF6AB9A2134DA7010C4C6C7B968AD6"
+  },
   "historicalBanks": [
-    { "id": "oficial-2021-comun", "number": "H-C", "part": "historico", "title": "Banco histórico · preguntas oficiales M3 2021 · parte común", "description": "Temario anterior; material de práctica y comparación." },
-    { "id": "oficial-2021-especifico", "number": "H-E", "part": "historico", "title": "Banco histórico · preguntas oficiales M3 2021 · parte específica", "description": "Temario anterior; material de práctica y comparación." }
+    {
+      "id": "oficial-2021-comun",
+      "number": "H-C",
+      "part": "historico",
+      "title": "Banco histórico · preguntas oficiales M3 2021 · parte común",
+      "description": "Temario anterior; material de práctica y comparación."
+    },
+    {
+      "id": "oficial-2021-especifico",
+      "number": "H-E",
+      "part": "historico",
+      "title": "Banco histórico · preguntas oficiales M3 2021 · parte específica",
+      "description": "Temario anterior; material de práctica y comparación."
+    }
   ],
   "topics": [
-    { "id": "comun-01", "number": 1, "part": "comun", "title": "La Constitución Española de 1978: características, principios constitucionales, valores superiores, derechos y deberes fundamentales y protección de los derechos." },
-    { "id": "comun-02", "number": 2, "part": "comun", "title": "La Jefatura del Estado: la Corona, funciones constitucionales del Rey, sucesión y regencia y refrendo." },
-    { "id": "comun-03", "number": 3, "part": "comun", "title": "Las Cortes Generales: composición y atribuciones del Congreso de los Diputados y del Senado." },
-    { "id": "comun-04", "number": 4, "part": "comun", "title": "El Gobierno: composición, designación, funciones y relaciones con el resto de los poderes del Estado." },
-    { "id": "comun-05", "number": 5, "part": "comun", "title": "La Administración Pública: principios constitucionales, Administración General del Estado, organización territorial, distribución competencial y coordinación entre administraciones." },
-    { "id": "comun-06", "number": 6, "part": "comun", "title": "La Unión Europea: antecedentes, objetivos, naturaleza jurídica y tratados originarios y modificativos." },
-    { "id": "comun-07", "number": 7, "part": "comun", "title": "Las fuentes del Derecho Comunitario Europeo: derecho originario y derivado, reglamentos, directivas, decisiones y relaciones con los ordenamientos nacionales." },
-    { "id": "comun-08", "number": 8, "part": "comun", "title": "El Derecho Administrativo: concepto y fuentes." },
-    { "id": "comun-09", "number": 9, "part": "comun", "title": "El acto administrativo y el procedimiento administrativo conforme a la Ley 39/2015." },
-    { "id": "comun-10", "number": 10, "part": "comun", "title": "El contrato administrativo: concepto, tipos, principios, características, elementos, adjudicación y ejecución conforme a la Ley 9/2017." },
-    { "id": "comun-11", "number": 11, "part": "comun", "title": "El personal al servicio de las Administraciones Públicas: régimen jurídico, derechos y deberes." },
-    { "id": "comun-12", "number": 12, "part": "comun", "title": "Los procesos selectivos en la Administración Pública, selección de personal en la AGE e incompatibilidades." },
-    { "id": "comun-13", "number": 13, "part": "comun", "title": "El IV Convenio único para el personal laboral de la AGE: clasificación, órganos de seguimiento, organización del trabajo, provisión, movilidad, derechos, obligaciones y régimen disciplinario." },
-    { "id": "comun-14", "number": 14, "part": "comun", "title": "El contrato de trabajo en la Administración Pública: modalidades, suspensión, extinción, despido, sindicación, comités de empresa y delegados de personal." },
-    { "id": "comun-15", "number": 15, "part": "comun", "title": "El derecho de huelga, servicios esenciales, conflictos colectivos y su solución, con especial referencia a las Administraciones Públicas." },
-    { "id": "especifico-01", "number": 1, "part": "especifico", "title": "Ministerio de Cultura. Instituto Nacional de las Artes Escénicas: normativa, organización y funciones." },
-    { "id": "especifico-02", "number": 2, "part": "especifico", "title": "INAEM y centros de creación, exhibición y difusión: Centro Dramático Nacional y Compañía Nacional de Teatro Clásico. Estatutos, misiones y modelos de gestión." },
-    { "id": "especifico-03", "number": 3, "part": "especifico", "title": "INAEM y centros de creación, exhibición y difusión: Teatro de la Zarzuela, OCNE, JONDE y CNDM. Estatutos, misiones y modelos de gestión." },
-    { "id": "especifico-04", "number": 4, "part": "especifico", "title": "INAEM y centros de creación, exhibición y difusión: Ballet Nacional de España y Compañía Nacional de Danza. Estatutos, misiones y modelos de gestión." },
-    { "id": "especifico-05", "number": 5, "part": "especifico", "title": "INAEM y centros de formación, investigación e innovación técnica: Centro de Tecnología del Espectáculo. Magalia y Auditorio Nacional de Música." },
-    { "id": "especifico-06", "number": 6, "part": "especifico", "title": "Historia del Teatro." },
-    { "id": "especifico-07", "number": 7, "part": "especifico", "title": "Historia de la Música." },
-    { "id": "especifico-08", "number": 8, "part": "especifico", "title": "Historia de la Danza y la Creación Multidisciplinar." },
-    { "id": "especifico-09", "number": 9, "part": "especifico", "title": "Historia de las Artes Circenses." },
-    { "id": "especifico-10", "number": 10, "part": "especifico", "title": "Historia de las Artes Visuales: exhibición, mercado y gestión." },
-    { "id": "especifico-11", "number": 11, "part": "especifico", "title": "Patrimonio, museos y centros de arte: protección del patrimonio cultural, patrimonio inmaterial, memoria de las artes escénicas y musicales e instituciones museísticas estatales." },
-    { "id": "especifico-12", "number": 12, "part": "especifico", "title": "Gestión y creación en artes escénicas y música: producción ejecutiva, roles profesionales e interrelación entre oficina de gestión y escenario." },
-    { "id": "especifico-13", "number": 13, "part": "especifico", "title": "Políticas y modelos culturales: fomento de artes escénicas y música, gobernanza cultural y economía creativa." },
-    { "id": "especifico-14", "number": 14, "part": "especifico", "title": "El tercer sector en la cultura: fundaciones, asociaciones y modelos asociativos sectoriales." },
-    { "id": "especifico-15", "number": 15, "part": "especifico", "title": "Planes de derechos culturales: inclusión social, sostenibilidad medioambiental y acción pública." },
-    { "id": "especifico-16", "number": 16, "part": "especifico", "title": "Perspectiva de género en las artes escénicas y musicales." },
-    { "id": "especifico-17", "number": 17, "part": "especifico", "title": "Políticas de accesibilidad universal aplicadas a las artes escénicas y la música." },
-    { "id": "especifico-18", "number": 18, "part": "especifico", "title": "Planes estratégicos en industrias culturales y creativas: diseño, formulación, diagnóstico, misión, objetivos e indicadores de impacto." },
-    { "id": "especifico-19", "number": 19, "part": "especifico", "title": "Planes estratégicos en industrias culturales y creativas: ejecución, gobernanza, evaluación de políticas culturales y retorno social de la inversión cultural." },
-    { "id": "especifico-20", "number": 20, "part": "especifico", "title": "Estadísticas e indicadores culturales en España: definición, características y principales resultados." },
-    { "id": "especifico-21", "number": 21, "part": "especifico", "title": "Planes de mercadotecnia: segmentación, posicionamiento, políticas de abonos y descuentos." },
-    { "id": "especifico-22", "number": 22, "part": "especifico", "title": "Comunicación y públicos en artes escénicas y musicales: gestión de audiencias." },
-    { "id": "especifico-23", "number": 23, "part": "especifico", "title": "Planificación y difusión comunicativa de proyectos culturales." },
-    { "id": "especifico-24", "number": 24, "part": "especifico", "title": "Mediación, educación y participación." },
-    { "id": "especifico-25", "number": 25, "part": "especifico", "title": "Programación y comisariado artístico: temporadas estables, festivales y circuitos de artes escénicas y música." },
-    { "id": "especifico-26", "number": 26, "part": "especifico", "title": "Financiación de la cultura y patrocinio: mecenazgo, Ley 49/2002, incentivos fiscales y colaboración público-privada." },
-    { "id": "especifico-27", "number": 27, "part": "especifico", "title": "Economía de la cultura en España. Industrias culturales y creativas: análisis y retos." },
-    { "id": "especifico-28", "number": 28, "part": "especifico", "title": "Derechos de autor y propiedad intelectual: Real Decreto Legislativo 1/1996, derechos morales y de explotación, entidades de gestión e inteligencia artificial." },
-    { "id": "especifico-29", "number": 29, "part": "especifico", "title": "El espacio escénico como herramienta de comunicación artística." },
-    { "id": "especifico-30", "number": 30, "part": "especifico", "title": "Edificio teatral e infraestructuras escénicas: evolución, tipos, adecuación funcional y recintos efímeros." },
-    { "id": "especifico-31", "number": 31, "part": "especifico", "title": "Espacio escénico y escenografía: tipos, elementos, materiales, implantación, planos y maquetas." },
-    { "id": "especifico-32", "number": 32, "part": "especifico", "title": "Conceptos básicos de maquinaria y utilería." },
-    { "id": "especifico-33", "number": 33, "part": "especifico", "title": "Iluminación y audiovisuales: aparatos, sustentación, control, sonido, acústica, vídeo, mapping, monitores y microfonía." },
-    { "id": "especifico-34", "number": 34, "part": "especifico", "title": "Adaptación de planta escenográfica a sala de ensayos: marcado, optimización de espacios y logística de producción." },
-    { "id": "especifico-35", "number": 35, "part": "especifico", "title": "Conceptos básicos de sastrería y caracterización: maquillaje y peluquería." },
-    { "id": "especifico-36", "number": 36, "part": "especifico", "title": "Dirección de escenario en ensayos y representaciones de ópera, zarzuela, galas líricas, conciertos y música popular moderna." },
-    { "id": "especifico-37", "number": 37, "part": "especifico", "title": "Dirección de escenario en ensayos y representaciones teatrales y circenses." },
-    { "id": "especifico-38", "number": 38, "part": "especifico", "title": "Dirección de escenario en gira: coordinación y trabajo en equipo." },
-    { "id": "especifico-39", "number": 39, "part": "especifico", "title": "Ofimática y software aplicado a la gestión y a la escena: Word, Excel, Access, PDF Pro y Cue To Cue." },
-    { "id": "especifico-40", "number": 40, "part": "especifico", "title": "Nuevas tecnologías aplicadas al sector cultural." },
-    { "id": "especifico-41", "number": 41, "part": "especifico", "title": "Seguridad y prevención de riesgos laborales en un escenario: principios preventivos, formación, vigilancia de la salud, emergencias, maternidad, menores y accidentes de trabajo." },
-    { "id": "especifico-42", "number": 42, "part": "especifico", "title": "Carga mental, estrés laboral y riesgos psicosociales en industrias creativas: prevención y gestión de equipos." },
-    { "id": "especifico-43", "number": 43, "part": "especifico", "title": "Ley 40/2015 y Ley 39/2015: organización pública, sector público institucional, organismos autónomos y aplicación a la actividad del INAEM." },
-    { "id": "especifico-44", "number": 44, "part": "especifico", "title": "Gestión económica y colaboración institucional: régimen presupuestario de organismos autónomos, gasto e ingresos del INAEM y convenios del sector público." },
-    { "id": "especifico-45", "number": 45, "part": "especifico", "title": "Ley 9/2017 de Contratos del Sector Público y su integración con el Real Decreto-ley 1/2023 sobre el Estatuto del Artista en materia laboral y contractual." }
-  ]
+    {
+      "id": "comun-01",
+      "number": 1,
+      "part": "comun",
+      "title": "La Constitución Española de 1978: características, principios constitucionales, valores superiores, derechos y deberes fundamentales y protección de los derechos."
+    },
+    {
+      "id": "comun-02",
+      "number": 2,
+      "part": "comun",
+      "title": "La Jefatura del Estado: la Corona, funciones constitucionales del Rey, sucesión y regencia y refrendo."
+    },
+    {
+      "id": "comun-03",
+      "number": 3,
+      "part": "comun",
+      "title": "Las Cortes Generales: composición y atribuciones del Congreso de los Diputados y del Senado."
+    },
+    {
+      "id": "comun-04",
+      "number": 4,
+      "part": "comun",
+      "title": "El Gobierno: composición, designación, funciones y relaciones con el resto de los poderes del Estado."
+    },
+    {
+      "id": "comun-05",
+      "number": 5,
+      "part": "comun",
+      "title": "La Administración Pública: principios constitucionales, Administración General del Estado, organización territorial, distribución competencial y coordinación entre administraciones."
+    },
+    {
+      "id": "comun-06",
+      "number": 6,
+      "part": "comun",
+      "title": "La Unión Europea: antecedentes, objetivos, naturaleza jurídica y tratados originarios y modificativos."
+    },
+    {
+      "id": "comun-07",
+      "number": 7,
+      "part": "comun",
+      "title": "Las fuentes del Derecho Comunitario Europeo: derecho originario y derivado, reglamentos, directivas, decisiones y relaciones con los ordenamientos nacionales."
+    },
+    {
+      "id": "comun-08",
+      "number": 8,
+      "part": "comun",
+      "title": "El Derecho Administrativo: concepto y fuentes."
+    },
+    {
+      "id": "comun-09",
+      "number": 9,
+      "part": "comun",
+      "title": "El acto administrativo y el procedimiento administrativo conforme a la Ley 39/2015."
+    },
+    {
+      "id": "comun-10",
+      "number": 10,
+      "part": "comun",
+      "title": "El contrato administrativo: concepto, tipos, principios, características, elementos, adjudicación y ejecución conforme a la Ley 9/2017."
+    },
+    {
+      "id": "comun-11",
+      "number": 11,
+      "part": "comun",
+      "title": "El personal al servicio de las Administraciones Públicas: régimen jurídico, derechos y deberes."
+    },
+    {
+      "id": "comun-12",
+      "number": 12,
+      "part": "comun",
+      "title": "Los procesos selectivos en la Administración Pública, selección de personal en la AGE e incompatibilidades."
+    },
+    {
+      "id": "comun-13",
+      "number": 13,
+      "part": "comun",
+      "title": "El IV Convenio único para el personal laboral de la AGE: clasificación, órganos de seguimiento, organización del trabajo, provisión, movilidad, derechos, obligaciones y régimen disciplinario."
+    },
+    {
+      "id": "comun-14",
+      "number": 14,
+      "part": "comun",
+      "title": "El contrato de trabajo en la Administración Pública: modalidades, suspensión, extinción, despido, sindicación, comités de empresa y delegados de personal."
+    },
+    {
+      "id": "comun-15",
+      "number": 15,
+      "part": "comun",
+      "title": "El derecho de huelga, servicios esenciales, conflictos colectivos y su solución, con especial referencia a las Administraciones Públicas."
+    },
+    {
+      "id": "especifico-01",
+      "number": 1,
+      "part": "especifico",
+      "title": "Ministerio de Cultura. Instituto Nacional de las Artes Escénicas: normativa, organización y funciones."
+    },
+    {
+      "id": "especifico-02",
+      "number": 2,
+      "part": "especifico",
+      "title": "INAEM y centros de creación, exhibición y difusión: Centro Dramático Nacional y Compañía Nacional de Teatro Clásico. Estatutos, misiones y modelos de gestión."
+    },
+    {
+      "id": "especifico-03",
+      "number": 3,
+      "part": "especifico",
+      "title": "INAEM y centros de creación, exhibición y difusión: Teatro de la Zarzuela, OCNE, JONDE y CNDM. Estatutos, misiones y modelos de gestión."
+    },
+    {
+      "id": "especifico-04",
+      "number": 4,
+      "part": "especifico",
+      "title": "INAEM y centros de creación, exhibición y difusión: Ballet Nacional de España y Compañía Nacional de Danza. Estatutos, misiones y modelos de gestión."
+    },
+    {
+      "id": "especifico-05",
+      "number": 5,
+      "part": "especifico",
+      "title": "INAEM y centros de formación, investigación e innovación técnica: Centro de Tecnología del Espectáculo. Magalia y Auditorio Nacional de Música."
+    },
+    {
+      "id": "especifico-06",
+      "number": 6,
+      "part": "especifico",
+      "title": "Historia del Teatro."
+    },
+    {
+      "id": "especifico-07",
+      "number": 7,
+      "part": "especifico",
+      "title": "Historia de la Música."
+    },
+    {
+      "id": "especifico-08",
+      "number": 8,
+      "part": "especifico",
+      "title": "Historia de la Danza y la Creación Multidisciplinar."
+    },
+    {
+      "id": "especifico-09",
+      "number": 9,
+      "part": "especifico",
+      "title": "Historia de las Artes Circenses."
+    },
+    {
+      "id": "especifico-10",
+      "number": 10,
+      "part": "especifico",
+      "title": "Historia de las Artes Visuales: exhibición, mercado y gestión."
+    },
+    {
+      "id": "especifico-11",
+      "number": 11,
+      "part": "especifico",
+      "title": "Patrimonio, museos y centros de arte: protección del patrimonio cultural, patrimonio inmaterial, memoria de las artes escénicas y musicales e instituciones museísticas estatales."
+    },
+    {
+      "id": "especifico-12",
+      "number": 12,
+      "part": "especifico",
+      "title": "Gestión y creación en artes escénicas y música: producción ejecutiva, roles profesionales e interrelación entre oficina de gestión y escenario."
+    },
+    {
+      "id": "especifico-13",
+      "number": 13,
+      "part": "especifico",
+      "title": "Políticas y modelos culturales: fomento de artes escénicas y música, gobernanza cultural y economía creativa."
+    },
+    {
+      "id": "especifico-14",
+      "number": 14,
+      "part": "especifico",
+      "title": "El tercer sector en la cultura: fundaciones, asociaciones y modelos asociativos sectoriales."
+    },
+    {
+      "id": "especifico-15",
+      "number": 15,
+      "part": "especifico",
+      "title": "Planes de derechos culturales: inclusión social, sostenibilidad medioambiental y acción pública."
+    },
+    {
+      "id": "especifico-16",
+      "number": 16,
+      "part": "especifico",
+      "title": "Perspectiva de género en las artes escénicas y musicales."
+    },
+    {
+      "id": "especifico-17",
+      "number": 17,
+      "part": "especifico",
+      "title": "Políticas de accesibilidad universal aplicadas a las artes escénicas y la música."
+    },
+    {
+      "id": "especifico-18",
+      "number": 18,
+      "part": "especifico",
+      "title": "Planes estratégicos en industrias culturales y creativas: diseño, formulación, diagnóstico, misión, objetivos e indicadores de impacto."
+    },
+    {
+      "id": "especifico-19",
+      "number": 19,
+      "part": "especifico",
+      "title": "Planes estratégicos en industrias culturales y creativas: ejecución, gobernanza, evaluación de políticas culturales y retorno social de la inversión cultural."
+    },
+    {
+      "id": "especifico-20",
+      "number": 20,
+      "part": "especifico",
+      "title": "Estadísticas e indicadores culturales en España: definición, características y principales resultados."
+    },
+    {
+      "id": "especifico-21",
+      "number": 21,
+      "part": "especifico",
+      "title": "Planes de mercadotecnia: segmentación, posicionamiento, políticas de abonos y descuentos."
+    },
+    {
+      "id": "especifico-22",
+      "number": 22,
+      "part": "especifico",
+      "title": "Comunicación y públicos en artes escénicas y musicales: gestión de audiencias."
+    },
+    {
+      "id": "especifico-23",
+      "number": 23,
+      "part": "especifico",
+      "title": "Planificación y difusión comunicativa de proyectos culturales."
+    },
+    {
+      "id": "especifico-24",
+      "number": 24,
+      "part": "especifico",
+      "title": "Mediación, educación y participación."
+    },
+    {
+      "id": "especifico-25",
+      "number": 25,
+      "part": "especifico",
+      "title": "Programación y comisariado artístico: temporadas estables, festivales y circuitos de artes escénicas y música."
+    },
+    {
+      "id": "especifico-26",
+      "number": 26,
+      "part": "especifico",
+      "title": "Financiación de la cultura y patrocinio: mecenazgo, Ley 49/2002, incentivos fiscales y colaboración público-privada."
+    },
+    {
+      "id": "especifico-27",
+      "number": 27,
+      "part": "especifico",
+      "title": "Economía de la cultura en España. Industrias culturales y creativas: análisis y retos."
+    },
+    {
+      "id": "especifico-28",
+      "number": 28,
+      "part": "especifico",
+      "title": "Derechos de autor y propiedad intelectual: Real Decreto Legislativo 1/1996, derechos morales y de explotación, entidades de gestión e inteligencia artificial."
+    },
+    {
+      "id": "especifico-29",
+      "number": 29,
+      "part": "especifico",
+      "title": "El espacio escénico como herramienta de comunicación artística."
+    },
+    {
+      "id": "especifico-30",
+      "number": 30,
+      "part": "especifico",
+      "title": "Edificio teatral e infraestructuras escénicas: evolución, tipos, adecuación funcional y recintos efímeros."
+    },
+    {
+      "id": "especifico-31",
+      "number": 31,
+      "part": "especifico",
+      "title": "Espacio escénico y escenografía: tipos, elementos, materiales, implantación, planos y maquetas."
+    },
+    {
+      "id": "especifico-32",
+      "number": 32,
+      "part": "especifico",
+      "title": "Conceptos básicos de maquinaria y utilería."
+    },
+    {
+      "id": "especifico-33",
+      "number": 33,
+      "part": "especifico",
+      "title": "Iluminación y audiovisuales: aparatos, sustentación, control, sonido, acústica, vídeo, mapping, monitores y microfonía."
+    },
+    {
+      "id": "especifico-34",
+      "number": 34,
+      "part": "especifico",
+      "title": "Adaptación de planta escenográfica a sala de ensayos: marcado, optimización de espacios y logística de producción."
+    },
+    {
+      "id": "especifico-35",
+      "number": 35,
+      "part": "especifico",
+      "title": "Conceptos básicos de sastrería y caracterización: maquillaje y peluquería."
+    },
+    {
+      "id": "especifico-36",
+      "number": 36,
+      "part": "especifico",
+      "title": "Dirección de escenario en ensayos y representaciones de ópera, zarzuela, galas líricas, conciertos y música popular moderna."
+    },
+    {
+      "id": "especifico-37",
+      "number": 37,
+      "part": "especifico",
+      "title": "Dirección de escenario en ensayos y representaciones teatrales y circenses."
+    },
+    {
+      "id": "especifico-38",
+      "number": 38,
+      "part": "especifico",
+      "title": "Dirección de escenario en gira: coordinación y trabajo en equipo."
+    },
+    {
+      "id": "especifico-39",
+      "number": 39,
+      "part": "especifico",
+      "title": "Ofimática y software aplicado a la gestión y a la escena: Word, Excel, Access, PDF Pro y Cue To Cue."
+    },
+    {
+      "id": "especifico-40",
+      "number": 40,
+      "part": "especifico",
+      "title": "Nuevas tecnologías aplicadas al sector cultural."
+    },
+    {
+      "id": "especifico-41",
+      "number": 41,
+      "part": "especifico",
+      "title": "Seguridad y prevención de riesgos laborales en un escenario: principios preventivos, formación, vigilancia de la salud, emergencias, maternidad, menores y accidentes de trabajo."
+    },
+    {
+      "id": "especifico-42",
+      "number": 42,
+      "part": "especifico",
+      "title": "Carga mental, estrés laboral y riesgos psicosociales en industrias creativas: prevención y gestión de equipos."
+    },
+    {
+      "id": "especifico-43",
+      "number": 43,
+      "part": "especifico",
+      "title": "Ley 40/2015 y Ley 39/2015: organización pública, sector público institucional, organismos autónomos y aplicación a la actividad del INAEM."
+    },
+    {
+      "id": "especifico-44",
+      "number": 44,
+      "part": "especifico",
+      "title": "Gestión económica y colaboración institucional: régimen presupuestario de organismos autónomos, gasto e ingresos del INAEM y convenios del sector público."
+    },
+    {
+      "id": "especifico-45",
+      "number": 45,
+      "part": "especifico",
+      "title": "Ley 9/2017 de Contratos del Sector Público y su integración con el Real Decreto-ley 1/2023 sobre el Estatuto del Artista en materia laboral y contractual."
+    }
+  ],
+  "version": "0.1.36"
 }

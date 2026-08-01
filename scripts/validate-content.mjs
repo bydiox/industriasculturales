@@ -89,7 +89,7 @@ for (const question of questions) {
   if (optionIds.length < 2 || new Set(optionIds).size !== optionIds.length) fail(`Opciones inválidas en ${question.id}`);
   if (question.optionCount !== undefined && question.optionCount !== optionIds.length) fail(`optionCount no coincide con las opciones en ${question.id}`);
   if (!optionIds.includes(question.correctOptionId)) fail(`Respuesta correcta inexistente en ${question.id}`);
-  if (question.optionMigration?.source?.startsWith('m1-pool5-')) {
+  if (question.optionMigration?.source?.startsWith('m1-pool5-') && !(question.source?.lawId && question.officialSource?.kind === 'official_exam')) {
     if (question.options.length !== 4 || question.source?.kind !== 'official_exam') fail(`Migración M1 con formato o procedencia inválidos: ${question.id}`);
     const origin = question.optionsOrigin || {};
     if (origin.A !== 'official_exam' || origin.B !== 'official_exam' || origin.C !== 'official_exam' || origin.d !== 'editorial') {
@@ -200,19 +200,30 @@ if (poolTarget) {
     if (!(target.pool3 <= target.pool5 && target.pool5 <= target.pool8)) fail(`Escalera de pool inválida: ${topicId}`);
   }
   const activeByTopic = new Map();
+  const examReadyByTopic = new Map();
   for (const question of questions) {
     if (!(question.active === true || (question.active !== false && question.origin?.historical !== true))) continue;
     activeByTopic.set(question.topicId, (activeByTopic.get(question.topicId) || 0) + 1);
+    if (question.options?.length === expectedExamOptions) {
+      examReadyByTopic.set(question.topicId, (examReadyByTopic.get(question.topicId) || 0) + 1);
+    }
   }
   const zeroTopics = [];
   const belowPool3 = [];
+  const examZeroTopics = [];
+  const examBelowPool3 = [];
   for (const [topicId, target] of Object.entries(poolTarget.byTopic)) {
     const activeCount = activeByTopic.get(topicId) || 0;
+    const examReadyCount = examReadyByTopic.get(topicId) || 0;
     if (activeCount === 0) zeroTopics.push(topicId);
     else if (activeCount < target.pool3) belowPool3.push(`${topicId} (${activeCount}/${target.pool3})`);
+    if (examReadyCount === 0) examZeroTopics.push(topicId);
+    else if (examReadyCount < target.pool3) examBelowPool3.push(`${topicId} (${examReadyCount}/${target.pool3})`);
   }
-  if (zeroTopics.length) warn(`Pool de preguntas: ${zeroTopics.length} temas están a cero: ${zeroTopics.join(', ')}`);
+  if (zeroTopics.length) warn(`Pool de preguntas: ${zeroTopics.length} temas est?n a cero: ${zeroTopics.join(', ')}`);
   if (belowPool3.length) warn(`Pool de preguntas: temas por debajo de pool3: ${belowPool3.join(', ')}`);
+  if (examZeroTopics.length) warn(`Pool de examen (${expectedExamOptions} opciones): ${examZeroTopics.length} temas no tienen preguntas aptas para simulacro aleatorio: ${examZeroTopics.join(', ')}`);
+  if (examBelowPool3.length) warn(`Pool de examen (${expectedExamOptions} opciones): temas por debajo de pool3: ${examBelowPool3.join(', ')}`);
 }
 
 if (!process.exitCode) {

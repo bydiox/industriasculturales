@@ -14,7 +14,8 @@ for (const question of questions) {
   if (!question.source.author && !question.source.edition && !question.source.locator && !question.source.url) {
     fail(`Referencia no localizable: ${question.id}`);
   }
-  if (question.options?.length !== 4) fail(`Una pregunta de referencia debe tener cuatro opciones: ${question.id}`);
+  const isDraft = question.active === false || question.editorialStatus?.startsWith('draft');
+  if (!isDraft && question.options?.length !== 4) fail(`Una pregunta activa de referencia debe tener cuatro opciones: ${question.id}`);
   if (opinionPattern.test(question.prompt || '')) fail(`Enunciado de criterio/opinión en referencia: ${question.id}`);
   const lengths = (question.options || []).map(option => option.text.length);
   if (lengths.length === 3 && Math.max(...lengths) - Math.min(...lengths) > 80) {

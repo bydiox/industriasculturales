@@ -1229,6 +1229,10 @@ function renderFeedback(response) {
       ? `${localSourceUrl ? `<a href="${escapeHtml(localSourceUrl)}" target="_blank" rel="noreferrer">Ver fuente</a> · ` : ''}<a href="${escapeHtml(question.source.url)}" target="_blank" rel="noreferrer">${externalSourceLabel}</a>`
       : '';
   if (question.origin?.questionnaire) sourceLinks = `<a href="${escapeHtml(question.origin.questionnaire)}" target="_blank" rel="noreferrer">Cuestionario oficial</a>${question.origin.answerKey ? ` · <a href="${escapeHtml(question.origin.answerKey)}" target="_blank" rel="noreferrer">Plantilla oficial</a>` : ''}`;
+  if (question.origin?.questionnaire && law) {
+    const officialLinks = `<a href="${escapeHtml(question.origin.questionnaire)}" target="_blank" rel="noreferrer">Cuestionario oficial</a>${question.origin.answerKey ? ` · <a href="${escapeHtml(question.origin.answerKey)}" target="_blank" rel="noreferrer">Plantilla oficial</a>` : ''}`;
+    sourceLinks = `${officialLinks} · <a href="data/laws/${escapeHtml(law.file)}#${escapeHtml(question.source.anchorId || '')}" data-law-id="${escapeHtml(question.source.lawId)}" data-law-anchor="${escapeHtml(question.source.anchorId || '')}">Ver ley</a>${question.source.url ? ` · <a href="${escapeHtml(question.source.url)}" target="_blank" rel="noreferrer">${externalSourceLabel}</a>` : ''}`;
+  }
   const displayReference = question.origin ? `${question.origin.label || 'Examen oficial'} - pregunta ${question.origin.questionNumber || ''}` : reference;
   $('#feedback').innerHTML = `
     <strong>${right ? 'Correcto' : 'Revisa esta respuesta'}</strong>

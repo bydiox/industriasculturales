@@ -1,6 +1,6 @@
 {
   "name": "m3-gestion-industrias-culturales-creativas",
-  "version": "0.1.22",
+  "version": "0.1.36",
   "private": true,
   "type": "module",
   "scripts": {
@@ -38,6 +38,7 @@
     "content:audit:format": "node scripts/audit-question-format.mjs",
     "content:audit:options": "node scripts/audit-option-quality.mjs",
     "content:audit:editorial": "node scripts/audit-editorial-focus.mjs",
+    "content:audit:exam-gaps": "node scripts/audit-exam-ready-gaps.mjs",
     "content:test:options": "node scripts/test-option-quality.mjs",
     "content:audit:sources": "node scripts/audit-source-relevance.mjs",
     "content:validate:sources": "node scripts/validate-bibliography.mjs",
@@ -50,6 +51,18 @@
     "content:import:nuevas-preguntas": "node scripts/import-nuevas-preguntas-2026-08-01.mjs",
     "content:import:inap-gestion-a2-2024": "node scripts/import-inap-gestion-a2-2024.mjs",
     "content:import:inap-gestion-a2-2022": "node scripts/import-inap-gestion-a2-2022.mjs",
-    "content:import:inap-egoa-etgoa": "node scripts/import-inap-egoa-etgoa.mjs"
+    "content:import:inap-egoa-etgoa": "node scripts/import-inap-egoa-etgoa.mjs",
+    "content:questions:reference-pool3": "node scripts/add-reference-pool3-questions.mjs",
+    "content:questions:m1-variants-b": "node scripts/add-m1-technical-variants-b.mjs",
+    "content:questions:anchor-official": "node scripts/anchor-official-questions.mjs",
+    "content:questions:anchor-official-curated-followup": "node scripts/anchor-official-curated-followup.mjs",
+    "content:questions:anchor-official-by-citation": "node scripts/anchor-official-by-citation.mjs",
+    "content:questions:anchor-official-by-text": "node scripts/anchor-official-by-text-match.mjs",
+    "content:questions:anchored-official-variants-b": "node scripts/add-anchored-official-variants-b.mjs",
+    "content:questions:corrected-official-variants-b": "node scripts/add-corrected-official-variants-b.mjs",
+    "content:questions:scope-official-m3": "node scripts/apply-m3-scope-to-official-questions.mjs",
+    "content:questions:deactivate-official-originals": "node scripts/deactivate-official-originals-with-b-variants.mjs",
+    "content:laws:extend-boe-articles": "node scripts/extend-boe-law-articles.mjs",
+    "content:laws:extend-eu-articles": "node scripts/extend-eu-treaty-articles.mjs"
   }
 }

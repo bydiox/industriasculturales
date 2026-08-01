@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-08-01",
+  "expectedOptions": 4,
+  "policy": "El simulacro aleatorio solo usa preguntas activas con el número de opciones vigente. Las oficiales de tres opciones se conservan como histórico o práctica, pero no cubren cuota de examen.",
+  "summary": {
+    "topicsBelowPool3ForExam": 15,
+    "missingForPool3": 40,
+    "topicsWithoutExamReadyQuestions": 15
+  },
+  "gaps": [
+    {
+      "topicId": "especifico-18",
+      "title": "Planes estratégicos en industrias culturales y creativas: diseño, formulación, diagnóstico, misión, objetivos e indicadores de impacto.",
+      "pool3": 4,
+      "pool5": 7,
+      "totalActive": 4,
+      "examReady": 0,
+      "missingForPool3": 4,
+      "missingForPool5": 7,
+      "threeOptionOfficial": 4,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Usar solo como histórico/práctica salvo que exista fuente verificable para variante propia.",
+      "examples": [
+        {
+          "id": "m1-cultura-produccion-2023-32",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-produccion-2023-35",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-produccion-2023-42",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-produccion-2023-81",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        }
+      ]
+    },
+    {
+      "topicId": "especifico-06",
+      "title": "Historia del Teatro.",
+      "pool3": 3,
+      "pool5": 6,
+      "totalActive": 61,
+      "examReady": 0,
+      "missingForPool3": 3,
+      "missingForPool5": 6,
+      "threeOptionOfficial": 61,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Usar solo como histórico/práctica salvo que exista fuente verificable para variante propia.",
+      "examples": [
+        {
+          "id": "m3-2021-oficial-036",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": null
+        },
+        {
+          "id": "m3-2021-oficial-048",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": null
+        },
+        {
+          "id": "m1-cultura-asistencia-2023-31",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-asistencia-2023-32",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-asistencia-2023-33",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        }
+      ]
+    },
+    {
+      "topicId": "especifico-07",
+      "title": "Historia de la Música.",
+      "pool3": 3,
+      "pool5": 6,
+      "totalActive": 9,
+      "examReady": 0,
+      "missingForPool3": 3,
+      "missingForPool5": 6,
+      "threeOptionOfficial": 9,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Usar solo como histórico/práctica salvo que exista fuente verificable para variante propia.",
+      "examples": [
+        {
+          "id": "m3-2021-oficial-047",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": null
+        },
+        {
+          "id": "m3-2021-oficial-059",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": null
+        },
+        {
+          "id": "m3-2021-oficial-060",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": null
+        },
+        {
+          "id": "m3-2021-oficial-061",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": null
+        },
+        {
+          "id": "m3-2021-oficial-062",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": null
+        }
+      ]
+    },
+    {
+      "topicId": "especifico-13",
+      "title": "Políticas y modelos culturales: fomento de artes escénicas y música, gobernanza cultural y economía creativa.",
+      "pool3": 3,
+      "pool5": 6,
+      "totalActive": 8,
+      "examReady": 0,
+      "missingForPool3": 3,
+      "missingForPool5": 6,
+      "threeOptionOfficial": 8,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Usar solo como histórico/práctica salvo que exista fuente verificable para variante propia.",
+      "examples": [
+        {
+          "id": "m1-cultura-produccion-2023-33",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-produccion-2023-76",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-produccion-2023-79",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-produccion-2023-94",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-produccion-2023-100",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        }
+      ]
+    },
+    {
+      "topicId": "especifico-25",
+      "title": "Programación y comisariado artístico: temporadas estables, festivales y circuitos de artes escénicas y música.",
+      "pool3": 3,
+      "pool5": 6,
+      "totalActive": 0,
+      "examReady": 0,
+      "missingForPool3": 3,
+      "missingForPool5": 6,
+      "threeOptionOfficial": 0,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Necesita fuente de referencia o pregunta propia verificable antes de entrar en simulacro.",
+      "examples": []
+    },
+    {
+      "topicId": "especifico-10",
+      "title": "Historia de las Artes Visuales: exhibición, mercado y gestión.",
+      "pool3": 3,
+      "pool5": 5,
+      "totalActive": 0,
+      "examReady": 0,
+      "missingForPool3": 3,
+      "missingForPool5": 5,
+      "threeOptionOfficial": 0,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Necesita fuente de referencia o pregunta propia verificable antes de entrar en simulacro.",
+      "examples": []
+    },
+    {
+      "topicId": "especifico-19",
+      "title": "Planes estratégicos en industrias culturales y creativas: ejecución, gobernanza, evaluación de políticas culturales y retorno social de la inversión cultural.",
+      "pool3": 3,
+      "pool5": 5,
+      "totalActive": 0,
+      "examReady": 0,
+      "missingForPool3": 3,
+      "missingForPool5": 5,
+      "threeOptionOfficial": 0,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Necesita fuente de referencia o pregunta propia verificable antes de entrar en simulacro.",
+      "examples": []
+    },
+    {
+      "topicId": "especifico-27",
+      "title": "Economía de la cultura en España. Industrias culturales y creativas: análisis y retos.",
+      "pool3": 3,
+      "pool5": 5,
+      "totalActive": 1,
+      "examReady": 0,
+      "missingForPool3": 3,
+      "missingForPool5": 5,
+      "threeOptionOfficial": 1,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Usar solo como histórico/práctica salvo que exista fuente verificable para variante propia.",
+      "examples": [
+        {
+          "id": "m3-cultura-audiovisual-2023-65",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        }
+      ]
+    },
+    {
+      "topicId": "especifico-08",
+      "title": "Historia de la Danza y la Creación Multidisciplinar.",
+      "pool3": 3,
+      "pool5": 4,
+      "totalActive": 0,
+      "examReady": 0,
+      "missingForPool3": 3,
+      "missingForPool5": 4,
+      "threeOptionOfficial": 0,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Necesita fuente de referencia o pregunta propia verificable antes de entrar en simulacro.",
+      "examples": []
+    },
+    {
+      "topicId": "especifico-21",
+      "title": "Planes de mercadotecnia: segmentación, posicionamiento, políticas de abonos y descuentos.",
+      "pool3": 2,
+      "pool5": 4,
+      "totalActive": 1,
+      "examReady": 0,
+      "missingForPool3": 2,
+      "missingForPool5": 4,
+      "threeOptionOfficial": 1,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Usar solo como histórico/práctica salvo que exista fuente verificable para variante propia.",
+      "examples": [
+        {
+          "id": "m1-cultura-produccion-2023-92",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        }
+      ]
+    },
+    {
+      "topicId": "especifico-35",
+      "title": "Conceptos básicos de sastrería y caracterización: maquillaje y peluquería.",
+      "pool3": 2,
+      "pool5": 4,
+      "totalActive": 131,
+      "examReady": 0,
+      "missingForPool3": 2,
+      "missingForPool5": 4,
+      "threeOptionOfficial": 131,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Usar solo como histórico/práctica salvo que exista fuente verificable para variante propia.",
+      "examples": [
+        {
+          "id": "m3-2021-oficial-043",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": null
+        },
+        {
+          "id": "m3-2021-oficial-044",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": null
+        },
+        {
+          "id": "m1-cultura-asistencia-2023-98",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-asistencia-2023-99",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        },
+        {
+          "id": "m1-cultura-asistencia-2023-106",
+          "optionCount": 3,
+          "origin": "official_exam",
+          "source": "official_exam"
+        }
+      ]
+    },
+    {
+      "topicId": "especifico-09",
+      "title": "Historia de las Artes Circenses.",
+      "pool3": 2,
+      "pool5": 3,
+      "totalActive": 0,
+      "examReady": 0,
+      "missingForPool3": 2,
+      "missingForPool5": 3,
+      "threeOptionOfficial": 0,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Necesita fuente de referencia o pregunta propia verificable antes de entrar en simulacro.",
+      "examples": []
+    },
+    {
+      "topicId": "especifico-22",
+      "title": "Comunicación y públicos en artes escénicas y musicales: gestión de audiencias.",
+      "pool3": 2,
+      "pool5": 3,
+      "totalActive": 0,
+      "examReady": 0,
+      "missingForPool3": 2,
+      "missingForPool5": 3,
+      "threeOptionOfficial": 0,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Necesita fuente de referencia o pregunta propia verificable antes de entrar en simulacro.",
+      "examples": []
+    },
+    {
+      "topicId": "especifico-23",
+      "title": "Planificación y difusión comunicativa de proyectos culturales.",
+      "pool3": 2,
+      "pool5": 3,
+      "totalActive": 0,
+      "examReady": 0,
+      "missingForPool3": 2,
+      "missingForPool5": 3,
+      "threeOptionOfficial": 0,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Necesita fuente de referencia o pregunta propia verificable antes de entrar en simulacro.",
+      "examples": []
+    },
+    {
+      "topicId": "especifico-24",
+      "title": "Mediación, educación y participación.",
+      "pool3": 2,
+      "pool5": 3,
+      "totalActive": 0,
+      "examReady": 0,
+      "missingForPool3": 2,
+      "missingForPool5": 3,
+      "threeOptionOfficial": 0,
+      "legalAnchoredThreeOption": 0,
+      "referenceDrafts": 0,
+      "safeNextStep": "Necesita fuente de referencia o pregunta propia verificable antes de entrar en simulacro.",
+      "examples": []
+    }
+  ]
+}
