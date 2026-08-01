@@ -1,86 +1,194 @@
 {
-  "schemaVersion": 1,
-  "description": "Fuentes no legislativas que sirven para estudiar o justificar preguntas cuando el temario no se responde con una norma jurídica.",
+  "schemaVersion": 2,
+  "description": "Fuentes no legislativas. Las fichas -B son la lectura breve para Historia; las fuentes largas quedan como respaldo para Ver fuente y revisión editorial.",
   "documents": [
+    {
+      "id": "src-estudio-historia-artes",
+      "title": "Historia de las artes · ficha de estudio",
+      "summary": "Qué estudiar de teatro, música, danza, circo y artes visuales sin convertirlo en historia universal.",
+      "file": "data/sources/fuente-historia-artes-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-06", "especifico-07", "especifico-08", "especifico-09", "especifico-10"],
+      "relatedFiles": ["data/sources/fuente-cdaem-danza.html", "data/sources/fuente-anuario-estadisticas-2024.html", "data/sources/inaem-m1-2022.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-tecnica-escena",
+      "title": "Técnica escénica, regiduría y tecnología · ficha de estudio",
+      "summary": "Vocabulario básico de escenario, maquinaria, iluminación, sonido, vídeo, sastrería, caracterización y regiduría.",
+      "file": "data/sources/fuente-tecnica-escena-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-29", "especifico-30", "especifico-31", "especifico-32", "especifico-33", "especifico-34", "especifico-35", "especifico-36", "especifico-37", "especifico-38", "especifico-39", "especifico-40"],
+      "relatedFiles": ["data/sources/cncp-technical.html", "data/sources/inaem-m1-2022.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-produccion-economia",
+      "title": "Producción, políticas y economía cultural · ficha de estudio",
+      "summary": "Producción ejecutiva, políticas culturales, tercer sector, economía cultural e industrias culturales.",
+      "file": "data/sources/fuente-produccion-economia-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-12", "especifico-13", "especifico-14", "especifico-27"],
+      "relatedFiles": ["data/sources/fuente-componente-24.html", "data/sources/fuente-anuario-estadisticas-2024.html", "data/sources/cncp-technical.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-publicos-programacion",
+      "title": "Públicos, comunicación y programación · ficha de estudio",
+      "summary": "Marketing cultural, públicos, comunicación, mediación, educación, participación, programación y comisariado.",
+      "file": "data/sources/fuente-publicos-programacion-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-21", "especifico-22", "especifico-23", "especifico-24", "especifico-25"],
+      "relatedFiles": ["data/sources/fuente-plan-derechos-culturales.html", "data/sources/fuente-femp-indicadores.html", "data/sources/fuente-anuario-estadisticas-2024.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-planificacion-estadistica",
+      "title": "Planificación estratégica y estadística · ficha de estudio",
+      "summary": "Diagnóstico, objetivos, indicadores, evaluación, retorno social y estadísticas culturales.",
+      "file": "data/sources/fuente-planificacion-estadistica-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-18", "especifico-19", "especifico-20"],
+      "relatedFiles": ["data/sources/fuente-femp-indicadores.html", "data/sources/fuente-anuario-estadisticas-2024.html", "data/sources/m3-bibliography.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-prl-psicosocial",
+      "title": "PRL, carga mental y estrés · ficha de estudio",
+      "summary": "Prevención escénica, coordinación preventiva, equipos, carga mental, estrés laboral y riesgos psicosociales.",
+      "file": "data/sources/fuente-prl-psicosocial-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-41", "especifico-42"],
+      "relatedFiles": ["data/sources/m3-bibliography.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-derechos-culturales",
+      "title": "Derechos culturales, género y accesibilidad · ficha de estudio",
+      "summary": "Acceso, participación, inclusión, sostenibilidad, igualdad y accesibilidad en cultura.",
+      "file": "data/sources/fuente-derechos-culturales-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-15", "especifico-16", "especifico-17"],
+      "relatedFiles": ["data/sources/fuente-plan-derechos-culturales.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-patrimonio-museos",
+      "title": "Patrimonio y museos · ficha de estudio",
+      "summary": "Patrimonio cultural, patrimonio inmaterial, museos y memoria de las artes escénicas y musicales.",
+      "file": "data/sources/fuente-patrimonio-museos-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-11"],
+      "relatedFiles": ["data/sources/fuente-cdaem-danza.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-financiacion-pi",
+      "title": "Financiación, mecenazgo y propiedad intelectual · ficha de estudio",
+      "summary": "Financiación cultural, patrocinio, mecenazgo, derechos de autor e inteligencia artificial.",
+      "file": "data/sources/fuente-financiacion-pi-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-26", "especifico-28"],
+      "relatedFiles": ["data/sources/fuente-componente-24.html"],
+      "showInStudyCatalog": true
+    },
     {
       "id": "src-cncp-technical",
       "title": "CNECP/CNCP técnico de escena y producción",
-      "summary": "Estándares profesionales oficiales para espacio escénico, maquinaria, iluminación, sonido, vídeo, producción y regiduría. Se estudia como fuente técnica, no como ley.",
+      "summary": "Fuente técnica larga: estándares profesionales oficiales para escena, producción, regiduría, sonido, vídeo e iluminación.",
       "file": "data/sources/cncp-technical.html",
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": true
+      "showInStudyCatalog": false
     },
     {
       "id": "src-cdaem-danza",
       "title": "CDAEM: danza y patrimonio escénico",
-      "summary": "Fuente institucional para estudiar documentación de danza, patrimonio escénico y recursos del CDAEM sin convertirlo en articulado legal.",
+      "summary": "Fuente institucional larga sobre documentación de danza, patrimonio escénico y recursos del CDAEM.",
       "file": "data/sources/fuente-cdaem-danza.html",
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": true
+      "showInStudyCatalog": false
     },
     {
       "id": "src-anuario-estadisticas",
       "title": "Anuario de Estadísticas Culturales",
-      "summary": "Fuente oficial para datos culturales, hábitos, sectores, empleo, gasto, museos, artes escénicas y magnitudes culturales.",
+      "summary": "Fuente oficial larga para datos culturales, hábitos, sectores, empleo, gasto, museos, artes escénicas y magnitudes culturales.",
       "file": "data/sources/fuente-anuario-estadisticas-2024.html",
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": true
+      "showInStudyCatalog": false
     },
     {
       "id": "src-femp-indicadores",
       "title": "FEMP: indicadores y planificación cultural",
-      "summary": "Fuente de apoyo para planificación estratégica, indicadores, evaluación, públicos y gestión cultural local.",
+      "summary": "Fuente larga para planificación estratégica, indicadores, evaluación, públicos y gestión cultural local.",
       "file": "data/sources/fuente-femp-indicadores.html",
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": true
+      "showInStudyCatalog": false
     },
     {
       "id": "src-plan-derechos-culturales",
       "title": "Plan de Derechos Culturales",
-      "summary": "Fuente institucional para derechos culturales, participación, mediación, inclusión, públicos y acceso a la cultura.",
+      "summary": "Fuente institucional larga para derechos culturales, participación, mediación, inclusión, públicos y acceso.",
       "file": "data/sources/fuente-plan-derechos-culturales.html",
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": true
+      "showInStudyCatalog": false
     },
     {
       "id": "src-componente-24",
       "title": "Componente 24: revalorización de la industria cultural",
-      "summary": "Fuente para economía de la cultura, digitalización, financiación, modernización sectorial y políticas públicas culturales.",
+      "summary": "Fuente larga para economía de la cultura, digitalización, financiación, modernización sectorial y políticas culturales.",
       "file": "data/sources/fuente-componente-24.html",
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": true
+      "showInStudyCatalog": false
     },
     {
       "id": "src-insst-estadistica",
       "title": "INSST y estadísticas culturales",
-      "summary": "Fuentes oficiales de apoyo para carga mental, estrés laboral, Anuario de Estadísticas Culturales y Cuenta Satélite de la Cultura.",
+      "summary": "Fuente larga para carga mental, estrés laboral, Anuario de Estadísticas Culturales y Cuenta Satélite de la Cultura.",
       "file": "data/sources/m3-bibliography.html",
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": true
+      "showInStudyCatalog": false
     },
     {
       "id": "src-inaem-m1-2022",
       "title": "Temario INAEM M1 2022 como calibrador técnico",
-      "summary": "Referencia comparativa para calibrar vocabulario técnico de escena, sastrería, caracterización, regiduría y artes visuales. No sustituye el temario M3.",
+      "summary": "Referencia comparativa para calibrar vocabulario técnico. No sustituye el temario M3.",
       "file": "data/sources/inaem-m1-2022.html",
       "format": "html",
       "category": "fuentes",
       "kind": "official",
-      "showInStudyCatalog": true
+      "showInStudyCatalog": false
     }
   ]
 }

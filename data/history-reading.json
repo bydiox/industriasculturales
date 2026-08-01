@@ -1,82 +1,83 @@
 {
   "schemaVersion": 2,
-  "description": "Lecturas previas al test de cada unidad de Historia: legislación cuando procede y documentos de estudio cuando el tema es técnico, bibliográfico o editorial.",
+  "description": "Lecturas previas al test de cada unidad de Historia: legislación cuando procede y documentos de estudio cuando el tema es técnico, bibliográfico o editorial. Las guías generales del modo Historia se muestran arriba y no se repiten dentro de cada unidad.",
+  "generalDocumentIds": ["guia-maria", "mapa-historia"],
   "units": {
     "U01": {
       "lawIds": ["ce-1978", "ley-50-1997"],
-      "documentIds": ["mapa-historia"]
+      "documentIds": []
     },
     "U05": {
       "lawIds": ["rdleg-5-2015", "convenio-iv", "ley-53-1984", "rd-364-1995"],
-      "documentIds": ["mapa-historia"]
+      "documentIds": []
     },
     "U15": {
       "lawIds": ["rd-2816-1982", "rd-314-2006", "rd-486-1997", "rd-1215-1997", "rd-773-1997", "rd-171-2004"],
-      "documentIds": ["mapa-historia", "tecnico", "m1-cuestionarios", "practico"]
+      "documentIds": ["src-estudio-tecnica-escena", "practico"]
     },
     "U03": {
       "lawIds": ["ley-39-2015", "ley-40-2015", "rd-2491-1996"],
-      "documentIds": ["mapa-historia"]
+      "documentIds": []
     },
     "U02": {
       "lawIds": ["eu-teu-2012", "eu-tfeu-2012"],
-      "documentIds": ["mapa-historia"]
+      "documentIds": []
     },
     "U07": {
       "lawIds": ["rd-1028-2025", "rd-2491-1996", "rd-323-2024", "rd-1009-2023", "ley-50-1984", "orden-cul-2039-2011-cdn", "orden-cul-3355-2010-cntc", "orden-cul-451-2011-zarzuela", "orden-cul-3359-2011-cndm", "orden-cul-3065-2010-bne", "orden-cul-1993-2010-cnd", "rd-1245-2002", "orden-17-10-1983"],
-      "documentIds": ["mapa-historia", "guia-maria"]
+      "documentIds": []
     },
     "U06": {
       "lawIds": ["rdleg-2-2015-et", "lo-11-1985-lols", "rdl-17-1977"],
-      "documentIds": ["mapa-historia"]
+      "documentIds": []
     },
     "U04": {
       "lawIds": ["ley-9-2017-lcsp", "rd-1435-1985", "rd-607-2026", "rdl-5-2022", "rdl-1-2023"],
-      "documentIds": ["mapa-historia", "guia-maria"]
+      "documentIds": []
     },
     "U08": {
       "lawIds": [],
-      "documentIds": ["mapa-historia", "fuentes"]
+      "documentIds": ["src-estudio-historia-artes"]
     },
     "U10": {
       "lawIds": ["ley-50-2002", "lo-1-2002", "ley-49-2002", "ley-27-2014"],
-      "documentIds": ["mapa-historia", "fuentes"]
+      "documentIds": ["src-estudio-produccion-economia"]
     },
     "U18": {
       "lawIds": ["ley-31-1995", "rd-39-1997", "rd-393-2007", "rd-171-2004"],
-      "documentIds": ["mapa-historia", "fuentes"]
+      "documentIds": ["src-estudio-prl-psicosocial"]
     },
     "U13": {
       "lawIds": [],
-      "documentIds": ["mapa-historia", "fuentes"]
+      "documentIds": ["src-estudio-publicos-programacion"]
     },
     "U12": {
       "lawIds": ["ley-12-1989"],
-      "documentIds": ["mapa-historia", "fuentes"]
+      "documentIds": ["src-estudio-planificacion-estadistica"]
     },
     "U14": {
       "lawIds": ["ley-49-2002", "rdleg-1-1996", "rdl-24-2021", "rdl-6-2023"],
-      "documentIds": ["mapa-historia", "fuentes"]
+      "documentIds": ["src-estudio-financiacion-pi"]
     },
     "U16": {
       "lawIds": ["rd-2816-1982", "rd-171-2004", "rd-393-2007"],
-      "documentIds": ["mapa-historia", "tecnico", "m1-cuestionarios", "practico"]
+      "documentIds": ["src-estudio-tecnica-escena", "practico"]
     },
     "U11": {
       "lawIds": ["lo-3-2007", "rdleg-1-2013", "rd-193-2023", "conv-onu-2006", "ley-7-2021"],
-      "documentIds": ["mapa-historia", "fuentes"]
+      "documentIds": ["src-estudio-derechos-culturales"]
     },
     "U09": {
       "lawIds": ["ley-16-1985", "ley-10-2015", "rd-620-1987"],
-      "documentIds": ["mapa-historia", "fuentes"]
+      "documentIds": ["src-estudio-patrimonio-museos"]
     },
     "U19": {
       "lawIds": ["ley-47-2003", "ley-38-2003", "ley-50-1984"],
-      "documentIds": ["mapa-historia"]
+      "documentIds": []
     },
     "U17": {
       "lawIds": ["rd-992-2014-cte"],
-      "documentIds": ["mapa-historia", "tecnico", "m1-cuestionarios"]
+      "documentIds": ["src-estudio-tecnica-escena"]
     }
   }
 }

@@ -282,6 +282,28 @@ function toggleQuestionList(listName, questionId) {
   renderQuestionTools();
 }
 
+function toggleReadingItem(unitId, itemId) {
+  const key = `${unitId}:${itemId}`;
+  const unit = state.content.unitsById?.[unitId];
+  const wasRead = unit ? readingItemIsRead(unit, itemId) : (state.progress.readItems || []).includes(key);
+  const current = new Set(state.progress.readItems || []);
+  if (wasRead) {
+    if (unit && state.progress.readUnits.includes(unitId) && !unitHasIndividualReadingProgress(unit)) {
+      unitReadingItems(unit)
+        .filter(item => item.id !== itemId)
+        .forEach(item => current.add(`${unitId}:${item.id}`));
+    }
+    current.delete(key);
+  } else {
+    current.add(key);
+  }
+  state.progress.readItems = [...current];
+  if (unit && unitIsRead(unit) && !state.progress.readUnits.includes(unitId)) {
+    state.progress.readUnits.push(unitId);
+  }
+  state.progress = progressStore.save(state.progress);
+}
+
 function renderQuestionTools() {
   const question = state.questions[state.index];
   if (!question) return;
@@ -327,15 +349,53 @@ function unitReading(unit) {
   return state.content.historyReading?.units?.[unit.id] || { lawIds: [], documentIds: [] };
 }
 
-function unitIsRead(unit) {
+function unitReadingItems(unit) {
   const reading = unitReading(unit);
-  const hasReading = (reading.lawIds?.length || 0) + (reading.documentIds?.length || 0) > 0;
-  return !hasReading || state.progress.readUnits.includes(unit.id);
+  return [
+    ...(reading.lawIds || []).map(id => ({ id: `law:${id}`, kind: 'law', ref: id })),
+    ...(reading.documentIds || []).map(id => ({ id: `doc:${id}`, kind: 'doc', ref: id }))
+  ];
+}
+
+function unitHasIndividualReadingProgress(unit) {
+  const prefix = `${unit.id}:`;
+  return (state.progress.readItems || []).some(id => id.startsWith(prefix));
+}
+
+function readingItemIsRead(unit, itemId) {
+  const key = `${unit.id}:${itemId}`;
+  if (state.progress.readItems.includes(key)) return true;
+  return state.progress.readUnits.includes(unit.id) && !unitHasIndividualReadingProgress(unit);
+}
+
+function unitReadingProgress(unit) {
+  const items = unitReadingItems(unit);
+  const total = items.length;
+  const read = total ? items.filter(item => readingItemIsRead(unit, item.id)).length : 0;
+  return { read, total };
+}
+
+function unitIsRead(unit) {
+  const { read, total } = unitReadingProgress(unit);
+  return !total || read === total;
+}
+
+function unitReadingGatePassed(unit) {
+  return unitIsRead(unit) || state.progress.readUnits.includes(unit.id);
+}
+
+function allReadingProgress(units = orderedUnits()) {
+  return units.reduce((acc, unit) => {
+    const progress = unitReadingProgress(unit);
+    acc.read += progress.read;
+    acc.total += progress.total;
+    return acc;
+  }, { read: 0, total: 0 });
 }
 
 function topicIsUnlocked(unit, unitIndex, topicIndex) {
   if (!unitIsUnlocked(unitIndex)) return false;
-  if (!unitIsRead(unit)) return false;
+  if (!unitReadingGatePassed(unit)) return false;
   if (topicIndex === 0) return true;
   return state.progress.completedTopics.includes(unit.topicIds[topicIndex - 1]);
 }
@@ -378,8 +438,12 @@ function lawExamWeight(lawId) {
 
 function studyDocumentExamWeight(document) {
   if (!document?.file) return 0;
-  const sourcePath = document.file.replace(/^data\//, '');
-  return sourceExamWeight(question => question.source?.file === sourcePath);
+  if (Array.isArray(document.topicIds) && document.topicIds.length) {
+    return document.topicIds.reduce((total, topicId) => total + topicExamWeight(topicId), 0);
+  }
+  const sourcePaths = [document.file, ...(document.relatedFiles || [])]
+    .map(file => file.replace(/^data\//, ''));
+  return sourceExamWeight(question => sourcePaths.includes(question.source?.file));
 }
 
 function unitTopicsCompleted(unit) {
@@ -487,6 +551,7 @@ function studyDocumentCategory(documentId) {
 }
 
 function studyDocumentTypeLabel(document) {
+  if (document?.kind === 'study-guide') return 'Ficha de estudio';
   if (document?.kind === 'source') return 'Fuente';
   if (document?.kind === 'official') return 'Material oficial';
   if (document?.kind === 'practical') return 'Práctico';
@@ -507,10 +572,14 @@ function lawStudyScope(lawId) {
 }
 
 function documentStudyScope(documentId) {
+  const document = studyDocumentById(documentId);
   const status = state.content.studyScope?.documents?.[documentId] || {};
+  const fallbackStatus = document?.kind === 'study-guide'
+    ? 'study'
+    : state.content.studyScope?.defaultDocumentStatus || 'support';
   return {
-    status: status.status || state.content.studyScope?.defaultDocumentStatus || 'support',
-    study: status.study || studyStatus(status.status || 'support').description
+    status: status.status || fallbackStatus,
+    study: status.study || studyStatus(status.status || fallbackStatus).description
   };
 }
 
@@ -551,6 +620,7 @@ function renderUnitStudyBrief(unit, reading) {
   return `
     <aside class="unit-study-brief" aria-label="Qué estudiar en este mundo">
       <div><strong>Estudia</strong><span>${escapeHtml(guide.study)}</span></div>
+      <div><strong>Material</strong><span>${escapeHtml(guide.sourceText)}</span></div>
       <div><strong>No te líes</strong><span>${escapeHtml(guide.avoidText)}</span></div>
       <div><strong>Entrena así</strong><span>${escapeHtml(guide.trainText)}</span></div>
     </aside>`;
@@ -605,12 +675,14 @@ function nextHomeGuidance() {
 
   const unit = units[unitIndex];
   const unitWeight = formatExamWeight(unitExamWeight(unit));
-  if (!unitIsRead(unit)) {
+  if (!unitReadingGatePassed(unit)) {
+    const reading = unitReadingProgress(unit);
+    const pending = Math.max(0, reading.total - reading.read);
     return {
       tone: 'reading',
       kicker: `Mundo ${unitIndex + 1} de ${units.length} · ${unitWeight} del examen`,
       title: `Ahora toca: leer ${unit.title}`,
-      body: 'Primero mira el material de estudio de este mundo; después la app te deja avanzar por sus tests.',
+      body: `Te quedan ${pending} lectura(s) de este mundo. Márcalas una a una y después se desbloquean sus tests.`,
       action: 'Abrir modo Historia',
       actionType: 'story',
       unitId: unit.id
@@ -1436,6 +1508,7 @@ function renderStoryProgressPanel(units, completedOfficialTopics) {
   const panel = $('#story-progress-panel');
   if (!panel) return;
   const { completedTopicWeight, completedUnitWeight } = storyProgressMetrics(units);
+  const readingProgress = allReadingProgress(units);
   const completedUnits = state.progress.completedUnits.length;
   const messageIndex = Math.floor((Date.now() / 1000 / 60) + completedOfficialTopics + completedUnits) % storyEncouragements.length;
   const topicPercent = formatExamWeight(completedTopicWeight);
@@ -1452,7 +1525,34 @@ function renderStoryProgressPanel(units, completedOfficialTopics) {
     <div class="story-progress-stats">
       <span>${completedOfficialTopics}/60 temas</span>
       <span>${completedUnits}/${units.length} mundos</span>
+      <span>${readingProgress.read}/${readingProgress.total} lecturas</span>
       <span>${topicPercent} del examen por temas</span>
+    </div>`;
+}
+
+function renderStoryGeneralGuides() {
+  const panel = $('#story-general-guides');
+  if (!panel) return;
+  const documentIds = state.content.historyReading?.generalDocumentIds || [];
+  const documents = documentIds.map(id => studyDocumentById(id)).filter(Boolean);
+  if (!documents.length) {
+    panel.hidden = true;
+    panel.innerHTML = '';
+    return;
+  }
+  panel.hidden = false;
+  panel.innerHTML = `
+    <div class="story-general-guides-copy">
+      <strong>Antes de empezar</strong>
+      <span>Estas guías son generales: explican el camino completo y no forman parte de una unidad concreta.</span>
+    </div>
+    <div class="story-general-guides-list">
+      ${documents.map(document => `
+        <button class="story-general-guide" type="button" data-story-guide="${escapeHtml(document.id)}">
+          <span>${escapeHtml(studyDocumentTypeLabel(document))}</span>
+          <strong>${escapeHtml(document.title)}</strong>
+          <small>${escapeHtml(document.summary)}</small>
+        </button>`).join('')}
     </div>`;
 }
 
@@ -1470,6 +1570,7 @@ function renderStory() {
   const cleanStoryProgress = $('#story-progress-summary');
   if (cleanStoryProgress) cleanStoryProgress.textContent = `${state.progress.completedUnits.length}/19 mundos \u00b7 ${completedOfficialTopics}/60 temas`;
   renderStoryProgressPanel(units, completedOfficialTopics);
+  renderStoryGeneralGuides();
   $('#unit-list').innerHTML = units.map((unit, unitIndex) => {
     const world = storyWorldCopy[unit.id] || {};
     const status = unitStatus(unit, unitIndex);
@@ -1484,8 +1585,8 @@ function renderStory() {
       const available = unlocked && questionCount > 0;
       const stateLabel = completed
         ? 'Superado'
-        : unitIsUnlocked(unitIndex) && !unitIsRead(unit)
-          ? 'Lee la legislación primero'
+        : unitIsUnlocked(unitIndex) && !unitReadingGatePassed(unit)
+          ? 'Lee el material primero'
         : !unlocked
           ? 'Bloqueado'
           : questionCount
@@ -1520,14 +1621,43 @@ function renderStory() {
       .map(documentId => studyDocumentById(documentId))
       .filter(Boolean);
     const hasReading = readingLaws.length || readingDocs.length;
+    const readingProgress = unitReadingProgress(unit);
+    const canMarkReading = unitIsUnlocked(unitIndex);
+    const readingTitle = readingLaws.length && !readingDocs.length ? '1. Lee la legislación' : '1. Lee el material de estudio';
     const readingBlock = hasReading
       ? `<div class="unit-reading ${unitIsRead(unit) ? 'is-complete' : ''}">
-          <div><strong>1. Lee el material de estudio</strong><small>${unitIsRead(unit) ? 'Lectura marcada como completada.' : 'Abre las normas y documentos antes de contestar el test.'}</small></div>
+          <div><strong>${escapeHtml(readingTitle)}</strong><small>${unitIsRead(unit) ? 'Todo el material de este mundo está marcado como leído.' : `${readingProgress.read}/${readingProgress.total} lecturas marcadas. Abre cada norma o fuente y márcala al terminar.`}</small></div>
           <div class="unit-law-links">
-            ${readingLaws.map(law => `<button class="unit-law-link is-law" type="button" data-story-law="${escapeHtml(law.lawId)}"><span class="reading-type">Legislación</span>${studyScopeBadge(lawStudyScope(law.lawId))}<strong>${escapeHtml(law.title)}</strong></button>`).join('')}
-            ${readingDocs.map(document => `<button class="unit-law-link is-study-doc" type="button" data-story-doc="${escapeHtml(document.id)}"><span class="reading-type">${escapeHtml(studyDocumentTypeLabel(document))}</span>${studyScopeBadge(documentStudyScope(document.id))}<strong>${escapeHtml(document.title)}</strong><small>${escapeHtml(document.summary)}</small></button>`).join('')}
+            ${readingLaws.map(law => {
+              const itemId = `law:${law.lawId}`;
+              const read = readingItemIsRead(unit, itemId);
+              const canToggleReading = canMarkReading || read;
+              const explanation = state.content.simpleExplanations?.[law.lawId] || '';
+              return `<article class="unit-law-link is-law ${read ? 'is-read' : ''}">
+                <span class="reading-type">Legislación</span>${studyScopeBadge(lawStudyScope(law.lawId))}
+                <strong>${escapeHtml(law.title)}</strong>
+                ${explanation ? `<small>${escapeHtml(explanation)}</small>` : ''}
+                <div class="unit-reading-actions">
+                  <button class="secondary compact-action" type="button" data-story-law-open="${escapeHtml(law.lawId)}">Abrir</button>
+                  <button class="secondary compact-action mark-read-action" type="button" data-mark-reading-item="${escapeHtml(itemId)}" data-reading-unit="${escapeHtml(unit.id)}" aria-pressed="${read ? 'true' : 'false'}" ${canToggleReading ? '' : 'disabled'}>${read ? 'Quitar leído' : canMarkReading ? 'Marcar leído' : 'Bloqueado'}</button>
+                </div>
+              </article>`;
+            }).join('')}
+            ${readingDocs.map(document => {
+              const itemId = `doc:${document.id}`;
+              const read = readingItemIsRead(unit, itemId);
+              const canToggleReading = canMarkReading || read;
+              return `<article class="unit-law-link is-study-doc ${read ? 'is-read' : ''}">
+                <span class="reading-type">${escapeHtml(studyDocumentTypeLabel(document))}</span>${studyScopeBadge(documentStudyScope(document.id))}
+                <strong>${escapeHtml(document.title)}</strong>
+                <small>${escapeHtml(document.summary)}</small>
+                <div class="unit-reading-actions">
+                  <button class="secondary compact-action" type="button" data-story-doc-open="${escapeHtml(document.id)}">Abrir</button>
+                  <button class="secondary compact-action mark-read-action" type="button" data-mark-reading-item="${escapeHtml(itemId)}" data-reading-unit="${escapeHtml(unit.id)}" aria-pressed="${read ? 'true' : 'false'}" ${canToggleReading ? '' : 'disabled'}>${read ? 'Quitar leído' : canMarkReading ? 'Marcar leído' : 'Bloqueado'}</button>
+                </div>
+              </article>`;
+            }).join('')}
           </div>
-          <button class="secondary" type="button" data-mark-unit-read="${escapeHtml(unit.id)}" ${unitIsUnlocked(unitIndex) && !unitIsRead(unit) ? '' : 'disabled'}>${unitIsRead(unit) ? 'Material leído' : 'He leído el material'}</button>
         </div>`
       : `<div class="unit-reading is-reference"><div><strong>Material de estudio</strong><small>Esta unidad está pendiente de asociar a lecturas concretas.</small></div></div>`;
     const finalAvailable = unitTopicsCompleted(unit) && unitQuestionCount(unit) > 0;
@@ -1543,7 +1673,7 @@ function renderStory() {
             <span class="unit-study-scope">${studyScopeBadge(unitScope)} ${escapeHtml(unitScope.study)}</span>
             <small class="unit-focus">${escapeHtml(world.focus || '')}</small>
           </span>
-          <span class="unit-progress">${completedTopics}/${unit.topicIds.length}</span>
+          <span class="unit-progress"><b>${completedTopics}/${unit.topicIds.length}</b><small>${readingProgress.read}/${readingProgress.total} lecturas</small></span>
         </button>
         <div class="unit-body" ${expanded ? '' : 'hidden'}>
           ${renderUnitStudyBrief(unit, reading)}
@@ -1564,55 +1694,10 @@ function renderStory() {
       </article>`;
   }).join('');
 
-  document.querySelectorAll('#unit-list .story-unit').forEach((node, index) => {
-    const unit = units[index];
-    const label = node.querySelector('.unit-title > small');
-    if (label && unit) label.textContent = `Mundo ${index + 1} de ${units.length} · ${formatExamWeight(unitExamWeight(unit))} del examen · ${unitStatus(unit, index) === 'completed' ? 'Superada' : unitStatus(unit, index) === 'active' ? 'En curso' : 'Bloqueada'}`;
-  });
-  document.querySelectorAll('[data-story-law]').forEach(button => {
-    const law = state.content.lawsById?.[button.dataset.storyLaw];
-    if (!law) return;
-    const explanation = state.content.simpleExplanations?.[law.lawId] || '';
-    button.innerHTML = `<span class="reading-type">Legislación</span>${studyScopeBadge(lawStudyScope(law.lawId))}<strong>${escapeHtml(law.title)}</strong><small>${escapeHtml(explanation)}</small>`;
-  });
-  document.querySelectorAll('#unit-list .story-unit').forEach(node => {
-    const readingTitle = node.querySelector('.unit-reading > div:first-child > strong');
-    const readingNote = node.querySelector('.unit-reading > div:first-child > small');
-    const hasLaws = Boolean(node.querySelector('[data-story-law]'));
-    const hasDocs = Boolean(node.querySelector('[data-story-doc]'));
-    if (readingTitle) readingTitle.textContent = hasLaws && !hasDocs ? '1. Lee la legislación' : '1. Lee el material de estudio';
-    if (readingNote) readingNote.textContent = hasLaws && hasDocs
-      ? 'Combina las normas con las guías o fuentes editoriales de este mundo.'
-      : hasLaws
-        ? 'Lee estas normas antes de contestar el test.'
-        : 'Esta unidad se estudia con material técnico, bibliográfico o editorial.';
-  });
-  document.querySelectorAll('#unit-list .story-unit').forEach((node, unitIndex) => {
-    const unit = units[unitIndex];
-    node.querySelectorAll('.story-topic').forEach((topicNode, topicIndex) => {
-      const topicId = unit?.topicIds?.[topicIndex];
-      const label = topicNode.querySelector('small');
-      if (!topicId || !label) return;
-      const completed = state.progress.completedTopics.includes(topicId);
-      const unlocked = topicIsUnlocked(unit, unitIndex, topicIndex);
-      const available = unlocked && topicQuestionCount(topicId) > 0;
-      label.textContent = completed ? 'Superado' : !unlocked ? 'Bloqueado' : !unitIsRead(unit) && unitIsUnlocked(unitIndex) ? 'Lee el material primero' : available ? `${topicQuestionCount(topicId)} preguntas disponibles` : 'Contenido y preguntas pendientes';
-    });
-  });
   document.querySelectorAll('#unit-list .story-unit').forEach((node, unitIndex) => {
     const unit = units[unitIndex];
     const label = node.querySelector('.unit-title > small');
     if (label && unit) label.textContent = `Mundo ${unitIndex + 1} de ${units.length} \u00b7 ${formatExamWeight(unitExamWeight(unit))} del examen \u00b7 ${unitStatus(unit, unitIndex) === 'completed' ? 'Superada' : unitStatus(unit, unitIndex) === 'active' ? 'En curso' : 'Bloqueada'}`;
-    const readingTitle = node.querySelector('.unit-reading > div:first-child > strong');
-    const readingNote = node.querySelector('.unit-reading > div:first-child > small');
-    const hasLaws = Boolean(node.querySelector('[data-story-law]'));
-    const hasDocs = Boolean(node.querySelector('[data-story-doc]'));
-    if (readingTitle) readingTitle.textContent = hasLaws && !hasDocs ? '1. Lee la legislación' : '1. Lee el material de estudio';
-    if (readingNote) readingNote.textContent = hasLaws && hasDocs
-      ? 'Combina las normas con las guías o fuentes editoriales de este mundo.'
-      : hasLaws
-        ? 'Lee estas normas antes de contestar el test.'
-        : 'Esta unidad se estudia con material técnico, bibliográfico o editorial.';
     node.querySelectorAll('.story-topic').forEach((topicNode, topicIndex) => {
       const topicId = unit?.topicIds?.[topicIndex];
       const topicLabel = topicNode.querySelector('small');
@@ -1620,7 +1705,7 @@ function renderStory() {
       const completed = state.progress.completedTopics.includes(topicId);
       const unlocked = topicIsUnlocked(unit, unitIndex, topicIndex);
       const available = unlocked && topicQuestionCount(topicId) > 0;
-      topicLabel.textContent = completed ? 'Superado' : !unlocked ? 'Bloqueado' : !unitIsRead(unit) && unitIsUnlocked(unitIndex) ? 'Lee el material primero' : available ? `${topicQuestionCount(topicId)} preguntas disponibles` : 'Contenido y preguntas pendientes';
+      topicLabel.textContent = completed ? 'Superado' : !unlocked ? 'Bloqueado' : !unitReadingGatePassed(unit) && unitIsUnlocked(unitIndex) ? 'Lee el material primero' : available ? `${topicQuestionCount(topicId)} preguntas disponibles` : 'Contenido y preguntas pendientes';
     });
   });
   document.querySelectorAll('[data-toggle-unit]').forEach(button => button.addEventListener('click', () => {
@@ -1632,15 +1717,17 @@ function renderStory() {
   document.querySelectorAll('[data-story-topic]:not(:disabled)').forEach(button => button.addEventListener('click', () => {
     start('historia-tema', button.dataset.storyTopic, 'aleatorio', button.dataset.unitId);
   }));
-  document.querySelectorAll('[data-story-law]').forEach(button => button.addEventListener('click', () => {
-    openLawDocument(button.dataset.storyLaw, null, true);
+  document.querySelectorAll('[data-story-law-open]').forEach(button => button.addEventListener('click', () => {
+    openLawDocument(button.dataset.storyLawOpen, null, true);
   }));
-  document.querySelectorAll('[data-story-doc]').forEach(button => button.addEventListener('click', () => {
-    openStudyDocument(button.dataset.storyDoc);
+  document.querySelectorAll('[data-story-doc-open]').forEach(button => button.addEventListener('click', () => {
+    openStudyDocument(button.dataset.storyDocOpen);
   }));
-  document.querySelectorAll('[data-mark-unit-read]:not(:disabled)').forEach(button => button.addEventListener('click', () => {
-    if (!state.progress.readUnits.includes(button.dataset.markUnitRead)) state.progress.readUnits.push(button.dataset.markUnitRead);
-    state.progress = progressStore.save(state.progress);
+  document.querySelectorAll('[data-story-guide]').forEach(button => button.addEventListener('click', () => {
+    openStudyDocument(button.dataset.storyGuide);
+  }));
+  document.querySelectorAll('[data-mark-reading-item]').forEach(button => button.addEventListener('click', () => {
+    toggleReadingItem(button.dataset.readingUnit, button.dataset.markReadingItem);
     renderStory();
   }));
   document.querySelectorAll('[data-unit-quiz]:not(:disabled)').forEach(button => button.addEventListener('click', () => {
