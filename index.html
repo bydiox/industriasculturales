@@ -115,7 +115,19 @@
     <section data-screen="quiz" hidden>
       <div class="quiz-card"><div class="quiz-meta"><span id="mode-label"></span><span id="question-count"></span></div><p id="quiz-notice" class="quiz-notice" role="status" hidden></p><div id="question-origin" class="question-origin" hidden></div><div id="question-context" class="question-context" hidden></div><h2 id="question-text"></h2><div id="options" class="options"></div><div id="feedback" class="feedback" hidden></div><div class="question-tools"><button id="save-question" class="secondary" type="button">Guardar pregunta</button><button id="doubt-question" class="secondary" type="button">Marcar dudosa</button></div><div class="actions"><button id="next" class="primary" hidden>Siguiente</button><button id="blank" class="secondary">Dejar en blanco</button><button id="pause-session" class="secondary">Guardar y salir</button></div></div>
     </section>
-    <section data-screen="result" hidden><div class="result-card"><h2 id="result-title"></h2><p id="result-summary"></p><p id="result-detail"></p><p id="result-notice" class="quiz-notice" role="status" hidden></p><button id="back-home-result" class="primary">Volver al inicio</button></div></section>
+    <section data-screen="result" hidden>
+      <div class="result-card">
+        <h2 id="result-title"></h2>
+        <p id="result-summary"></p>
+        <p id="result-detail"></p>
+        <p id="result-notice" class="quiz-notice" role="status" hidden></p>
+        <div id="result-actions" class="result-actions">
+          <button id="back-home-result" class="secondary" type="button">Volver</button>
+          <button id="retry-result" class="secondary" type="button" hidden>Reintentar</button>
+          <button id="next-story-result" class="primary" type="button" hidden>Siguiente bloque</button>
+        </div>
+      </div>
+    </section>
     <section data-screen="error" hidden><h2>No se pudo iniciar</h2><p id="load-error"></p></section>
   </main>
   <dialog id="orientation-guide" class="guide-dialog" aria-labelledby="guide-title">

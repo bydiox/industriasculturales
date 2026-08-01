@@ -14,6 +14,15 @@ const readLawHtml = async (law, context) => {
     return null;
   }
 };
+const readLawStudyHtml = async (law, context) => {
+  if (!law.studyFile) return null;
+  try {
+    return await readFile(join(root, 'data/laws', law.studyFile), 'utf8');
+  } catch (error) {
+    fail(`No se pudo leer la versiÃ³n de estudio de ${context}: ${law.studyFile} (${error.code || error.message})`);
+    return null;
+  }
+};
 const readSourceHtml = async (file, context) => {
   try {
     return await readFile(join(root, 'data', file), 'utf8');
@@ -182,6 +191,17 @@ for (const law of manifest.laws) {
   if (!html) continue;
   const ids = [...html.matchAll(/(?:^|\s)id=["']([^"']+)["']/g)].map(match => match[1]);
   if (new Set(ids).size !== ids.length) fail(`IDs HTML duplicados en ${law.file}`);
+  const studyHtml = await readLawStudyHtml(law, law.lawId);
+  if (studyHtml) {
+    const studyIds = [...studyHtml.matchAll(/(?:^|\s)id=["']([^"']+)["']/g)].map(match => match[1]);
+    if (new Set(studyIds).size !== studyIds.length) fail(`IDs HTML duplicados en ${law.studyFile}`);
+    const scope = scopeByLaw.get(law.lawId);
+    for (const anchorId of scope?.anchorIds || []) {
+      if (!new RegExp(`(?:id|data-anchor-id)=["']${anchorId}["']`).test(studyHtml)) {
+        fail(`La versiÃ³n de estudio ${law.studyFile} no contiene el ancla delimitada: ${anchorId}`);
+      }
+    }
+  }
 }
 
 const topicsWithoutQuestions = [...officialTopicIds]

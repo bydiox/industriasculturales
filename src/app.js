@@ -1,4 +1,5 @@
 ﻿import { loadContent, sampleQuestions } from './questions.js';
+import { countFreePracticeQuestions } from './questions.js';
 import { examScore, penaltyFraction } from './scoring.js';
 import { progressStore } from './progress-store.js';
 import { allowedEmail, getInitialSession, loadCloudProgress, onAuthStateChange, saveCloudProgress, sendMagicLink, signOut } from './supabase-client.js';
@@ -13,6 +14,7 @@ const state = {
   questions: [],
   responses: [],
   sessionNotice: '',
+  freeFilters: {},
   reviewKind: 'inteligente',
   auth: { user: null, email: '', cloudEnabled: false, error: null },
   index: 0,
@@ -125,6 +127,7 @@ function activeSessionSnapshot() {
     answered: state.answered,
     blank: state.blank,
     sessionNotice: state.sessionNotice,
+    freeFilters: state.freeFilters,
     updatedAt: new Date().toISOString()
   };
 }
@@ -367,6 +370,7 @@ const studyDocuments = [
   { id: 'practico', title: 'Dossier del supuesto práctico', summary: 'Evidencia real, entregables, familias de supuesto y entrenamiento.', file: 'docs/practico_dossier_estudio.md' },
   { id: 'formato', title: 'Cómo es el examen', summary: 'Formato, puntuación, penalización y estrategia de respuesta.', file: 'docs/FORMATO_EXAMEN.md' },
   { id: 'fuentes', title: 'Guía de fuentes no legislativas', summary: 'Qué estudiar en historia, públicos, programación, técnica y planificación sin leer documentos enormes.', file: 'docs/FUENTES_SIN_CORPUS.md' },
+  { id: 'auditoria-fuentes', title: 'Auditoría de fuentes no legislativas', summary: 'Qué fuentes internas existen, qué temas cubren y qué referencias quedan fuera del HTML interno.', file: 'docs/AUDITORIA_FUENTES_NO_LEGISLATIVAS.md' },
   { id: 'tecnico', title: 'Fuentes técnicas del INAEM', summary: 'Cualificaciones y estándares profesionales para el bloque escénico.', file: 'docs/FUENTE_TEMARIOS_TECNICOS_M1.md' }
 ];
 
@@ -378,7 +382,7 @@ const studyCategories = [
   { id: 'oficial', icon: '▣', title: 'Material oficial', summary: 'Cuestionarios y documentos de convocatorias anteriores.' }
 ];
 let activeStudyCategory = 'practico';
-const documentCategory = documentId => ({ 'guia-maria': 'readme', readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', tecnico: 'fuentes', delimitacion: 'fuentes', 'mapa-historia': 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
+const documentCategory = documentId => ({ 'guia-maria': 'readme', readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', 'auditoria-fuentes': 'fuentes', tecnico: 'fuentes', delimitacion: 'fuentes', 'mapa-historia': 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
 studyDocuments.push({ id: 'm1-cuestionarios', title: 'Cuestionarios t\u00e9cnicos M1 Cultura', summary: 'Ex\u00e1menes oficiales del Ministerio que sirven como referencia para el bloque t\u00e9cnico.', file: 'docs/CUESTIONARIOS_M1_CULTURA.md' });
 let activeLawId = null;
 let activeLawAnchorId = null;
@@ -510,6 +514,79 @@ function openExamChoicePanel() {
   document.querySelectorAll('.home-panel').forEach(panel => { panel.hidden = panel.id !== 'exam-choice-panel'; });
   $('#exam-choice-panel').hidden = false;
   $('#exam-choice-panel').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function renderFreePracticePanel() {
+  const menu = $('#home-menu');
+  const oldPanel = $('#free-choice-panel');
+  if (oldPanel) oldPanel.remove();
+  menu.insertAdjacentHTML('afterend', `
+    <section id="free-choice-panel" class="free-choice-panel home-panel" hidden>
+      <div class="panel-back-row"><button class="secondary" type="button" data-free-back>&#8592; Inicio</button></div>
+      <span class="guide-kicker">Práctica libre</span>
+      <h2>Elige qué quieres practicar</h2>
+      <p>Acota por mundo, tema o tipo de fuente. Si dejas todo en “Todo”, la práctica usa el banco completo.</p>
+      <form id="free-filter-form" class="free-filter-form">
+        <label>Bloque o mundo
+          <select id="free-unit-filter" name="unitId"></select>
+        </label>
+        <label>Tema concreto
+          <select id="free-topic-filter" name="topicId"></select>
+        </label>
+        <label>Tipo de fuente
+          <select id="free-source-filter" name="sourceType">
+            <option value="all">Todas las fuentes</option>
+            <option value="law">Legislación</option>
+            <option value="reference">Fuentes / bibliografía</option>
+            <option value="official">Exámenes oficiales incorporados</option>
+          </select>
+        </label>
+        <p id="free-filter-count" class="free-filter-count" aria-live="polite"></p>
+        <button id="start-filtered-free" class="primary exam-start" type="submit">Empezar práctica</button>
+      </form>
+    </section>`);
+  $('#free-choice-panel').querySelector('[data-free-back]').addEventListener('click', returnHome);
+  $('#free-filter-form').addEventListener('change', refreshFreePracticeCount);
+  $('#free-filter-form').addEventListener('submit', event => {
+    event.preventDefault();
+    start('libre', currentFreePracticeFilters());
+  });
+}
+
+function renderFreePracticeOptions() {
+  const unitSelect = $('#free-unit-filter');
+  const topicSelect = $('#free-topic-filter');
+  if (!unitSelect || !topicSelect || !state.content) return;
+  unitSelect.innerHTML = '<option value="">Todos los mundos</option>'
+    + orderedUnits().map(unit => `<option value="${escapeHtml(unit.id)}">${escapeHtml(unit.order)}. ${escapeHtml(unit.title)} · ${escapeHtml(formatExamWeight(unit.weight))}</option>`).join('');
+  topicSelect.innerHTML = '<option value="">Todos los temas</option>'
+    + state.content.syllabus.topics.map(topic => `<option value="${escapeHtml(topic.id)}">${escapeHtml(topicLabel(topic))} · ${escapeHtml(topic.title)}</option>`).join('');
+  refreshFreePracticeCount();
+}
+
+function currentFreePracticeFilters() {
+  return {
+    unitId: $('#free-unit-filter')?.value || '',
+    topicId: $('#free-topic-filter')?.value || '',
+    sourceType: $('#free-source-filter')?.value || 'all',
+    part: 'all'
+  };
+}
+
+function refreshFreePracticeCount() {
+  if (!state.content || !$('#free-filter-count')) return;
+  const count = countFreePracticeQuestions(state.content, currentFreePracticeFilters());
+  $('#start-filtered-free').disabled = count <= 0;
+  $('#free-filter-count').textContent = count > 0
+    ? `${count} preguntas activas con esta selección.`
+    : 'No hay preguntas activas con esta combinación de filtros.';
+}
+
+function openFreePracticePanel() {
+  renderFreePracticeOptions();
+  document.querySelectorAll('.home-panel').forEach(panel => { panel.hidden = panel.id !== 'free-choice-panel'; });
+  $('#free-choice-panel').hidden = false;
+  $('#free-choice-panel').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function renderPracticalPanel() {
@@ -836,7 +913,7 @@ function renderLawContext(law, compact = false) {
     : 'Sin peso directo en preguntas activas; úsala como contexto o apoyo.';
   const lawScope = state.content.lawScopes?.laws?.[law.lawId] || state.content.lawScopes?.default;
   const hasSelectedScope = lawScope?.mode === 'selected' && Array.isArray(lawScope.anchorIds) && lawScope.anchorIds.length > 0;
-  const hasDefaultStudyCut = hasSelectedScope || lawNeedsDefaultStudyCut(law.lawId);
+  const hasDefaultStudyCut = Boolean(law.studyFile) || hasSelectedScope || lawNeedsDefaultStudyCut(law.lawId);
   const scopeNote = hasSelectedScope
     ? (lawShowFullText ? 'Ahora estás viendo la norma completa para consulta.' : (lawScope.note || 'Por defecto se muestra solo el alcance marcado para estudiar.'))
     : lawNeedsDefaultStudyCut(law.lawId)
@@ -849,6 +926,11 @@ function renderLawContext(law, compact = false) {
     <div><strong>Peso orientativo</strong><p>${escapeHtml(weightText)}</p></div>
   </div>`;
 
+}
+
+function lawDisplayFile(law, showFull = false) {
+  if (showFull) return law.fullFile || law.file;
+  return law.studyFile || law.file;
 }
 
 function applyLawScope(main, law, showFull = false) {
@@ -875,6 +957,7 @@ function renderStudyCutPlaceholder(law) {
 }
 
 function lawBodyForStudy(main, law, showFull = false) {
+  if (!showFull && law.studyFile) return main;
   const scope = state.content.lawScopes?.laws?.[law.lawId] || state.content.lawScopes?.default;
   const hasSelectedScope = scope?.mode === 'selected' && Array.isArray(scope.anchorIds) && scope.anchorIds.length > 0;
   if (!showFull && !hasSelectedScope && lawNeedsDefaultStudyCut(law.lawId)) return renderStudyCutPlaceholder(law);
@@ -999,7 +1082,7 @@ async function openLawDocument(lawId, anchorId = null, fromStory = false) {
   $('#law-document-view').hidden = false;
   show('law');
   try {
-    const response = await fetch(`data/laws/${law.file}`);
+    const response = await fetch(`data/laws/${lawDisplayFile(law, lawShowFullText)}`);
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const source = await response.text();
     const parsed = new DOMParser().parseFromString(source, 'text/html');
@@ -1032,7 +1115,7 @@ function closeLawReferenceModal() {
   if (previousFocus && typeof previousFocus.focus === 'function') previousFocus.focus();
 }
 
-async function openLawReferenceModal(lawId, anchorId = null, trigger = null) {
+async function openLawReferenceModal(lawId, anchorId = null, trigger = null, showFull = false) {
   const law = state.content.lawsById?.[lawId];
   const modal = $('#law-reference-modal');
   const body = $('#law-reference-body');
@@ -1045,17 +1128,19 @@ async function openLawReferenceModal(lawId, anchorId = null, trigger = null) {
   document.body.classList.add('law-reference-open');
   $('#law-reference-close').focus();
   try {
-    const response = await fetch(`data/laws/${law.file}`);
+    const response = await fetch(`data/laws/${lawDisplayFile(law, showFull)}`);
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const source = await response.text();
     const parsed = new DOMParser().parseFromString(source, 'text/html');
     const main = parsed.querySelector('main') || parsed.body;
     main.querySelectorAll('script, style').forEach(node => node.remove());
     normaliseLawLabels(main);
-    body.innerHTML = `${renderLawContext(law)}${lawBodyForStudy(main, law).innerHTML}`;
+    const previousFullState = lawShowFullText;
+    lawShowFullText = showFull;
+    body.innerHTML = `${renderLawContext(law)}${lawBodyForStudy(main, law, showFull).innerHTML}`;
+    lawShowFullText = previousFullState;
     body.querySelector('[data-toggle-law-full]')?.addEventListener('click', () => {
-      body.innerHTML = `${renderLawContext(law)}${lawBodyForStudy(main, law, true).innerHTML}`;
-      setupLawSectionNavigation(body, body, body.querySelector('.law-section-nav-modal'));
+      openLawReferenceModal(law.lawId, anchorId, trigger, !showFull);
     });
     body.insertAdjacentHTML('beforeend', '<div class="law-section-nav law-section-nav-modal"><button class="secondary" type="button" data-law-section="prev" aria-label="Apartado anterior">↑</button><span data-law-section="label">Apartado 1</span><button class="secondary" type="button" data-law-section="next" aria-label="Apartado siguiente">↓</button></div>');
     setupLawSectionNavigation(body, body, body.querySelector('.law-section-nav-modal'));
@@ -1234,7 +1319,7 @@ function renderStory() {
     const finalAvailable = unitTopicsCompleted(unit) && unitQuestionCount(unit) > 0;
     const statusLabel = status === 'completed' ? 'Superada' : status === 'active' ? 'En curso' : 'Bloqueada';
     return `
-      <article class="story-unit is-${status}">
+      <article class="story-unit is-${status}" data-story-unit="${escapeHtml(unit.id)}">
         <button class="unit-toggle" data-toggle-unit="${escapeHtml(unit.id)}" aria-expanded="${expanded}">
           <span class="unit-order">${unitIndex + 1}</span>
           <span class="unit-title">
@@ -1366,6 +1451,7 @@ function modeLabel() {
     return state.examType === 'historico' ? 'Exámenes históricos oficiales' : 'Examen aleatorio';
   }
   if (state.mode === 'repaso') return 'Repaso inteligente';
+  if (state.mode === 'libre' && state.freeFilters && (state.freeFilters.unitId || state.freeFilters.topicId || (state.freeFilters.sourceType && state.freeFilters.sourceType !== 'all'))) return 'Libre · filtrada';
   return 'Libre';
 }
 
@@ -1390,19 +1476,21 @@ function resumeActiveSession() {
   state.correct = Number(saved.correct) || 0;
   state.answered = Number(saved.answered) || 0;
   state.blank = Number(saved.blank) || 0;
+  state.freeFilters = saved.freeFilters || {};
   $('#mode-label').textContent = modeLabel();
   renderQuestion();
   show('quiz');
 }
 
-function start(mode, targetId = null, examType = 'aleatorio', unitId = null) {
+function start(mode, targetId = null, examType = 'aleatorio', unitId = null, excludeQuestionIds = []) {
   state.mode = mode;
   state.topicId = mode === 'historia-tema' ? targetId : null;
   state.unitId = unitId;
   state.examType = examType;
+  state.freeFilters = mode === 'libre' && targetId && typeof targetId === 'object' ? targetId : {};
   const sampled = mode === 'repaso'
     ? sampleReviewQuestions()
-    : sampleQuestions(state.content, mode, targetId, examType);
+    : sampleQuestions(state.content, mode, targetId, examType, excludeQuestionIds);
   state.questions = sampled.questions;
   state.responses = [];
   state.sessionNotice = sampled.notice || '';
@@ -1483,7 +1571,7 @@ function renderFeedback(response) {
   const officialQuestionnaire = question.origin?.questionnaire || question.origin?.cuestionario;
   const officialAnswerKey = question.origin?.answerKey || question.origin?.plantilla;
   let sourceLinks = law
-    ? `<a href="data/laws/${escapeHtml(law.file)}#${escapeHtml(question.source.anchorId || '')}" data-law-id="${escapeHtml(question.source.lawId)}" data-law-anchor="${escapeHtml(question.source.anchorId || '')}">Ver fuente</a>${question.source.url ? ` · <a href="${escapeHtml(question.source.url)}" target="_blank" rel="noreferrer">${externalSourceLabel}</a>` : ''}`
+    ? `<a href="data/laws/${escapeHtml(law.fullFile || law.file)}#${escapeHtml(question.source.anchorId || '')}" data-law-id="${escapeHtml(question.source.lawId)}" data-law-anchor="${escapeHtml(question.source.anchorId || '')}" data-law-original="true">Ver fuente</a>${question.source.url ? ` · <a href="${escapeHtml(question.source.url)}" target="_blank" rel="noreferrer">${externalSourceLabel}</a>` : ''}`
     : question.source?.url
       ? `${localSourceUrl ? `<a href="${escapeHtml(localSourceUrl)}" target="_blank" rel="noreferrer">Ver fuente</a> · ` : ''}<a href="${escapeHtml(question.source.url)}" target="_blank" rel="noreferrer">${externalSourceLabel}</a>`
       : '';
@@ -1537,6 +1625,87 @@ function blankAnswer() {
   persistActiveSession();
 }
 
+function currentHistoryUnitId() {
+  if (state.unitId) return state.unitId;
+  if (!state.topicId) return null;
+  return orderedUnits().find(unit => unit.topicIds.includes(state.topicId))?.id || null;
+}
+
+function nextStoryTarget() {
+  const units = orderedUnits();
+  const unitId = currentHistoryUnitId();
+  const unit = units.find(item => item.id === unitId);
+  if (!unit) return null;
+  if (state.mode === 'historia-tema') {
+    const topicIndex = unit.topicIds.indexOf(state.topicId);
+    const nextTopicId = unit.topicIds[topicIndex + 1];
+    if (nextTopicId) return { kind: 'topic', unitId: unit.id, topicId: nextTopicId };
+    if (unitTopicsCompleted(unit) && unitQuestionCount(unit) > 0) return { kind: 'unit-final', unitId: unit.id };
+    return { kind: 'unit', unitId: unit.id };
+  }
+  if (state.mode === 'historia-unidad') {
+    const unitIndex = units.findIndex(item => item.id === unit.id);
+    const nextUnit = units[unitIndex + 1];
+    return nextUnit ? { kind: 'unit', unitId: nextUnit.id } : null;
+  }
+  return null;
+}
+
+function openStoryAtUnit(unitId = null) {
+  document.querySelectorAll('.home-panel').forEach(panel => { panel.hidden = panel.id !== 'home-story'; });
+  if (unitId) state.expandedUnits.add(unitId);
+  renderStory();
+  renderProgress();
+  show('home');
+  if (unitId) {
+    window.requestAnimationFrame(() => {
+      [...document.querySelectorAll('[data-story-unit]')]
+        .find(node => node.dataset.storyUnit === unitId)
+        ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
+}
+
+function renderResultActions(passed) {
+  const isHistory = state.mode?.startsWith('historia');
+  const back = $('#back-home-result');
+  const retry = $('#retry-result');
+  const next = $('#next-story-result');
+  back.textContent = isHistory ? 'Volver' : 'Volver al inicio';
+  retry.hidden = !isHistory;
+  next.hidden = !isHistory;
+  if (!isHistory) return;
+  const target = passed ? nextStoryTarget() : null;
+  retry.disabled = false;
+  next.disabled = !target;
+  next.textContent = target ? 'Siguiente bloque' : passed ? 'Historia completada' : 'Siguiente bloque';
+  next.dataset.nextKind = target?.kind || '';
+  next.dataset.nextUnit = target?.unitId || '';
+  next.dataset.nextTopic = target?.topicId || '';
+}
+
+function retryHistoryResult() {
+  const previousQuestionIds = state.questions.map(question => question.id);
+  if (state.mode === 'historia-tema' && state.topicId) start('historia-tema', state.topicId, 'aleatorio', currentHistoryUnitId(), previousQuestionIds);
+  else if (state.mode === 'historia-unidad' && state.unitId) start('historia-unidad', state.unitId, 'aleatorio', state.unitId, previousQuestionIds);
+}
+
+function continueStoryResult() {
+  const next = $('#next-story-result');
+  const kind = next.dataset.nextKind;
+  const unitId = next.dataset.nextUnit;
+  const topicId = next.dataset.nextTopic;
+  if (!kind) return;
+  if (kind === 'topic') start('historia-tema', topicId, 'aleatorio', unitId);
+  else if (kind === 'unit-final') start('historia-unidad', unitId, 'aleatorio', unitId);
+  else openStoryAtUnit(unitId);
+}
+
+function backFromResult() {
+  if (state.mode?.startsWith('historia')) openStoryAtUnit(currentHistoryUnitId());
+  else returnHome();
+}
+
 function finish() {
   const threshold = state.content.studyPlan.historyRules.passThreshold;
   const wrong = state.answered - state.correct - state.blank;
@@ -1585,6 +1754,7 @@ function finish() {
   $('#result-detail').textContent = detail;
   $('#result-notice').textContent = state.sessionNotice;
   $('#result-notice').hidden = !state.sessionNotice;
+  renderResultActions(passed);
   renderProgress();
   renderStory();
   show('result');
@@ -1617,10 +1787,11 @@ function renderProgress() {
 renderHomeMenu();
 renderPracticalPanel();
 renderExamChoicePanel();
+renderFreePracticePanel();
 renderOfficialStudyLink();
 $('#app-home-link').textContent = 'M3 - Industrias culturales';
 
-$('#start-free').addEventListener('click', () => start('libre'));
+$('#start-free').addEventListener('click', openFreePracticePanel);
 $('#app-home-link').addEventListener('click', returnHome);
 $('#start-exam').addEventListener('click', openExamChoicePanel);
 $('#auth-form').addEventListener('submit', async event => {
@@ -1663,7 +1834,9 @@ $('#next').addEventListener('click', () => {
 });
 $('#blank').addEventListener('click', blankAnswer);
 $('#pause-session').addEventListener('click', pauseSessionAndReturnHome);
-$('#back-home-result').addEventListener('click', returnHome);
+$('#back-home-result').addEventListener('click', backFromResult);
+$('#retry-result').addEventListener('click', retryHistoryResult);
+$('#next-story-result').addEventListener('click', continueStoryResult);
 $('#reset-progress').addEventListener('click', () => {
   state.progress = progressStore.reset();
   state.expandedUnits.clear();
@@ -1689,7 +1862,7 @@ document.addEventListener('click', event => {
   const lawLink = event.target.closest('a[data-law-id]');
   if (lawLink) {
     event.preventDefault();
-    openLawReferenceModal(lawLink.dataset.lawId, lawLink.dataset.lawAnchor || null, lawLink);
+    openLawReferenceModal(lawLink.dataset.lawId, lawLink.dataset.lawAnchor || null, lawLink, lawLink.dataset.lawOriginal === 'true');
     return;
   }
   const link = event.target.closest('a[href^="docs/"], a[href^="data/sources/"]');
@@ -1749,6 +1922,7 @@ Promise.all([loadContent(), initAuth()])
     $('#app-version').textContent = `v${appVersion}`;
     document.title = `M3 - Industrias culturales · v${appVersion}`;
     renderGuide();
+    renderFreePracticeOptions();
     renderStudyLibrary();
     renderLawCatalog();
     renderStory();

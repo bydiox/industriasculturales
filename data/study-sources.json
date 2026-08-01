@@ -10,7 +10,7 @@
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": false
+      "showInStudyCatalog": true
     },
     {
       "id": "src-cdaem-danza",
@@ -20,7 +20,7 @@
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": false
+      "showInStudyCatalog": true
     },
     {
       "id": "src-anuario-estadisticas",
@@ -30,7 +30,7 @@
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": false
+      "showInStudyCatalog": true
     },
     {
       "id": "src-femp-indicadores",
@@ -40,7 +40,7 @@
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": false
+      "showInStudyCatalog": true
     },
     {
       "id": "src-plan-derechos-culturales",
@@ -50,7 +50,7 @@
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": false
+      "showInStudyCatalog": true
     },
     {
       "id": "src-componente-24",
@@ -60,7 +60,7 @@
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": false
+      "showInStudyCatalog": true
     },
     {
       "id": "src-insst-estadistica",
@@ -70,7 +70,7 @@
       "format": "html",
       "category": "fuentes",
       "kind": "source",
-      "showInStudyCatalog": false
+      "showInStudyCatalog": true
     },
     {
       "id": "src-inaem-m1-2022",
@@ -80,7 +80,7 @@
       "format": "html",
       "category": "fuentes",
       "kind": "official",
-      "showInStudyCatalog": false
+      "showInStudyCatalog": true
     }
   ]
 }

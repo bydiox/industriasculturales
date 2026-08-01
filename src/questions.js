@@ -45,6 +45,40 @@ function currentQuestions(questions, expectedOptions = 4) {
   });
 }
 
+function questionSourceType(question) {
+  if (!question.source) return 'none';
+  if (question.source.kind === 'official_exam' || question.origin?.type === 'official_exam') return 'official';
+  if (question.source.lawId) return 'law';
+  if (question.source.kind === 'bibliografia' || question.source.kind === 'referencia') return 'reference';
+  return question.source.kind || 'other';
+}
+
+function questionMatchesFreeFilters(content, question, filters = {}) {
+  if (!filters || typeof filters !== 'object') return true;
+  if (filters.unitId) {
+    const unit = content.unitsById?.[filters.unitId];
+    if (!unit?.topicIds?.includes(question.topicId)) return false;
+  }
+  if (filters.topicId && question.topicId !== filters.topicId) return false;
+  if (filters.part && filters.part !== 'all') {
+    const topic = content.topicsById?.[question.topicId];
+    if (topic?.part !== filters.part) return false;
+  }
+  if (filters.sourceType && filters.sourceType !== 'all' && questionSourceType(question) !== filters.sourceType) return false;
+  return true;
+}
+
+function hasMeaningfulFreeFilters(filters = {}) {
+  return Boolean(filters.unitId || filters.topicId || (filters.sourceType && filters.sourceType !== 'all') || (filters.part && filters.part !== 'all'));
+}
+
+export function countFreePracticeQuestions(content, filters = {}) {
+  const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
+  return currentQuestions(content.questions, expectedOptions)
+    .filter(question => questionMatchesFreeFilters(content, question, filters))
+    .length;
+}
+
 function isPrimaryHistoricalExam(question) {
   const text = [
     question.id,
@@ -88,13 +122,24 @@ function sampleProportionalExam(content) {
   return { questions: shuffled(selected), notice, blocked, coverage: selected.length / total };
 }
 
-function sampleUnitQuestions(content, unitId) {
+function sampleAvoidingPrevious(candidates, limit, excludeQuestionIds = []) {
+  const excluded = new Set(excludeQuestionIds);
+  const selected = shuffled(candidates.filter(question => !excluded.has(question.id))).slice(0, limit);
+  if (selected.length < Math.min(limit, candidates.length)) {
+    const used = new Set(selected.map(question => question.id));
+    selected.push(...shuffled(candidates.filter(question => !used.has(question.id))).slice(0, limit - selected.length));
+  }
+  return shuffled(selected);
+}
+
+function sampleUnitQuestions(content, unitId, excludeQuestionIds = []) {
   const unit = content.unitsById[unitId];
   if (!unit) return [];
   const limit = content.studyPlan.historyRules.unitQuestionLimit;
   const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
+  const excluded = new Set(excludeQuestionIds);
   const queues = unit.topicIds
-    .map(topicId => shuffled(currentQuestions(content.byTopic[topicId] || [], expectedOptions)))
+    .map(topicId => shuffled(currentQuestions(content.byTopic[topicId] || [], expectedOptions).filter(question => !excluded.has(question.id))))
     .filter(queue => queue.length);
   const selected = [];
   while (queues.length && selected.length < limit) {
@@ -103,10 +148,16 @@ function sampleUnitQuestions(content, unitId) {
       if (!queues[index].length) queues.splice(index, 1);
     }
   }
+  if (selected.length < limit) {
+    const used = new Set(selected.map(question => question.id));
+    const fallback = unit.topicIds.flatMap(topicId => currentQuestions(content.byTopic[topicId] || [], expectedOptions))
+      .filter(question => !used.has(question.id));
+    selected.push(...shuffled(fallback).slice(0, limit - selected.length));
+  }
   return shuffled(selected);
 }
 
-export function sampleQuestions(content, mode, targetId = null, examType = 'aleatorio') {
+export function sampleQuestions(content, mode, targetId = null, examType = 'aleatorio', excludeQuestionIds = []) {
   if (mode === 'examen' && examType === 'historico') {
     return {
       questions: content.questions
@@ -119,11 +170,16 @@ export function sampleQuestions(content, mode, targetId = null, examType = 'alea
   if (mode === 'historia-tema') {
     const limit = content.studyPlan.historyRules.topicQuestionLimit;
     const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
-    return { questions: shuffled(currentQuestions(content.byTopic[targetId] || [], expectedOptions)).slice(0, limit), notice: '' };
+    return { questions: sampleAvoidingPrevious(currentQuestions(content.byTopic[targetId] || [], expectedOptions), limit, excludeQuestionIds), notice: '' };
   }
-  if (mode === 'historia-unidad') return { questions: sampleUnitQuestions(content, targetId), notice: '' };
+  if (mode === 'historia-unidad') return { questions: sampleUnitQuestions(content, targetId, excludeQuestionIds), notice: '' };
   if (mode === 'examen') return sampleProportionalExam(content);
   const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
-  const active = currentQuestions(content.questions, expectedOptions);
-  return { questions: shuffled(active), notice: '' };
+  const filters = mode === 'libre' && targetId && typeof targetId === 'object' ? targetId : {};
+  const active = currentQuestions(content.questions, expectedOptions)
+    .filter(question => questionMatchesFreeFilters(content, question, filters));
+  const notice = hasMeaningfulFreeFilters(filters)
+    ? `Práctica libre filtrada: ${active.length} preguntas disponibles.`
+    : '';
+  return { questions: shuffled(active), notice };
 }

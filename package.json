@@ -1,6 +1,6 @@
 {
   "name": "m3-gestion-industrias-culturales-creativas",
-  "version": "0.1.59",
+  "version": "0.1.64",
   "private": true,
   "type": "module",
   "scripts": {
@@ -70,6 +70,7 @@
     "content:questions:scope-official-m3": "node scripts/apply-m3-scope-to-official-questions.mjs",
     "content:questions:deactivate-official-originals": "node scripts/deactivate-official-originals-with-b-variants.mjs",
     "content:laws:extend-boe-articles": "node scripts/extend-boe-law-articles.mjs",
-    "content:laws:extend-eu-articles": "node scripts/extend-eu-treaty-articles.mjs"
+    "content:laws:extend-eu-articles": "node scripts/extend-eu-treaty-articles.mjs",
+    "content:laws:build-study": "node scripts/build-study-laws.mjs"
   }
 }

@@ -19,7 +19,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
       "versionDate": "20260520",
       "file": "ce-1978.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ce-1978.html",
+      "studyFile": "ce-1978-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rdleg-5-2015",
@@ -29,7 +32,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
       "versionDate": "20260708",
       "file": "rdleg-5-2015.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rdleg-5-2015.html",
+      "studyFile": "rdleg-5-2015-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-53-1984",
@@ -39,7 +45,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151",
       "versionDate": "20251216",
       "file": "ley-53-1984.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-53-1984.html",
+      "studyFile": "ley-53-1984-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "convenio-iv",
@@ -49,7 +58,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7414",
       "versionDate": "20260609",
       "file": "convenio-iv.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "convenio-iv.html",
+      "studyFile": "convenio-iv-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-486-1997",
@@ -59,7 +71,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669",
       "versionDate": "20251218",
       "file": "rd-486-1997.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-486-1997.html",
+      "studyFile": "rd-486-1997-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "rd-171-2004",
@@ -69,7 +84,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848",
       "versionDate": "20040310",
       "file": "rd-171-2004.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-171-2004.html",
+      "studyFile": "rd-171-2004-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-1215-1997",
@@ -79,7 +97,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824",
       "versionDate": "20251218",
       "file": "rd-1215-1997.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-1215-1997.html",
+      "studyFile": "rd-1215-1997-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "rd-773-1997",
@@ -89,7 +110,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735",
       "versionDate": "20251218",
       "file": "rd-773-1997.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-773-1997.html",
+      "studyFile": "rd-773-1997-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "rd-2816-1982",
@@ -99,7 +123,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-28915",
       "versionDate": "20251216",
       "file": "rd-2816-1982.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-2816-1982.html",
+      "studyFile": "rd-2816-1982-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "rd-314-2006",
@@ -109,7 +136,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
       "versionDate": "20251218",
       "file": "rd-314-2006.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-314-2006.html",
+      "studyFile": "rd-314-2006-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "ley-39-2015",
@@ -119,7 +149,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
       "versionDate": "20260715",
       "file": "ley-39-2015.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-39-2015.html",
+      "studyFile": "ley-39-2015-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-40-2015",
@@ -129,7 +162,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
       "versionDate": "20260729",
       "file": "ley-40-2015.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-40-2015.html",
+      "studyFile": "ley-40-2015-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "eu-teu-2012",
@@ -139,7 +175,10 @@
       "officialUrl": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12016M%2FTXT",
       "versionDate": "20160607",
       "file": "eu-teu-2012.html",
-      "sourceType": "eur-lex-consolidado"
+      "sourceType": "eur-lex-consolidado",
+      "fullFile": "eu-teu-2012.html",
+      "studyFile": "eu-teu-2012-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "eu-tfeu-2012",
@@ -149,7 +188,10 @@
       "officialUrl": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A12016E%2FTXT",
       "versionDate": "20160607",
       "file": "eu-tfeu-2012.html",
-      "sourceType": "eur-lex-consolidado"
+      "sourceType": "eur-lex-consolidado",
+      "fullFile": "eu-tfeu-2012.html",
+      "studyFile": "eu-tfeu-2012-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-1028-2025",
@@ -162,7 +204,10 @@
       "sourceType": "boe-oficial",
       "entryType": "amending-norm",
       "scope": "reforma-organizativa-2025",
-      "note": "Norma modificativa: sus cambios se leen junto con los textos consolidados que modifica."
+      "note": "Norma modificativa: sus cambios se leen junto con los textos consolidados que modifica.",
+      "fullFile": "rd-1028-2025.html",
+      "studyFile": "rd-1028-2025-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "orden-cul-2039-2011-cdn",
@@ -172,7 +217,10 @@
       "officialUrl": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con",
       "versionDate": "20110721",
       "file": "orden-cul-2039-2011-cdn.html",
-      "sourceType": "boe-consolidado-pre-reforma"
+      "sourceType": "boe-consolidado-pre-reforma",
+      "fullFile": "orden-cul-2039-2011-cdn.html",
+      "studyFile": "orden-cul-2039-2011-cdn-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "orden-cul-3355-2010-cntc",
@@ -182,7 +230,10 @@
       "officialUrl": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con",
       "versionDate": "20101230",
       "file": "orden-cul-3355-2010-cntc.html",
-      "sourceType": "boe-consolidado-pre-reforma"
+      "sourceType": "boe-consolidado-pre-reforma",
+      "fullFile": "orden-cul-3355-2010-cntc.html",
+      "studyFile": "orden-cul-3355-2010-cntc-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "orden-cul-451-2011-zarzuela",
@@ -192,7 +243,10 @@
       "officialUrl": "https://www.boe.es/eli/es/o/2011/02/28/cul451",
       "versionDate": "20180630",
       "file": "orden-cul-451-2011-zarzuela.html",
-      "sourceType": "boe-consolidado-pre-reforma"
+      "sourceType": "boe-consolidado-pre-reforma",
+      "fullFile": "orden-cul-451-2011-zarzuela.html",
+      "studyFile": "orden-cul-451-2011-zarzuela-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "orden-cul-3359-2011-cndm",
@@ -202,7 +256,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19210",
       "versionDate": "20111208",
       "file": "orden-cul-3359-2011-cndm.html",
-      "sourceType": "boe-consolidado-pre-reforma"
+      "sourceType": "boe-consolidado-pre-reforma",
+      "fullFile": "orden-cul-3359-2011-cndm.html",
+      "studyFile": "orden-cul-3359-2011-cndm-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "rd-2084-1978-ocne",
@@ -216,7 +273,10 @@
       "active": false,
       "historical": true,
       "status": "historical-reference-not-for-active-exams",
-      "note": "Norma histórica de la OCNE, desplazada por la creación del INAEM y sustituida para el estudio vigente por el Real Decreto 1245/2002."
+      "note": "Norma histórica de la OCNE, desplazada por la creación del INAEM y sustituida para el estudio vigente por el Real Decreto 1245/2002.",
+      "fullFile": "rd-2084-1978-ocne.html",
+      "studyFile": "rd-2084-1978-ocne-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "res-jonde-2023-becas",
@@ -226,7 +286,10 @@
       "officialUrl": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf",
       "versionDate": "20231009",
       "file": "res-jonde-2023-becas.html",
-      "sourceType": "boe-convenio-oficial"
+      "sourceType": "boe-convenio-oficial",
+      "fullFile": "res-jonde-2023-becas.html",
+      "studyFile": "res-jonde-2023-becas-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "orden-cul-3065-2010-bne",
@@ -236,7 +299,10 @@
       "officialUrl": "https://www.boe.es/eli/es/o/2010/11/23/cul3065",
       "versionDate": "20101125",
       "file": "orden-cul-3065-2010-bne.html",
-      "sourceType": "boe-consolidado-pre-reforma"
+      "sourceType": "boe-consolidado-pre-reforma",
+      "fullFile": "orden-cul-3065-2010-bne.html",
+      "studyFile": "orden-cul-3065-2010-bne-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "orden-cul-1993-2010-cnd",
@@ -246,7 +312,10 @@
       "officialUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823",
       "versionDate": "20100725",
       "file": "orden-cul-1993-2010-cnd.html",
-      "sourceType": "boe-oficial-pre-reforma"
+      "sourceType": "boe-oficial-pre-reforma",
+      "fullFile": "orden-cul-1993-2010-cnd.html",
+      "studyFile": "orden-cul-1993-2010-cnd-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "rd-992-2014-cte",
@@ -256,7 +325,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620",
       "versionDate": "20141231",
       "file": "rd-992-2014-cte.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-992-2014-cte.html",
+      "studyFile": "rd-992-2014-cte-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "cultura-magalia-2025",
@@ -270,7 +342,10 @@
       "entryType": "institutional",
       "legalStatus": "not-normative",
       "anchorPolicy": "document-section",
-      "note": "Fuente institucional informativa; no contiene articulado y no debe usarse como sustituto de una norma jurídica."
+      "note": "Fuente institucional informativa; no contiene articulado y no debe usarse como sustituto de una norma jurídica.",
+      "fullFile": "cultura-magalia-2025.html",
+      "studyFile": "cultura-magalia-2025-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "cultura-inaem-centros-2026",
@@ -284,7 +359,10 @@
       "entryType": "institutional",
       "legalStatus": "not-normative",
       "anchorPolicy": "document-section",
-      "note": "Fuente institucional informativa; no contiene articulado y no debe usarse como sustituto de una norma jurídica."
+      "note": "Fuente institucional informativa; no contiene articulado y no debe usarse como sustituto de una norma jurídica.",
+      "fullFile": "cultura-inaem-centros-2026.html",
+      "studyFile": "cultura-inaem-centros-2026-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "rdleg-2-2015-et",
@@ -294,7 +372,10 @@
       "officialUrl": "https://www.boe.es/eli/es/rdlg/2015/10/23/2/con",
       "versionDate": "20251204",
       "file": "rdleg-2-2015-et.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rdleg-2-2015-et.html",
+      "studyFile": "rdleg-2-2015-et-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "lo-11-1985-lols",
@@ -304,7 +385,10 @@
       "officialUrl": "https://www.boe.es/eli/es/lo/1985/08/02/11/con",
       "versionDate": "20240802",
       "file": "lo-11-1985-libertad-sindical.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "lo-11-1985-libertad-sindical.html",
+      "studyFile": "lo-11-1985-libertad-sindical-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-9-2017-lcsp",
@@ -314,7 +398,10 @@
       "officialUrl": "https://www.boe.es/eli/es/l/2017/11/08/9/con",
       "versionDate": "20260409",
       "file": "ley-9-2017-lcsp.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-9-2017-lcsp.html",
+      "studyFile": "ley-9-2017-lcsp-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-1435-1985",
@@ -324,7 +411,10 @@
       "officialUrl": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con",
       "versionDate": "20220323",
       "file": "rd-1435-1985-artistas.html",
-      "sourceType": "boe-consolidado-temporal"
+      "sourceType": "boe-consolidado-temporal",
+      "fullFile": "rd-1435-1985-artistas.html",
+      "studyFile": "rd-1435-1985-artistas-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "rd-607-2026",
@@ -334,7 +424,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-16173",
       "versionDate": "20260725",
       "file": "rd-607-2026-artistas.html",
-      "sourceType": "boe-oficial-futuro"
+      "sourceType": "boe-oficial-futuro",
+      "fullFile": "rd-607-2026-artistas.html",
+      "studyFile": "rd-607-2026-artistas-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "rd-2491-1996",
@@ -354,7 +447,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292",
       "versionDate": "20260622",
       "file": "ley-31-1995.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-31-1995.html",
+      "studyFile": "ley-31-1995-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-50-1997",
@@ -364,7 +460,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336",
       "versionDate": "20260720",
       "file": "ley-50-1997.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-50-1997.html",
+      "studyFile": "ley-50-1997-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rdl-17-1977",
@@ -384,7 +483,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1989-10767",
       "versionDate": "20260204",
       "file": "ley-12-1989.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-12-1989.html",
+      "studyFile": "ley-12-1989-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-49-2002",
@@ -394,7 +496,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-25039",
       "versionDate": "20260527",
       "file": "ley-49-2002.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-49-2002.html",
+      "studyFile": "ley-49-2002-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-364-1995",
@@ -404,7 +509,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-8729",
       "versionDate": "20251218",
       "file": "rd-364-1995.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-364-1995.html",
+      "studyFile": "rd-364-1995-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rdl-6-2023",
@@ -434,7 +542,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930",
       "versionDate": "20260713",
       "file": "rdleg-1-1996.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rdleg-1-1996.html",
+      "studyFile": "rdleg-1-1996-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rdl-24-2021",
@@ -454,7 +565,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614",
       "versionDate": "20260630",
       "file": "ley-47-2003.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-47-2003.html",
+      "studyFile": "ley-47-2003-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-38-2003",
@@ -464,7 +578,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977",
       "versionDate": "20260730",
       "file": "ley-38-2003.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-38-2003.html",
+      "studyFile": "ley-38-2003-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-16-1985",
@@ -474,7 +591,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12534",
       "versionDate": "20260527",
       "file": "ley-16-1985.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-16-1985.html",
+      "studyFile": "ley-16-1985-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-10-2015",
@@ -484,7 +604,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5794",
       "versionDate": "20251219",
       "file": "ley-10-2015.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-10-2015.html",
+      "studyFile": "ley-10-2015-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-620-1987",
@@ -514,7 +637,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-5852",
       "versionDate": "20251218",
       "file": "lo-1-2002.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "lo-1-2002.html",
+      "studyFile": "lo-1-2002-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-7-2021",
@@ -524,7 +650,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447",
       "versionDate": "20260723",
       "file": "ley-7-2021.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "ley-7-2021.html",
+      "studyFile": "ley-7-2021-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-39-1997",
@@ -604,7 +733,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115",
       "versionDate": "20251219",
       "file": "lo-3-2007.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "lo-3-2007.html",
+      "studyFile": "lo-3-2007-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-901-2020",
@@ -614,7 +746,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12214",
       "versionDate": "20251220",
       "file": "rd-901-2020.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-901-2020.html",
+      "studyFile": "rd-901-2020-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-902-2020",
@@ -624,7 +759,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12215",
       "versionDate": "20251220",
       "file": "rd-902-2020.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-902-2020.html",
+      "studyFile": "rd-902-2020-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rdleg-1-2013",
@@ -634,7 +772,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632",
       "versionDate": "20251219",
       "file": "rdleg-1-2013.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rdleg-1-2013.html",
+      "studyFile": "rdleg-1-2013-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "rd-193-2023",
@@ -644,7 +785,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7417",
       "versionDate": "20251229",
       "file": "rd-193-2023.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-193-2023.html",
+      "studyFile": "rd-193-2023-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "orden-cul-3520-2008",
@@ -664,7 +808,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-24045",
       "versionDate": "20251218",
       "file": "rd-1245-2002.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-1245-2002.html",
+      "studyFile": "rd-1245-2002-B.html",
+      "studyScope": "selected"
     },
     {
       "lawId": "orden-17-10-1983",
@@ -674,7 +821,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1983-28352",
       "versionDate": "20251216",
       "file": "orden-17-10-1983.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "orden-17-10-1983.html",
+      "studyFile": "orden-17-10-1983-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "conv-onu-2006",
@@ -684,7 +834,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-6963",
       "versionDate": "20260331",
       "file": "conv-onu-2006.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "conv-onu-2006.html",
+      "studyFile": "conv-onu-2006-B.html",
+      "studyScope": "active-question-anchors"
     },
     {
       "lawId": "ley-17-1997-cm",
@@ -704,7 +857,10 @@
       "officialUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6237",
       "versionDate": "20251219",
       "file": "rd-393-2007.html",
-      "sourceType": "boe-consolidado"
+      "sourceType": "boe-consolidado",
+      "fullFile": "rd-393-2007.html",
+      "studyFile": "rd-393-2007-B.html",
+      "studyScope": "active-question-anchors"
     }
   ]
 }
