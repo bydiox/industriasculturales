@@ -33,8 +33,68 @@ const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, character =>
   '"': '&quot;',
   "'": '&#039;'
 })[character]);
+const OPTION_LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
+const THEME_STORAGE_KEY = 'm3-theme-preference';
+const THEME_LABELS = {
+  system: 'Sistema',
+  light: 'Claro',
+  dark: 'Oscuro'
+};
+const THEME_COLORS = {
+  light: '#f5efe4',
+  dark: '#101318'
+};
+const THEME_PREFERENCES = ['system', 'light', 'dark'];
 
 let cloudSaveTimer = null;
+
+function loadThemePreference() {
+  try {
+    const stored = localStorage.getItem(THEME_STORAGE_KEY) || 'system';
+    return THEME_PREFERENCES.includes(stored) ? stored : 'system';
+  } catch {
+    return 'system';
+  }
+}
+
+function saveThemePreference(preference) {
+  try {
+    if (preference === 'system') localStorage.removeItem(THEME_STORAGE_KEY);
+    else localStorage.setItem(THEME_STORAGE_KEY, preference);
+  } catch {
+    // Si el navegador bloquea localStorage, el tema sigue funcionando durante la sesión.
+  }
+}
+
+let themePreference = loadThemePreference();
+
+function systemPrefersDark() {
+  return window.matchMedia?.('(prefers-color-scheme: dark)').matches;
+}
+
+function effectiveTheme(preference = themePreference) {
+  return preference === 'system' ? (systemPrefersDark() ? 'dark' : 'light') : preference;
+}
+
+function applyTheme(preference = themePreference) {
+  const theme = effectiveTheme(preference);
+  document.documentElement.dataset.colorTheme = theme;
+  document.documentElement.dataset.themePreference = preference;
+  const meta = $('#theme-color');
+  if (meta) meta.setAttribute('content', THEME_COLORS[theme]);
+  const toggle = $('#theme-toggle');
+  if (toggle) {
+    toggle.textContent = `Tema: ${THEME_LABELS[preference]}`;
+    toggle.title = `Tema actual: ${THEME_LABELS[preference]}. Tocar para cambiar.`;
+    toggle.setAttribute('aria-label', `Cambiar tema de color. Tema actual: ${THEME_LABELS[preference]}.`);
+  }
+}
+
+function cycleThemePreference() {
+  themePreference = THEME_PREFERENCES[(THEME_PREFERENCES.indexOf(themePreference) + 1) % THEME_PREFERENCES.length];
+  saveThemePreference(themePreference);
+  applyTheme(themePreference);
+}
 
 function renderSessionUser() {
   const user = $('#session-user');
@@ -367,7 +427,7 @@ const studyDocuments = [
   { id: 'delimitacion', title: 'Delimitación explícita de la convocatoria', summary: 'Tema por tema: qué entra, qué fuente lo cubre y qué no debe ampliarse.', file: 'docs/DELIMITACION_EXPLICITA_CONVOCATORIA.md' },
   { id: 'mapa-historia', title: 'Mapa de estudio del modo Historia', summary: 'Qué se estudia en cada mundo y qué parte es legislación, técnica o editorial.', file: 'docs/MAPA_ESTUDIO_MODO_HISTORIA.md' },
   { id: 'readme', title: 'Léeme antes de empezar', summary: 'Qué contiene la app, cómo avanzar y cómo interpretar los resultados.', file: 'docs/LEEME.md' },
-  { id: 'practico', title: 'Dossier del supuesto práctico', summary: 'Evidencia real, entregables, familias de supuesto y entrenamiento.', file: 'docs/practico_dossier_estudio.md' },
+  { id: 'practico', title: 'Análisis histórico del supuesto práctico', summary: 'Qué pidió el tribunal en supuestos reales, qué patrones se observan y cómo entrenar sin convertirlo en predicción.', file: 'docs/practico_dossier_estudio.md' },
   { id: 'formato', title: 'Cómo es el examen', summary: 'Formato, puntuación, penalización y estrategia de respuesta.', file: 'docs/FORMATO_EXAMEN.md' },
   { id: 'fuentes', title: 'Guía de fuentes no legislativas', summary: 'Qué estudiar en historia, públicos, programación, técnica y planificación sin leer documentos enormes.', file: 'docs/FUENTES_SIN_CORPUS.md' },
   { id: 'auditoria-fuentes', title: 'Auditoría de fuentes no legislativas', summary: 'Qué fuentes internas existen, qué temas cubren y qué referencias quedan fuera del HTML interno.', file: 'docs/AUDITORIA_FUENTES_NO_LEGISLATIVAS.md' },
@@ -376,7 +436,7 @@ const studyDocuments = [
 
 const studyCategories = [
   { id: 'readme', icon: '?', title: 'Léeme', summary: 'Orientación rápida para empezar a estudiar.' },
-  { id: 'practico', icon: '◆', title: 'Supuesto práctico', summary: 'Casos, protocolos, normativa y entrenamiento escrito.' },
+  { id: 'practico', icon: '◆', title: 'Supuesto práctico', summary: 'Análisis de supuestos reales, protocolos y entrenamiento escrito.' },
   { id: 'examen', icon: '✓', title: 'Examen y estrategia', summary: 'Formato, puntuación y cómo organizar el estudio.' },
   { id: 'fuentes', icon: '▤', title: 'Fuentes y temario', summary: 'Materiales para estudiar lo que no procede de una ley.' },
   { id: 'oficial', icon: '▣', title: 'Material oficial', summary: 'Cuestionarios y documentos de convocatorias anteriores.' }
@@ -596,15 +656,15 @@ function renderPracticalPanel() {
     <p>Empieza por uno de estos tres caminos. Cada tarjeta abre el apartado correspondiente del dossier.</p>
     <div class="practical-menu" aria-label="Apartados del supuesto pr&#225;ctico">
       <button class="practical-menu-card practical-menu-0" type="button" data-practical-anchor="study-1-la-prueba"><span class="practical-menu-icon">0</span><strong>Qu&#233; es</strong><small>Formato, tiempo, puntuaci&#243;n y lectura oral.</small></button>
-      <button class="practical-menu-card practical-menu-1" type="button" data-practical-anchor="study-2-lo-que-de-verdad-pide-el-tribunal"><span class="practical-menu-icon">1</span><strong>Hist&#243;rico</strong><small>Qu&#233; han pedido siete supuestos reales.</small></button>
-      <button class="practical-menu-card practical-menu-2" type="button" data-practical-anchor="study-3-las-tres-familias-de-supuesto-revisadas"><span class="practical-menu-icon">2</span><strong>Supuesto actual</strong><small>Familias probables y c&#243;mo entrenarlas.</small></button>
+      <button class="practical-menu-card practical-menu-1" type="button" data-practical-anchor="study-2-lo-que-de-verdad-pide-el-tribunal"><span class="practical-menu-icon">1</span><strong>Hist&#243;rico real</strong><small>Qu&#233; han pedido los supuestos reales.</small></button>
+      <button class="practical-menu-card practical-menu-2" type="button" data-practical-anchor="study-4-supuesto-futuro-de-entrenamiento"><span class="practical-menu-icon">2</span><strong>Supuesto futuro</strong><small>Modelo bueno de entrenamiento, no predicci&#243;n cerrada.</small></button>
     </div>
     <h3 class="practical-subtitle">Supuestos para entrenar</h3>
     <div class="practical-subcases" aria-label="Supuestos pr&#225;cticos de entrenamiento">
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-4-las-estructuras-que-hay-que-llevar-memorizadas"><span class="practical-subcase-icon">1</span><strong>Estructuras</strong><small>Pliego, proyecto, nota de prensa y plan.</small></button>
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-5-el-guion-de-emergencia-familia-b"><span class="practical-subcase-icon">2</span><strong>Emergencia</strong><small>Incidente en funci&#243;n y evacuaci&#243;n.</small></button>
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-6-metodo-de-preparacion"><span class="practical-subcase-icon">3</span><strong>Entrenamiento</strong><small>Una respuesta semanal a reloj y lectura oral.</small></button>
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-8-supuestos-originales-incorporados"><span class="practical-subcase-icon">4</span><strong>PDF reales</strong><small>Siete supuestos originales para leer en contexto.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-5-las-estructuras-que-hay-que-llevar-memorizadas"><span class="practical-subcase-icon">1</span><strong>Estructuras</strong><small>Pliego, proyecto, nota de prensa y plan.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-6-el-guion-de-emergencia-familia-b"><span class="practical-subcase-icon">2</span><strong>Emergencia</strong><small>Incidente en funci&#243;n y evacuaci&#243;n.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-7-metodo-de-preparacion"><span class="practical-subcase-icon">3</span><strong>Entrenamiento</strong><small>Una respuesta semanal a reloj y lectura oral.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-9-supuestos-originales-incorporados"><span class="practical-subcase-icon">4</span><strong>PDF reales</strong><small>Siete supuestos originales para leer en contexto.</small></button>
     </div>
     <h3 class="practical-subtitle">Material visual</h3>
     <p>Planos y esquemas para reconocer el espacio esc&#233;nico y leer un supuesto.</p>
@@ -1543,14 +1603,17 @@ function renderQuestion() {
     questionContext.hidden = true;
   }
   $('#options').innerHTML = shuffledOptions(question.options)
-    .map(option => `<button class="option" data-option="${escapeHtml(option.id)}">${escapeHtml(option.text)}</button>`)
+    .map((option, index) => `<button class="option" data-option="${escapeHtml(option.id)}"><span class="option-letter" aria-hidden="true">${OPTION_LETTERS[index] || index + 1}</span><span class="option-text">${escapeHtml(option.text)}</span></button>`)
     .join('');
   $('#feedback').hidden = true;
   $('#next').hidden = true;
   $('#blank').hidden = false;
   $('#options').classList.remove('answered');
   $('#options').querySelectorAll('[data-option]').forEach(button => {
-    button.addEventListener('click', () => answer(button.dataset.option));
+    button.addEventListener('click', () => {
+      if ($('#options').classList.contains('answered')) advanceQuestion();
+      else answer(button.dataset.option);
+    });
   });
   renderQuestionTools();
   if (state.responses[state.index]) applyResponse(state.responses[state.index]);
@@ -1564,12 +1627,10 @@ function renderFeedback(response) {
     return;
   }
   const right = response.optionId === question.correctOptionId;
-  const reference = question.origin ? `${question.origin.questionnaire} · página ${question.origin.page}` : question.source?.reference;
+  const reference = question.source?.reference;
   const law = question.source ? state.content.lawsById[question.source.lawId] : null;
   const localSourceUrl = question.source?.file ? `data/${question.source.file}#${question.source.anchorId}` : null;
   const externalSourceLabel = question.source?.kind === 'referencia' ? 'Referencia externa' : 'Fuente oficial';
-  const officialQuestionnaire = question.origin?.questionnaire || question.origin?.cuestionario;
-  const officialAnswerKey = question.origin?.answerKey || question.origin?.plantilla;
   let sourceLinks = law
     ? `<a href="data/laws/${escapeHtml(law.fullFile || law.file)}#${escapeHtml(question.source.anchorId || '')}" data-law-id="${escapeHtml(question.source.lawId)}" data-law-anchor="${escapeHtml(question.source.anchorId || '')}" data-law-original="true">Ver fuente</a>${question.source.url ? ` · <a href="${escapeHtml(question.source.url)}" target="_blank" rel="noreferrer">${externalSourceLabel}</a>` : ''}`
     : question.source?.url
@@ -1578,11 +1639,7 @@ function renderFeedback(response) {
   if (!sourceLinks && localSourceUrl) {
     sourceLinks = `<a href="${escapeHtml(localSourceUrl)}" target="_blank" rel="noreferrer">Ver fuente</a>`;
   }
-  if (officialQuestionnaire) {
-    const officialLinks = `<a href="${escapeHtml(officialQuestionnaire)}" target="_blank" rel="noreferrer">Cuestionario oficial</a>${officialAnswerKey ? ` · <a href="${escapeHtml(officialAnswerKey)}" target="_blank" rel="noreferrer">Plantilla oficial</a>` : ''}`;
-    sourceLinks = sourceLinks ? `${officialLinks} · ${sourceLinks}` : officialLinks;
-  }
-  const displayReference = question.origin ? `${question.origin.label || 'Examen oficial'} - pregunta ${question.origin.questionNumber || ''}` : reference;
+  const displayReference = law || (question.source?.kind && question.source.kind !== 'official_exam') ? reference : '';
   $('#feedback').innerHTML = `
     <strong>${right ? 'Correcto' : 'Revisa esta respuesta'}</strong>
     <p>${escapeHtml(question.explanation || '')}</p>
@@ -1594,12 +1651,20 @@ function applyResponse(response) {
   $('#options').classList.add('answered');
   $('#blank').hidden = true;
   $('#options').querySelectorAll('.option').forEach(button => {
-    button.disabled = true;
+    button.title = 'Tocar para pasar a la siguiente pregunta';
+    button.setAttribute('aria-label', `${button.textContent.trim()}. Tocar de nuevo para pasar a la siguiente pregunta`);
     if (!response.blank && button.dataset.option === state.questions[state.index].correctOptionId) button.classList.add('correct');
     if (!response.blank && button.dataset.option === response.optionId && response.optionId !== state.questions[state.index].correctOptionId) button.classList.add('wrong');
   });
   renderFeedback(response);
   $('#next').hidden = false;
+}
+
+function advanceQuestion() {
+  if (state.index + 1 < state.questions.length) {
+    state.index += 1;
+    renderQuestion();
+  } else finish();
 }
 
 function answer(optionId) {
@@ -1673,12 +1738,16 @@ function renderResultActions(passed) {
   const next = $('#next-story-result');
   back.textContent = isHistory ? 'Volver' : 'Volver al inicio';
   retry.hidden = !isHistory;
-  next.hidden = !isHistory;
+  next.hidden = !isHistory || !passed;
   if (!isHistory) return;
   const target = passed ? nextStoryTarget() : null;
   retry.disabled = false;
+  retry.classList.toggle('primary', !passed);
+  retry.classList.toggle('secondary', passed);
+  next.classList.toggle('primary', passed);
+  next.classList.toggle('secondary', !passed);
   next.disabled = !target;
-  next.textContent = target ? 'Siguiente bloque' : passed ? 'Historia completada' : 'Siguiente bloque';
+  next.textContent = target ? 'Siguiente bloque' : 'Historia completada';
   next.dataset.nextKind = target?.kind || '';
   next.dataset.nextUnit = target?.unitId || '';
   next.dataset.nextTopic = target?.topicId || '';
@@ -1813,6 +1882,7 @@ $('#auth-form').addEventListener('submit', async event => {
 $('#sign-out').addEventListener('click', async () => {
   await signOut();
 });
+$('#theme-toggle').addEventListener('click', cycleThemePreference);
 $('#save-question').addEventListener('click', () => {
   const question = state.questions[state.index];
   if (question) toggleQuestionList('savedQuestionIds', question.id);
@@ -1827,10 +1897,7 @@ $('#discard-session').addEventListener('click', () => {
   announce('Sesión guardada descartada. El progreso acumulado se mantiene.');
 });
 $('#next').addEventListener('click', () => {
-  if (state.index + 1 < state.questions.length) {
-    state.index += 1;
-    renderQuestion();
-  } else finish();
+  advanceQuestion();
 });
 $('#blank').addEventListener('click', blankAnswer);
 $('#pause-session').addEventListener('click', pauseSessionAndReturnHome);
@@ -1914,6 +1981,14 @@ document.querySelectorAll('[data-home-action]').forEach(button => button.addEven
   else if (action === 'laws') { renderLawCatalog(); openLawCatalog(); }
   else if (action === 'official') openHomePanel('home-official');
 }));
+
+applyTheme(themePreference);
+const colorSchemeQuery = window.matchMedia?.('(prefers-color-scheme: dark)');
+const updateSystemTheme = () => {
+  if (themePreference === 'system') applyTheme(themePreference);
+};
+if (colorSchemeQuery?.addEventListener) colorSchemeQuery.addEventListener('change', updateSystemTheme);
+else if (colorSchemeQuery?.addListener) colorSchemeQuery.addListener(updateSystemTheme);
 
 Promise.all([loadContent(), initAuth()])
   .then(([content]) => {

@@ -4,8 +4,8 @@ body { margin: 0; min-height: 100vh; background: radial-gradient(circle at top, 
 .app { width: min(960px, 100%); margin: 0 auto; padding: 24px 16px 48px; }
 header { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 32px; }
 .header-tools { display: flex; align-items: center; justify-content: flex-end; gap: 12px; }
-.guide-button { display: inline-flex; align-items: center; gap: 7px; border: 1px solid #4a596b; border-radius: 999px; background: #1b232d; padding: 8px 12px; }
-.guide-button:hover { border-color: #f0b52d; }
+.guide-button, .theme-toggle { display: inline-flex; align-items: center; gap: 7px; border: 1px solid #4a596b; border-radius: 999px; background: #1b232d; padding: 8px 12px; }
+.guide-button:hover, .theme-toggle:hover { border-color: #f0b52d; }
 .guide-icon { display: grid; place-items: center; width: 20px; height: 20px; border: 1px solid currentColor; border-radius: 50%; color: #f0b52d; font-family: Georgia, serif; font-weight: 700; }
 h1, h2, p { margin-top: 0; }
 h1 { letter-spacing: .18em; color: #f0b52d; }
@@ -149,10 +149,15 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .result-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
 .quiz-meta { display: flex; justify-content: space-between; color: #f0b52d; font-size: .9rem; }
 .options { display: grid; gap: 10px; margin: 24px 0; }
-.option { text-align: left; }
+.option { display: grid; grid-template-columns: auto 1fr; align-items: start; gap: 12px; text-align: left; }
+.option-letter { display: inline-flex; align-items: center; justify-content: center; min-width: 28px; height: 28px; border-radius: 999px; background: #2b3542; color: #dce5ee; font-weight: 800; font-size: .82rem; letter-spacing: .03em; }
+.option-text { min-width: 0; }
 .option:hover:not(:disabled) { border-color: #f0b52d; }
 .option.correct { border-color: #49be76; background: #193526; }
 .option.wrong { border-color: #d75d66; background: #3a2026; }
+.option.correct .option-letter { background: #2d7f4c; color: #ffffff; }
+.option.wrong .option-letter { background: #a43f48; color: #ffffff; }
+.options.answered .option { cursor: pointer; }
 .feedback { border-left: 3px solid #f0b52d; padding: 10px 14px; background: #202a35; }
 .question-origin { margin: 10px 0 14px; padding: 8px 10px; border: 1px solid #3d4b5a; border-radius: 8px; color: #f0c96b; font-size: .82rem; }
 .question-context { margin: 10px 0 18px; padding: 14px 16px; border-left: 3px solid #55b7c9; border-radius: 10px; background: #132731; color: #d7e8ed; white-space: pre-line; font-size: .94rem; line-height: 1.5; }
@@ -334,6 +339,188 @@ button { font: inherit; color: inherit; cursor: pointer; }
 body.law-reference-open { overflow: hidden; }
 .feedback a[data-law-id] { color: #f0c96b; font-weight: 700; }
 [hidden] { display: none !important; }
+html[data-color-theme="light"] { color-scheme: light; background: #f5efe4; color: #17202a; }
+html[data-color-theme="light"] body { background: radial-gradient(circle at top, #fff8ea, #f4ecdf 58%, #eadfce); color: #17202a; }
+html[data-color-theme="light"] h1,
+html[data-color-theme="light"] .app-brand,
+html[data-color-theme="light"] .guide-kicker,
+html[data-color-theme="light"] .quiz-meta,
+html[data-color-theme="light"] .story-heading > strong,
+html[data-color-theme="light"] .unit-progress,
+html[data-color-theme="light"] .unit-order,
+html[data-color-theme="light"] .home-menu-icon,
+html[data-color-theme="light"] .study-category-icon,
+html[data-color-theme="light"] .law-catalog-icon,
+html[data-color-theme="light"] .study-toc h3,
+html[data-color-theme="light"] .study-library > h2,
+html[data-color-theme="light"] .auth-card h2,
+html[data-color-theme="light"] .free-choice-panel h2,
+html[data-color-theme="light"] .exam-choice-panel h2,
+html[data-color-theme="light"] .study-page-content h1,
+html[data-color-theme="light"] .study-page-content h2,
+html[data-color-theme="light"] .study-page-content h3,
+html[data-color-theme="light"] .study-page-content h4,
+html[data-color-theme="light"] .law-page-content h1,
+html[data-color-theme="light"] .law-page-content h2,
+html[data-color-theme="light"] .law-page-content h3,
+html[data-color-theme="light"] .law-page-content h4,
+html[data-color-theme="light"] .law-reference-body h1,
+html[data-color-theme="light"] .law-reference-body h2,
+html[data-color-theme="light"] .law-reference-body h3,
+html[data-color-theme="light"] .law-reference-body h4 { color: #9b6400; }
+html[data-color-theme="light"] .app-version,
+html[data-color-theme="light"] .session-user,
+html[data-color-theme="light"] small,
+html[data-color-theme="light"] .unit-title small,
+html[data-color-theme="light"] .story-topic small,
+html[data-color-theme="light"] .unit-final small,
+html[data-color-theme="light"] .study-doc-card p,
+html[data-color-theme="light"] .study-category-card small,
+html[data-color-theme="light"] .law-catalog-card small,
+html[data-color-theme="light"] .unit-law-link small,
+html[data-color-theme="light"] .story-heading p,
+html[data-color-theme="light"] .free-choice-panel > p,
+html[data-color-theme="light"] .exam-choice-panel > p,
+html[data-color-theme="light"] .auth-card p,
+html[data-color-theme="light"] .guide-dialog-heading p,
+html[data-color-theme="light"] .study-reader-title p,
+html[data-color-theme="light"] .law-reference-head p { color: #647080; }
+html[data-color-theme="light"] .guide-button,
+html[data-color-theme="light"] .theme-toggle,
+html[data-color-theme="light"] .primary,
+html[data-color-theme="light"] .secondary,
+html[data-color-theme="light"] .topic-action,
+html[data-color-theme="light"] .option,
+html[data-color-theme="light"] .home-menu-card,
+html[data-color-theme="light"] .exam-choice-card,
+html[data-color-theme="light"] .free-choice-panel,
+html[data-color-theme="light"] .auth-card,
+html[data-color-theme="light"] .story-progress-panel,
+html[data-color-theme="light"] .story-unit,
+html[data-color-theme="light"] .story-topic,
+html[data-color-theme="light"] .unit-reading,
+html[data-color-theme="light"] .unit-law-link,
+html[data-color-theme="light"] .quiz-card,
+html[data-color-theme="light"] .result-card,
+html[data-color-theme="light"] .official-material,
+html[data-color-theme="light"] .practical-material,
+html[data-color-theme="light"] .practical-menu-card,
+html[data-color-theme="light"] .practical-subcase-card,
+html[data-color-theme="light"] .guide-dialog,
+html[data-color-theme="light"] .guide-dialog-heading,
+html[data-color-theme="light"] .guide-subsection,
+html[data-color-theme="light"] .study-library,
+html[data-color-theme="light"] .study-category-card,
+html[data-color-theme="light"] .study-doc-card,
+html[data-color-theme="light"] .study-toc,
+html[data-color-theme="light"] .study-table-wrap,
+html[data-color-theme="light"] .law-catalog-card,
+html[data-color-theme="light"] .law-context,
+html[data-color-theme="light"] .law-page-content,
+html[data-color-theme="light"] .law-reference-sheet,
+html[data-color-theme="light"] .law-reference-head,
+html[data-color-theme="light"] .law-reference-body { border-color: #d8c9b2; background: #fffaf2; color: #17202a; box-shadow: 0 12px 28px rgb(88 64 32 / 8%); }
+html[data-color-theme="light"] .secondary,
+html[data-color-theme="light"] .theme-toggle,
+html[data-color-theme="light"] .guide-button { background: #fffaf2; }
+html[data-color-theme="light"] .primary { background: #d89112; border-color: #bd7500; color: #fffaf2; }
+html[data-color-theme="light"] .home-menu-card:hover,
+html[data-color-theme="light"] .exam-choice-card:hover,
+html[data-color-theme="light"] .study-category-card:hover,
+html[data-color-theme="light"] .law-catalog-card:hover,
+html[data-color-theme="light"] .practical-menu-card:hover,
+html[data-color-theme="light"] .practical-subcase-card:hover,
+html[data-color-theme="light"] .unit-toggle:hover,
+html[data-color-theme="light"] .option:hover:not(:disabled) { background: #fff2d8; }
+html[data-color-theme="light"] .home-menu-card.is-primary,
+html[data-color-theme="light"] .exam-choice-card.is-selected,
+html[data-color-theme="light"] .story-unit.is-active { background: #fff3d8; border-color: #d89112; box-shadow: 0 0 0 2px rgb(216 145 18 / 14%); }
+html[data-color-theme="light"] .story-unit.is-completed,
+html[data-color-theme="light"] .story-topic.is-complete,
+html[data-color-theme="light"] .unit-reading.is-complete { border-color: #6bb47d; background: #eff8ef; }
+html[data-color-theme="light"] .story-unit.is-locked,
+html[data-color-theme="light"] .story-topic.is-locked { background: #f3eee6; }
+html[data-color-theme="light"] .unit-reading.is-reference,
+html[data-color-theme="light"] .source-catalog-card,
+html[data-color-theme="light"] .unit-law-link.is-study-doc { background: #eef6ff; border-color: #b8d4ee; }
+html[data-color-theme="light"] .unit-reading,
+html[data-color-theme="light"] .unit-law-link.is-law { background: #fff6df; border-color: #dcb764; }
+html[data-color-theme="light"] .editorial-alert,
+html[data-color-theme="light"] .guide-legal-notice,
+html[data-color-theme="light"] .home-notice,
+html[data-color-theme="light"] .quiz-notice,
+html[data-color-theme="light"] .feedback,
+html[data-color-theme="light"] .guide-intro,
+html[data-color-theme="light"] .study-page-content blockquote { background: #fff0cf; color: #5e4c2e; border-color: #d89112; }
+html[data-color-theme="light"] .editorial-alert.is-critical,
+html[data-color-theme="light"] .guide-legal-notice.is-critical { background: #fff0f1; border-color: #cf5a63; }
+html[data-color-theme="light"] .option-letter { background: #e6dccb; color: #3a3021; }
+html[data-color-theme="light"] .option.correct { background: #e9f7ed; border-color: #4fa96a; }
+html[data-color-theme="light"] .option.wrong { background: #fff0f1; border-color: #cf5a63; }
+html[data-color-theme="light"] .option.correct .option-letter { background: #3d9659; color: #fff; }
+html[data-color-theme="light"] .option.wrong .option-letter { background: #c34953; color: #fff; }
+html[data-color-theme="light"] .scope-badge { background: #efe5d5; color: #4c5561; border-color: #cbbba5; }
+html[data-color-theme="light"] .scope-badge.is-study { background: #e8f7ec; color: #25663c; border-color: #69b37d; }
+html[data-color-theme="light"] .scope-badge.is-partial { background: #fff0cc; color: #805400; border-color: #d9a63b; }
+html[data-color-theme="light"] .scope-badge.is-support { background: #e8f4ff; color: #215d86; border-color: #7eb5df; }
+html[data-color-theme="light"] .scope-badge.is-context { background: #f1ecff; color: #5f4fa0; border-color: #a895df; }
+html[data-color-theme="light"] .reading-type { background: #fff0ca; color: #9b6400; border-color: #d2a54c; }
+html[data-color-theme="light"] .unit-law-link.is-study-doc .reading-type { background: #e6f4ff; color: #286b99; border-color: #8bbce1; }
+html[data-color-theme="light"] .study-page-content p,
+html[data-color-theme="light"] .study-page-content li,
+html[data-color-theme="light"] .guide-section p,
+html[data-color-theme="light"] .guide-section li,
+html[data-color-theme="light"] .law-page-content p,
+html[data-color-theme="light"] .law-reference-body p,
+html[data-color-theme="light"] .study-table-wrap th,
+html[data-color-theme="light"] .study-table-wrap td,
+html[data-color-theme="light"] .law-context p,
+html[data-color-theme="light"] .unit-title > span,
+html[data-color-theme="light"] .unit-title .unit-focus,
+html[data-color-theme="light"] .unit-study-scope,
+html[data-color-theme="light"] .story-progress-copy span,
+html[data-color-theme="light"] .question-context,
+html[data-color-theme="light"] .question-origin { color: #2d3744; }
+html[data-color-theme="light"] .study-table-wrap th,
+html[data-color-theme="light"] .guide-table-wrap th { background: #f4ead7; color: #8b5a00; }
+html[data-color-theme="light"] .study-table-wrap th,
+html[data-color-theme="light"] .study-table-wrap td,
+html[data-color-theme="light"] .guide-table-wrap th,
+html[data-color-theme="light"] .guide-table-wrap td,
+html[data-color-theme="light"] .guide-section,
+html[data-color-theme="light"] .study-reader-title,
+html[data-color-theme="light"] .study-reader-bottom,
+html[data-color-theme="light"] .law-page-content header,
+html[data-color-theme="light"] .law-reference-body header { border-color: #dccfbd; }
+html[data-color-theme="light"] .free-filter-form select,
+html[data-color-theme="light"] .auth-form input { background: #fffdf8; color: #17202a; border-color: #cdbda8; }
+html[data-color-theme="light"] .free-filter-count,
+html[data-color-theme="light"] .question-context { background: #eef6ff; border-color: #96c5e8; }
+html[data-color-theme="light"] .question-origin { background: #fff5dd; border-color: #dcb764; color: #7d5400; }
+html[data-color-theme="light"] .law-page-content p.articulo,
+html[data-color-theme="light"] .law-reference-body p.articulo { background: #eef6ff; color: #17202a; border-left-color: #438ec1; }
+html[data-color-theme="light"] .law-page-content p.titulo,
+html[data-color-theme="light"] .law-page-content p.titulo_num,
+html[data-color-theme="light"] .law-page-content p.capitulo_num,
+html[data-color-theme="light"] .law-page-content p.subseccion,
+html[data-color-theme="light"] .law-reference-body p.titulo,
+html[data-color-theme="light"] .law-reference-body p.titulo_num,
+html[data-color-theme="light"] .law-reference-body p.capitulo_num,
+html[data-color-theme="light"] .law-reference-body p.subseccion { color: #8b5a00; }
+html[data-color-theme="light"] .law-page-content p.titulo_tit,
+html[data-color-theme="light"] .law-page-content p.capitulo_tit,
+html[data-color-theme="light"] .law-page-content p.seccion,
+html[data-color-theme="light"] .law-reference-body p.titulo_tit,
+html[data-color-theme="light"] .law-reference-body p.capitulo_tit,
+html[data-color-theme="light"] .law-reference-body p.seccion { color: #5e4c2e; }
+html[data-color-theme="light"] .law-reader-dock button { background: #fffaf2; color: #8b5a00; border-color: #cdbda8; box-shadow: 0 12px 28px rgb(88 64 32 / 12%); }
+html[data-color-theme="light"] .law-reference-overlay { background: rgb(56 44 30 / 45%); }
+html[data-color-theme="light"] a,
+html[data-color-theme="light"] .official-material a,
+html[data-color-theme="light"] .study-page-content a,
+html[data-color-theme="light"] .law-page-content a,
+html[data-color-theme="light"] .law-reference-body a,
+html[data-color-theme="light"] .feedback a[data-law-id] { color: #9b6400; }
 @media (max-width: 600px) {
   header { display: block; }
   .header-tools { justify-content: space-between; }

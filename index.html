@@ -3,8 +3,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#101318">
+  <meta id="theme-color" name="theme-color" content="#101318">
   <title>M3 · Gestión de Industrias Culturales y Creativas</title>
+  <script>
+    (() => {
+      let preference = 'system';
+      try {
+        preference = localStorage.getItem('m3-theme-preference') || 'system';
+      } catch {
+        preference = 'system';
+      }
+      const dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const theme = preference === 'system' ? (dark ? 'dark' : 'light') : preference;
+      document.documentElement.dataset.colorTheme = theme;
+      document.documentElement.dataset.themePreference = preference;
+    })();
+  </script>
   <link rel="stylesheet" href="styles/app.css">
 </head>
 <body>
@@ -15,6 +29,7 @@
         <span id="progress">Cargando progreso…</span>
         <span id="session-user" class="session-user" hidden></span>
         <button id="sign-out" class="secondary compact-action" type="button" hidden>Salir</button>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Cambiar tema de color">Tema</button>
         <button id="open-guide" class="guide-button" type="button" aria-label="Abrir Léeme">
           <span class="guide-icon" aria-hidden="true">i</span>
           <span>Léeme</span>

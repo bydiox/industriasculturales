@@ -1,8 +1,12 @@
-# El supuesto práctico — dossier de estudio (v2, sobre evidencia real)
+# El supuesto práctico — análisis histórico y método de entrenamiento
 
-**Esta versión sustituye por completo a `supuesto_practico_hipotesis_y_metodo.md` y a la sección de supuestos de `supuesto_real_2022_analisis.md`.** Aquella se escribió con un solo caso conocido y varias hipótesis. Esta se apoya en **siete supuestos reales del mismo tribunal**: los seis de M3 del Ministerio de Cultura (convocatoria de 26 de mayo de 2023, ejercicio de 24 de junio de 2024) y el de M3 Industrias Culturales de 2022.
+Este documento conserva lo que sí sirve: el **análisis histórico de supuestos reales** y el método de entrenamiento. No debe leerse como una predicción cerrada de lo que va a caer.
 
-Lo que cambia no es un matiz: **cambia qué hay que entrenar.**
+La base son **siete supuestos reales del mismo entorno selectivo**: los seis de M3 del Ministerio de Cultura de la convocatoria de 26 de mayo de 2023, celebrados el 24 de junio de 2024, y el supuesto M3 de Industrias Culturales de 2022.
+
+La conclusión útil no es “va a caer exactamente esto”, sino otra: **hay que entrenar la producción de documentos profesionales**, no solo memorizar normativa.
+
+Importante: este documento conserva el **supuesto futuro de entrenamiento** de la última revisión, porque sí encaja con la evidencia histórica. Lo que queda descartado es el análisis anterior sustituido, que daba demasiado peso a un kit normativo y a hipótesis construidas con menos casos.
 
 ---
 
@@ -71,35 +75,51 @@ Confirma la recomendación de meter siempre un párrafo de género, accesibilida
 
 ---
 
-## 3. Las tres familias de supuesto, revisadas
+## 3. Patrones observados en los supuestos reales
 
-Con siete casos reales, las probabilidades cambian respecto a la v1.
+Esto no es una quiniela. Es una forma de ordenar lo que ya ha pedido el tribunal para entrenar sin dispersarse.
 
-### Familia A — Encargo de gestión con entregables *(la más probable)*
+### Patrón A — Encargo de gestión con entregables
 
-Es la forma de **cinco de los seis supuestos M3**. Un encargo real del Ministerio o de una unidad, con datos, y tres a cinco tareas que piden documentos.
+Está presente en varios supuestos M3 analizados. El enunciado plantea un encargo real del Ministerio o de una unidad, aporta datos, y pide tres a cinco tareas que se resuelven produciendo documentos.
+
+**Qué se entrena con este patrón:**
+
+- ordenar datos del enunciado;
+- convertirlos en cronograma, plan, proyecto, pliego, memoria o nota;
+- escribir con apartados claros;
+- usar la norma como apoyo, no como sustituto del documento.
+
+### Patrón B — Incidente en función
+
+Es el precedente directo de la especialidad de María: el supuesto M3 Industrias Culturales de 2022, con *La Gatita* en configuración invertida, dos incidentes escalonados —desmayo del público e incendio no controlado— y planos adjuntos.
+
+Este histórico sí debe estudiarse con atención porque enseña cómo el tribunal convierte un plano y una incidencia en una respuesta de gestión: seguridad, cadena de mando, evacuación, coordinación y decisión de no reanudar.
+
+### Patrón C — Híbrido
+
+Puede aparecer un encargo de producción con un incidente incrustado. No es una predicción: solo una combinación razonable de los dos patrones anteriores para entrenar respuestas flexibles.
+
+---
+
+## 4. Supuesto futuro de entrenamiento
+
+Este supuesto no es una predicción cerrada. Es un **modelo de entrenamiento** construido con los patrones reales: encargo de gestión, datos que hay que ordenar, entregables profesionales y cierre de sector público.
 
 **Enunciado tipo para Industrias Culturales:**
 
-> El Centro Nacional de Difusión Musical va a presentar su próxima temporada estable. [Dos páginas de datos: número de conciertos, sedes, presupuesto disponible, público objetivo, calendario, colaboraciones previstas.] Resuelva:
+> El Centro Nacional de Difusión Musical va a presentar su próxima temporada estable. El enunciado aporta datos sobre número de conciertos, sedes, presupuesto disponible, público objetivo, calendario y colaboraciones previstas. Resuelva:
+>
 > 1. Organice y planifique el trabajo de producción de la temporada: cronograma, coordinación institucional, documentación y materiales.
 > 2. Desarrolle un modelo de pliego de condiciones técnicas para la contratación de los servicios técnicos.
 > 3. Elabore un breve plan de comunicación de la temporada, incorporando la perspectiva de género.
 > 4. Responda sucintamente: ¿qué particularidades presenta la contratación de servicios artísticos en el sector público?
 
-### Familia B — Incidente en función *(sigue viva, es el precedente directo de la especialidad)*
-
-Es la forma del supuesto de M3 Industrias Culturales de 2022: *La Gatita* en configuración invertida, con dos incidentes escalonados —desmayo del público e incendio no controlado— y planos adjuntos.
-
-**Es el único precedente de la especialidad exacta de María**, así que pesa mucho aunque el resto de M3 vaya por la familia A. Mantener el guion de emergencia memorizado (apartado 5).
-
-### Familia C — Híbrido
-
-Encargo de producción con un incidente incrustado. Combina ambas.
+**Cómo usarlo:** María no tiene que memorizar este caso como si fuera el examen. Tiene que practicar la estructura: leer datos, ordenarlos, producir el documento pedido y cerrar con dos o tres referencias públicas bien colocadas.
 
 ---
 
-## 4. Las estructuras que hay que llevar memorizadas
+## 5. Las estructuras que hay que llevar memorizadas
 
 No plantillas genéricas: **los documentos concretos que el tribunal manda producir.**
 
@@ -125,7 +145,7 @@ Antecedentes · metodología · desarrollo de los trabajos · resultados · conc
 
 ---
 
-## 5. El guion de emergencia (familia B)
+## 6. El guion de emergencia (familia B)
 
 Se mantiene íntegro del análisis del supuesto de 2022, porque es el único precedente de la especialidad.
 
@@ -137,7 +157,7 @@ Normativa de apoyo: arts. 20-21 Ley 31/1995 · RD 393/2007 · RD 2816/1982 · Le
 
 ---
 
-## 6. Método de preparación
+## 7. Método de preparación
 
 **Un supuesto completo por semana, dos horas a reloj, a mano.** Rotación: dos de familia A por cada uno de B.
 
@@ -157,17 +177,17 @@ Normativa de apoyo: arts. 20-21 Ley 31/1995 · RD 393/2007 · RD 2816/1982 · Le
 
 ---
 
-## 7. Lo que se sabe y lo que se supone
+## 8. Lo que se sabe y lo que no se debe convertir en predicción
 
-**Se sabe** (evidencia de siete supuestos reales del mismo tribunal): el formato es de encargo con entregables; los verbos son de producción; el enunciado aporta datos que hay que usar; lo normativo va al final y sucinto; género y participación se piden expresamente; el baremo es 0-60 con mínimo 30.
+**Se sabe** por evidencia histórica: los supuestos piden producir documentos; los verbos son de acción profesional; el enunciado aporta datos que hay que usar; lo normativo aparece como apoyo; género, accesibilidad, participación o dimensión pública pueden sumar cuando encajan; el baremo es 0-60 con mínimo 30.
 
-**Se supone**: que el supuesto de María seguirá la familia A o la B. Es inferencia razonada sobre siete casos, no certeza.
+**No se sabe** qué caso concreto caerá. Por eso el supuesto futuro anterior debe usarse como entrenamiento, no como certeza. Sirve para practicar estructuras de respuesta que sí se han observado en el histórico.
 
-**No se sabe**: cómo pondera el tribunal cada tarea dentro del supuesto. Los criterios de corrección publicados por otros tribunales son solo logísticos y no lo aclaran.
+**Tampoco se sabe** cómo pondera el tribunal cada tarea dentro del supuesto. Los criterios de corrección publicados por otros tribunales son solo logísticos y no lo aclaran.
 
 ---
 
-## 8. Supuestos originales incorporados
+## 9. Supuestos originales incorporados
 
 Estos PDF sirven para entrenar lectura de enunciados reales. No hay que memorizarlos como ley: hay que ver qué tipo de documento pide el tribunal y cómo convierte los datos del caso en una respuesta profesional.
 
