@@ -36,8 +36,24 @@ function shuffled(items) {
   return result;
 }
 
-function currentQuestions(questions) {
-  return questions.filter(question => question.active === true || (question.active !== false && question.origin?.historical !== true));
+function currentQuestions(questions, expectedOptions = 4) {
+  return questions.filter(question => {
+    const activeInCurrentBank = question.active === true || (question.active !== false && question.origin?.historical !== true);
+    const matchesCurrentFormat = !expectedOptions || question.options?.length === expectedOptions;
+    return activeInCurrentBank && matchesCurrentFormat;
+  });
+}
+
+function isPrimaryHistoricalExam(question) {
+  const text = [
+    question.id,
+    question.origin?.label,
+    question.origin?.examId,
+    question.origin?.questionnaire
+  ].filter(Boolean).join(' ').toLowerCase();
+  return question.origin?.type === 'official_exam'
+    && text.includes('m3')
+    && text.includes('2021');
 }
 
 function allocateExamQuotas(poolTarget, total) {
@@ -75,8 +91,9 @@ function sampleUnitQuestions(content, unitId) {
   const unit = content.unitsById[unitId];
   if (!unit) return [];
   const limit = content.studyPlan.historyRules.unitQuestionLimit;
+  const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
   const queues = unit.topicIds
-    .map(topicId => shuffled(currentQuestions(content.byTopic[topicId] || [])))
+    .map(topicId => shuffled(currentQuestions(content.byTopic[topicId] || [], expectedOptions)))
     .filter(queue => queue.length);
   const selected = [];
   while (queues.length && selected.length < limit) {
@@ -92,7 +109,7 @@ export function sampleQuestions(content, mode, targetId = null, examType = 'alea
   if (mode === 'examen' && examType === 'historico') {
     return {
       questions: content.questions
-        .filter(question => question.origin?.type === 'official_exam')
+        .filter(isPrimaryHistoricalExam)
         .sort((a, b) => String(a.origin.label || '').localeCompare(String(b.origin.label || ''), 'es')
           || (a.origin.questionNumber || 0) - (b.origin.questionNumber || 0)),
       notice: ''
@@ -100,10 +117,12 @@ export function sampleQuestions(content, mode, targetId = null, examType = 'alea
   }
   if (mode === 'historia-tema') {
     const limit = content.studyPlan.historyRules.topicQuestionLimit;
-    return { questions: shuffled(currentQuestions(content.byTopic[targetId] || [])).slice(0, limit), notice: '' };
+    const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
+    return { questions: shuffled(currentQuestions(content.byTopic[targetId] || [], expectedOptions)).slice(0, limit), notice: '' };
   }
   if (mode === 'historia-unidad') return { questions: sampleUnitQuestions(content, targetId), notice: '' };
   if (mode === 'examen') return sampleProportionalExam(content);
-  const active = currentQuestions(content.questions);
+  const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
+  const active = currentQuestions(content.questions, expectedOptions);
   return { questions: shuffled(active), notice: '' };
 }
