@@ -1,5 +1,5 @@
 export async function loadContent() {
-  const [syllabus, questions, studyPlan, editorialRules, orientationGuide, lawsManifest, examConfig, poolTarget, historyReading, lawScopes, simpleExplanations] = await Promise.all([
+  const [syllabus, questions, studyPlan, editorialRules, orientationGuide, lawsManifest, examConfig, poolTarget, historyReading, lawScopes, studyScope, simpleExplanations] = await Promise.all([
     fetch('data/syllabus.json').then(response => response.json()),
     fetch('data/questions.json').then(response => response.json()),
     fetch('data/study-units.json').then(response => response.json()),
@@ -10,6 +10,7 @@ export async function loadContent() {
     fetch('data/pool-target.json').then(response => response.json()),
     fetch('data/history-reading.json').then(response => response.json()),
     fetch('data/law-scopes.json').then(response => response.json()),
+    fetch('data/study-scope.json').then(response => response.json()),
     fetch('data/laws/simple-explanations.json').then(response => response.json())
   ]);
   const byTopic = questions.reduce((map, question) => {
@@ -23,7 +24,7 @@ export async function loadContent() {
     rule.topicIds.forEach(topicId => (map[topicId] ||= []).push(rule));
     return map;
   }, {});
-  return { syllabus, questions, studyPlan, editorialRules, orientationGuide, lawsManifest, lawScopes, simpleExplanations, examConfig, poolTarget, historyReading, lawsById, byTopic, topicsById, unitsById, rulesByTopic };
+  return { syllabus, questions, studyPlan, editorialRules, orientationGuide, lawsManifest, lawScopes, studyScope, simpleExplanations, examConfig, poolTarget, historyReading, lawsById, byTopic, topicsById, unitsById, rulesByTopic };
 }
 
 function shuffled(items) {

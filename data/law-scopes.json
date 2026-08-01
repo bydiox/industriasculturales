@@ -1,22 +1,332 @@
 {
-  "schemaVersion": 1,
-  "source": "Convocatoria M3 y reglas editoriales del proyecto",
+  "schemaVersion": 2,
+  "source": "Convocatoria M3, decisiones editoriales del proyecto y anclas verificadas en el banco de preguntas",
   "default": {
     "mode": "full",
     "scopeStatus": "not-delimited",
     "label": "Texto completo",
     "note": "La convocatoria no ha delimitado epígrafes concretos para esta norma en los datos importados. No se oculta contenido hasta verificar el alcance exacto."
   },
-  "laws": {},
+  "laws": {
+    "rd-314-2006": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Interesa por edificios, seguridad y adecuación funcional, no como Código Técnico completo.",
+      "anchorIds": [
+        "rd-314-2006-a1",
+        "rd-314-2006-dtsegunda"
+      ]
+    },
+    "rd-486-1997": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Sirve para lugares de trabajo y condiciones de seguridad; no explica iluminación artística.",
+      "anchorIds": [
+        "rd-486-1997-a10",
+        "rd-486-1997-a4",
+        "rd-486-1997-a5",
+        "rd-486-1997-a6",
+        "rd-486-1997-a7",
+        "rd-486-1997-a8",
+        "rd-486-1997-a9",
+        "rd-486-1997-ani",
+        "rd-486-1997-aniv"
+      ]
+    },
+    "rd-1215-1997": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Equipos de trabajo y seguridad, especialmente en escenario y montajes.",
+      "anchorIds": [
+        "rd-1215-1997-a2",
+        "rd-1215-1997-a3",
+        "rd-1215-1997-a4",
+        "rd-1215-1997-a5",
+        "rd-1215-1997-anii"
+      ]
+    },
+    "rd-773-1997": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Equipos de protección individual. Estudiar lo necesario para prevención.",
+      "anchorIds": [
+        "rd-773-1997-a2",
+        "rd-773-1997-a3",
+        "rd-773-1997-a4",
+        "rd-773-1997-a5",
+        "rd-773-1997-a6",
+        "rd-773-1997-a7",
+        "rd-773-1997-a8",
+        "rd-773-1997-a9"
+      ]
+    },
+    "rd-2816-1982": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Seguridad y funcionamiento de espectáculos y locales. No cubre todo el oficio escénico.",
+      "anchorIds": [
+        "rd-2816-1982-a1",
+        "rd-2816-1982-art13",
+        "rd-2816-1982-art35"
+      ]
+    },
+    "rd-1028-2025": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Clave para la estructura reciente del Ministerio/INAEM.",
+      "anchorIds": [
+        "rd-1028-2025-art-3-c",
+        "rd-1028-2025-art-5bis",
+        "rd-1028-2025-art-5bis-1",
+        "rd-1028-2025-art-5bis-2",
+        "rd-1028-2025-art-5bis-3",
+        "rd-1028-2025-art-5bis-4",
+        "rd-1028-2025-art-5bis-5",
+        "rd-1028-2025-art-7-1",
+        "rd-1028-2025-art-7-2",
+        "rd-1028-2025-art-7-3",
+        "rd-1028-2025-art-7-4",
+        "rd-1028-2025-da-1",
+        "rd-1028-2025-da-2",
+        "rd-1028-2025-da-3",
+        "rd-1028-2025-df-4",
+        "rd-1028-2025-pre"
+      ]
+    },
+    "rd-2491-1996": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Útil para estructura y funciones del INAEM, pero contrastar con reorganización posterior. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "orden-cul-2039-2011-cdn": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Estudiar misión y modelo de gestión del centro; cuidado con organigramas desactualizados.",
+      "anchorIds": [
+        "orden-cul-2039-2011-cdn-a1",
+        "orden-cul-2039-2011-cdn-a10",
+        "orden-cul-2039-2011-cdn-a11",
+        "orden-cul-2039-2011-cdn-a12",
+        "orden-cul-2039-2011-cdn-a13",
+        "orden-cul-2039-2011-cdn-a9"
+      ]
+    },
+    "orden-cul-3355-2010-cntc": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Estudiar misión y modelo de gestión del centro; no usar como organigrama vigente sin contraste.",
+      "anchorIds": [
+        "orden-cul-3355-2010-cntc-a1",
+        "orden-cul-3355-2010-cntc-a10",
+        "orden-cul-3355-2010-cntc-a11",
+        "orden-cul-3355-2010-cntc-a12",
+        "orden-cul-3355-2010-cntc-a4",
+        "orden-cul-3355-2010-cntc-a5",
+        "orden-cul-3355-2010-cntc-a9"
+      ]
+    },
+    "orden-cul-451-2011-zarzuela": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Estudiar misión y modelo de gestión del Teatro de la Zarzuela.",
+      "anchorIds": [
+        "orden-cul-451-2011-zarzuela-a1",
+        "orden-cul-451-2011-zarzuela-a14",
+        "orden-cul-451-2011-zarzuela-a2"
+      ]
+    },
+    "orden-cul-3359-2011-cndm": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Estudiar fines, programación y modelo de difusión musical.",
+      "anchorIds": [
+        "orden-cul-3359-2011-cndm-a1"
+      ]
+    },
+    "orden-cul-3065-2010-bne": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Estudiar misión y modelo artístico del Ballet Nacional de España.",
+      "anchorIds": [
+        "orden-cul-3065-2010-bne-a1",
+        "orden-cul-3065-2010-bne-a8",
+        "orden-cul-3065-2010-bne-a9"
+      ]
+    },
+    "orden-cul-1993-2010-cnd": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Estudiar misión y modelo artístico de la Compañía Nacional de Danza.",
+      "anchorIds": [
+        "orden-cul-1993-2010-cnd-a1",
+        "orden-cul-1993-2010-cnd-a10",
+        "orden-cul-1993-2010-cnd-a12",
+        "orden-cul-1993-2010-cnd-a7"
+      ]
+    },
+    "rd-2084-1978-ocne": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Norma histórica/obsoleta para OCNE. No estudiar como organización vigente.",
+      "anchorIds": [
+        "rd-2084-1978-ocne-a2",
+        "rd-2084-1978-ocne-a3",
+        "rd-2084-1978-ocne-a4"
+      ]
+    },
+    "rd-1245-2002": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Reglamento vigente de la ONE/OCNE. Estudiar organización y funcionamiento.",
+      "anchorIds": [
+        "rd-1245-2002-a1",
+        "rd-1245-2002-a2",
+        "rd-1245-2002-a3"
+      ]
+    },
+    "res-jonde-2023-becas": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Becas JONDE: material marginal. Solo consultar si aparece en una pregunta concreta.",
+      "anchorIds": [
+        "res-jonde-2023-becas-clausula-1",
+        "res-jonde-2023-becas-exp-i"
+      ]
+    },
+    "cultura-magalia-2025": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Fuente institucional sobre Magalia. Usar como apoyo, no como norma con articulado.",
+      "anchorIds": [
+        "cultura-magalia-2025-espacios",
+        "cultura-magalia-2025-mision",
+        "cultura-magalia-2025-reapertura"
+      ]
+    },
+    "cultura-inaem-centros-2026": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Fuente institucional actual para centros y estructura real del INAEM.",
+      "anchorIds": [
+        "cultura-inaem-centros-2026-categorias",
+        "cultura-inaem-centros-2026-listado"
+      ]
+    },
+    "rd-1435-1985": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Régimen laboral especial artístico aplicable como base de estudio del test.",
+      "anchorIds": [
+        "rd-1435-1985-a1",
+        "rd-1435-1985-a11",
+        "rd-1435-1985-a12",
+        "rd-1435-1985-a3",
+        "rd-1435-1985-a5"
+      ]
+    },
+    "rd-607-2026": {
+      "mode": "selected",
+      "scopeStatus": "verified-from-question-anchors",
+      "label": "Solo lo que entra",
+      "note": "Reforma futura del régimen artístico: saber que existe y qué cambia, no estudiarla como régimen principal aplicable.",
+      "anchorIds": [
+        "rd-607-2026-df-2"
+      ]
+    },
+    "rdl-5-2022": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Cambios laborales del Estatuto del Artista. Estudiar efectos principales. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "rdl-1-2023": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Incentivos y protección social de artistas. Estudiar solo lo conectado con el temario. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "ley-27-2014": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Impuesto sobre Sociedades: apoyo para mecenazgo e incentivos, no estudio fiscal completo. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "rdl-6-2023": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Reforma puntual de la Ley 49/2002. Estudiar impacto en mecenazgo. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "rdl-24-2021": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Propiedad intelectual en mercado digital. Estudiar solo lo relacionado con derechos de autor e IA. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "ley-50-1984": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Interesa especialmente por la creación del INAEM. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "rd-1009-2023": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Estructura departamental: apoyo para ubicar el Ministerio y el INAEM. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "rd-323-2024": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Estructura del Ministerio de Cultura: estudiar como marco organizativo actual. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "orden-cul-3520-2008": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Código de buenas prácticas del INAEM. Fuente de apoyo para gobernanza cultural. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "ley-17-1997-cm": {
+      "mode": "full",
+      "scopeStatus": "pending-anchor-selection",
+      "label": "Texto completo",
+      "note": "Norma autonómica útil para espectáculos públicos en Madrid, pero no núcleo estatal de la convocatoria. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    }
+  },
   "generationPolicy": {
-    "allowedModes": ["full", "selected"],
-    "selectedRequires": ["anchorIds"],
+    "allowedModes": [
+      "full",
+      "selected"
+    ],
+    "selectedRequires": [
+      "anchorIds"
+    ],
     "rule": "Una pregunta jurídica solo se puede generar si su anchorId pertenece a la ley y, cuando exista una selección de epígrafes verificada, a uno de sus anchorIds incluidos.",
     "outsideScope": "reject"
   },
   "reviewQueue": [
-    "Revisar la convocatoria tema por tema y registrar los títulos, capítulos, artículos o disposiciones que sí entran.",
-    "No convertir la lista de preguntas actuales en una delimitación automática: una pregunta no demuestra que el resto de la ley esté excluido.",
-    "Cuando se confirme un alcance parcial, añadir el lawId y sus anchorIds estables aquí antes de generar nuevas preguntas."
+    "Revisar manualmente las normas marcadas como pending-anchor-selection.",
+    "No convertir una ley completa en material obligatorio si la convocatoria solo usa una parte.",
+    "Cuando se confirme un alcance parcial, añadir o corregir los anchorIds estables aquí antes de generar nuevas preguntas."
   ]
 }

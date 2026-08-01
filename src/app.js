@@ -246,11 +246,13 @@ function unitIsUnlocked(index) {
 }
 
 function unitReading(unit) {
-  return state.content.historyReading?.units?.[unit.id] || { lawIds: [] };
+  return state.content.historyReading?.units?.[unit.id] || { lawIds: [], documentIds: [] };
 }
 
 function unitIsRead(unit) {
-  return unitReading(unit).lawIds.length === 0 || state.progress.readUnits.includes(unit.id);
+  const reading = unitReading(unit);
+  const hasReading = (reading.lawIds?.length || 0) + (reading.documentIds?.length || 0) > 0;
+  return !hasReading || state.progress.readUnits.includes(unit.id);
 }
 
 function topicIsUnlocked(unit, unitIndex, topicIndex) {
@@ -327,6 +329,7 @@ function renderGuide() {
 
 const studyDocuments = [
   { id: 'guia-maria', title: 'Guía 1 · Orientación para María', summary: 'La explicación de partida: qué oposición es, cómo estudiar y dónde poner el esfuerzo.', file: 'docs/GUIA_MARIA.md' },
+  { id: 'mapa-historia', title: 'Mapa de estudio del modo Historia', summary: 'Qué se estudia en cada mundo y qué parte es legislación, técnica o editorial.', file: 'docs/MAPA_ESTUDIO_MODO_HISTORIA.md' },
   { id: 'readme', title: 'Léeme antes de empezar', summary: 'Qué contiene la app, cómo avanzar y cómo interpretar los resultados.', file: 'docs/LEEME.md' },
   { id: 'practico', title: 'Dossier del supuesto práctico', summary: 'Evidencia real, entregables, familias de supuesto y entrenamiento.', file: 'docs/practico_dossier_estudio.md' },
   { id: 'formato', title: 'Cómo es el examen', summary: 'Formato, puntuación, penalización y estrategia de respuesta.', file: 'docs/FORMATO_EXAMEN.md' },
@@ -342,15 +345,50 @@ const studyCategories = [
   { id: 'oficial', icon: '▣', title: 'Material oficial', summary: 'Cuestionarios y documentos de convocatorias anteriores.' }
 ];
 let activeStudyCategory = 'practico';
-const documentCategory = documentId => ({ 'guia-maria': 'readme', readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', tecnico: 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
+const documentCategory = documentId => ({ 'guia-maria': 'readme', readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', tecnico: 'fuentes', 'mapa-historia': 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
 studyDocuments.push({ id: 'm1-cuestionarios', title: 'Cuestionarios t\u00e9cnicos M1 Cultura', summary: 'Ex\u00e1menes oficiales del Ministerio que sirven como referencia para el bloque t\u00e9cnico.', file: 'docs/CUESTIONARIOS_M1_CULTURA.md' });
 let activeLawId = null;
 let activeLawAnchorId = null;
 let lawReturnToStory = false;
+let lawShowFullText = false;
 let lawReferencePreviousFocus = null;
 let studyTocCleanup = null;
 let lawSectionCleanup = null;
 let lawModalSectionCleanup = null;
+
+function studyStatus(statusId) {
+  const fallback = state.content.studyScope?.statuses?.study || { label: 'Estudiar', tone: 'study', description: 'Material principal del temario.' };
+  return state.content.studyScope?.statuses?.[statusId] || fallback;
+}
+
+function lawStudyScope(lawId) {
+  const status = state.content.studyScope?.laws?.[lawId] || {};
+  return {
+    status: status.status || state.content.studyScope?.defaultLawStatus || 'study',
+    study: status.study || studyStatus(status.status || 'study').description
+  };
+}
+
+function documentStudyScope(documentId) {
+  const status = state.content.studyScope?.documents?.[documentId] || {};
+  return {
+    status: status.status || state.content.studyScope?.defaultDocumentStatus || 'support',
+    study: status.study || studyStatus(status.status || 'support').description
+  };
+}
+
+function unitStudyScope(unitId) {
+  const status = state.content.studyScope?.units?.[unitId] || {};
+  return {
+    status: status.status || 'study',
+    study: status.study || studyStatus(status.status || 'study').description
+  };
+}
+
+function studyScopeBadge(scope) {
+  const status = studyStatus(scope.status);
+  return `<span class="scope-badge is-${escapeHtml(status.tone || scope.status)}">${escapeHtml(status.label)}</span>`;
+}
 
 function renderHomeMenu() {
   $('#home-menu').innerHTML = `
@@ -360,7 +398,7 @@ function renderHomeMenu() {
     <button class="home-menu-card menu-exam" id="start-exam" type="button"><span class="home-menu-icon" aria-hidden="true">⏱</span><span class="home-menu-label">Modo examen</span><small>Simulacro proporcional con la configuraci&#243;n elegida.</small></button>
     <button class="home-menu-card menu-review" type="button" data-home-action="review"><span class="home-menu-icon" aria-hidden="true">↻</span><span class="home-menu-label">Repaso</span><small>Fallos, blancos y preguntas marcadas como dudosas.</small></button>
     <button class="home-menu-card menu-practical" type="button" data-home-action="practico"><span class="home-menu-icon" aria-hidden="true">◆</span><span class="home-menu-label">Supuesto pr&#225;ctico</span><small>Qu&#233; es, hist&#243;rico y supuestos para entrenar.</small></button>
-    <button class="home-menu-card menu-laws" type="button" data-home-action="laws"><span class="home-menu-icon" aria-hidden="true">§</span><span class="home-menu-label">Leyes</span><small>Normas completas, anclas y fuentes oficiales.</small></button>
+    <button class="home-menu-card menu-laws" type="button" data-home-action="laws"><span class="home-menu-icon" aria-hidden="true">§</span><span class="home-menu-label">Estudio</span><small>Legislación y fuentes de apoyo, separadas por tipo.</small></button>
     <button class="home-menu-card menu-official" type="button" data-home-action="official"><span class="home-menu-icon" aria-hidden="true">▣</span><span class="home-menu-label">Material oficial</span><small>Ex&#225;menes anteriores y documentos de referencia.</small></button>`;
 }
 
@@ -553,6 +591,13 @@ function openStudyCategory(categoryId) {
   window.scrollTo(0, 0);
 }
 
+function renderDocumentStudyContext(documentId) {
+  const scope = documentStudyScope(documentId);
+  return `<div class="law-context study-scope-context">
+    <div><strong>Alcance de estudio</strong><p>${studyScopeBadge(scope)} ${escapeHtml(scope.study)}</p></div>
+  </div>`;
+}
+
 async function openStudyDocument(documentId, focusId = null) {
   const studyDocument = studyDocuments.find(item => item.id === documentId);
   if (!studyDocument) return;
@@ -578,7 +623,7 @@ async function openStudyDocument(documentId, focusId = null) {
     const response = await fetch(studyDocument.file);
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const rendered = markdownToHtml(await response.text());
-    $('#study-page-content').innerHTML = rendered.html;
+    $('#study-page-content').innerHTML = `${renderDocumentStudyContext(studyDocument.id)}${rendered.html}`;
     $('#study-toc-list').innerHTML = rendered.toc
       .filter(item => item.level <= 4)
       .map(item => `<a class="study-toc-link level-${item.level}" href="#${item.id}">${escapeHtml(item.text)}</a>`)
@@ -611,18 +656,30 @@ function renderLawCatalog() {
   const laws = Object.values(state.content.lawsById || {})
     .filter(law => law.lawId !== 'norma-demo')
     .sort((a, b) => lawCatalogMeta(a).order - lawCatalogMeta(b).order || String(a.title).localeCompare(String(b.title), 'es'));
+  const sourceDocuments = studyDocuments.filter(document => ['mapa-historia', 'fuentes', 'tecnico', 'm1-cuestionarios', 'practico'].includes(document.id));
   let currentGroup = '';
-  $('#law-catalog-grid').innerHTML = laws.map(law => {
+  const sourceCards = `
+    <h3 class="law-catalog-group source-catalog-group">Fuentes y bibliografía</h3>
+    ${sourceDocuments.map(document => `
+      <button class="law-catalog-card source-catalog-card" type="button" data-study-doc="${escapeHtml(document.id)}">
+        <span class="law-catalog-icon" aria-hidden="true">✦</span>
+        <strong>${escapeHtml(document.title)}</strong>
+        ${studyScopeBadge(documentStudyScope(document.id))}
+        <small>${escapeHtml(document.summary)}</small>
+      </button>`).join('')}`;
+  const lawCards = laws.map(law => {
     const meta = lawCatalogMeta(law);
-    const heading = meta.group !== currentGroup ? `<h3 class="law-catalog-group law-group-${escapeHtml(meta.key)}">${escapeHtml(meta.group)}</h3>` : '';
+    const heading = meta.group !== currentGroup ? `<h3 class="law-catalog-group law-group-${escapeHtml(meta.key)}">Legislación · ${escapeHtml(meta.group)}</h3>` : '';
     currentGroup = meta.group;
     return `${heading}
       <button class="law-catalog-card law-group-${escapeHtml(meta.key)}" type="button" data-law-id="${escapeHtml(law.lawId)}">
         <span class="law-catalog-icon" aria-hidden="true">${escapeHtml(meta.icon)}</span>
         <strong>${escapeHtml(law.title)}</strong>
+        ${studyScopeBadge(lawStudyScope(law.lawId))}
         ${renderLawContext(law, true)}
       </button>`;
   }).join('');
+  $('#law-catalog-grid').innerHTML = `${sourceCards}${lawCards}`;
 }
 
 const lawSimpleNotes = {
@@ -671,26 +728,23 @@ function lawImportanceTopics(lawId) {
 
 function renderLawContext(law, compact = false) {
   const simpleSummary = state.content.simpleExplanations?.[law.lawId] || lawSimpleNotes[law.lawId] || `Explica las reglas principales de ${law.title}.`;
+  const scope = lawStudyScope(law.lawId);
+  const lawScope = state.content.lawScopes?.laws?.[law.lawId] || state.content.lawScopes?.default;
+  const hasSelectedScope = lawScope?.mode === 'selected' && Array.isArray(lawScope.anchorIds) && lawScope.anchorIds.length > 0;
+  const scopeNote = hasSelectedScope
+    ? (lawShowFullText ? 'Ahora estás viendo la norma completa para consulta.' : (lawScope.note || 'Por defecto se muestra solo el alcance marcado para estudiar.'))
+    : (lawScope?.note || 'La app conserva el texto completo hasta que el alcance parcial esté verificado.');
   if (compact) return `<span class="law-context law-context-compact"><span class="law-context-text">${escapeHtml(simpleSummary)}</span></span>`;
-  return `<div class="law-context"><p>${escapeHtml(simpleSummary)}</p></div>`;
-
-  const { count, topics } = lawImportanceTopics(law.lawId);
-  const topicText = topics.length
-    ? `Se trabaja especialmente en ${topics.slice(0, 3).map(topic => `Tema ${topic.number}`).join(', ')}${topics.length > 3 ? ' y otros temas.' : '.'}`
-    : 'Está disponible como fuente oficial de consulta del temario.';
-  const summary = lawSimpleNotes[law.lawId] || `Es el texto oficial de ${law.title}. Aquí se puede consultar la norma completa y volver a los artículos enlazados desde las preguntas.`;
-  const scope = state.content.lawScopes?.laws?.[law.lawId] || state.content.lawScopes?.default;
-  const scopeText = scope?.mode === 'selected' ? 'La app muestra los epígrafes delimitados para el temario.' : 'La app conserva el texto completo; el alcance parcial se activará solo cuando esté verificado.';
-  if (compact) return `<span class="law-context law-context-compact"><strong>Resumen sencillo</strong><span class="law-context-text">${escapeHtml(summary)}${count ? ` (${count} preguntas enlazadas.)` : ''}</span></span>`;
-  return `<div class="law-context${compact ? ' law-context-compact' : ''}">
-    <div><strong>Resumen sencillo</strong><p>${escapeHtml(summary)}</p></div>
-    <div><strong>En el temario</strong><p>${escapeHtml(scopeText)} ${escapeHtml(topicText)}${count ? ` Hay ${count} preguntas enlazadas.` : ''}</p></div>
+  return `<div class="law-context">
+    <div><strong>Resumen sencillo</strong><p>${escapeHtml(simpleSummary)}</p></div>
+    <div><strong>Alcance de estudio</strong><p>${studyScopeBadge(scope)} ${escapeHtml(scope.study)} ${escapeHtml(scopeNote)}</p>${hasSelectedScope ? `<button class="secondary compact-action law-scope-toggle" type="button" data-toggle-law-full>${lawShowFullText ? 'Ver solo lo que entra' : 'Ver norma completa'}</button>` : ''}</div>
   </div>`;
+
 }
 
-function applyLawScope(main, law) {
+function applyLawScope(main, law, showFull = false) {
   const scope = state.content.lawScopes?.laws?.[law.lawId] || state.content.lawScopes?.default;
-  if (!main || scope?.mode !== 'selected' || !Array.isArray(scope.anchorIds) || !scope.anchorIds.length) return main;
+  if (!main || showFull || scope?.mode !== 'selected' || !Array.isArray(scope.anchorIds) || !scope.anchorIds.length) return main;
   const allowed = new Set(scope.anchorIds);
   main.querySelectorAll('section, article').forEach(block => {
     const keep = allowed.has(block.id) || [...block.querySelectorAll('[id]')].some(node => allowed.has(node.id));
@@ -805,10 +859,11 @@ async function openLawDocument(lawId, anchorId = null, fromStory = false) {
   $('#law-next').disabled = !nextLaw;
   $('#law-prev').dataset.lawNavigate = previousLaw?.lawId || '';
   $('#law-next').dataset.lawNavigate = nextLaw?.lawId || '';
+  if (activeLawId !== lawId || anchorId) lawShowFullText = false;
   activeLawId = lawId;
   activeLawAnchorId = anchorId;
   lawReturnToStory = fromStory;
-  $('#law-back-catalog').textContent = fromStory ? '← Historia' : '← Leyes';
+  $('#law-back-catalog').textContent = fromStory ? '← Historia' : '← Estudio';
   $('#law-page-title').textContent = law.title;
   $('#law-page-subtitle').textContent = `${law.legalReference || ''}${law.versionDate ? ` · versión ${law.versionDate}` : ''}`;
   $('#law-page-content').innerHTML = '<p>Cargando texto jurídico…</p>';
@@ -823,7 +878,11 @@ async function openLawDocument(lawId, anchorId = null, fromStory = false) {
     const main = parsed.querySelector('main') || parsed.body;
     main.querySelectorAll('script, style').forEach(node => node.remove());
     normaliseLawLabels(main);
-    $('#law-page-content').innerHTML = `${renderLawContext(law)}${applyLawScope(main, law).innerHTML}`;
+    $('#law-page-content').innerHTML = `${renderLawContext(law)}${applyLawScope(main, law, lawShowFullText).innerHTML}`;
+    $('#law-page-content').querySelector('[data-toggle-law-full]')?.addEventListener('click', () => {
+      lawShowFullText = !lawShowFullText;
+      openLawDocument(law.lawId, null, lawReturnToStory);
+    });
     setupLawSectionNavigation($('#law-page-content'), window, $('#law-section-nav'));
     const target = activeLawAnchorId && document.getElementById(activeLawAnchorId);
     if (target) window.requestAnimationFrame(() => target.scrollIntoView({ block: 'start' }));
@@ -979,16 +1038,24 @@ function renderStory() {
         </li>`;
     }).join('');
     const reading = unitReading(unit);
-    const readingLaws = reading.lawIds
+    const unitScope = unitStudyScope(unit.id);
+    const readingLaws = (reading.lawIds || [])
       .map(lawId => state.content.lawsById[lawId])
       .filter(Boolean);
-    const readingBlock = readingLaws.length
+    const readingDocs = (reading.documentIds || [])
+      .map(documentId => studyDocuments.find(document => document.id === documentId))
+      .filter(Boolean);
+    const hasReading = readingLaws.length || readingDocs.length;
+    const readingBlock = hasReading
       ? `<div class="unit-reading ${unitIsRead(unit) ? 'is-complete' : ''}">
-          <div><strong>1. Lee la legislación</strong><small>${unitIsRead(unit) ? 'Lectura marcada como completada.' : 'Abre las normas antes de contestar el test.'}</small></div>
-          <div class="unit-law-links">${readingLaws.map(law => `<button class="unit-law-link" type="button" data-story-law="${escapeHtml(law.lawId)}">§ ${escapeHtml(law.title)}</button>`).join('')}</div>
-          <button class="secondary" type="button" data-mark-unit-read="${escapeHtml(unit.id)}" ${unitIsUnlocked(unitIndex) && !unitIsRead(unit) ? '' : 'disabled'}>${unitIsRead(unit) ? 'Legislación leída' : 'He leído la legislación'}</button>
+          <div><strong>1. Lee el material de estudio</strong><small>${unitIsRead(unit) ? 'Lectura marcada como completada.' : 'Abre las normas y documentos antes de contestar el test.'}</small></div>
+          <div class="unit-law-links">
+            ${readingLaws.map(law => `<button class="unit-law-link is-law" type="button" data-story-law="${escapeHtml(law.lawId)}"><span class="reading-type">Legislación</span>${studyScopeBadge(lawStudyScope(law.lawId))}<strong>${escapeHtml(law.title)}</strong></button>`).join('')}
+            ${readingDocs.map(document => `<button class="unit-law-link is-study-doc" type="button" data-story-doc="${escapeHtml(document.id)}"><span class="reading-type">Fuente</span>${studyScopeBadge(documentStudyScope(document.id))}<strong>${escapeHtml(document.title)}</strong><small>${escapeHtml(document.summary)}</small></button>`).join('')}
+          </div>
+          <button class="secondary" type="button" data-mark-unit-read="${escapeHtml(unit.id)}" ${unitIsUnlocked(unitIndex) && !unitIsRead(unit) ? '' : 'disabled'}>${unitIsRead(unit) ? 'Material leído' : 'He leído el material'}</button>
         </div>`
-      : `<div class="unit-reading is-reference"><div><strong>Material de estudio</strong><small>Esta unidad es principalmente bibliográfica o técnica; no tiene una ley única que leer.</small></div></div>`;
+      : `<div class="unit-reading is-reference"><div><strong>Material de estudio</strong><small>Esta unidad está pendiente de asociar a lecturas concretas.</small></div></div>`;
     const finalAvailable = unitTopicsCompleted(unit) && unitQuestionCount(unit) > 0;
     const statusLabel = status === 'completed' ? 'Superada' : status === 'active' ? 'En curso' : 'Bloqueada';
     return `
@@ -999,6 +1066,7 @@ function renderStory() {
             <small>${escapeHtml(unit.weight.toFixed(2).replace('.', ','))} preguntas de cada 100 · ${statusLabel}</small>
             <strong>${escapeHtml(world.title || unit.title)}</strong>
             <span>${escapeHtml(world.description || unit.description)}</span>
+            <span class="unit-study-scope">${studyScopeBadge(unitScope)} ${escapeHtml(unitScope.study)}</span>
             <small class="unit-focus">${escapeHtml(world.focus || '')}</small>
           </span>
           <span class="unit-progress">${completedTopics}/${unit.topicIds.length}</span>
@@ -1030,14 +1098,19 @@ function renderStory() {
     const law = state.content.lawsById?.[button.dataset.storyLaw];
     if (!law) return;
     const explanation = state.content.simpleExplanations?.[law.lawId] || '';
-    button.innerHTML = `<strong>${escapeHtml(law.title)}</strong><small>${escapeHtml(explanation)}</small>`;
+    button.innerHTML = `<span class="reading-type">Legislación</span>${studyScopeBadge(lawStudyScope(law.lawId))}<strong>${escapeHtml(law.title)}</strong><small>${escapeHtml(explanation)}</small>`;
   });
   document.querySelectorAll('#unit-list .story-unit').forEach(node => {
     const readingTitle = node.querySelector('.unit-reading > div:first-child > strong');
     const readingNote = node.querySelector('.unit-reading > div:first-child > small');
     const hasLaws = Boolean(node.querySelector('[data-story-law]'));
-    if (readingTitle) readingTitle.textContent = hasLaws ? '1. Lee la legislación' : '1. Lee el material de estudio';
-    if (readingNote) readingNote.textContent = hasLaws ? 'Lee estas normas o fuentes antes de contestar el test.' : 'Esta unidad se estudia con material técnico o bibliográfico.';
+    const hasDocs = Boolean(node.querySelector('[data-story-doc]'));
+    if (readingTitle) readingTitle.textContent = hasLaws && !hasDocs ? '1. Lee la legislación' : '1. Lee el material de estudio';
+    if (readingNote) readingNote.textContent = hasLaws && hasDocs
+      ? 'Combina las normas con las guías o fuentes editoriales de este mundo.'
+      : hasLaws
+        ? 'Lee estas normas antes de contestar el test.'
+        : 'Esta unidad se estudia con material técnico, bibliográfico o editorial.';
   });
   document.querySelectorAll('#unit-list .story-unit').forEach((node, unitIndex) => {
     const unit = units[unitIndex];
@@ -1048,7 +1121,7 @@ function renderStory() {
       const completed = state.progress.completedTopics.includes(topicId);
       const unlocked = topicIsUnlocked(unit, unitIndex, topicIndex);
       const available = unlocked && topicQuestionCount(topicId) > 0;
-      label.textContent = completed ? 'Superado' : !unlocked ? 'Bloqueado' : !unitIsRead(unit) && unitIsUnlocked(unitIndex) ? 'Lee la legislación primero' : available ? `${topicQuestionCount(topicId)} preguntas disponibles` : 'Contenido y preguntas pendientes';
+      label.textContent = completed ? 'Superado' : !unlocked ? 'Bloqueado' : !unitIsRead(unit) && unitIsUnlocked(unitIndex) ? 'Lee el material primero' : available ? `${topicQuestionCount(topicId)} preguntas disponibles` : 'Contenido y preguntas pendientes';
     });
   });
   document.querySelectorAll('#unit-list .story-unit').forEach((node, unitIndex) => {
@@ -1058,8 +1131,13 @@ function renderStory() {
     const readingTitle = node.querySelector('.unit-reading > div:first-child > strong');
     const readingNote = node.querySelector('.unit-reading > div:first-child > small');
     const hasLaws = Boolean(node.querySelector('[data-story-law]'));
-    if (readingTitle) readingTitle.textContent = hasLaws ? '1. Lee la legislaci\u00f3n' : '1. Lee el material de estudio';
-    if (readingNote) readingNote.textContent = hasLaws ? 'Lee estas normas o fuentes antes de contestar el test.' : 'Esta unidad se estudia con material t\u00e9cnico o bibliogr\u00e1fico.';
+    const hasDocs = Boolean(node.querySelector('[data-story-doc]'));
+    if (readingTitle) readingTitle.textContent = hasLaws && !hasDocs ? '1. Lee la legislación' : '1. Lee el material de estudio';
+    if (readingNote) readingNote.textContent = hasLaws && hasDocs
+      ? 'Combina las normas con las guías o fuentes editoriales de este mundo.'
+      : hasLaws
+        ? 'Lee estas normas antes de contestar el test.'
+        : 'Esta unidad se estudia con material técnico, bibliográfico o editorial.';
     node.querySelectorAll('.story-topic').forEach((topicNode, topicIndex) => {
       const topicId = unit?.topicIds?.[topicIndex];
       const topicLabel = topicNode.querySelector('small');
@@ -1067,7 +1145,7 @@ function renderStory() {
       const completed = state.progress.completedTopics.includes(topicId);
       const unlocked = topicIsUnlocked(unit, unitIndex, topicIndex);
       const available = unlocked && topicQuestionCount(topicId) > 0;
-      topicLabel.textContent = completed ? 'Superado' : !unlocked ? 'Bloqueado' : !unitIsRead(unit) && unitIsUnlocked(unitIndex) ? 'Lee la legislaci\u00f3n primero' : available ? `${topicQuestionCount(topicId)} preguntas disponibles` : 'Contenido y preguntas pendientes';
+      topicLabel.textContent = completed ? 'Superado' : !unlocked ? 'Bloqueado' : !unitIsRead(unit) && unitIsUnlocked(unitIndex) ? 'Lee el material primero' : available ? `${topicQuestionCount(topicId)} preguntas disponibles` : 'Contenido y preguntas pendientes';
     });
   });
   document.querySelectorAll('[data-toggle-unit]').forEach(button => button.addEventListener('click', () => {
@@ -1081,6 +1159,9 @@ function renderStory() {
   }));
   document.querySelectorAll('[data-story-law]').forEach(button => button.addEventListener('click', () => {
     openLawDocument(button.dataset.storyLaw, null, true);
+  }));
+  document.querySelectorAll('[data-story-doc]').forEach(button => button.addEventListener('click', () => {
+    openStudyDocument(button.dataset.storyDoc);
   }));
   document.querySelectorAll('[data-mark-unit-read]:not(:disabled)').forEach(button => button.addEventListener('click', () => {
     if (!state.progress.readUnits.includes(button.dataset.markUnitRead)) state.progress.readUnits.push(button.dataset.markUnitRead);
@@ -1454,8 +1535,10 @@ $('#study-prev-bottom').addEventListener('click', navigateStudyDocument);
 $('#study-next').addEventListener('click', navigateStudyDocument);
 $('#study-next-bottom').addEventListener('click', navigateStudyDocument);
 $('#law-catalog-grid').addEventListener('click', event => {
-  const button = event.target.closest('[data-law-id]');
-  if (button) openLawDocument(button.dataset.lawId);
+  const lawButton = event.target.closest('[data-law-id]');
+  const studyButton = event.target.closest('[data-study-doc]');
+  if (lawButton) openLawDocument(lawButton.dataset.lawId);
+  if (studyButton) openStudyDocument(studyButton.dataset.studyDoc);
 });
 $('#back-home-laws').addEventListener('click', returnHome);
 $('#law-back-catalog').addEventListener('click', () => {
