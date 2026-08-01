@@ -619,7 +619,6 @@ function renderLawCatalog() {
       <button class="law-catalog-card law-group-${escapeHtml(meta.key)}" type="button" data-law-id="${escapeHtml(law.lawId)}">
         <span class="law-catalog-icon" aria-hidden="true">${escapeHtml(meta.icon)}</span>
         <strong>${escapeHtml(law.title)}</strong>
-        <small>${escapeHtml(law.legalReference || '')}</small>
         ${renderLawContext(law, true)}
       </button>`;
   }).join('');
@@ -670,6 +669,10 @@ function lawImportanceTopics(lawId) {
 }
 
 function renderLawContext(law, compact = false) {
+  const simpleSummary = state.content.simpleExplanations?.[law.lawId] || lawSimpleNotes[law.lawId] || `Explica las reglas principales de ${law.title}.`;
+  if (compact) return `<span class="law-context law-context-compact"><span class="law-context-text">${escapeHtml(simpleSummary)}</span></span>`;
+  return `<div class="law-context"><p>${escapeHtml(simpleSummary)}</p></div>`;
+
   const { count, topics } = lawImportanceTopics(law.lawId);
   const topicText = topics.length
     ? `Se trabaja especialmente en ${topics.slice(0, 3).map(topic => `Tema ${topic.number}`).join(', ')}${topics.length > 3 ? ' y otros temas.' : '.'}`
@@ -894,8 +897,32 @@ function closeGuide() {
   else dialog.removeAttribute('open');
 }
 
+const storyWorldCopy = {
+  U01: { title: 'Constitución y organización del Estado', description: 'La base institucional: derechos, poderes del Estado, Gobierno y organización territorial.', focus: 'Constitución, Corona, Cortes, Gobierno y comunidades autónomas.' },
+  U05: { title: 'Empleo público y IV Convenio Único', description: 'Cómo se organiza el empleo público y cómo se regulan las condiciones del personal laboral de la AGE.', focus: 'Clases de personal, selección, incompatibilidades, jornada, permisos y IV Convenio Único.' },
+  U15: { title: 'Espacio escénico y técnica', description: 'El vocabulario y los elementos técnicos que forman un espacio de representación.', focus: 'Escenografía, maquinaria, iluminación, sonido, vídeo, vestuario y seguridad técnica.' },
+  U03: { title: 'Derecho administrativo y procedimiento', description: 'Cómo actúa la Administración y cómo se tramita un expediente.', focus: 'Fuentes, actos, procedimiento, plazos, organización administrativa y actividad del INAEM.' },
+  U02: { title: 'Unión Europea', description: 'Las instituciones europeas y las normas que permiten entender sus decisiones.', focus: 'Tratados, instituciones y fuentes del Derecho de la Unión Europea.' },
+  U07: { title: 'INAEM y sus centros', description: 'La organización actual del INAEM y la función de sus centros culturales.', focus: 'Reforma de 2025, órganos del INAEM y estatutos de sus principales centros.' },
+  U06: { title: 'Relación laboral y conflicto colectivo', description: 'La relación entre empresa y trabajador y las herramientas de representación y conflicto.', focus: 'Contrato de trabajo, representación laboral, sindicatos, huelga y conflictos colectivos.' },
+  U04: { title: 'Contratación pública y Estatuto del Artista', description: 'Cómo se contrata en el sector público y qué particularidades tiene el trabajo artístico.', focus: 'Contratos públicos, relación laboral artística y régimen temporal de las normas.' },
+  U08: { title: 'Historia de las artes', description: 'Las principales etapas, obras y conceptos de teatro, música, danza, circo y artes visuales.', focus: 'Hechos y conceptos de historia artística, con preguntas de identificación y clasificación.' },
+  U10: { title: 'Producción, políticas y economía de la cultura', description: 'Cómo se produce un proyecto cultural y cómo se organiza el sector cultural.', focus: 'Producción, políticas culturales, tercer sector, economía y modelos de gestión.' },
+  U18: { title: 'Prevención de riesgos laborales', description: 'Cómo detectar y prevenir riesgos en un espacio de trabajo y en un espectáculo.', focus: 'Seguridad escénica, prevención, autoprotección, carga mental, estrés y riesgos psicosociales.' },
+  U13: { title: 'Públicos, comunicación y programación', description: 'Cómo conocer a los públicos, comunicar una propuesta y construir una programación.', focus: 'Audiencias, marketing cultural, comunicación, mediación y criterios de programación.' },
+  U12: { title: 'Planificación estratégica y estadística', description: 'Cómo convertir una idea cultural en un plan medible y evaluable.', focus: 'Diagnóstico, objetivos, indicadores, evaluación y estadísticas culturales.' },
+  U14: { title: 'Financiación, mecenazgo y propiedad intelectual', description: 'De dónde salen los recursos para un proyecto cultural y qué derechos protegen sus contenidos.', focus: 'Financiación, subvenciones, mecenazgo, derechos de autor y contenidos digitales.' },
+  U16: { title: 'Dirección de escenario', description: 'La coordinación práctica de equipos, avisos y cambios durante un espectáculo.', focus: 'Regiduría, libro de regiduría, giras, adaptación de espacios y coordinación de equipos.' },
+  U11: { title: 'Derechos culturales, género y accesibilidad', description: 'Cómo hacer que la cultura sea igualitaria, accesible y respetuosa con la diversidad.', focus: 'Derechos culturales, igualdad, discapacidad, accesibilidad universal y sostenibilidad.' },
+  U09: { title: 'Patrimonio y museos', description: 'Cómo se protege el patrimonio y cómo funcionan los museos públicos.', focus: 'Patrimonio histórico, patrimonio inmaterial y museos de titularidad estatal.' },
+  U19: { title: 'Gestión económica y convenios', description: 'Cómo se presupuestan, financian y controlan las actividades de una entidad pública cultural.', focus: 'Presupuesto, subvenciones, convenios y estructura económica del INAEM.' },
+  U17: { title: 'Tecnología aplicada', description: 'Las herramientas digitales que apoyan la producción y la gestión cultural.', focus: 'Ofimática, software de gestión, vídeo, redes y tecnologías aplicadas a la escena.' }
+};
+
 function renderStory() {
   const units = orderedUnits();
+  const storyIntro = document.querySelector('#home-story .story-heading p');
+  if (storyIntro) storyIntro.textContent = 'Ruta secuencial de 19 mundos. En cada mundo: lee el material, supera sus temas y aprueba el cuestionario final para desbloquear el siguiente.';
   if (!state.storyExpansionInitialized) {
     const activeUnit = units.find((unit, index) => unitIsUnlocked(index) && !state.progress.completedUnits.includes(unit.id));
     if (activeUnit) state.expandedUnits.add(activeUnit.id);
@@ -903,9 +930,14 @@ function renderStory() {
   }
   const completedOfficialTopics = state.progress.completedTopics
     .filter(topicId => state.content.topicsById[topicId]).length;
+  const storyProgress = $('#story-progress-summary');
+  if (storyProgress) storyProgress.textContent = `${state.progress.completedUnits.length}/19 mundos · ${completedOfficialTopics}/60 temas`;
   $('#story-progress-summary').textContent = `${state.progress.completedUnits.length}/19 unidades · ${completedOfficialTopics}/60 temas`;
 
+  const cleanStoryProgress = $('#story-progress-summary');
+  if (cleanStoryProgress) cleanStoryProgress.textContent = `${state.progress.completedUnits.length}/19 mundos \u00b7 ${completedOfficialTopics}/60 temas`;
   $('#unit-list').innerHTML = units.map((unit, unitIndex) => {
+    const world = storyWorldCopy[unit.id] || {};
     const status = unitStatus(unit, unitIndex);
     const completedTopics = unit.topicIds.filter(topicId => state.progress.completedTopics.includes(topicId)).length;
     const expanded = state.expandedUnits.has(unit.id);
@@ -964,8 +996,9 @@ function renderStory() {
           <span class="unit-order">${unitIndex + 1}</span>
           <span class="unit-title">
             <small>${escapeHtml(unit.weight.toFixed(2).replace('.', ','))} preguntas de cada 100 · ${statusLabel}</small>
-            <strong>${escapeHtml(unit.title)}</strong>
-            <span>${escapeHtml(unit.description)}</span>
+            <strong>${escapeHtml(world.title || unit.title)}</strong>
+            <span>${escapeHtml(world.description || unit.description)}</span>
+            <small class="unit-focus">${escapeHtml(world.focus || '')}</small>
           </span>
           <span class="unit-progress">${completedTopics}/${unit.topicIds.length}</span>
         </button>
@@ -987,6 +1020,55 @@ function renderStory() {
       </article>`;
   }).join('');
 
+  document.querySelectorAll('#unit-list .story-unit').forEach((node, index) => {
+    const unit = units[index];
+    const label = node.querySelector('.unit-title > small');
+    if (label && unit) label.textContent = `Mundo ${index + 1} de ${units.length} · ${unit.weight.toFixed(2).replace('.', ',')} preguntas de cada 100 · ${unitStatus(unit, index) === 'completed' ? 'Superada' : unitStatus(unit, index) === 'active' ? 'En curso' : 'Bloqueada'}`;
+  });
+  document.querySelectorAll('[data-story-law]').forEach(button => {
+    const law = state.content.lawsById?.[button.dataset.storyLaw];
+    if (!law) return;
+    const explanation = state.content.simpleExplanations?.[law.lawId] || '';
+    button.innerHTML = `<strong>${escapeHtml(law.title)}</strong><small>${escapeHtml(explanation)}</small>`;
+  });
+  document.querySelectorAll('#unit-list .story-unit').forEach(node => {
+    const readingTitle = node.querySelector('.unit-reading > div:first-child > strong');
+    const readingNote = node.querySelector('.unit-reading > div:first-child > small');
+    const hasLaws = Boolean(node.querySelector('[data-story-law]'));
+    if (readingTitle) readingTitle.textContent = hasLaws ? '1. Lee la legislación' : '1. Lee el material de estudio';
+    if (readingNote) readingNote.textContent = hasLaws ? 'Lee estas normas o fuentes antes de contestar el test.' : 'Esta unidad se estudia con material técnico o bibliográfico.';
+  });
+  document.querySelectorAll('#unit-list .story-unit').forEach((node, unitIndex) => {
+    const unit = units[unitIndex];
+    node.querySelectorAll('.story-topic').forEach((topicNode, topicIndex) => {
+      const topicId = unit?.topicIds?.[topicIndex];
+      const label = topicNode.querySelector('small');
+      if (!topicId || !label) return;
+      const completed = state.progress.completedTopics.includes(topicId);
+      const unlocked = topicIsUnlocked(unit, unitIndex, topicIndex);
+      const available = unlocked && topicQuestionCount(topicId) > 0;
+      label.textContent = completed ? 'Superado' : !unlocked ? 'Bloqueado' : !unitIsRead(unit) && unitIsUnlocked(unitIndex) ? 'Lee la legislación primero' : available ? `${topicQuestionCount(topicId)} preguntas disponibles` : 'Contenido y preguntas pendientes';
+    });
+  });
+  document.querySelectorAll('#unit-list .story-unit').forEach((node, unitIndex) => {
+    const unit = units[unitIndex];
+    const label = node.querySelector('.unit-title > small');
+    if (label && unit) label.textContent = `Mundo ${unitIndex + 1} de ${units.length} \u00b7 ${unit.weight.toFixed(2).replace('.', ',')} preguntas de cada 100 \u00b7 ${unitStatus(unit, unitIndex) === 'completed' ? 'Superada' : unitStatus(unit, unitIndex) === 'active' ? 'En curso' : 'Bloqueada'}`;
+    const readingTitle = node.querySelector('.unit-reading > div:first-child > strong');
+    const readingNote = node.querySelector('.unit-reading > div:first-child > small');
+    const hasLaws = Boolean(node.querySelector('[data-story-law]'));
+    if (readingTitle) readingTitle.textContent = hasLaws ? '1. Lee la legislaci\u00f3n' : '1. Lee el material de estudio';
+    if (readingNote) readingNote.textContent = hasLaws ? 'Lee estas normas o fuentes antes de contestar el test.' : 'Esta unidad se estudia con material t\u00e9cnico o bibliogr\u00e1fico.';
+    node.querySelectorAll('.story-topic').forEach((topicNode, topicIndex) => {
+      const topicId = unit?.topicIds?.[topicIndex];
+      const topicLabel = topicNode.querySelector('small');
+      if (!topicId || !topicLabel) return;
+      const completed = state.progress.completedTopics.includes(topicId);
+      const unlocked = topicIsUnlocked(unit, unitIndex, topicIndex);
+      const available = unlocked && topicQuestionCount(topicId) > 0;
+      topicLabel.textContent = completed ? 'Superado' : !unlocked ? 'Bloqueado' : !unitIsRead(unit) && unitIsUnlocked(unitIndex) ? 'Lee la legislaci\u00f3n primero' : available ? `${topicQuestionCount(topicId)} preguntas disponibles` : 'Contenido y preguntas pendientes';
+    });
+  });
   document.querySelectorAll('[data-toggle-unit]').forEach(button => button.addEventListener('click', () => {
     const unitId = button.dataset.toggleUnit;
     if (state.expandedUnits.has(unitId)) state.expandedUnits.delete(unitId);

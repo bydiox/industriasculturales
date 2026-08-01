@@ -6574,6 +6574,10 @@
       {
         "id": "c",
         "text": "El 1 de enero de 2026."
+      },
+      {
+        "id": "d",
+        "text": "La Secretaría General del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -6587,6 +6591,14 @@
       "reference": "Real Decreto 1028/2025, disposición final cuarta",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, disposición final cuarta",
+      "addedOptionAnchorId": "rd-1028-2025-df-4"
     }
   },
   {
@@ -6605,6 +6617,10 @@
       {
         "id": "c",
         "text": "Solo la coordinación de los museos estatales de cultura."
+      },
+      {
+        "id": "d",
+        "text": "La Dirección General de Producción y Programación del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -6618,6 +6634,14 @@
       "reference": "Real Decreto 1028/2025, preámbulo",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, preámbulo",
+      "addedOptionAnchorId": "rd-1028-2025-pre"
     }
   },
   {
@@ -6636,6 +6660,10 @@
       {
         "id": "c",
         "text": "La Subdirección General Económico-Administrativa del INAEM."
+      },
+      {
+        "id": "d",
+        "text": "Coordinar Personal y Económico-Administrativa."
       }
     ],
     "correctOptionId": "a",
@@ -6649,6 +6677,14 @@
       "reference": "Real Decreto 1028/2025, preámbulo",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, preámbulo",
+      "addedOptionAnchorId": "rd-1028-2025-pre"
     }
   },
   {
@@ -6667,6 +6703,10 @@
       {
         "id": "c",
         "text": "Teatro, Música y Danza, y Fomento de las Artes Escénicas."
+      },
+      {
+        "id": "d",
+        "text": "La Dirección General de Teatro, Circo, Música y Danza."
       }
     ],
     "correctOptionId": "a",
@@ -6680,6 +6720,14 @@
       "reference": "Real Decreto 1028/2025, artículo primero; artículo 7.1 del Real Decreto 2491/1996",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo primero; artículo 7.1 del Real Decreto 2491/1996",
+      "addedOptionAnchorId": "rd-1028-2025-art-7-1"
     }
   },
   {
@@ -6698,6 +6746,10 @@
       {
         "id": "c",
         "text": "Gestionar circuitos de teatro y circo."
+      },
+      {
+        "id": "d",
+        "text": "La Dirección General de Teatro, Circo, Música y Danza."
       }
     ],
     "correctOptionId": "a",
@@ -6711,6 +6763,14 @@
       "reference": "Real Decreto 1028/2025, artículo 7.2 del Real Decreto 2491/1996",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo 7.2 del Real Decreto 2491/1996",
+      "addedOptionAnchorId": "rd-1028-2025-art-7-2"
     }
   },
   {
@@ -6729,6 +6789,10 @@
       {
         "id": "c",
         "text": "Coordinar la proyección exterior de la música y sus circuitos."
+      },
+      {
+        "id": "d",
+        "text": "Tramitar expedientes sancionadores del personal del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -6742,6 +6806,14 @@
       "reference": "Real Decreto 1028/2025, artículo 7.3 del Real Decreto 2491/1996",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo 7.3 del Real Decreto 2491/1996",
+      "addedOptionAnchorId": "rd-1028-2025-art-7-3"
     }
   },
   {
@@ -6760,6 +6832,10 @@
       {
         "id": "c",
         "text": "Gestionar los circuitos de danza y creación interdisciplinar."
+      },
+      {
+        "id": "d",
+        "text": "La Subdirección General Económico-Administrativa del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -6773,6 +6849,14 @@
       "reference": "Real Decreto 1028/2025, artículo 7.4 del Real Decreto 2491/1996",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo 7.4 del Real Decreto 2491/1996",
+      "addedOptionAnchorId": "rd-1028-2025-art-7-4"
     }
   },
   {
@@ -6791,6 +6875,10 @@
       {
         "id": "c",
         "text": "Solo las subdirecciones de Teatro y Circo y Música."
+      },
+      {
+        "id": "d",
+        "text": "La Dirección General de Artes Escénicas y Música."
       }
     ],
     "correctOptionId": "a",
@@ -6804,6 +6892,14 @@
       "reference": "Real Decreto 1028/2025, artículo tercero; artículo 5 bis.2 del Real Decreto 323/2024",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo tercero; artículo 5 bis.2 del Real Decreto 323/2024",
+      "addedOptionAnchorId": "rd-1028-2025-art-5bis-5"
     }
   },
   {
@@ -6822,6 +6918,10 @@
       {
         "id": "c",
         "text": "Archivo, documentación y patrimonio escénico y musical."
+      },
+      {
+        "id": "d",
+        "text": "Con la Secretaría General y los convenios colectivos del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -6835,6 +6935,14 @@
       "reference": "Real Decreto 1028/2025, artículo 5 bis.1.a-d y 5 bis.2.a",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo 5 bis.1.a-d y 5 bis.2.a",
+      "addedOptionAnchorId": "rd-1028-2025-art-5bis-1"
     }
   },
   {
@@ -6853,6 +6961,10 @@
       {
         "id": "c",
         "text": "Tramitar expedientes sancionadores del personal del INAEM."
+      },
+      {
+        "id": "d",
+        "text": "Gestionar recursos humanos y tramitar expedientes sancionadores."
       }
     ],
     "correctOptionId": "a",
@@ -6866,6 +6978,14 @@
       "reference": "Real Decreto 1028/2025, artículo 5 bis.1.e-h y 5 bis.2.b",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo 5 bis.1.e-h y 5 bis.2.b",
+      "addedOptionAnchorId": "rd-1028-2025-art-5bis-2"
     }
   },
   {
@@ -6884,6 +7004,10 @@
       {
         "id": "c",
         "text": "Producción teatral y giras del INAEM."
+      },
+      {
+        "id": "d",
+        "text": "entrada en vigor el 14 de noviembre de 2025."
       }
     ],
     "correctOptionId": "a",
@@ -6897,6 +7021,14 @@
       "reference": "Real Decreto 1028/2025, artículo 5 bis.1.i-m y 5 bis.2.c",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo 5 bis.1.i-m y 5 bis.2.c",
+      "addedOptionAnchorId": "rd-1028-2025-art-5bis-3"
     }
   },
   {
@@ -6915,6 +7047,10 @@
       {
         "id": "c",
         "text": "La Subdirección General de Teatro y Circo, por su función de difusión."
+      },
+      {
+        "id": "d",
+        "text": "Proteger el patrimonio escénico y musical y gestionar el MNAE y el CDAEM."
       }
     ],
     "correctOptionId": "a",
@@ -6928,6 +7064,14 @@
       "reference": "Real Decreto 1028/2025, artículo 5 bis.1.n-p y 5 bis.2.d",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo 5 bis.1.n-p y 5 bis.2.d",
+      "addedOptionAnchorId": "rd-1028-2025-art-5bis-4"
     }
   },
   {
@@ -6946,6 +7090,10 @@
       {
         "id": "c",
         "text": "La Dirección General y sus unidades de producción."
+      },
+      {
+        "id": "d",
+        "text": "Producción teatral y giras del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -6959,6 +7107,14 @@
       "reference": "Real Decreto 1028/2025, disposición adicional primera",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, disposición adicional primera",
+      "addedOptionAnchorId": "rd-1028-2025-da-1"
     }
   },
   {
@@ -6977,6 +7133,10 @@
       {
         "id": "c",
         "text": "Mantenidas siempre en la antigua denominación hasta una ley posterior."
+      },
+      {
+        "id": "d",
+        "text": "La Secretaría General del INAEM, como órgano de coordinación administrativa."
       }
     ],
     "correctOptionId": "a",
@@ -6990,6 +7150,14 @@
       "reference": "Real Decreto 1028/2025, disposición adicional segunda",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, disposición adicional segunda",
+      "addedOptionAnchorId": "rd-1028-2025-da-2"
     }
   },
   {
@@ -7008,6 +7176,10 @@
       {
         "id": "c",
         "text": "Hasta el 31 de diciembre de 2026, por el primer ejercicio completo."
+      },
+      {
+        "id": "d",
+        "text": "La Dirección General de Producción y Programación del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -7021,6 +7193,14 @@
       "reference": "Real Decreto 1028/2025, disposición adicional tercera.1",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, disposición adicional tercera.1",
+      "addedOptionAnchorId": "rd-1028-2025-da-3"
     }
   },
   {
@@ -7039,6 +7219,10 @@
       {
         "id": "c",
         "text": "La Dirección General de Teatro, Circo, Música y Danza."
+      },
+      {
+        "id": "d",
+        "text": "Teatro y Circo, Música y Danza y Creación Interdisciplinar."
       }
     ],
     "correctOptionId": "a",
@@ -7052,6 +7236,14 @@
       "reference": "Real Decreto 1028/2025, artículo segundo y artículo tercero",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo segundo y artículo tercero",
+      "addedOptionAnchorId": "rd-1028-2025-art-5bis"
     }
   },
   {
@@ -7070,6 +7262,10 @@
       {
         "id": "c",
         "text": "Programar todas las unidades de producción del INAEM sin intervención del organismo."
+      },
+      {
+        "id": "d",
+        "text": "La División de Archivo, Documentación y Gestión del Patrimonio Escénico y Musical."
       }
     ],
     "correctOptionId": "a",
@@ -7083,6 +7279,14 @@
       "reference": "Real Decreto 1028/2025, artículo 5 bis.1.n-p",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo 5 bis.1.n-p",
+      "addedOptionAnchorId": "rd-1028-2025-art-5bis-4"
     }
   },
   {
@@ -7101,6 +7305,10 @@
       {
         "id": "c",
         "text": "Con la División de Archivo, Documentación y Patrimonio del INAEM."
+      },
+      {
+        "id": "d",
+        "text": "Gestión de recursos humanos y convenios colectivos del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -7114,6 +7322,14 @@
       "reference": "Real Decreto 1028/2025, artículo 3.c del Real Decreto 2491/1996",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22948",
       "kind": "amending-norm"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1028/2025, artículo 3.c del Real Decreto 2491/1996",
+      "addedOptionAnchorId": "rd-1028-2025-art-3-c"
     }
   },
   {
@@ -7132,6 +7348,10 @@
       {
         "id": "c",
         "text": "Gestionar los circuitos estatales de música y danza."
+      },
+      {
+        "id": "d",
+        "text": "El CDN debe ser una institución de referencia del teatro contemporáneo."
       }
     ],
     "correctOptionId": "a",
@@ -7144,6 +7364,14 @@
       "anchorId": "orden-cul-2039-2011-cdn-a1",
       "reference": "Orden CUL/2039/2011, artículo 1",
       "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/2039/2011, artículo 1",
+      "addedOptionAnchorId": "orden-cul-2039-2011-cdn-a1"
     }
   },
   {
@@ -7162,6 +7390,10 @@
       {
         "id": "c",
         "text": "En el Teatro de La Zarzuela, en Madrid."
+      },
+      {
+        "id": "d",
+        "text": "El Consejo Artístico del Teatro."
       }
     ],
     "correctOptionId": "a",
@@ -7174,6 +7406,14 @@
       "anchorId": "orden-cul-2039-2011-cdn-a1",
       "reference": "Orden CUL/2039/2011, artículo 1.3",
       "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/2039/2011, artículo 1.3",
+      "addedOptionAnchorId": "orden-cul-2039-2011-cdn-a1"
     }
   },
   {
@@ -7192,6 +7432,10 @@
       {
         "id": "c",
         "text": "El presupuesto general del Ministerio de Cultura."
+      },
+      {
+        "id": "d",
+        "text": "Elaborar el plan anual de actuación del centro."
       }
     ],
     "correctOptionId": "a",
@@ -7204,6 +7448,14 @@
       "anchorId": "orden-cul-2039-2011-cdn-a10",
       "reference": "Orden CUL/2039/2011, artículo 10",
       "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/2039/2011, artículo 10",
+      "addedOptionAnchorId": "orden-cul-2039-2011-cdn-a10"
     }
   },
   {
@@ -7222,6 +7474,10 @@
       {
         "id": "c",
         "text": "El calendario de giras y el plan de contratación."
+      },
+      {
+        "id": "d",
+        "text": "Solo el marco financiero plurianual del Plan Director."
       }
     ],
     "correctOptionId": "a",
@@ -7234,6 +7490,14 @@
       "anchorId": "orden-cul-2039-2011-cdn-a11",
       "reference": "Orden CUL/2039/2011, artículo 11.1",
       "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/2039/2011, artículo 11.1",
+      "addedOptionAnchorId": "orden-cul-2039-2011-cdn-a11"
     }
   },
   {
@@ -7252,6 +7516,10 @@
       {
         "id": "c",
         "text": "La Dirección del CDN, sin intervención del INAEM."
+      },
+      {
+        "id": "d",
+        "text": "Elaborar el plan anual de actuación del centro."
       }
     ],
     "correctOptionId": "a",
@@ -7264,6 +7532,14 @@
       "anchorId": "orden-cul-2039-2011-cdn-a12",
       "reference": "Orden CUL/2039/2011, artículo 12.1",
       "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/2039/2011, artículo 12.1",
+      "addedOptionAnchorId": "orden-cul-2039-2011-cdn-a12"
     }
   },
   {
@@ -7282,6 +7558,10 @@
       {
         "id": "c",
         "text": "Elaborar el plan anual de actuación del centro."
+      },
+      {
+        "id": "d",
+        "text": "Solo el marco financiero plurianual del Plan Director."
       }
     ],
     "correctOptionId": "a",
@@ -7294,6 +7574,14 @@
       "anchorId": "orden-cul-2039-2011-cdn-a12",
       "reference": "Orden CUL/2039/2011, artículo 12.2",
       "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/2039/2011, artículo 12.2",
+      "addedOptionAnchorId": "orden-cul-2039-2011-cdn-a12"
     }
   },
   {
@@ -7312,6 +7600,10 @@
       {
         "id": "c",
         "text": "La persona titular de la Dirección del CDN."
+      },
+      {
+        "id": "d",
+        "text": "El Consejo Artístico, de forma autónoma."
       }
     ],
     "correctOptionId": "a",
@@ -7324,6 +7616,14 @@
       "anchorId": "orden-cul-2039-2011-cdn-a12",
       "reference": "Orden CUL/2039/2011, artículo 12.3",
       "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/2039/2011, artículo 12.3",
+      "addedOptionAnchorId": "orden-cul-2039-2011-cdn-a12"
     }
   },
   {
@@ -7342,6 +7642,10 @@
       {
         "id": "c",
         "text": "Cuatro años, sin posibilidad de prórroga."
+      },
+      {
+        "id": "d",
+        "text": "Elaborar el plan anual de actuación del centro."
       }
     ],
     "correctOptionId": "a",
@@ -7354,6 +7658,14 @@
       "anchorId": "orden-cul-2039-2011-cdn-a9",
       "reference": "Orden CUL/2039/2011, artículo 9.1",
       "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/2039/2011, artículo 9.1",
+      "addedOptionAnchorId": "orden-cul-2039-2011-cdn-a9"
     }
   },
   {
@@ -7372,6 +7684,10 @@
       {
         "id": "c",
         "text": "La relación completa de puestos de trabajo del INAEM."
+      },
+      {
+        "id": "d",
+        "text": "El Plan Director y los planes anuales de actuación."
       }
     ],
     "correctOptionId": "a",
@@ -7384,6 +7700,14 @@
       "anchorId": "orden-cul-2039-2011-cdn-a13",
       "reference": "Orden CUL/2039/2011, artículo 13.1",
       "url": "https://www.boe.es/eli/es/o/2011/07/13/cul2039/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/2039/2011, artículo 13.1",
+      "addedOptionAnchorId": "orden-cul-2039-2011-cdn-a13"
     }
   },
   {
@@ -7402,6 +7726,10 @@
       {
         "id": "c",
         "text": "Gestionar la producción lírica y coreográfica del INAEM."
+      },
+      {
+        "id": "d",
+        "text": "El teatro barroco español, dentro del patrimonio teatral clásico."
       }
     ],
     "correctOptionId": "a",
@@ -7414,6 +7742,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a1",
       "reference": "Orden CUL/3355/2010, artículo 1.1",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 1.1",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a1"
     }
   },
   {
@@ -7432,6 +7768,10 @@
       {
         "id": "c",
         "text": "El Teatro de La Zarzuela, en Madrid."
+      },
+      {
+        "id": "d",
+        "text": "El Consejo Artístico del Teatro."
       }
     ],
     "correctOptionId": "a",
@@ -7444,6 +7784,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a1",
       "reference": "Orden CUL/3355/2010, artículo 1.3",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 1.3",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a1"
     }
   },
   {
@@ -7462,6 +7810,10 @@
       {
         "id": "c",
         "text": "La formación administrativa en contratación y presupuestos públicos."
+      },
+      {
+        "id": "d",
+        "text": "Limitar la programación a profesionales especializados del teatro clásico."
       }
     ],
     "correctOptionId": "a",
@@ -7474,6 +7826,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a1",
       "reference": "Orden CUL/3355/2010, artículo 1.2",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 1.2",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a1"
     }
   },
   {
@@ -7492,6 +7852,10 @@
       {
         "id": "c",
         "text": "La ópera y la zarzuela del repertorio lírico español."
+      },
+      {
+        "id": "d",
+        "text": "Producción contemporánea sin atención al patrimonio teatral."
       }
     ],
     "correctOptionId": "a",
@@ -7504,6 +7868,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a1",
       "reference": "Orden CUL/3355/2010, artículo 1.2",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 1.2",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a1"
     }
   },
   {
@@ -7522,6 +7894,10 @@
       {
         "id": "c",
         "text": "La memoria económica del ejercicio anterior."
+      },
+      {
+        "id": "d",
+        "text": "La persona titular de la Dirección de la CNTC."
       }
     ],
     "correctOptionId": "a",
@@ -7534,6 +7910,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a10",
       "reference": "Orden CUL/3355/2010, artículo 10",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 10",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a10"
     }
   },
   {
@@ -7552,6 +7936,10 @@
       {
         "id": "c",
         "text": "La persona titular de la Dirección de la CNTC."
+      },
+      {
+        "id": "d",
+        "text": "El Teatro María Guerrero, en Madrid."
       }
     ],
     "correctOptionId": "a",
@@ -7564,6 +7952,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a12",
       "reference": "Orden CUL/3355/2010, artículo 12.3",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 12.3",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a12"
     }
   },
   {
@@ -7582,6 +7978,10 @@
       {
         "id": "c",
         "text": "Sustituye a la Dirección en la gestión diaria de la compañía."
+      },
+      {
+        "id": "d",
+        "text": "El teatro barroco español, dentro del patrimonio teatral clásico."
       }
     ],
     "correctOptionId": "a",
@@ -7594,6 +7994,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a5",
       "reference": "Orden CUL/3355/2010, preámbulo y artículo 5",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, preámbulo y artículo 5",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a5"
     }
   },
   {
@@ -7612,6 +8020,10 @@
       {
         "id": "c",
         "text": "Reservar las giras a instituciones culturales extranjeras."
+      },
+      {
+        "id": "d",
+        "text": "El teatro barroco español, dentro del patrimonio teatral clásico."
       }
     ],
     "correctOptionId": "a",
@@ -7624,6 +8036,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a4",
       "reference": "Orden CUL/3355/2010, artículo 4",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 4",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a4"
     }
   },
   {
@@ -7642,6 +8062,10 @@
       {
         "id": "c",
         "text": "Seis años, sin prórroga ordinaria."
+      },
+      {
+        "id": "d",
+        "text": "La persona titular de la Dirección de la CNTC."
       }
     ],
     "correctOptionId": "a",
@@ -7654,6 +8078,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a9",
       "reference": "Orden CUL/3355/2010, artículo 9.1",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 9.1",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a9"
     }
   },
   {
@@ -7672,6 +8104,10 @@
       {
         "id": "c",
         "text": "Producción contemporánea sin atención al patrimonio teatral."
+      },
+      {
+        "id": "d",
+        "text": "El teatro barroco español, dentro del patrimonio teatral clásico."
       }
     ],
     "correctOptionId": "a",
@@ -7684,6 +8120,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a1",
       "reference": "Orden CUL/3355/2010, artículo 1.2",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 1.2",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a1"
     }
   },
   {
@@ -7702,6 +8146,10 @@
       {
         "id": "c",
         "text": "Con los ingresos de taquilla, sin considerar créditos públicos."
+      },
+      {
+        "id": "d",
+        "text": "El Plan Director se compone del proyecto artístico y del marco financiero."
       }
     ],
     "correctOptionId": "a",
@@ -7714,6 +8162,14 @@
       "anchorId": "orden-cul-3355-2010-cntc-a11",
       "reference": "Orden CUL/3355/2010, artículo 11.3",
       "url": "https://www.boe.es/eli/es/o/2010/12/21/cul3355/con"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3355/2010, artículo 11.3",
+      "addedOptionAnchorId": "orden-cul-3355-2010-cntc-a11"
     }
   },
   {
@@ -7732,6 +8188,10 @@
       {
         "id": "c",
         "text": "El patrimonio coreográfico español en todos sus estilos."
+      },
+      {
+        "id": "d",
+        "text": "En el Teatro de La Zarzuela, en Madrid."
       }
     ],
     "correctOptionId": "a",
@@ -7744,6 +8204,14 @@
       "anchorId": "orden-cul-451-2011-zarzuela-a1",
       "reference": "Orden CUL/451/2011, artículo 1",
       "url": "https://www.boe.es/eli/es/o/2011/02/28/cul451"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/451/2011, artículo 1",
+      "addedOptionAnchorId": "orden-cul-451-2011-zarzuela-a1"
     }
   },
   {
@@ -7762,6 +8230,10 @@
       {
         "id": "c",
         "text": "En el Teatro María Guerrero, en Madrid."
+      },
+      {
+        "id": "d",
+        "text": "La Gerencia, únicamente en materia de personal."
       }
     ],
     "correctOptionId": "a",
@@ -7774,6 +8246,14 @@
       "anchorId": "orden-cul-451-2011-zarzuela-a1",
       "reference": "Orden CUL/451/2011, artículo 1.3",
       "url": "https://www.boe.es/eli/es/o/2011/02/28/cul451"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/451/2011, artículo 1.3",
+      "addedOptionAnchorId": "orden-cul-451-2011-zarzuela-a1"
     }
   },
   {
@@ -7792,6 +8272,10 @@
       {
         "id": "c",
         "text": "La Gerencia, únicamente en materia de personal."
+      },
+      {
+        "id": "d",
+        "text": "En el Teatro de La Zarzuela, en Madrid."
       }
     ],
     "correctOptionId": "a",
@@ -7804,6 +8288,14 @@
       "anchorId": "orden-cul-451-2011-zarzuela-a14",
       "reference": "Orden CUL/451/2011, artículo 14",
       "url": "https://www.boe.es/eli/es/o/2011/02/28/cul451"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/451/2011, artículo 14",
+      "addedOptionAnchorId": "orden-cul-451-2011-zarzuela-a14"
     }
   },
   {
@@ -7822,6 +8314,10 @@
       {
         "id": "c",
         "text": "Programación didáctica limitada a la danza contemporánea."
+      },
+      {
+        "id": "d",
+        "text": "El patrimonio lírico español, especialmente la zarzuela."
       }
     ],
     "correctOptionId": "a",
@@ -7834,6 +8330,14 @@
       "anchorId": "orden-cul-451-2011-zarzuela-a2",
       "reference": "Orden CUL/451/2011, artículo 2",
       "url": "https://www.boe.es/eli/es/o/2011/02/28/cul451"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/451/2011, artículo 2",
+      "addedOptionAnchorId": "orden-cul-451-2011-zarzuela-a2"
     }
   },
   {
@@ -7852,6 +8356,10 @@
       {
         "id": "c",
         "text": "Una unidad administrativa de Patrimonio."
+      },
+      {
+        "id": "d",
+        "text": "En el Auditorio Nacional de Música, en Madrid."
       }
     ],
     "correctOptionId": "a",
@@ -7864,6 +8372,14 @@
       "anchorId": "orden-cul-3359-2011-cndm-a1",
       "reference": "Orden CUL/3359/2011, artículo 1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19210"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3359/2011, artículo 1",
+      "addedOptionAnchorId": "orden-cul-3359-2011-cndm-a1"
     }
   },
   {
@@ -7882,6 +8398,10 @@
       {
         "id": "c",
         "text": "Únicamente la música electrónica y las artes digitales."
+      },
+      {
+        "id": "d",
+        "text": "El CNDM es un centro de gestión artística del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -7894,6 +8414,14 @@
       "anchorId": "orden-cul-3359-2011-cndm-a1",
       "reference": "Orden CUL/3359/2011, artículo 1.1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19210"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3359/2011, artículo 1.1",
+      "addedOptionAnchorId": "orden-cul-3359-2011-cndm-a1"
     }
   },
   {
@@ -7912,6 +8440,10 @@
       {
         "id": "c",
         "text": "En el Teatro de la Comedia, en Madrid."
+      },
+      {
+        "id": "d",
+        "text": "Un centro de gestión artística del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -7924,6 +8456,14 @@
       "anchorId": "orden-cul-3359-2011-cndm-a1",
       "reference": "Orden CUL/3359/2011, artículo 1.3",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19210"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3359/2011, artículo 1.3",
+      "addedOptionAnchorId": "orden-cul-3359-2011-cndm-a1"
     }
   },
   {
@@ -8050,6 +8590,10 @@
       {
         "id": "c",
         "text": "Una comisión de programación de la OCNE."
+      },
+      {
+        "id": "d",
+        "text": "A directores de centros del INAEM en activo."
       }
     ],
     "correctOptionId": "a",
@@ -8062,6 +8606,14 @@
       "anchorId": "res-jonde-2023-becas-exp-i",
       "reference": "Resolución de 29 de septiembre de 2023, expositivo I",
       "url": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Resolución de 29 de septiembre de 2023, expositivo I",
+      "addedOptionAnchorId": "res-jonde-2023-becas-exp-i"
     }
   },
   {
@@ -8080,6 +8632,10 @@
       {
         "id": "c",
         "text": "La gestión de circuitos musicales de las comunidades autónomas."
+      },
+      {
+        "id": "d",
+        "text": "La JONDE es una unidad de producción creada por el INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -8092,6 +8648,14 @@
       "anchorId": "res-jonde-2023-becas-exp-i",
       "reference": "Resolución de 29 de septiembre de 2023, expositivo I",
       "url": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Resolución de 29 de septiembre de 2023, expositivo I",
+      "addedOptionAnchorId": "res-jonde-2023-becas-exp-i"
     }
   },
   {
@@ -8110,6 +8674,10 @@
       {
         "id": "c",
         "text": "Exclusivamente música contemporánea española."
+      },
+      {
+        "id": "d",
+        "text": "La programación de ópera y zarzuela en Madrid."
       }
     ],
     "correctOptionId": "a",
@@ -8124,6 +8692,14 @@
       "url": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf",
       "kind": "contextual",
       "note": "Fuente contextual sobre becas; no debe desplazar las preguntas nucleares sobre misión, organización y modelo de gestión de la JONDE."
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Resolución de 29 de septiembre de 2023, expositivo I",
+      "addedOptionAnchorId": "res-jonde-2023-becas-exp-i"
     }
   },
   {
@@ -8142,6 +8718,10 @@
       {
         "id": "c",
         "text": "A directores de centros del INAEM en activo."
+      },
+      {
+        "id": "d",
+        "text": "La JONDE es una unidad de producción creada por el INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -8156,6 +8736,14 @@
       "url": "https://www.boe.es/boe/dias/2023/10/09/pdfs/BOE-A-2023-20871.pdf",
       "kind": "contextual",
       "note": "Fuente contextual sobre becas; no debe desplazar las preguntas nucleares sobre misión, organización y modelo de gestión de la JONDE."
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Resolución de 29 de septiembre de 2023, cláusula primera",
+      "addedOptionAnchorId": "res-jonde-2023-becas-clausula-1"
     }
   },
   {
@@ -8174,6 +8762,10 @@
       {
         "id": "c",
         "text": "El teatro contemporáneo español en todas sus lenguas."
+      },
+      {
+        "id": "d",
+        "text": "Igualdad, mérito, capacidad, publicidad y concurrencia."
       }
     ],
     "correctOptionId": "a",
@@ -8186,6 +8778,14 @@
       "anchorId": "orden-cul-3065-2010-bne-a1",
       "reference": "Orden CUL/3065/2010, artículo 1",
       "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3065/2010, artículo 1",
+      "addedOptionAnchorId": "orden-cul-3065-2010-bne-a1"
     }
   },
   {
@@ -8204,6 +8804,10 @@
       {
         "id": "c",
         "text": "Barroca, romántica, impresionista, moderna y posmoderna."
+      },
+      {
+        "id": "d",
+        "text": "Igualdad, mérito, capacidad, publicidad y concurrencia."
       }
     ],
     "correctOptionId": "a",
@@ -8216,6 +8820,14 @@
       "anchorId": "orden-cul-3065-2010-bne-a1",
       "reference": "Orden CUL/3065/2010, artículo 1.1",
       "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3065/2010, artículo 1.1",
+      "addedOptionAnchorId": "orden-cul-3065-2010-bne-a1"
     }
   },
   {
@@ -8234,6 +8846,10 @@
       {
         "id": "c",
         "text": "Sorteo, rotación anual y representación territorial."
+      },
+      {
+        "id": "d",
+        "text": "Su vigencia coincide con el contrato de Dirección."
       }
     ],
     "correctOptionId": "a",
@@ -8246,6 +8862,14 @@
       "anchorId": "orden-cul-3065-2010-bne-a8",
       "reference": "Orden CUL/3065/2010, artículo 8",
       "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3065/2010, artículo 8",
+      "addedOptionAnchorId": "orden-cul-3065-2010-bne-a8"
     }
   },
   {
@@ -8264,6 +8888,10 @@
       {
         "id": "c",
         "text": "La Comisión de Dirección de la OCNE."
+      },
+      {
+        "id": "d",
+        "text": "Cuatro años, sin prórroga prevista."
       }
     ],
     "correctOptionId": "a",
@@ -8276,6 +8904,14 @@
       "anchorId": "orden-cul-3065-2010-bne-a8",
       "reference": "Orden CUL/3065/2010, artículo 8.4 y 8.7",
       "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3065/2010, artículo 8.4 y 8.7",
+      "addedOptionAnchorId": "orden-cul-3065-2010-bne-a8"
     }
   },
   {
@@ -8294,6 +8930,10 @@
       {
         "id": "c",
         "text": "Gestionar la formación técnica de todos los centros del INAEM."
+      },
+      {
+        "id": "d",
+        "text": "Limitar la actividad al repertorio de la sede madrileña."
       }
     ],
     "correctOptionId": "a",
@@ -8306,6 +8946,14 @@
       "anchorId": "orden-cul-1993-2010-cnd-a1",
       "reference": "Orden CUL/1993/2010, apartado Primero",
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/1993/2010, apartado Primero",
+      "addedOptionAnchorId": "orden-cul-1993-2010-cnd-a1"
     }
   },
   {
@@ -8324,6 +8972,10 @@
       {
         "id": "c",
         "text": "El Consejo Rector de la OCNE."
+      },
+      {
+        "id": "d",
+        "text": "La Dirección General del INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -8336,6 +8988,14 @@
       "anchorId": "orden-cul-1993-2010-cnd-a7",
       "reference": "Orden CUL/1993/2010, apartado Séptimo",
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/1993/2010, apartado Séptimo",
+      "addedOptionAnchorId": "orden-cul-1993-2010-cnd-a7"
     }
   },
   {
@@ -8354,6 +9014,10 @@
       {
         "id": "c",
         "text": "Cuatro años, sin prórroga prevista."
+      },
+      {
+        "id": "d",
+        "text": "Su vigencia coincide con el contrato de Dirección."
       }
     ],
     "correctOptionId": "a",
@@ -8366,6 +9030,14 @@
       "anchorId": "orden-cul-3065-2010-bne-a9",
       "reference": "Orden CUL/3065/2010, artículo 9",
       "url": "https://www.boe.es/eli/es/o/2010/11/23/cul3065"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/3065/2010, artículo 9",
+      "addedOptionAnchorId": "orden-cul-3065-2010-bne-a9"
     }
   },
   {
@@ -8384,6 +9056,10 @@
       {
         "id": "c",
         "text": "El presupuesto anual y el catálogo de repertorio."
+      },
+      {
+        "id": "d",
+        "text": "Danza mediante compañía estable abierta a estilos y lenguajes."
       }
     ],
     "correctOptionId": "a",
@@ -8396,6 +9072,14 @@
       "anchorId": "orden-cul-1993-2010-cnd-a10",
       "reference": "Orden CUL/1993/2010, apartado Décimo",
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/1993/2010, apartado Décimo",
+      "addedOptionAnchorId": "orden-cul-1993-2010-cnd-a10"
     }
   },
   {
@@ -8414,6 +9098,10 @@
       {
         "id": "c",
         "text": "La persona titular de la Dirección de la CND."
+      },
+      {
+        "id": "d",
+        "text": "El Consejo Artístico del Teatro."
       }
     ],
     "correctOptionId": "a",
@@ -8426,6 +9114,14 @@
       "anchorId": "orden-cul-1993-2010-cnd-a12",
       "reference": "Orden CUL/1993/2010, apartado Duodécimo",
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/1993/2010, apartado Duodécimo",
+      "addedOptionAnchorId": "orden-cul-1993-2010-cnd-a12"
     }
   },
   {
@@ -8444,6 +9140,10 @@
       {
         "id": "c",
         "text": "Priorizar solo compañías internacionales sin cooperación estatal."
+      },
+      {
+        "id": "d",
+        "text": "Danza mediante compañía estable abierta a estilos y lenguajes."
       }
     ],
     "correctOptionId": "a",
@@ -8456,6 +9156,14 @@
       "anchorId": "orden-cul-1993-2010-cnd-a1",
       "reference": "Orden CUL/1993/2010, apartado Primero",
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11823"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden CUL/1993/2010, apartado Primero",
+      "addedOptionAnchorId": "orden-cul-1993-2010-cnd-a1"
     }
   },
   {
@@ -8474,6 +9182,10 @@
       {
         "id": "c",
         "text": "Centro nacional de documentación musical."
+      },
+      {
+        "id": "d",
+        "text": "Es una unidad de producción musical de la OCNE."
       }
     ],
     "correctOptionId": "a",
@@ -8486,6 +9198,14 @@
       "anchorId": "rd-992-2014-cte-a1",
       "reference": "Real Decreto 992/2014, artículo 1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 992/2014, artículo 1",
+      "addedOptionAnchorId": "rd-992-2014-cte-a1"
     }
   },
   {
@@ -8504,6 +9224,10 @@
       {
         "id": "c",
         "text": "Administración y gestión, en la formación de empleados públicos."
+      },
+      {
+        "id": "d",
+        "text": "Centro de Referencia Nacional en Espectáculos en vivo."
       }
     ],
     "correctOptionId": "a",
@@ -8516,6 +9240,14 @@
       "anchorId": "rd-992-2014-cte-a1",
       "reference": "Real Decreto 992/2014, artículo 1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 992/2014, artículo 1",
+      "addedOptionAnchorId": "rd-992-2014-cte-a1"
     }
   },
   {
@@ -8534,6 +9266,10 @@
       {
         "id": "c",
         "text": "El Real Decreto 1028/2025 y una orden ministerial de precios públicos."
+      },
+      {
+        "id": "d",
+        "text": "Administración y gestión, en la formación de empleados públicos."
       }
     ],
     "correctOptionId": "a",
@@ -8546,6 +9282,14 @@
       "anchorId": "rd-992-2014-cte-a2",
       "reference": "Real Decreto 992/2014, artículo 2",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 992/2014, artículo 2",
+      "addedOptionAnchorId": "rd-992-2014-cte-a2"
     }
   },
   {
@@ -8564,6 +9308,10 @@
       {
         "id": "c",
         "text": "Únicamente universidades y centros de formación artística."
+      },
+      {
+        "id": "d",
+        "text": "Centro de Referencia Nacional en Espectáculos en vivo."
       }
     ],
     "correctOptionId": "a",
@@ -8576,6 +9324,14 @@
       "anchorId": "rd-992-2014-cte-anexo",
       "reference": "Real Decreto 992/2014, anexo",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 992/2014, anexo",
+      "addedOptionAnchorId": "rd-992-2014-cte-anexo"
     }
   },
   {
@@ -8594,6 +9350,10 @@
       {
         "id": "c",
         "text": "Archivo general de todos los ministerios del Estado."
+      },
+      {
+        "id": "d",
+        "text": "Un archivo general del Ministerio de Cultura, sin espacios de creación."
       }
     ],
     "correctOptionId": "a",
@@ -8607,6 +9367,14 @@
       "reference": "Ministerio de Cultura, nota de 6 de junio de 2025 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
       "url": "https://www.cultura.gob.es/cultura/artesescenicas/contenedora-noticias-prensa/a2025/junio/reapertura-magalia.html",
       "kind": "institutional"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ministerio de Cultura, nota de 6 de junio de 2025 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
+      "addedOptionAnchorId": "cultura-magalia-2025-mision"
     }
   },
   {
@@ -8625,6 +9393,10 @@
       {
         "id": "c",
         "text": "El Centro de Tecnología del Espectáculo, como residencia artística."
+      },
+      {
+        "id": "d",
+        "text": "Una sede administrativa del INAEM, sin espacios de residencia."
       }
     ],
     "correctOptionId": "a",
@@ -8638,6 +9410,14 @@
       "reference": "Ministerio de Cultura, nota de 6 de junio de 2025 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
       "url": "https://www.cultura.gob.es/cultura/artesescenicas/contenedora-noticias-prensa/a2025/junio/reapertura-magalia.html",
       "kind": "institutional"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ministerio de Cultura, nota de 6 de junio de 2025 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
+      "addedOptionAnchorId": "cultura-magalia-2025-reapertura"
     }
   },
   {
@@ -8656,6 +9436,10 @@
       {
         "id": "c",
         "text": "Un archivo sonoro nacional y un auditorio sin salas de ensayo."
+      },
+      {
+        "id": "d",
+        "text": "Un auditorio principal y un archivo administrativo, sin salas de ensayo."
       }
     ],
     "correctOptionId": "a",
@@ -8669,6 +9453,14 @@
       "reference": "Ministerio de Cultura, nota de 6 de junio de 2025 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
       "url": "https://www.cultura.gob.es/cultura/artesescenicas/contenedora-noticias-prensa/a2025/junio/reapertura-magalia.html",
       "kind": "institutional"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ministerio de Cultura, nota de 6 de junio de 2025 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
+      "addedOptionAnchorId": "cultura-magalia-2025-espacios"
     }
   },
   {
@@ -8687,6 +9479,10 @@
       {
         "id": "c",
         "text": "La Biblioteca Nacional como unidad INAEM."
+      },
+      {
+        "id": "d",
+        "text": "Identifica centros, sin sustituir sus normas."
       }
     ],
     "correctOptionId": "a",
@@ -8700,6 +9496,14 @@
       "reference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
       "url": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html",
       "kind": "institutional"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
+      "addedOptionAnchorId": "cultura-inaem-centros-2026-listado"
     }
   },
   {
@@ -8718,6 +9522,10 @@
       {
         "id": "c",
         "text": "Fija competencias por sí sola."
+      },
+      {
+        "id": "d",
+        "text": "El Museo del Prado como centro INAEM."
       }
     ],
     "correctOptionId": "a",
@@ -8731,6 +9539,14 @@
       "reference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
       "url": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html",
       "kind": "institutional"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
+      "addedOptionAnchorId": "cultura-inaem-centros-2026-categorias"
     }
   },
   {
@@ -8749,6 +9565,10 @@
       {
         "id": "c",
         "text": "Es una unidad de producción musical de la OCNE."
+      },
+      {
+        "id": "d",
+        "text": "Centro estatal de producción de teatro contemporáneo."
       }
     ],
     "correctOptionId": "a",
@@ -8761,6 +9581,14 @@
       "anchorId": "rd-992-2014-cte-a1",
       "reference": "Real Decreto 992/2014, artículo 1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13620"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 992/2014, artículo 1",
+      "addedOptionAnchorId": "rd-992-2014-cte-a1"
     }
   },
   {
@@ -8779,6 +9607,10 @@
       {
         "id": "c",
         "text": "Exclusivamente memorias anuales anteriores a 2015."
+      },
+      {
+        "id": "d",
+        "text": "La página histórica de centros del INAEM, aunque no esté actualizada."
       }
     ],
     "correctOptionId": "a",
@@ -8792,6 +9624,14 @@
       "reference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026; Real Decreto 1028/2025 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
       "url": "https://www.cultura.gob.es/cultura/artesescenicas/informacion-general/organos-rectores.html",
       "kind": "institutional"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ministerio de Cultura, página institucional actualizada el 11 de junio de 2026; Real Decreto 1028/2025 (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal) (fuente institucional informativa, no precepto legal)",
+      "addedOptionAnchorId": "cultura-inaem-centros-2026-categorias"
     }
   },
   {
@@ -10132,6 +10972,10 @@
       {
         "id": "c",
         "text": "Con el anexo VI del propio Real Decreto y el RD 1215/1997."
+      },
+      {
+        "id": "d",
+        "text": "Condiciones generales de seguridad en los lugares de trabajo"
       }
     ],
     "correctOptionId": "a",
@@ -10141,6 +10985,14 @@
       "anchorId": "rd-486-1997-a5",
       "reference": "Real Decreto 486/1997, artículo 5",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 486/1997, artículo 5",
+      "addedOptionAnchorId": "rd-486-1997-a5"
     }
   },
   {
@@ -10159,6 +11011,10 @@
       {
         "id": "c",
         "text": "Únicamente las exigencias del Código Técnico de la Edificación."
+      },
+      {
+        "id": "d",
+        "text": "Se añade por la disposición final 1.2 Real Decreto-ley 4/2023, de 11 de mayo."
       }
     ],
     "correctOptionId": "b",
@@ -10168,6 +11024,14 @@
       "anchorId": "rd-486-1997-a6",
       "reference": "Real Decreto 486/1997, artículo 6",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 486/1997, artículo 6",
+      "addedOptionAnchorId": "rd-486-1997-a6"
     }
   },
   {
@@ -10186,6 +11050,10 @@
       {
         "id": "c",
         "text": "Deben fijarse exclusivamente mediante acuerdo con la representación sindical."
+      },
+      {
+        "id": "d",
+        "text": "Debe quedar excluido de las condiciones generales del lugar de trabajo."
       }
     ],
     "correctOptionId": "b",
@@ -10195,6 +11063,14 @@
       "anchorId": "rd-486-1997-a7",
       "reference": "Real Decreto 486/1997, artículo 7",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 486/1997, artículo 7",
+      "addedOptionAnchorId": "rd-486-1997-a7"
     }
   },
   {
@@ -10213,6 +11089,10 @@
       {
         "id": "c",
         "text": "Al anexo VI."
+      },
+      {
+        "id": "d",
+        "text": "Servicios higiénicos y locales de descanso"
       }
     ],
     "correctOptionId": "b",
@@ -10222,6 +11102,14 @@
       "anchorId": "rd-486-1997-a9",
       "reference": "Real Decreto 486/1997, artículo 9",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 486/1997, artículo 9",
+      "addedOptionAnchorId": "rd-486-1997-a9"
     }
   },
   {
@@ -10240,6 +11128,10 @@
       {
         "id": "c",
         "text": "Un servicio médico permanente en cualquier lugar de trabajo."
+      },
+      {
+        "id": "d",
+        "text": "Con el anexo VI del propio Real Decreto y el RD 1215/1997."
       }
     ],
     "correctOptionId": "a",
@@ -10249,6 +11141,14 @@
       "anchorId": "rd-486-1997-a10",
       "reference": "Real Decreto 486/1997, artículo 10",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 486/1997, artículo 10",
+      "addedOptionAnchorId": "rd-486-1997-a10"
     }
   },
   {
@@ -10267,6 +11167,10 @@
       {
         "id": "c",
         "text": "Que se utilicen sin medidas adicionales si tienen marcado CE."
+      },
+      {
+        "id": "d",
+        "text": "Que sea adecuado al trabajo y esté adaptado para garantizar seguridad y salud."
       }
     ],
     "correctOptionId": "a",
@@ -10276,6 +11180,14 @@
       "anchorId": "rd-1215-1997-a3",
       "reference": "Real Decreto 1215/1997, artículo 3",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1215/1997, artículo 3",
+      "addedOptionAnchorId": "rd-1215-1997-a3"
     }
   },
   {
@@ -10294,6 +11206,10 @@
       {
         "id": "c",
         "text": "Únicamente cuando lo solicite la persona trabajadora."
+      },
+      {
+        "id": "d",
+        "text": "Tras su instalación y antes de la primera puesta en marcha."
       }
     ],
     "correctOptionId": "b",
@@ -10303,6 +11219,14 @@
       "anchorId": "rd-1215-1997-a4",
       "reference": "Real Decreto 1215/1997, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1215/1997, artículo 4",
+      "addedOptionAnchorId": "rd-1215-1997-a4"
     }
   },
   {
@@ -10321,6 +11245,10 @@
       {
         "id": "c",
         "text": "Exclusivamente mediante instrucciones verbales del fabricante."
+      },
+      {
+        "id": "d",
+        "text": "Solo instrucciones verbales sobre el encendido del equipo."
       }
     ],
     "correctOptionId": "a",
@@ -10330,6 +11258,14 @@
       "anchorId": "rd-1215-1997-a5",
       "reference": "Real Decreto 1215/1997, artículo 5",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-17824"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1215/1997, artículo 5",
+      "addedOptionAnchorId": "rd-1215-1997-a5"
     }
   },
   {
@@ -10348,6 +11284,10 @@
       {
         "id": "c",
         "text": "Solo después de que se produzca un accidente laboral."
+      },
+      {
+        "id": "d",
+        "text": "a) Utilizar y cuidar correctamente los equipos de protección individual."
       }
     ],
     "correctOptionId": "a",
@@ -10357,6 +11297,14 @@
       "anchorId": "rd-773-1997-a4",
       "reference": "Real Decreto 773/1997, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 773/1997, artículo 4",
+      "addedOptionAnchorId": "rd-773-1997-a4"
     }
   },
   {
@@ -10375,6 +11323,10 @@
       {
         "id": "c",
         "text": "Deben sustituirse por una única prenda de protección general."
+      },
+      {
+        "id": "d",
+        "text": "Condiciones que deben reunir los equipos de protección individual."
       }
     ],
     "correctOptionId": "a",
@@ -10384,6 +11336,14 @@
       "anchorId": "rd-773-1997-a5",
       "reference": "Real Decreto 773/1997, artículo 5",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 773/1997, artículo 5",
+      "addedOptionAnchorId": "rd-773-1997-a5"
     }
   },
   {
@@ -10402,6 +11362,10 @@
       {
         "id": "c",
         "text": "Solicitar que cada trabajador compre el equipo que prefiera."
+      },
+      {
+        "id": "d",
+        "text": "Condiciones que deben reunir los equipos de protección individual."
       }
     ],
     "correctOptionId": "a",
@@ -10411,6 +11375,14 @@
       "anchorId": "rd-773-1997-a6",
       "reference": "Real Decreto 773/1997, artículo 6",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 773/1997, artículo 6",
+      "addedOptionAnchorId": "rd-773-1997-a6"
     }
   },
   {
@@ -10429,6 +11401,10 @@
       {
         "id": "c",
         "text": "Al artículo 99 del Código Técnico de la Edificación."
+      },
+      {
+        "id": "d",
+        "text": "Consulta y participación de los trabajadores."
       }
     ],
     "correctOptionId": "a",
@@ -10438,6 +11414,14 @@
       "anchorId": "rd-773-1997-a9",
       "reference": "Real Decreto 773/1997, artículo 9",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-12735"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 773/1997, artículo 9",
+      "addedOptionAnchorId": "rd-773-1997-a9"
     }
   },
   {
@@ -11684,6 +12668,10 @@
       {
         "id": "c",
         "text": "Quien representa a los trabajadores de todas las empresas concurrentes."
+      },
+      {
+        "id": "d",
+        "text": "El titular del centro o, en su defecto, el empresario principal."
       }
     ],
     "correctOptionId": "a",
@@ -11693,6 +12681,14 @@
       "anchorId": "rd-171-2004-a2",
       "reference": "Real Decreto 171/2004, artículo 2",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 171/2004, artículo 2",
+      "addedOptionAnchorId": "rd-171-2004-a2"
     }
   },
   {
@@ -11711,6 +12707,10 @@
       {
         "id": "c",
         "text": "Coordinarse solo si existe un contrato directo entre todas las empresas."
+      },
+      {
+        "id": "d",
+        "text": "Quien representa a los trabajadores de todas las empresas concurrentes."
       }
     ],
     "correctOptionId": "a",
@@ -11720,6 +12720,14 @@
       "anchorId": "rd-171-2004-a4",
       "reference": "Real Decreto 171/2004, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 171/2004, artículo 4",
+      "addedOptionAnchorId": "rd-171-2004-a4"
     }
   },
   {
@@ -11738,6 +12746,10 @@
       {
         "id": "c",
         "text": "Nunca, porque la información del titular siempre es verbal."
+      },
+      {
+        "id": "d",
+        "text": "Siempre que solo exista una empresa y un trabajador en el centro."
       }
     ],
     "correctOptionId": "a",
@@ -11747,6 +12759,14 @@
       "anchorId": "rd-171-2004-a7",
       "reference": "Real Decreto 171/2004, artículo 7",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 171/2004, artículo 7",
+      "addedOptionAnchorId": "rd-171-2004-a7"
     }
   },
   {
@@ -11765,6 +12785,10 @@
       {
         "id": "c",
         "text": "Solo una declaración de que no existen riesgos en el centro."
+      },
+      {
+        "id": "d",
+        "text": "El titular del centro o, en su defecto, el empresario principal."
       }
     ],
     "correctOptionId": "a",
@@ -11774,6 +12798,14 @@
       "anchorId": "rd-171-2004-a10",
       "reference": "Real Decreto 171/2004, artículo 10",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 171/2004, artículo 10",
+      "addedOptionAnchorId": "rd-171-2004-a10"
     }
   },
   {
@@ -11792,6 +12824,10 @@
       {
         "id": "c",
         "text": "La eliminación de los recursos preventivos del centro de trabajo."
+      },
+      {
+        "id": "d",
+        "text": "Quien representa a los trabajadores de todas las empresas concurrentes."
       }
     ],
     "correctOptionId": "a",
@@ -11801,6 +12837,14 @@
       "anchorId": "rd-171-2004-a11",
       "reference": "Real Decreto 171/2004, artículo 11",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 171/2004, artículo 11",
+      "addedOptionAnchorId": "rd-171-2004-a11"
     }
   },
   {
@@ -11819,6 +12863,10 @@
       {
         "id": "c",
         "text": "La Inspección de Trabajo en todos los casos de concurrencia."
+      },
+      {
+        "id": "d",
+        "text": "La eliminación de los recursos preventivos del centro de trabajo."
       }
     ],
     "correctOptionId": "a",
@@ -11828,6 +12876,14 @@
       "anchorId": "rd-171-2004-a12",
       "reference": "Real Decreto 171/2004, artículo 12",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 171/2004, artículo 12",
+      "addedOptionAnchorId": "rd-171-2004-a12"
     }
   },
   {
@@ -11846,6 +12902,10 @@
       {
         "id": "c",
         "text": "Únicamente cuando no se haya realizado ninguna evaluación de riesgos."
+      },
+      {
+        "id": "d",
+        "text": "Solo una declaración de que no existen riesgos en el centro."
       }
     ],
     "correctOptionId": "a",
@@ -11855,6 +12915,14 @@
       "anchorId": "rd-171-2004-a13",
       "reference": "Real Decreto 171/2004, artículo 13",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 171/2004, artículo 13",
+      "addedOptionAnchorId": "rd-171-2004-a13"
     }
   },
   {
@@ -11873,6 +12941,10 @@
       {
         "id": "c",
         "text": "Solo formación administrativa sobre contratos públicos."
+      },
+      {
+        "id": "d",
+        "text": "Solo cuando lo solicite una empresa contratista por escrito."
       }
     ],
     "correctOptionId": "a",
@@ -11882,6 +12954,14 @@
       "anchorId": "rd-171-2004-a14",
       "reference": "Real Decreto 171/2004, artículo 14.4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 171/2004, artículo 14.4",
+      "addedOptionAnchorId": "rd-171-2004-a14"
     }
   },
   {
@@ -11900,6 +12980,10 @@
       {
         "id": "c",
         "text": "Una unidad administrativa del Ministerio sin personalidad jurídica ni capacidad de obrar propia"
+      },
+      {
+        "id": "d",
+        "text": "El Consejo Artístico de la ONE, presidido por el Director general del INAEM, estará integrado por."
       }
     ],
     "correctOptionId": "a",
@@ -11912,7 +12996,15 @@
     },
     "editorialRuleIds": [
       "centros-inaem-estatutos-pre-reforma-2025"
-    ]
+    ],
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1245/2002, artículo 1",
+      "addedOptionAnchorId": "rd-1245-2002-a1"
+    }
   },
   {
     "id": "m3-corpus-002",
@@ -11930,6 +13022,10 @@
       {
         "id": "c",
         "text": "En el Centro Dramático Nacional"
+      },
+      {
+        "id": "d",
+        "text": "Dado en Madrid a 29 de noviembre de 2002."
       }
     ],
     "correctOptionId": "b",
@@ -11942,7 +13038,15 @@
     },
     "editorialRuleIds": [
       "centros-inaem-estatutos-pre-reforma-2025"
-    ]
+    ],
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1245/2002, artículo 2",
+      "addedOptionAnchorId": "rd-1245-2002-a2"
+    }
   },
   {
     "id": "m3-corpus-003",
@@ -11960,6 +13064,10 @@
       {
         "id": "c",
         "text": "Desarrollar programas de giras por España y el extranjero"
+      },
+      {
+        "id": "d",
+        "text": "REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA ORQUESTA NACIONAL DE ESPAÑA"
       }
     ],
     "correctOptionId": "c",
@@ -11972,7 +13080,15 @@
     },
     "editorialRuleIds": [
       "centros-inaem-estatutos-pre-reforma-2025"
-    ]
+    ],
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1245/2002, artículo 3",
+      "addedOptionAnchorId": "rd-1245-2002-a3"
+    }
   },
   {
     "id": "m3-corpus-004",
@@ -11990,6 +13106,10 @@
       {
         "id": "c",
         "text": "Sustituir a las orquestas profesionales de ámbito estatal"
+      },
+      {
+        "id": "d",
+        "text": "Los órganos directivos de la JONDE serán los si­guientes."
       }
     ],
     "correctOptionId": "a",
@@ -12002,7 +13122,15 @@
     },
     "editorialRuleIds": [
       "centros-inaem-estatutos-pre-reforma-2025"
-    ]
+    ],
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden de 17 de octubre de 1983, artículo 1",
+      "addedOptionAnchorId": "orden-17-10-1983-a1"
+    }
   },
   {
     "id": "m3-corpus-005",
@@ -12020,6 +13148,10 @@
       {
         "id": "c",
         "text": "El Consejo de Ministros y el Director General de Presupuestos"
+      },
+      {
+        "id": "d",
+        "text": "Los órganos directivos de la JONDE serán los si­guientes."
       }
     ],
     "correctOptionId": "b",
@@ -12032,7 +13164,15 @@
     },
     "editorialRuleIds": [
       "centros-inaem-estatutos-pre-reforma-2025"
-    ]
+    ],
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Orden de 17 de octubre de 1983, artículo 2",
+      "addedOptionAnchorId": "orden-17-10-1983-a2"
+    }
   },
   {
     "id": "m3-corpus-006",
@@ -12050,6 +13190,10 @@
       {
         "id": "c",
         "text": "Un derecho aplicable solo a quienes tienen contrato indefinido"
+      },
+      {
+        "id": "d",
+        "text": "Que cuenten con instrucciones del fabricante y documentación preventiva comprensible."
       }
     ],
     "correctOptionId": "a",
@@ -12059,6 +13203,14 @@
       "anchorId": "ley-31-1995-a14",
       "reference": "Ley 31/1995, artículo 14",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 31/1995, artículo 14",
+      "addedOptionAnchorId": "ley-31-1995-a14"
     }
   },
   {
@@ -12077,6 +13229,10 @@
       {
         "id": "c",
         "text": "Trasladar la responsabilidad preventiva a los trabajadores"
+      },
+      {
+        "id": "d",
+        "text": "b) Evaluar los riesgos que no se puedan evitar."
       }
     ],
     "correctOptionId": "b",
@@ -12086,6 +13242,14 @@
       "anchorId": "ley-31-1995-a15",
       "reference": "Ley 31/1995, artículo 15",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 31/1995, artículo 15",
+      "addedOptionAnchorId": "ley-31-1995-a15"
     }
   },
   {
@@ -12104,6 +13268,10 @@
       {
         "id": "c",
         "text": "En el sistema general de gestión de la empresa y en todos sus niveles jerárquicos"
+      },
+      {
+        "id": "d",
+        "text": "Fundación Estatal para la Prevención de Riesgos Laborales, FSP."
       }
     ],
     "correctOptionId": "c",
@@ -12113,6 +13281,14 @@
       "anchorId": "ley-31-1995-a16",
       "reference": "Ley 31/1995, artículo 16",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 31/1995, artículo 16",
+      "addedOptionAnchorId": "ley-31-1995-a16"
     }
   },
   {
@@ -12131,6 +13307,10 @@
       {
         "id": "c",
         "text": "Únicamente cuando lo solicite por escrito a la empresa"
+      },
+      {
+        "id": "d",
+        "text": "Fundación Estatal para la Prevención de Riesgos Laborales, FSP."
       }
     ],
     "correctOptionId": "b",
@@ -12140,6 +13320,14 @@
       "anchorId": "ley-31-1995-a19",
       "reference": "Ley 31/1995, artículo 19",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 31/1995, artículo 19",
+      "addedOptionAnchorId": "ley-31-1995-a19"
     }
   },
   {
@@ -12158,6 +13346,10 @@
       {
         "id": "c",
         "text": "La organización de primeros auxilios, lucha contra incendios y evacuación"
+      },
+      {
+        "id": "d",
+        "text": "Fundación Estatal para la Prevención de Riesgos Laborales, FSP."
       }
     ],
     "correctOptionId": "c",
@@ -12167,6 +13359,14 @@
       "anchorId": "ley-31-1995-a20",
       "reference": "Ley 31/1995, artículo 20",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 31/1995, artículo 20",
+      "addedOptionAnchorId": "ley-31-1995-a20"
     }
   },
   {
@@ -12185,6 +13385,10 @@
       {
         "id": "c",
         "text": "La Comisión Nacional de Protección Civil en todos los casos"
+      },
+      {
+        "id": "d",
+        "text": "Implantación del Plan de Autoprotección."
       }
     ],
     "correctOptionId": "a",
@@ -12194,6 +13398,14 @@
       "anchorId": "rd-393-2007-a4",
       "reference": "Real Decreto 393/2007, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6237"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 393/2007, artículo 4",
+      "addedOptionAnchorId": "rd-393-2007-a4"
     }
   },
   {
@@ -12212,6 +13424,10 @@
       {
         "id": "c",
         "text": "El público asistente mediante sus representantes"
+      },
+      {
+        "id": "d",
+        "text": "del Real Decreto 1468/2008, de 5 de septiembre."
       }
     ],
     "correctOptionId": "a",
@@ -12221,6 +13437,14 @@
       "anchorId": "rd-393-2007-a4",
       "reference": "Real Decreto 393/2007, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6237"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 393/2007, artículo 4",
+      "addedOptionAnchorId": "rd-393-2007-a4"
     }
   },
   {
@@ -12491,6 +13715,10 @@
       {
         "id": "c",
         "text": "La financiación, promoción y exportación de las industrias culturales españolas"
+      },
+      {
+        "id": "d",
+        "text": "a) Los que en cada Comunidad Autónoma tengan a su cargo la protección del patrimonio histórico."
       }
     ],
     "correctOptionId": "a",
@@ -12500,6 +13728,14 @@
       "anchorId": "ley-16-1985-aprimero",
       "reference": "Ley 16/1985, artículo primero",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12534"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 16/1985, artículo primero",
+      "addedOptionAnchorId": "ley-16-1985-aprimero"
     }
   },
   {
@@ -12518,6 +13754,10 @@
       {
         "id": "c",
         "text": "La exclusión de toda participación social en la definición de las medidas"
+      },
+      {
+        "id": "d",
+        "text": "Vigencia del Plan Nacional de Salvaguardia del Patrimonio Cultural Inmaterial."
       }
     ],
     "correctOptionId": "a",
@@ -12527,6 +13767,14 @@
       "anchorId": "ley-10-2015-a3",
       "reference": "Ley 10/2015, artículo 3",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5794"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 10/2015, artículo 3",
+      "addedOptionAnchorId": "ley-10-2015-a3"
     }
   },
   {
@@ -12545,6 +13793,10 @@
       {
         "id": "c",
         "text": "Únicamente los bienes muebles declarados de interés cultural"
+      },
+      {
+        "id": "d",
+        "text": "Vigencia del Plan Nacional de Salvaguardia del Patrimonio Cultural Inmaterial."
       }
     ],
     "correctOptionId": "a",
@@ -12554,6 +13806,14 @@
       "anchorId": "ley-10-2015-a4",
       "reference": "Ley 10/2015, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5794"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 10/2015, artículo 4",
+      "addedOptionAnchorId": "ley-10-2015-a4"
     }
   },
   {
@@ -12572,6 +13832,10 @@
       {
         "id": "c",
         "text": "Únicamente cuando lo solicita una persona trabajadora individual"
+      },
+      {
+        "id": "d",
+        "text": "Comisión Interministerial de Igualdad entre mujeres y hombres."
       }
     ],
     "correctOptionId": "a",
@@ -12581,6 +13845,14 @@
       "anchorId": "lo-3-2007-a45",
       "reference": "Ley Orgánica 3/2007, artículo 45",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley Orgánica 3/2007, artículo 45",
+      "addedOptionAnchorId": "lo-3-2007-a45"
     }
   },
   {
@@ -12599,6 +13871,10 @@
       {
         "id": "c",
         "text": "Exclusivamente medidas salariales aprobadas por la dirección"
+      },
+      {
+        "id": "d",
+        "text": "Modificación de la Ley Orgánica de Régimen Electoral General."
       }
     ],
     "correctOptionId": "a",
@@ -12608,6 +13884,14 @@
       "anchorId": "lo-3-2007-a46",
       "reference": "Ley Orgánica 3/2007, artículo 46",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley Orgánica 3/2007, artículo 46",
+      "addedOptionAnchorId": "lo-3-2007-a46"
     }
   },
   {
@@ -12626,6 +13910,10 @@
       {
         "id": "c",
         "text": "Solo al finalizar el año natural"
+      },
+      {
+        "id": "d",
+        "text": "Contenido de los planes de igualdad"
       }
     ],
     "correctOptionId": "a",
@@ -12635,6 +13923,14 @@
       "anchorId": "rd-901-2020-a4",
       "reference": "Real Decreto 901/2020, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12214"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 901/2020, artículo 4",
+      "addedOptionAnchorId": "rd-901-2020-a4"
     }
   },
   {
@@ -12653,6 +13949,10 @@
       {
         "id": "c",
         "text": "Solo opera cuando lo establece expresamente un convenio estatal"
+      },
+      {
+        "id": "d",
+        "text": "Igualdad retributiva de las personas trabajadoras a tiempo parcial."
       }
     ],
     "correctOptionId": "a",
@@ -12662,6 +13962,14 @@
       "anchorId": "rd-902-2020-a4",
       "reference": "Real Decreto 902/2020, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12215"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 902/2020, artículo 4",
+      "addedOptionAnchorId": "rd-902-2020-a4"
     }
   },
   {
@@ -12680,6 +13988,10 @@
       {
         "id": "c",
         "text": "Únicamente la gratuidad de los servicios culturales"
+      },
+      {
+        "id": "d",
+        "text": "Ayudas a la generación de empleo de las personas con discapacidad."
       }
     ],
     "correctOptionId": "a",
@@ -12689,6 +14001,14 @@
       "anchorId": "rdleg-1-2013-a1",
       "reference": "Real Decreto Legislativo 1/2013, artículo 1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto Legislativo 1/2013, artículo 1",
+      "addedOptionAnchorId": "rdleg-1-2013-a1"
     }
   },
   {
@@ -12707,6 +14027,10 @@
       {
         "id": "c",
         "text": "Exclusivamente la vivienda privada no abierta al público"
+      },
+      {
+        "id": "d",
+        "text": "d) Apoyo para la actividad profesional."
       }
     ],
     "correctOptionId": "a",
@@ -12716,6 +14040,14 @@
       "anchorId": "rdleg-1-2013-a5",
       "reference": "Real Decreto Legislativo 1/2013, artículo 5",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto Legislativo 1/2013, artículo 5",
+      "addedOptionAnchorId": "rdleg-1-2013-a5"
     }
   },
   {
@@ -12734,6 +14066,10 @@
       {
         "id": "c",
         "text": "El régimen fiscal, las subvenciones y la financiación de las entidades culturales sin fines lucrativos"
+      },
+      {
+        "id": "d",
+        "text": "a) En los bienes y servicios nuevos de titularidad pública será de aplicación el 1 de enero de 2025."
       }
     ],
     "correctOptionId": "a",
@@ -12743,6 +14079,14 @@
       "anchorId": "rd-193-2023-a1",
       "reference": "Real Decreto 193/2023, artículo 1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7417"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 193/2023, artículo 1",
+      "addedOptionAnchorId": "rd-193-2023-a1"
     }
   },
   {
@@ -12761,6 +14105,10 @@
       {
         "id": "c",
         "text": "Cuando el servicio sea público y su regulación sectorial no contenga medidas de accesibilidad"
+      },
+      {
+        "id": "d",
+        "text": "Las condiciones básicas de accesibilidad y no discriminación para bienes y servicios a disposición del público"
       }
     ],
     "correctOptionId": "a",
@@ -12770,6 +14118,14 @@
       "anchorId": "rd-193-2023-a4",
       "reference": "Real Decreto 193/2023, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7417"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 193/2023, artículo 4",
+      "addedOptionAnchorId": "rd-193-2023-a4"
     }
   },
   {
@@ -12788,6 +14144,10 @@
       {
         "id": "c",
         "text": "Autonomía financiera, libertad de gasto y ausencia de límites plurianuales para cada centro"
+      },
+      {
+        "id": "d",
+        "text": "Estos principios rectores, todos ello al servicio del principio general de estabilidad presupuestaria, son tres."
       }
     ],
     "correctOptionId": "a",
@@ -12797,6 +14157,14 @@
       "anchorId": "ley-47-2003-a26",
       "reference": "Ley 47/2003, artículo 26",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 47/2003, artículo 26",
+      "addedOptionAnchorId": "ley-47-2003-a26"
     }
   },
   {
@@ -12815,6 +14183,10 @@
       {
         "id": "c",
         "text": "Diez ejercicios posteriores"
+      },
+      {
+        "id": "d",
+        "text": "Madrid, 26 de noviembre de 2003."
       }
     ],
     "correctOptionId": "b",
@@ -12824,6 +14196,14 @@
       "anchorId": "ley-47-2003-a47",
       "reference": "Ley 47/2003, artículo 47",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 47/2003, artículo 47",
+      "addedOptionAnchorId": "ley-47-2003-a47"
     }
   },
   {
@@ -12842,6 +14222,10 @@
       {
         "id": "c",
         "text": "Un pago contractual público por un servicio recibido de un proveedor seleccionado"
+      },
+      {
+        "id": "d",
+        "text": "ª Que el importe subvencionable no exceda del coste incurrido por la entidad vinculada."
       }
     ],
     "correctOptionId": "a",
@@ -12851,6 +14235,14 @@
       "anchorId": "ley-38-2003-a2",
       "reference": "Ley 38/2003, artículo 2",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 38/2003, artículo 2",
+      "addedOptionAnchorId": "ley-38-2003-a2"
     }
   },
   {
@@ -12869,6 +14261,10 @@
       {
         "id": "c",
         "text": "Esfuerzo muscular necesario para completar una tarea y mantener una postura de trabajo"
+      },
+      {
+        "id": "d",
+        "text": "Las exigencias de la tarea, las condiciones externas y las características de la persona"
       }
     ],
     "correctOptionId": "b",
@@ -12879,6 +14275,14 @@
       "url": "https://www.insst.es/normativa/riesgos-psicosociales/listado-de-ntp",
       "file": "sources/m3-bibliography.html",
       "anchorId": "ntp-0179-definicion"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "NTP 0179, La carga mental del trabajo: definición y evaluación",
+      "addedOptionAnchorId": "ntp-0179-definicion"
     }
   },
   {
@@ -12897,6 +14301,10 @@
       {
         "id": "c",
         "text": "Las exigencias de la tarea, las condiciones externas y las características de la persona"
+      },
+      {
+        "id": "d",
+        "text": "Efecto de las exigencias intelectuales de la tarea y de factores externos sobre la persona"
       }
     ],
     "correctOptionId": "c",
@@ -12907,6 +14315,14 @@
       "url": "https://www.insst.es/documents/94886/191756/NTP%20534%20Carga%20mental%20de%20trabajo%20factores.pdf",
       "file": "sources/m3-bibliography.html",
       "anchorId": "ntp-0534-factores"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "NTP 534, Carga mental de trabajo: factores",
+      "addedOptionAnchorId": "ntp-0534-factores"
     }
   },
   {
@@ -12925,6 +14341,10 @@
       {
         "id": "c",
         "text": "La existencia exclusiva de una respuesta fisiológica, sin intervención de procesos cognitivos"
+      },
+      {
+        "id": "d",
+        "text": "Únicamente la edad y la antigüedad, con independencia del contenido de la tarea"
       }
     ],
     "correctOptionId": "a",
@@ -12935,6 +14355,14 @@
       "url": "https://www.insst.es/documents/94886/326827/ntp_318.pdf/2c36529c-e315-4b60-9b6d-33cb81a8bfd0",
       "file": "sources/m3-bibliography.html",
       "anchorId": "ntp-0318-proceso"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "NTP 318, El estrés: proceso de generación en el ámbito laboral",
+      "addedOptionAnchorId": "ntp-0318-proceso"
     }
   },
   {
@@ -12953,6 +14381,10 @@
       {
         "id": "c",
         "text": "Una respuesta general del organismo ante una demanda o alteración de su equilibrio"
+      },
+      {
+        "id": "d",
+        "text": "Únicamente la edad y la antigüedad, con independencia del contenido de la tarea"
       }
     ],
     "correctOptionId": "c",
@@ -12963,6 +14395,14 @@
       "url": "https://www.insst.es/materias/riesgos/riesgos-psicosociales/estres-laboral",
       "file": "sources/m3-bibliography.html",
       "anchorId": "ntp-0355-fisiologia"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "NTP 355, Fisiología del estrés",
+      "addedOptionAnchorId": "ntp-0355-fisiologia"
     }
   },
   {
@@ -12981,6 +14421,10 @@
       {
         "id": "c",
         "text": "Únicamente cuando ya se haya producido un daño para la salud"
+      },
+      {
+        "id": "d",
+        "text": "b) Uno o varios miembros del servicio de prevención propio de la empresa."
       }
     ],
     "correctOptionId": "b",
@@ -12990,6 +14434,14 @@
       "anchorId": "ley-31-1995-a16",
       "reference": "Ley 31/1995, artículo 16",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 31/1995, artículo 16",
+      "addedOptionAnchorId": "ley-31-1995-a16"
     }
   },
   {
@@ -13008,6 +14460,10 @@
       {
         "id": "c",
         "text": "Cualquier trabajo administrativo de una empresa cultural, aunque no guarde relación con la producción"
+      },
+      {
+        "id": "d",
+        "text": "Solo actuaciones teatrales de intérpretes, sin incluir personal técnico o auxiliar."
       }
     ],
     "correctOptionId": "a",
@@ -13018,7 +14474,15 @@
       "reference": "Real Decreto 1435/1985, artículo 1",
       "url": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con"
     },
-    "temporalContext": "vigente-hasta-2027-05-24"
+    "temporalContext": "vigente-hasta-2027-05-24",
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1435/1985, artículo 1",
+      "addedOptionAnchorId": "rd-1435-1985-a1"
+    }
   },
   {
     "id": "m3-corpus-040",
@@ -13036,6 +14500,10 @@
       {
         "id": "c",
         "text": "Solo mediante escritura pública autorizada por la autoridad laboral"
+      },
+      {
+        "id": "d",
+        "text": "Debe formalizarse siempre mediante escritura pública ante notario."
       }
     ],
     "correctOptionId": "b",
@@ -13046,7 +14514,15 @@
       "reference": "Real Decreto 1435/1985, artículo 3",
       "url": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con"
     },
-    "temporalContext": "vigente-hasta-2027-05-24"
+    "temporalContext": "vigente-hasta-2027-05-24",
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1435/1985, artículo 3",
+      "addedOptionAnchorId": "rd-1435-1985-a3"
+    }
   },
   {
     "id": "m3-corpus-041",
@@ -13064,6 +14540,10 @@
       {
         "id": "c",
         "text": "Estar justificada por la actividad artística y vincularse a obra, actuación, temporada o fase de producción"
+      },
+      {
+        "id": "d",
+        "text": "La actividad artística y las actividades técnicas o auxiliares necesarias para ella"
       }
     ],
     "correctOptionId": "c",
@@ -13074,7 +14554,15 @@
       "reference": "Real Decreto 1435/1985, artículo 5",
       "url": "https://www.boe.es/eli/es/rd/1985/08/01/1435/con"
     },
-    "temporalContext": "vigente-hasta-2027-05-24"
+    "temporalContext": "vigente-hasta-2027-05-24",
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Real Decreto 1435/1985, artículo 5",
+      "addedOptionAnchorId": "rd-1435-1985-a5"
+    }
   },
   {
     "id": "m3-corpus-042",
@@ -13092,6 +14580,10 @@
       {
         "id": "c",
         "text": "La autorización administrativa previa para toda asociación cultural"
+      },
+      {
+        "id": "d",
+        "text": "El derecho de asociación proyecta su protección desde una doble perspectiva ."
       }
     ],
     "correctOptionId": "a",
@@ -13101,6 +14593,14 @@
       "anchorId": "lo-1-2002-a2",
       "reference": "Ley Orgánica 1/2002, artículo 2",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-5852"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley Orgánica 1/2002, artículo 2",
+      "addedOptionAnchorId": "lo-1-2002-a2"
     }
   },
   {
@@ -13119,6 +14619,10 @@
       {
         "id": "c",
         "text": "Tres personas físicas o jurídicas legalmente constituidas"
+      },
+      {
+        "id": "d",
+        "text": "Obligaciones de las asociaciones de utilidad pública."
       }
     ],
     "correctOptionId": "c",
@@ -13128,6 +14632,14 @@
       "anchorId": "lo-1-2002-a5",
       "reference": "Ley Orgánica 1/2002, artículo 5",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-5852"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley Orgánica 1/2002, artículo 5",
+      "addedOptionAnchorId": "lo-1-2002-a5"
     }
   },
   {
@@ -13146,6 +14658,10 @@
       {
         "id": "c",
         "text": "Limitar sus fines a actividades comerciales con contraprestación directa"
+      },
+      {
+        "id": "d",
+        "text": "Una entidad sin fines lucrativos a la que se aplique el régimen fiscal del título II"
       }
     ],
     "correctOptionId": "b",
@@ -13155,6 +14671,14 @@
       "anchorId": "ley-49-2002-a3",
       "reference": "Ley 49/2002, artículo 3",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-25039"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 49/2002, artículo 3",
+      "addedOptionAnchorId": "ley-49-2002-a3"
     }
   },
   {
@@ -13173,6 +14697,10 @@
       {
         "id": "c",
         "text": "Sustituir la iniciativa social por una programación cultural única"
+      },
+      {
+        "id": "d",
+        "text": "La Constitución Española de 1978 no se puede modificar."
       }
     ],
     "correctOptionId": "a",
@@ -13182,6 +14710,14 @@
       "anchorId": "ce-1978-a44",
       "reference": "Constitución Española, artículo 44",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Constitución Española, artículo 44",
+      "addedOptionAnchorId": "ce-1978-a44"
     }
   },
   {
@@ -13200,6 +14736,10 @@
       {
         "id": "c",
         "text": "Participar en igualdad de condiciones en la vida cultural, el ocio y el deporte"
+      },
+      {
+        "id": "d",
+        "text": "Participación en la vida cultural, las actividades recreativas, el esparcimiento y el deporte."
       }
     ],
     "correctOptionId": "c",
@@ -13209,6 +14749,14 @@
       "anchorId": "conv-onu-2006-a30",
       "reference": "Convención sobre los derechos de las personas con discapacidad, artículo 30",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-6963"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Convención sobre los derechos de las personas con discapacidad, artículo 30",
+      "addedOptionAnchorId": "conv-onu-2006-a30"
     }
   },
   {
@@ -13227,6 +14775,10 @@
       {
         "id": "c",
         "text": "Régimen general de contratación de artistas y personal técnico cultural"
+      },
+      {
+        "id": "d",
+        "text": "Comité de Personas Expertas de Cambio Climático y Transición Energética."
       }
     ],
     "correctOptionId": "b",
@@ -13236,6 +14788,14 @@
       "anchorId": "ley-7-2021-a1",
       "reference": "Ley 7/2021, artículo 1",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 7/2021, artículo 1",
+      "addedOptionAnchorId": "ley-7-2021-a1"
     }
   },
   {
@@ -13254,6 +14814,10 @@
       {
         "id": "c",
         "text": "Confidencialidad de la metodología, discrecionalidad y ausencia de controles de calidad"
+      },
+      {
+        "id": "d",
+        "text": "Pero más allá de esos principios, se limita a regular las estadísticas para fines estatales."
       }
     ],
     "correctOptionId": "a",
@@ -13263,6 +14827,14 @@
       "anchorId": "ley-12-1989-a4",
       "reference": "Ley 12/1989, artículo 4",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1989-10767"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 12/1989, artículo 4",
+      "addedOptionAnchorId": "ley-12-1989-a4"
     }
   },
   {
@@ -13281,6 +14853,10 @@
       {
         "id": "c",
         "text": "Para hacer comparables, integrables y analizables los datos y resultados estadísticos"
+      },
+      {
+        "id": "d",
+        "text": "c) El suministro de datos falsos a los servicios estadísticos competentes."
       }
     ],
     "correctOptionId": "c",
@@ -13290,6 +14866,14 @@
       "anchorId": "ley-12-1989-a5",
       "reference": "Ley 12/1989, artículo 5",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1989-10767"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 12/1989, artículo 5",
+      "addedOptionAnchorId": "ley-12-1989-a5"
     }
   },
   {
@@ -13308,6 +14892,10 @@
       {
         "id": "c",
         "text": "Norma con rango de ley que aprueba el Plan Estadístico Nacional y sus operaciones"
+      },
+      {
+        "id": "d",
+        "text": "Operación anual de síntesis sobre unidades residentes vinculadas a la cultura"
       }
     ],
     "correctOptionId": "a",
@@ -13318,6 +14906,14 @@
       "url": "https://www.cultura.gob.es/servicios-a-la-ciudadania/estadisticas/cultura/mc/aec.html",
       "file": "sources/m3-bibliography.html",
       "anchorId": "anuario-cultura-descripcion"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "Anuario de Estadísticas Culturales, Ministerio de Cultura",
+      "addedOptionAnchorId": "anuario-cultura-descripcion"
     }
   },
   {
@@ -13336,6 +14932,10 @@
       {
         "id": "c",
         "text": "Inventario de bienes culturales que no utiliza otros resultados estadísticos"
+      },
+      {
+        "id": "d",
+        "text": "Publicación anual con una selección de resultados culturales relevantes de varias fuentes"
       }
     ],
     "correctOptionId": "b",
@@ -13346,6 +14946,14 @@
       "url": "https://www.cultura.gob.es/servicios-a-la-ciudadania/estadisticas/cultura/mc/culturabase/cuenta-satelite/metodologia-cuenta.html",
       "file": "sources/m3-bibliography.html",
       "anchorId": "cuenta-satelite-metodologia"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "Cuenta Satélite de la Cultura en España, metodología oficial",
+      "addedOptionAnchorId": "cuenta-satelite-metodologia"
     }
   },
   {
@@ -13940,6 +15548,10 @@
       {
         "id": "c",
         "text": "Configurar exclusivamente redes de datos para la venta de entradas"
+      },
+      {
+        "id": "d",
+        "text": "Preparar el espacio y revisar la documentación y las convocatorias de trabajo"
       }
     ],
     "correctOptionId": "b",
@@ -13950,6 +15562,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-3634",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-art523-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "ART523_3, Construcción de decorados para la escena",
+      "addedOptionAnchorId": "cncp-art523-3-contenidos"
     }
   },
   {
@@ -13968,6 +15588,10 @@
       {
         "id": "c",
         "text": "Bastidores, rampas y practicables de la caja escénica"
+      },
+      {
+        "id": "d",
+        "text": "Solo una relación de invitados y acreditaciones de prensa"
       }
     ],
     "correctOptionId": "c",
@@ -13978,6 +15602,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-3634",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-art524-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
+      "addedOptionAnchorId": "cncp-art524-3-contenidos"
     }
   },
   {
@@ -13996,6 +15628,10 @@
       {
         "id": "c",
         "text": "Limitar la planificación a la contratación, sin cronograma ni coordinación técnica"
+      },
+      {
+        "id": "d",
+        "text": "Medición, materiales, herramientas, documentación técnica y coordinación del trabajo."
       }
     ],
     "correctOptionId": "a",
@@ -14006,6 +15642,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6274",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-pci477-produccion"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "Producción y adaptación de espacios escénicos, Orden PCI/477/2019",
+      "addedOptionAnchorId": "cncp-pci477-produccion"
     }
   },
   {
@@ -14024,6 +15668,10 @@
       {
         "id": "c",
         "text": "Calendario de fases, tareas, responsables, necesidades técnicas y presupuesto"
+      },
+      {
+        "id": "d",
+        "text": "Solo el programa de mano y la crítica publicada tras el estreno"
       }
     ],
     "correctOptionId": "c",
@@ -14034,6 +15682,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims437-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims437-3-contenidos"
     }
   },
   {
@@ -14052,6 +15708,10 @@
       {
         "id": "c",
         "text": "El expediente de contratación del edificio"
+      },
+      {
+        "id": "d",
+        "text": "No se crea una nueva cualificación."
       }
     ],
     "correctOptionId": "b",
@@ -14062,6 +15722,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims442-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims442-3-contenidos"
     }
   },
   {
@@ -14080,6 +15748,10 @@
       {
         "id": "c",
         "text": "Resolver por sí sola la adjudicación de los contratos públicos"
+      },
+      {
+        "id": "d",
+        "text": "Preparar convocatorias, partes y documentación de ensayo y función."
       }
     ],
     "correctOptionId": "a",
@@ -14090,6 +15762,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims442-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims442-3-contenidos"
     }
   },
   {
@@ -14108,6 +15788,10 @@
       {
         "id": "c",
         "text": "Preparar el espacio y revisar la documentación y las convocatorias de trabajo"
+      },
+      {
+        "id": "d",
+        "text": "Libro de regiduría, convocatorias, partes y documentación de ensayo y función."
       }
     ],
     "correctOptionId": "c",
@@ -14118,6 +15802,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims442-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims442-3-contenidos"
     }
   },
   {
@@ -14136,6 +15828,10 @@
       {
         "id": "c",
         "text": "Montaje, cierre, preproducción, representación y contratación posterior"
+      },
+      {
+        "id": "d",
+        "text": "Montaje, desmontaje, almacenamiento y mantenimiento de elementos escénicos."
       }
     ],
     "correctOptionId": "b",
@@ -14146,6 +15842,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims437-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims437-3-contenidos"
     }
   },
   {
@@ -14164,6 +15868,10 @@
       {
         "id": "c",
         "text": "Separar la dirección de escenario de cualquier comunicación con los equipos técnicos"
+      },
+      {
+        "id": "d",
+        "text": "Interpretar diseños y planos para construir o adaptar decorados al espacio de representación"
       }
     ],
     "correctOptionId": "a",
@@ -14174,6 +15882,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims442-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims442-3-contenidos"
     }
   },
   {
@@ -14192,6 +15908,10 @@
       {
         "id": "c",
         "text": "Gestionar avisos, cambios y órdenes de escena durante la representación"
+      },
+      {
+        "id": "d",
+        "text": "Registrar un bien cultural en el inventario de patrimonio histórico"
       }
     ],
     "correctOptionId": "c",
@@ -14202,6 +15922,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims442-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims442-3-contenidos"
     }
   },
   {
@@ -14220,6 +15948,10 @@
       {
         "id": "c",
         "text": "Excluir las necesidades técnicas porque el espacio no es un recinto teatral"
+      },
+      {
+        "id": "d",
+        "text": "calendario, tareas, responsables, necesidades técnicas, presupuesto y coordinación de equipos."
       }
     ],
     "correctOptionId": "b",
@@ -14230,6 +15962,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims437-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims437-3-contenidos"
     }
   },
   {
@@ -14248,6 +15988,10 @@
       {
         "id": "c",
         "text": "Únicamente el repertorio, sin información sobre equipos o tiempos de montaje"
+      },
+      {
+        "id": "d",
+        "text": "Solo el repertorio y el calendario, sin información sobre equipos técnicos."
       }
     ],
     "correctOptionId": "a",
@@ -14258,6 +16002,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims437-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims437-3-contenidos"
     }
   },
   {
@@ -14276,6 +16028,10 @@
       {
         "id": "c",
         "text": "Registrar la incidencia, coordinar a los equipos y ajustar la planificación con información verificable"
+      },
+      {
+        "id": "d",
+        "text": "Adaptación a espacios de representación y gestión de incidencias de producción."
       }
     ],
     "correctOptionId": "c",
@@ -14286,6 +16042,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims437-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims437-3-contenidos"
     }
   },
   {
@@ -14304,6 +16068,10 @@
       {
         "id": "c",
         "text": "Solo fotografías de la función, sin datos de planificación"
+      },
+      {
+        "id": "d",
+        "text": "Solo el nombre del recinto y la fecha de la primera función"
       }
     ],
     "correctOptionId": "b",
@@ -14314,6 +16082,14 @@
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims437-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "addedOptionAnchorId": "cncp-ims437-3-contenidos"
     }
   },
   {
@@ -14332,6 +16108,10 @@
       {
         "id": "c",
         "text": "Únicamente grabación de audio, sin proyección ni control de contenidos"
+      },
+      {
+        "id": "d",
+        "text": "Configuración de vídeo sin pruebas ni copias de respaldo."
       }
     ],
     "correctOptionId": "a",
@@ -14342,6 +16122,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-20759",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-video-escena-2024"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
+      "addedOptionAnchorId": "cncp-video-escena-2024"
     }
   },
   {
@@ -14360,6 +16148,10 @@
       {
         "id": "c",
         "text": "Pruebas, respaldo y coordinación de la reproducción con las órdenes de escena"
+      },
+      {
+        "id": "d",
+        "text": "Preparación de contenidos sin coordinación con las órdenes de escena."
       }
     ],
     "correctOptionId": "c",
@@ -14370,6 +16162,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-20759",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-video-escena-2024"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
+      "addedOptionAnchorId": "cncp-video-escena-2024"
     }
   },
   {
@@ -14388,6 +16188,10 @@
       {
         "id": "c",
         "text": "H323, LDAP, NTP y SNMP"
+      },
+      {
+        "id": "d",
+        "text": "RD 295/2004 · Actualización."
       }
     ],
     "correctOptionId": "a",
@@ -14398,6 +16202,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-20759",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-video-escena-2024"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
+      "addedOptionAnchorId": "cncp-video-escena-2024"
     }
   },
   {
@@ -14416,6 +16228,10 @@
       {
         "id": "c",
         "text": "Registrar un bien cultural en el inventario de patrimonio histórico"
+      },
+      {
+        "id": "d",
+        "text": "Únicamente grabación de audio, sin proyección ni control de contenidos"
       }
     ],
     "correctOptionId": "b",
@@ -14426,6 +16242,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-20759",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-video-escena-2024"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
+      "addedOptionAnchorId": "cncp-video-escena-2024"
     }
   },
   {
@@ -14624,6 +16448,10 @@
       {
         "id": "c",
         "text": "Lo convierte automáticamente en propiedad de la Administración General del Estado"
+      },
+      {
+        "id": "d",
+        "text": "Un inmueble declarado Bien de Interés Cultural es inseparable de su entorno."
       }
     ],
     "correctOptionId": "a",
@@ -14633,6 +16461,14 @@
       "anchorId": "ley-16-1985-anoveno",
       "reference": "Ley 16/1985, artículo noveno",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12534"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 16/1985, artículo noveno",
+      "addedOptionAnchorId": "ley-16-1985-anoveno"
     }
   },
   {
@@ -14651,6 +16487,10 @@
       {
         "id": "c",
         "text": "La exclusión de las comunidades y grupos que mantienen la manifestación cultural"
+      },
+      {
+        "id": "d",
+        "text": "Declaración de Manifestación Representativa del Patrimonio Cultural Inmaterial."
       }
     ],
     "correctOptionId": "b",
@@ -14660,6 +16500,14 @@
       "anchorId": "ley-10-2015-a3",
       "reference": "Ley 10/2015, artículo 3",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5794"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 10/2015, artículo 3",
+      "addedOptionAnchorId": "ley-10-2015-a3"
     }
   },
   {
@@ -14822,6 +16670,10 @@
       {
         "id": "c",
         "text": "Los créditos solo pueden ejecutarse después de la aprobación del Tribunal de Cuentas"
+      },
+      {
+        "id": "d",
+        "text": "e) Un anexo con el desarrollo económico de los créditos, por centros gestores de gasto."
       }
     ],
     "correctOptionId": "a",
@@ -14831,6 +16683,14 @@
       "anchorId": "ley-47-2003-a26",
       "reference": "Ley 47/2003, artículo 26",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 47/2003, artículo 26",
+      "addedOptionAnchorId": "ley-47-2003-a26"
     }
   },
   {
@@ -14849,6 +16709,10 @@
       {
         "id": "c",
         "text": "Solo para gastos de personal y nunca para inversiones o contratos"
+      },
+      {
+        "id": "d",
+        "text": "Adquisiciones, obras con pago aplazado y otros compromisos de carácter plurianual."
       }
     ],
     "correctOptionId": "b",
@@ -14858,6 +16722,14 @@
       "anchorId": "ley-47-2003-a47",
       "reference": "Ley 47/2003, artículo 47",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "law-html",
+      "addedOptionReference": "Ley 47/2003, artículo 47",
+      "addedOptionAnchorId": "ley-47-2003-a47"
     }
   },
   {
@@ -14876,6 +16748,10 @@
       {
         "id": "c",
         "text": "Diseños y planos que permitan adaptar los elementos al espacio de representación"
+      },
+      {
+        "id": "d",
+        "text": "Solo una relación de artistas, sin fechas, recursos ni responsables"
       }
     ],
     "correctOptionId": "c",
@@ -14886,6 +16762,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-3634",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-art523-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "ART523_3, Construcción de decorados para la escena",
+      "addedOptionAnchorId": "cncp-art523-3-contenidos"
     }
   },
   {
@@ -14904,6 +16788,10 @@
       {
         "id": "c",
         "text": "Solo la duración de la función, aunque cambien las cargas y la implantación"
+      },
+      {
+        "id": "d",
+        "text": "Diseños y planos que permitan adaptar los elementos al espacio de representación"
       }
     ],
     "correctOptionId": "a",
@@ -14914,6 +16802,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-3634",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-art523-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "ART523_3, Construcción de decorados para la escena",
+      "addedOptionAnchorId": "cncp-art523-3-contenidos"
     }
   },
   {
@@ -14932,6 +16828,10 @@
       {
         "id": "c",
         "text": "Un listado de artistas sin datos de estructuras ni procedimientos"
+      },
+      {
+        "id": "d",
+        "text": "Solo una relación de artistas, sin fechas, recursos ni responsables"
       }
     ],
     "correctOptionId": "b",
@@ -14942,6 +16842,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-3634",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-art524-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
+      "addedOptionAnchorId": "cncp-art524-3-contenidos"
     }
   },
   {
@@ -14960,6 +16868,10 @@
       {
         "id": "c",
         "text": "Distribuir aparatos, líneas, regulación y control conforme al proyecto de iluminación"
+      },
+      {
+        "id": "d",
+        "text": "Únicamente el repertorio, sin información sobre equipos o tiempos de montaje"
       }
     ],
     "correctOptionId": "c",
@@ -14970,6 +16882,14 @@
       "url": "https://www.boe.es/eli/es/o/2019/07/18/pci797",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims075-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS075_3, Luminotecnia para el espectáculo en vivo",
+      "addedOptionAnchorId": "cncp-ims075-3-contenidos"
     }
   },
   {
@@ -14988,6 +16908,10 @@
       {
         "id": "c",
         "text": "Cambiar la frecuencia de muestreo de un micrófono sin intervenir en la iluminación"
+      },
+      {
+        "id": "d",
+        "text": "Distribuir aparatos, líneas, regulación y control conforme al proyecto de iluminación"
       }
     ],
     "correctOptionId": "a",
@@ -14998,6 +16922,14 @@
       "url": "https://www.boe.es/eli/es/o/2019/07/18/pci797",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims075-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS075_3, Luminotecnia para el espectáculo en vivo",
+      "addedOptionAnchorId": "cncp-ims075-3-contenidos"
     }
   },
   {
@@ -15016,6 +16948,10 @@
       {
         "id": "c",
         "text": "Son micrófonos destinados a captar señales de voz durante la función"
+      },
+      {
+        "id": "d",
+        "text": "Estándar técnico para diseñar y ejecutar la iluminación escénica."
       }
     ],
     "correctOptionId": "b",
@@ -15026,6 +16962,14 @@
       "url": "https://www.boe.es/eli/es/o/2019/07/18/pci797",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-ims075-3-contenidos"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "IMS075_3, Luminotecnia para el espectáculo en vivo",
+      "addedOptionAnchorId": "cncp-ims075-3-contenidos"
     }
   },
   {
@@ -15044,6 +16988,10 @@
       {
         "id": "c",
         "text": "Preparar contenidos, configurar efectos y timeline, probar la reproducción y asegurar copias de respaldo"
+      },
+      {
+        "id": "d",
+        "text": "La actualización de 2024 incorpora contenidos de vídeo y software aplicados al espectáculo."
       }
     ],
     "correctOptionId": "c",
@@ -15054,6 +17002,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-20759",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-video-escena-2024"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
+      "addedOptionAnchorId": "cncp-video-escena-2024"
     }
   },
   {
@@ -15072,6 +17028,10 @@
       {
         "id": "c",
         "text": "El contenido de vídeo solo existe como señal analógica y nunca puede gestionarse mediante software"
+      },
+      {
+        "id": "d",
+        "text": "La actualización de 2024 incorpora contenidos de vídeo y software aplicados al espectáculo."
       }
     ],
     "correctOptionId": "a",
@@ -15082,6 +17042,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-20759",
       "file": "sources/cncp-technical.html",
       "anchorId": "cncp-video-escena-2024"
+    },
+    "optionMigration": {
+      "source": "own-three-to-four-source-derived",
+      "migratedAt": "2026-08-01",
+      "addedOptionId": "d",
+      "addedOptionSource": "reference-html",
+      "addedOptionReference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
+      "addedOptionAnchorId": "cncp-video-escena-2024"
     }
   },
   {
