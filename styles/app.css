@@ -627,11 +627,17 @@ html[data-color-theme="light"] .law-reference-body a,
 html[data-color-theme="light"] .feedback a[data-law-id] { color: #9b6400; }
 @media (max-width: 600px) {
   header { display: block; }
-  .app-header { display: flex; align-items: center; gap: 8px; }
-  .header-tools { flex: 1; flex-wrap: wrap; justify-content: flex-end; gap: 8px; margin-top: 0; }
+  .app-header { display: flex; align-items: center; gap: 6px; margin-bottom: 14px; }
+  .header-tools { display: grid; flex: 1; grid-template-columns: minmax(0, 1fr) auto auto; align-items: center; justify-content: end; gap: 6px; min-width: 0; margin-top: 0; }
+  #progress { min-width: 0; overflow: hidden; font-size: .82rem; line-height: 1.1; text-align: right; text-overflow: ellipsis; white-space: nowrap; }
   .app { padding-top: max(16px, env(safe-area-inset-top)); }
-  .app-brand { width: 42px; max-width: 42px; height: 42px; font-size: 1.2rem; line-height: 1; }
+  .app-brand { width: 34px; min-width: 34px; max-width: 34px; height: 34px; min-height: 34px; font-size: .98rem; line-height: 1; }
+  .app-version { font-size: .68rem; }
+  .theme-toggle { min-height: 34px; padding: 5px 9px; font-size: .78rem; line-height: 1; }
+  .guide-button.icon-only { width: 34px; min-width: 34px; height: 34px; min-height: 34px; padding: 0; }
+  .guide-icon { width: 18px; height: 18px; font-size: .9rem; }
   .guide-button, .theme-toggle, .primary, .secondary, .topic-action, .option { min-height: 44px; }
+  .guide-button.icon-only, .theme-toggle { min-height: 34px; }
   .compact-action { min-height: 40px; }
   .story-heading { display: block; }
   .unit-toggle { grid-template-columns: 36px minmax(0, 1fr); padding: 13px; }
