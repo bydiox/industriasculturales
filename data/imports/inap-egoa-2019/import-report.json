@@ -1,0 +1,7 @@
+{
+  "source": "data/imports/inap-egoa-2019",
+  "sourceQuestions": 70,
+  "imported": 70,
+  "skippedExistingIds": [],
+  "skippedDuplicates": []
+}

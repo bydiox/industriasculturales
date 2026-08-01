@@ -1,0 +1,1894 @@
+[
+ {
+  "id": "inap-etgoa-2024-001",
+  "topicId": "comun-01",
+  "prompt": "Señale la afirmación correcta respecto a la elaboración de la Constitución Española de 1978.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Tras las elecciones generales del día 15 de junio de 1977, el Gobierno ejerció la iniciativa constitucional que le otorgaba el artículo 3º de la Ley para la Reforma Política."
+   },
+   {
+    "id": "B",
+    "text": "Tras las elecciones generales del día 15 de junio de 1977, el Congreso ejerció la iniciativa constitucional que le otorgaba el artículo 3º de la Ley para la Reforma Política."
+   },
+   {
+    "id": "C",
+    "text": "Tras las elecciones generales del día 15 de junio de 1977, las Cortes Generales ejercieron la iniciativa constitucional que le otorgaba el artículo 3º de la Ley para la Reforma Política."
+   },
+   {
+    "id": "D",
+    "text": "Tras las elecciones generales del día 15 de junio de 1977, el Presidente del Senado ejerció la iniciativa constitucional que le otorgaba el artículo 3º de la Ley para la Reforma Política."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 1. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 1
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-002",
+  "topicId": "comun-01",
+  "prompt": "En la Constitución Española, las garantías de las libertades y derechos fundamentales se encuentran reguladas en el:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Capítulo II del Título I."
+   },
+   {
+    "id": "B",
+    "text": "Capítulo IV del Título I."
+   },
+   {
+    "id": "C",
+    "text": "Capítulo V del Título I."
+   },
+   {
+    "id": "D",
+    "text": "Capítulo III del Título II."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 2. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 2
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-003",
+  "topicId": "comun-03",
+  "prompt": "El artículo 9.1 de la Constitución Española, establece que los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico. Señale la conclusión que sea cierta a la vista de dicho precepto.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Mientras que los ciudadanos tienen un deber general positivo de realizar cualquier actuación que no vulnere la Constitución, los titulares de los poderes públicos tienen además un deber general negativo de abstenerse de realizar sus funciones de acuerdo con la Constitución."
+   },
+   {
+    "id": "B",
+    "text": "La Constitución es un catálogo de principios de no inmediata vinculación y de no inmediato cumplimiento hasta que sean objeto de desarrollo por vía legal, y a partir de ese momento los Jueces y Magistrados integrantes del poder judicial, están sujetos a ella."
+   },
+   {
+    "id": "C",
+    "text": "La Constitución es una norma suprema y no una mera declaración programática. Se trata, en suma, de una norma cualitativamente distinta de las demás, por cuanto incorpora el sistema de valores esenciales que ha de constituir el orden de convivencia política y de informar todo el ordenamiento jurídico."
+   },
+   {
+    "id": "D",
+    "text": "Todas las normas jurídicas deben interpretarse de conformidad con los preceptos constitucionales de tal forma que, siendo posibles dos interpretaciones de un precepto, una ajustada a la Constitución y la otra no conforme a ella, el juez o tribunal en cada caso concreto, deberá admitir la primera o la segunda."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 3. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 3
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-004",
+  "topicId": "comun-03",
+  "prompt": "Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal. ¿Cuál de las siguientes opciones es correcta de acuerdo con esta afirmación?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se trata de un derecho a que los ciudadanos participen en todos los asuntos públicos, cualquiera que sea su índole y su condición."
+   },
+   {
+    "id": "B",
+    "text": "No se trata de un derecho a que los ciudadanos participen en todos los asuntos públicos. Para participar en los asuntos concretos se requiere un especial llamamiento o una especial competencia si se trata de órganos públicos, o una especial legitimación si se trata de entidades o sujetos de Derecho privado, que la ley puede, en tal caso, organizar."
+   },
+   {
+    "id": "C",
+    "text": "La titularidad del derecho corresponde entre otros, a los partidos políticos, ya que estos son considerados en el artículo 6 de la Constitución Española de 1978 como \"instrumentos fundamentales de la participación política."
+   },
+   {
+    "id": "D",
+    "text": "Los sindicatos son titulares de este derecho apoyándose en el mandato imperativo estipulado en el artículo 67.2 de la Constitución Española de 1978. 1"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 4. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 4
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-005",
+  "topicId": "comun-01",
+  "prompt": "¿Cuál de las siguientes afirmaciones sobre el ejercicio del derecho de petición es correcta de acuerdo con lo establecido en la Ley Orgánica 4/2001, de 12 de noviembre, reguladora del Derecho de Petición.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Puede ser ejercido tanto por personas naturales como jurídicas, prescindiendo de su nacionalidad, de forma individual o colectiva. Cuando resulte procedente, la declaración de inadmisibilidad deberá acordarse y notificarse al peticionario en los cuarenta y cinco días hábiles siguientes"
+   },
+   {
+    "id": "B",
+    "text": "Puede ser ejercido solamente por personas físicas y de forma individual. Siempre que la declaración de inadmisibilidad de una petición se base en la falta de competencia de su destinatario, éste la remitirá a la institución, administración u organismo que estime competente en el plazo de veinte días y lo comunicará así al peticionario."
+   },
+   {
+    "id": "C",
+    "text": "Puede ser ejercido únicamente por personas físicas, independientemente de su nacionalidad, tanto de manera individual como colectiva, y en ese último caso basta con que aparezca únicamente la firma de la persona que la presenta, siempre que se acredite la representación conferida por el resto de peticionarios."
+   },
+   {
+    "id": "D",
+    "text": "Los peticionarios no podrán exigir la confidencialidad de sus datos. La declaración de inadmisibilidad será siempre motivada y deberá acordarse y notificarse al peticionario dentro de los treinta días hábiles siguientes a su presentación."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 5. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 5
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-006",
+  "topicId": "comun-04",
+  "prompt": "La Constitución Española, a lo largo de su articulado, establece una serie de cargos que deben ser nombrados por el Rey, entre los cuales NO se encuentra el de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Presidenta del Consejo de Estado."
+   },
+   {
+    "id": "B",
+    "text": "Los miembros del Consejo General del Poder Judicial."
+   },
+   {
+    "id": "C",
+    "text": "El Presidente del Tribunal Supremo."
+   },
+   {
+    "id": "D",
+    "text": "El Fiscal General del Estado."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 6. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 6
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-007",
+  "topicId": "comun-04",
+  "prompt": "Señale la opción correcta en relación con la potestad reglamentaria del Gobierno de la Nación, de acuerdo con lo previsto en la Ley 50/1997, de 27 de noviembre, del Gobierno.",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Gobierno aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas que vayan a ser elevadas para su aprobación en el año siguiente, sin incluir las iniciativas reglamentarias."
+   },
+   {
+    "id": "B",
+    "text": "De acuerdo con lo dispuesto en los artículos 4 y 5 de la Ley 50/1997, del Gobierno, corresponde a los titulares de los Departamentos Ministeriales aprobar los reglamentos para el desarrollo y la ejecución de las leyes, previo dictamen del Consejo de Estado."
+   },
+   {
+    "id": "C",
+    "text": "En la elaboración de un reglamento de carácter presupuestario de la Administración General del Estado podrá prescindirse del trámite de consulta pública, cuando la propuesta normativa no tenga un impacto significativo en la actividad económica, debiendo justificarse en la Memoria del Análisis de Impacto Normativo."
+   },
+   {
+    "id": "D",
+    "text": "De acuerdo con lo dispuesto en el artículo 23.1 de la Ley 50/1997, del Gobierno, cuando no concurran circunstancias excepcionales, una disposición reglamentaria aprobada por Orden Ministerial, que imponga nuevas obligaciones a las personas físicas que desempeñen una actividad profesional como consecuencia del ejercicio de esta, entrará en vigor a los veinte días de su publicación en el Boletín Oficial del Estado."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 7. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 7
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-008",
+  "topicId": "comun-08",
+  "prompt": "Señale cuál de las siguientes disposiciones reglamentarias resulta ajustada a derecho:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Una disposición reglamentaria aprobada por Real Decreto que contravenga lo dispuesto en una disposición reglamentaria aprobada anteriormente mediante Orden Ministerial, regulando ambas la misma materia."
+   },
+   {
+    "id": "B",
+    "text": "Una disposición reglamentaria que, a falta de norma con rango de ley, regule directamente el ejercicio del derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo recogido en el artículo 37.2 de la Constitución Española."
+   },
+   {
+    "id": "C",
+    "text": "Una disposición reglamentaria de desarrollo que altere la naturaleza o límites de las sanciones previstas en una ley, por la comisión de una infracción administrativa."
+   },
+   {
+    "id": "D",
+    "text": "Una disposición reglamentaria que establezca la retroactividad de una disposición sancionadora no favorable. 2"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 8. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 8
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-009",
+  "topicId": "comun-08",
+  "prompt": "El artículo 1 del Real Decreto 1/2024, de 9 de enero, enumera las Comisiones Delegadas del Gobierno, entre las cuales NO se encuentra:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Comisión Delegada del Gobierno para Asuntos Económicos."
+   },
+   {
+    "id": "B",
+    "text": "Comisión Delegada del Gobierno para Asuntos de Inteligencia."
+   },
+   {
+    "id": "C",
+    "text": "Comisión Delegada del Gobierno para la Agenda 2030."
+   },
+   {
+    "id": "D",
+    "text": "Comisión Delegada del Gobierno para la Transición Ecológica."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 9. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 9
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-010",
+  "topicId": "comun-08",
+  "prompt": "De acuerdo con lo establecido en la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, señale la afirmación correcta respecto de los Delegados del Gobierno en las Comunidades Autónomas.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las impugnaciones de las resoluciones y actos del Delegado del Gobierno susceptibles de recurso administrativo y que no pongan fin a la vía administrativa, serán resueltas por los órganos correspondientes del Ministerio competente por razón de la materia."
+   },
+   {
+    "id": "B",
+    "text": "Los Delegados del Gobierno serán nombrados y separados por Real Decreto del Presidente del Gobierno. En caso de ausencia, vacante o enfermedad del titular de la Delegación del Gobierno de una Comunidad Autónoma pluriprovincial, será suplido por el Subdelegado del Gobierno de la provincia en que tenga su sede y en defecto de aquél por el Subdelegado de la provincia con mayor población de la Comunidad Autónoma."
+   },
+   {
+    "id": "C",
+    "text": "Las impugnaciones de resoluciones y actos del Delegado del Gobierno susceptibles de recurso administrativo y que no pongan fin a la vía administrativa, serán resueltas en todo caso por el Ministro de Política Territorial y Memoria Democrática, al depender orgánicamente de dicho Ministerio."
+   },
+   {
+    "id": "D",
+    "text": "Los Delegados del Gobierno serán nombrados y separados por Real Decreto del Presidente del Gobierno. En caso de ausencia, vacante o enfermedad del titular de la Delegación del Gobierno de una Comunidad Autónoma pluriprovincial, será suplido por el Subdelegado del Gobierno de la provincia en que tenga su sede y en defecto de aquél por el Secretario General de la Delegación del Gobierno."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 10. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 10
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-011",
+  "topicId": "comun-09",
+  "prompt": "De acuerdo con lo establecido en el artículo 63 de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, ¿cuál de las siguientes es competencia de la persona titular de la Subsecretaría de un Ministerio?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Ejercer la potestad disciplinaria del personal del Departamento por faltas leves."
+   },
+   {
+    "id": "B",
+    "text": "Aprobar las propuestas de los estados de gastos del Ministerio."
+   },
+   {
+    "id": "C",
+    "text": "Proponer las medidas de organización del Ministerio."
+   },
+   {
+    "id": "D",
+    "text": "Otorgar premios y recompensas propios del Departamento."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 11. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 11
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-012",
+  "topicId": "comun-09",
+  "prompt": "Señale la respuesta correcta respecto de los municipios, de acuerdo con lo establecido en el Título II de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local.",
+  "options": [
+   {
+    "id": "A",
+    "text": "Todos los Municipios, independiente de su población, deben prestar el servicio de atención inmediata a personas en situación o riesgo de exclusión social."
+   },
+   {
+    "id": "B",
+    "text": "La Junta de Gobierno Local existe en todos los ayuntamientos."
+   },
+   {
+    "id": "C",
+    "text": "Son elementos del Municipio el territorio, la población y la organización."
+   },
+   {
+    "id": "D",
+    "text": "En un ayuntamiento con un total de 27 concejales, la Junta de Gobierno Local podrá estar compuesta por un máximo de 12 concejales."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 12. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 12
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-013",
+  "topicId": "comun-09",
+  "prompt": "¿Cuál de las siguientes competencias podrá ser asumida por las Comunidades Autónomas según lo dispuesto en el artículo 148.1 de la Constitución Española?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La acuicultura."
+   },
+   {
+    "id": "B",
+    "text": "Iluminación de costas y señales marítimas."
+   },
+   {
+    "id": "C",
+    "text": "Administración de Justicia."
+   },
+   {
+    "id": "D",
+    "text": "Fomento y coordinación general de la investigación científica y técnica. 3"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 13. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 13
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-014",
+  "topicId": "comun-09",
+  "prompt": "De acuerdo con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de las siguientes afirmaciones sobre la iniciación, ordenación e instrucción de los procedimientos administrativos es correcta?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se entenderá por declaración responsable aquel documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho."
+   },
+   {
+    "id": "B",
+    "text": "Tanto las declaraciones responsables como las comunicaciones permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación. No obstante, las comunicaciones podrán presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente."
+   },
+   {
+    "id": "C",
+    "text": "En el despacho de los expedientes se guardará en todo caso orden riguroso de incoación. Cualquier orden o actuación en contrario podrá dar lugar a responsabilidad disciplinaria."
+   },
+   {
+    "id": "D",
+    "text": "En ningún caso podrá prescindirse del trámite de audiencia, puesto que, al ser un trámite esencial en todo procedimiento administrativo, su omisión determinará en todo caso la invalidez del acto administrativo que se dicte."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 14. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 14
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-015",
+  "topicId": "comun-09",
+  "prompt": "En relación con el ámbito de aplicación del texto refundido del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto 5/2015 (TRLEBEP), señale la respuesta INCORRECTA:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El personal funcionario de las entidades locales se rige por la legislación estatal que resulte de aplicación, de la que forma parte el TRLEBEP y por la legislación de las comunidades autónomas, con respeto a la autonomía local."
+   },
+   {
+    "id": "B",
+    "text": "A Jueces, Magistrados, Fiscales y demás personal funcionario al servicio de la Administración de Justicia, se les aplicará directamente las disposiciones del TRLEBEP, en cualquier caso."
+   },
+   {
+    "id": "C",
+    "text": "El personal docente y el personal estatutario de los Servicios de Salud se regirán por la legislación específica dictada por el Estado y por las comunidades autónomas en el ámbito de sus respectivas competencias y por lo previsto en el TRLEBEP, excepto el capítulo II del título III, salvo el artículo 20, y los artículos 22.3, 24 y 84."
+   },
+   {
+    "id": "D",
+    "text": "Los Cuerpos de Policía Local se rigen también por TRLEBEP y por la legislación de las comunidades autónomas, excepto en lo establecido para ellos en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 15. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 15
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-016",
+  "topicId": "comun-10",
+  "prompt": "De acuerdo con el texto refundido de la Ley del Estatuto básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre (TRLEBEP). Señale la afirmación correcta:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La condición de personal eventual podrá constituir mérito para el acceso a la Función Pública o para la promoción interna, siempre que así lo disponga la convocatoria del proceso selectivo correspondiente."
+   },
+   {
+    "id": "B",
+    "text": "El número máximo de personal eventual del que se podrá disponer se establecerá por los respectivos órganos directivos de las diferentes administraciones públicas."
+   },
+   {
+    "id": "C",
+    "text": "El personal funcionario interino nombrado por la modalidad a) del art. 10 del TRLEBEP, excepcionalmente, podrá permanecer en la plaza que ocupe temporalmente, por más de tres años, siempre que se haya publicado la correspondiente convocatoria dentro del plazo de los tres años, a contar desde la fecha del nombramiento del funcionario interino y sea resuelta conforme a los plazos establecidos en el artículo 70 del TREBEP. En este supuesto podrá permanecer hasta la resolución de la convocatoria, y su cese dará lugar a compensación económica."
+   },
+   {
+    "id": "D",
+    "text": "Los procedimientos de selección del personal laboral serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito y capacidad. En el caso del personal laboral temporal se regirá igualmente por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia. 4"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 16. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 16
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-017",
+  "topicId": "comun-10",
+  "prompt": "Señale la respuesta correcta de acuerdo con lo regulado en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+  "options": [
+   {
+    "id": "A",
+    "text": "La cuantía límite del procedimiento abierto simplificado en los contratos de suministro es de 143.000 euros."
+   },
+   {
+    "id": "B",
+    "text": "El límite económico del contrato menor de obras es de 15.000 euros."
+   },
+   {
+    "id": "C",
+    "text": "El valor estimado de un contrato de servicios incluye el importe total con IVA."
+   },
+   {
+    "id": "D",
+    "text": "La duración de los contratos menores será de un año con posibilidad de prórroga de otro año."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 17. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 17
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-018",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo con lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, ¿cuál de los siguientes contratos tiene carácter administrativo?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un contrato celebrado por el Ministerio de Trabajo y Economía Social que tenga por objeto la contratación de servicios financieros, en concreto, servicios bancarios y de inversión (con número de referencia CPV de 66100000-1)."
+   },
+   {
+    "id": "B",
+    "text": "Un contrato celebrado por una Mutua colaboradora de la Seguridad Social que tenga por objeto la adquisición de cien ordenadores."
+   },
+   {
+    "id": "C",
+    "text": "Un contrato celebrado por la Diputación Foral de Álava que tenga por objeto la suscripción a una base de datos."
+   },
+   {
+    "id": "D",
+    "text": "Un contrato celebrado por la Autoridad Independiente de Responsabilidad Fiscal (AIReF), que tenga por objeto la adquisición de un programa de ordenador desarrollado a medida."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 18. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 18
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-019",
+  "topicId": "especifico-44",
+  "prompt": "Señale la opción correcta en relación con la elaboración de los Presupuestos Generales del Estado, de acuerdo con lo dispuesto en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera y en la Ley 47/2003, de 26 de noviembre, General Presupuestaria:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Corresponde al Ministerio de Hacienda calcular la tasa de referencia de crecimiento del Producto Interior Bruto de medio plazo de la economía española (regla de gasto), de acuerdo con la metodología utilizada por la Comisión Europea en aplicación de su normativa."
+   },
+   {
+    "id": "B",
+    "text": "El Gobierno aprobará, mediante acuerdo del Consejo de Ministros, los objetivos de estabilidad presupuestaria y de deuda pública, a propuesta de la persona titular del Ministerio de Hacienda."
+   },
+   {
+    "id": "C",
+    "text": "El Estado aprobará un límite máximo de gasto no financiero, que marcará el techo de asignación de recursos de sus Presupuestos."
+   },
+   {
+    "id": "D",
+    "text": "El procedimiento por el cual se regirá la elaboración de los Presupuestos Generales del Estado se establecerá por Acuerdo del Consejo de Ministros, a propuesta de la Ministra de Hacienda."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 19. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 19
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-020",
+  "topicId": "especifico-44",
+  "prompt": "Señale la opción correcta en relación con la estructura de los estados de gastos de los Presupuestos Generales del Estado, de acuerdo con lo dispuesto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La clasificación orgánica agrupará los créditos por capítulos separando las operaciones corrientes, las de capital, las financieras y el Fondo de Contingencia de ejecución presupuestaria."
+   },
+   {
+    "id": "B",
+    "text": "La clasificación por programas agrupará por secciones y servicios los créditos asignados a los distintos centros gestores de gasto."
+   },
+   {
+    "id": "C",
+    "text": "La clasificación económica agrupará los créditos por capítulos. Los capítulos se desglosarán en artículos y estos, a su vez, en conceptos que podrán dividirse en subconceptos."
+   },
+   {
+    "id": "D",
+    "text": "Constituye un programa de gasto del presupuesto anual cada una de las asignaciones individualizadas de gasto, puestas a disposición de los centros gestores para la cobertura de las necesidades para las que hayan sido aprobados. 5"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 20. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 20
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-021",
+  "topicId": "comun-05",
+  "prompt": "¿Cuál de las siguientes afirmaciones sobre el control jurisdiccional de la actividad administrativa es cierta?:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Cuando la Administración no ejecute sus actos firmes los afectados podrán solicitar su ejecución, y si ésta no se produce en el plazo de dos meses desde tal petición, los solicitantes podrán formular recurso contencioso-administrativo, que se tramitará por el procedimiento ordinario."
+   },
+   {
+    "id": "B",
+    "text": "En los litigios entre Administraciones públicas no cabrá interponer recurso en vía administrativa. No obstante, cuando una Administración interponga recurso contencioso-administrativo contra otra, podrá requerirla previamente para que derogue la disposición, anule o revoque el acto, haga cesar o modifique la actuación material, o inicie la actividad a que esté obligada."
+   },
+   {
+    "id": "C",
+    "text": "Cualquier ciudadano podrá recabar la tutela de la objeción de conciencia ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad ante el Tribunal Constitucional."
+   },
+   {
+    "id": "D",
+    "text": "Ningún acto adoptado por el Congreso de los Diputados o por el Senado puede ser susceptible de control por la jurisdicción contencioso-administrativa, quedando únicamente expedito el recurso procedente ante el Tribunal Constitucional."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 21. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 21
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-022",
+  "topicId": "comun-05",
+  "prompt": "Según el artículo 4 del Tratado de Funcionamiento de la Unión Europea, ¿cuál de las siguientes es una competencia compartida entre la Unión y los Estados miembros?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El mercado interior."
+   },
+   {
+    "id": "B",
+    "text": "El establecimiento de las normas sobre competencia necesarias para el funcionamiento del mercado interior."
+   },
+   {
+    "id": "C",
+    "text": "La cooperación administrativa."
+   },
+   {
+    "id": "D",
+    "text": "La protección y mejora de la salud humana."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 22. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 22
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-023",
+  "topicId": "comun-05",
+  "prompt": "El Tratado de la Unión Europea recoge en su artículo 49 el procedimiento de adhesión y en su artículo 50 el procedimiento de retirada. ¿Cuál de las siguientes afirmaciones sobre dichos procedimientos es cierta?",
+  "options": [
+   {
+    "id": "A",
+    "text": "En el procedimiento de adhesión, el Estado solicitante dirigirá su solicitud al Consejo. En el procedimiento de retirada, el Estado miembro que decida retirarse notificará su intención al Consejo Europeo."
+   },
+   {
+    "id": "B",
+    "text": "En el procedimiento de adhesión, el Estado solicitante dirigirá su solicitud al Consejo Europeo. La retirada se articulará a través de un Tratado celebrado por el Consejo Europeo, a propuesta del Consejo."
+   },
+   {
+    "id": "C",
+    "text": "En el procedimiento de retirada, el Estado miembro que decida retirarse notificará su intención al Parlamento Europeo. Si el Estado miembro que se ha retirado de la Unión solicita de nuevo la adhesión, su solicitud se dirigirá al Consejo Europeo, quien decidirá a través de un procedimiento abreviado."
+   },
+   {
+    "id": "D",
+    "text": "En el procedimiento de retirada, el Estado miembro que decida retirarse notificará su intención a la Comisión. Si el Estado miembro que se ha retirado de la Unión solicita de nuevo la adhesión, su solicitud se dirigirá al Consejo Europeo, quien decidirá a través de un procedimiento abreviado, oída la Comisión."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 23. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 23
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-024",
+  "topicId": "comun-06",
+  "prompt": "De acuerdo con lo establecido en el Tratado de Funcionamiento de la Unión Europea, ¿cuál de las siguientes afirmaciones sobre el Consejo Europeo es correcta?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se pronunciará por mayoría cualificada en las cuestiones de procedimiento y para la aprobación de su reglamento interno. Cuando adopte decisiones sobre una decisión relativa a la presidencia del Consejo de Asuntos Exteriores se pronunciará por unanimidad."
+   },
+   {
+    "id": "B",
+    "text": "Se pronunciará por unanimidad en las cuestiones de procedimiento y para la aprobación de su reglamento interno, así como cuando adopte decisiones sobre una decisión relativa a la presidencia de las formaciones del Consejo."
+   },
+   {
+    "id": "C",
+    "text": "El Presidente del Consejo Europeo y el Presidente de la Comisión no participarán en las votaciones del Consejo Europeo cuando éste se pronuncie por votación."
+   },
+   {
+    "id": "D",
+    "text": "El Presidente del Consejo Europeo y el Presidente de la Comisión participarán en las votaciones del Consejo Europeo cuando éste se pronuncie por votación, al ser miembros natos de dicho órgano. 6"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 24. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 24
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-025",
+  "topicId": "comun-06",
+  "prompt": "Señale la respuesta correcta respecto de lo establecido en el Tratado de Funcionamiento de la Unión Europea para el Tribunal de Justicia de la Unión Europea.",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Tribunal de Justicia estará asistido por ocho abogados generales. Si el Tribunal de Justicia lo solicitare, el Consejo, por unanimidad, podrá aumentar el número de abogados generales."
+   },
+   {
+    "id": "B",
+    "text": "El Tribunal de Justicia estará asistido por doce abogados generales. Si el Tribunal de Justicia lo solicitare, previo informe de la Comisión, el Consejo, por mayoría cualificada podrá aumentar el número de abogados generales."
+   },
+   {
+    "id": "C",
+    "text": "Cada cuatro años tendrá lugar una renovación parcial de los jueces y abogados generales. Los jueces y los abogados generales salientes no podrán ser nuevamente designados."
+   },
+   {
+    "id": "D",
+    "text": "Los jueces elegirán de entre ellos al Presidente del Tribunal de Justicia por un período de seis años, no siendo renovable dicho mandato."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 25. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 25
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-026",
+  "topicId": "comun-07",
+  "prompt": "De conformidad con lo establecido en el Tratado de Funcionamiento de la Unión Europea, un acto legislativo podrá delegar en la Comisión los poderes para adoptar actos no legislativos de alcance general que completen o modifiquen determinados elementos no esenciales del acto legislativo con las siguientes características:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Consejo Europeo delimitará con carácter previo y de forma expresa los objetivos, el contenido, el alcance y la duración de la delegación de poderes."
+   },
+   {
+    "id": "B",
+    "text": "No se podrá revocar la delegación mientras se mantenga la duración inicialmente prevista."
+   },
+   {
+    "id": "C",
+    "text": "Se puede establecer en la delegación que el acto delegado adoptado por la Comisión solo pueda entrar en vigor si no se formulan objeciones por parte del Consejo o del Parlamento Europeo, dentro de un plazo establecido."
+   },
+   {
+    "id": "D",
+    "text": "El acto delegado puede modificar los elementos esenciales del acto legislativo siempre que lo autoricen el Parlamento Europeo por mayoría de los miembros que lo componen y el Consejo por mayoría cualificada."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 26. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 26
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-028",
+  "topicId": "comun-07",
+  "prompt": "En el contexto de la Política Comercial Común de la Unión Europea, en caso de que sea necesario negociar y celebrar acuerdos con uno o más terceros países u organizaciones internacionales, ¿cuál de las siguientes afirmaciones es correcta?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Con carácter previo, el Parlamento Europeo autorizará a la Comisión a iniciar las negociaciones."
+   },
+   {
+    "id": "B",
+    "text": "La Comisión llevará a cabo las negociaciones en consulta con un comité especial designado por el Consejo para asistirla en dicha tarea."
+   },
+   {
+    "id": "C",
+    "text": "El Parlamento Europeo puede negociar directamente los acuerdos comerciales con terceros países, sin necesidad de la participación de la Comisión Europea."
+   },
+   {
+    "id": "D",
+    "text": "El Consejo de la Unión Europea puede adoptar unilateralmente una posición negociadora en los acuerdos comerciales con terceros países, sin necesidad de que la Comisión Europea inicie formalmente las negociaciones. 7"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 28. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 28
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-029",
+  "topicId": "comun-11",
+  "prompt": "¿Cuál de las siguientes afirmaciones sobre la libre circulación de capitales en la Unión Europea es correcta de acuerdo con la legislación comunitaria?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los Estados miembros adoptarán medidas relativas a los movimientos de capitales, con destino a terceros países o procedentes de ellos, que supongan inversiones directas, excluyendo las inversiones en instrumentos financieros y mercados de valores."
+   },
+   {
+    "id": "B",
+    "text": "Los Estados miembros tienen derecho a aplicar las disposiciones pertinentes de su Derecho fiscal que distingan entre contribuyentes cuya situación difiera con respecto a su lugar de residencia o con respecto a los lugares donde esté invertido su capital."
+   },
+   {
+    "id": "C",
+    "text": "El Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo ordinario, pueden adoptar medidas que impliquen un retroceso en la liberalización de los movimientos de capitales con terceros países."
+   },
+   {
+    "id": "D",
+    "text": "La libre circulación de capitales solo se refiere a la transferencia de fondos entre entidades empresariales y no se aplica a las operaciones inmobiliarias, las cuales están sujetas a la libertad de establecimiento."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 29. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 29
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-030",
+  "topicId": "comun-11",
+  "prompt": "Según el artículo 59 del Tratado de Funcionamiento de la Unión Europea, a efectos de alcanzar la liberalización de un servicio determinado, las Directivas que se dicten, se referirán, en general, con prioridad, a los servicios que:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Influyan de forma directa en los costes de producción."
+   },
+   {
+    "id": "B",
+    "text": "Tengan un impacto directo en el medio ambiente."
+   },
+   {
+    "id": "C",
+    "text": "Sean considerados de interés general para la población"
+   },
+   {
+    "id": "D",
+    "text": "Carezcan de regulación previa en el ámbito europeo."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 30. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 30
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-031",
+  "topicId": "comun-12",
+  "prompt": "¿Desde cuándo forma parte de las políticas de la Unión la cooperación en los ámbitos de la justicia y de los asuntos de interior?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Desde el Acta Única Europea."
+   },
+   {
+    "id": "B",
+    "text": "Desde el Tratado de Maastricht."
+   },
+   {
+    "id": "C",
+    "text": "Desde el Tratado de Lisboa."
+   },
+   {
+    "id": "D",
+    "text": "Desde el Tratado de Fusión de ejecutivos."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 31. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 31
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-032",
+  "topicId": "comun-12",
+  "prompt": "Señale la respuesta que contenga los cuatro fondos que contribuyen a las acciones de la Unión encaminadas a reforzar su cohesión económica, social y territorial de acuerdo con lo indicado en el artículo 5.2 del Reglamento UE 2021/1060, de 24 de junio por el que se establecen las disposiciones comunes relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo Plus, al Fondo de Cohesión, al Fondo de Transición Justa y al Fondo Europeo Marítimo, de Pesca y de Acuicultura, así como las normas financieras para dichos Fondos y para el Fondo de Asilo, Migración e Integración, el Fondo de Seguridad Interior y el Instrumento de Apoyo Financiero a la Gestión de Fronteras y la Política de Visados.",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Fondo de Cohesión (FC), el Fondo Europeo de Desarrollo Regional (FEDER), el Fondo Social Europeo Plus (FSE+) y el Fondo de Transición Justa (FTJ)."
+   },
+   {
+    "id": "B",
+    "text": "El Fondo de Cohesión (FC), el Fondo Europeo de Desarrollo Regional (FEDER), el Fondo Europeo Marítimo de Pesca y Acuicultura (FEMPA) y el Fondo de Asilo, Migración e Integración (FAMI)."
+   },
+   {
+    "id": "C",
+    "text": "El Fondo de Cohesión (FC), el Fondo Social Europeo Plus (FSE+), el Fondo de Asilo, Migración e Integración (FAMI) y el Fondo de Seguridad Interior (FSI)."
+   },
+   {
+    "id": "D",
+    "text": "El Fondo de Cohesión (FC), el Fondo de Transición Justa (FTJ), el Fondo Europeo Marítimo de Pesca y Acuicultura (FEMPA) y el Fondo de Asilo, Migración e Integración (FAMI)."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 32. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 32
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-033",
+  "topicId": "comun-13",
+  "prompt": "Uno de los compromisos del IV Plan de Gobierno Abierto es la protección de los denunciantes que informen sobre corrupción o fraudes y violaciones de las leyes. ¿A cuál de los ejes de dicho plan pertenece el citado compromiso?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Transparencia y Rendición de Cuentas."
+   },
+   {
+    "id": "B",
+    "text": "Participación."
+   },
+   {
+    "id": "C",
+    "text": "Integridad."
+   },
+   {
+    "id": "D",
+    "text": "Sensibilización y Formación. 8"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 33. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 33
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-034",
+  "topicId": "comun-14",
+  "prompt": "Señale la afirmación correcta sobre la política monetaria en el ámbito de la Unión Europea, considerando lo establecido en el Tratado de Funcionamiento de la Unión Europea.",
+  "options": [
+   {
+    "id": "A",
+    "text": "La política monetaria es una competencia compartida entre la Unión Europea y los países de la zona Euro, cuyo objetivo primordial es el establecimiento de una economía de mercado abierta. La Comisión, sobre la base de una recomendación del Banco Central Europeo, elaborará un proyecto de orientaciones generales para las políticas económicas de los Estados miembros y de la Unión y presentará un informe al respecto al Parlamento."
+   },
+   {
+    "id": "B",
+    "text": "La política monetaria es una competencia exclusiva de la Unión Europea, cuyo objetivo primordial es la estabilidad de precios. El Consejo, sobre la base de una recomendación de la Comisión, elaborará un proyecto de orientaciones generales para las políticas económicas de los Estados miembros y de la Unión y presentará un informe al respecto al Consejo Europeo."
+   },
+   {
+    "id": "C",
+    "text": "El objetivo primordial de la política monetaria es la estabilidad de los mercados. La Comisión, elaborará un proyecto de orientaciones generales para las políticas económicas de los Estados miembros y de la Unión y presentará un informe al respecto al Consejo."
+   },
+   {
+    "id": "D",
+    "text": "El objetivo primordial de la política monetaria es el establecimiento de una economía de mercado abierta. El Consejo Europeo, sobre la base de una recomendación del Banco Central Europeo, adoptará una decisión mediante el procedimiento legislativo especial, que contenga las orientaciones generales para las políticas económicas de los Estados miembros y de la Unión."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 34. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 34
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-035",
+  "topicId": "comun-15",
+  "prompt": "De acuerdo con lo dispuesto en el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, el área personalizada a través de la cual cada interesado, mediante procedimientos seguros que garanticen la integridad y confidencialidad de sus datos personales, podrá acceder a su información, al seguimiento de los trámites administrativos que le afecten y a las notificaciones y comunicaciones en el ámbito de la Administración Pública competente, es:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Punto de Acceso General (PAGe)."
+   },
+   {
+    "id": "B",
+    "text": "La Red SARA."
+   },
+   {
+    "id": "C",
+    "text": "La Carpeta Ciudadana."
+   },
+   {
+    "id": "D",
+    "text": "La Dirección Electrónica Habilitada Única (DEHú)."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 35. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 35
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-036",
+  "topicId": "comun-09",
+  "prompt": "De acuerdo con lo dispuesto en los artículos 48 a 51 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, ¿cuál de las siguientes afirmaciones sobre el expediente administrativo electrónico y los documentos que lo conforman es INCORRECTA?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Todos los documentos administrativos electrónicos deberán llevar asociada una referencia temporal, la cual se realizará mediante marca de tiempo o mediante sello electrónico cualificado de tiempo."
+   },
+   {
+    "id": "B",
+    "text": "Un mismo documento electrónico no podrá formar parte de distintos expedientes administrativos, debiendo por tanto generarse una copia auténtica. El índice electrónico autenticado del expediente administrativo electrónico donde figure dicho documento será firmado por personal funcionario habilitado inscrito en el Registro de Funcionarios Habilitados de la Administración General del Estado."
+   },
+   {
+    "id": "C",
+    "text": "En el ámbito estatal, serán competentes para la expedición de copias auténticas de documentos públicos administrativos o documentos privados, que sean documentos originales o copias auténticas de documento original, los órganos a los que corresponda la custodia y archivo de documentos."
+   },
+   {
+    "id": "D",
+    "text": "La expedición de copias auténticas de documentos públicos administrativos o documentos privados, que sean documentos originales o copias auténticas de documento original, podrá llevarse a cabo mediante actuación administrativa automatizada o por personal funcionario habilitado inscrito en el Registro de Funcionarios Habilitados de la Administración General del Estado. 9"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 36. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 36
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-037",
+  "topicId": "comun-10",
+  "prompt": "El artículo 14 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno permite limitar el derecho al acceso a la información, en determinados supuestos, entre los cuales NO se encuentra:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Cuando suponga un perjuicio para la protección del medio ambiente."
+   },
+   {
+    "id": "B",
+    "text": "Cuando suponga un perjuicio para la igualdad de las partes en los procesos judiciales."
+   },
+   {
+    "id": "C",
+    "text": "Cuando suponga un perjuicio para la garantía de la confidencialidad o el secreto requerido en procesos de toma de decisión."
+   },
+   {
+    "id": "D",
+    "text": "Cuando suponga un perjuicio para la protección de la salud."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 37. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 37
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-038",
+  "topicId": "comun-05",
+  "prompt": "¿Cuál de las siguientes afirmaciones sobre el régimen de impugnaciones de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, es correcta?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las resoluciones del Consejo de Transparencia y Buen Gobierno se publicarán, previa disociación de los datos de carácter personal que contuvieran, por medios electrónicos y en los términos en que se establezca reglamentariamente, una vez se hayan notificado a los interesados. El Presidente del Consejo de Transparencia y Buen Gobierno comunicará al Defensor del Pueblo las resoluciones que dicte sobre las reclamaciones en materia de acceso."
+   },
+   {
+    "id": "B",
+    "text": "Cuando la denegación del acceso a la información se fundamente en la protección de derechos o intereses de terceros se dictará propuesta de resolución, que les será comunicada a efectos de alegar lo que mejor convenga a sus intereses dentro de un plazo no inferior a diez días hábiles."
+   },
+   {
+    "id": "C",
+    "text": "Contra las resoluciones de las corporaciones de Derecho Público, en lo relativo a sus actividades sujetas a Derecho Administrativo, únicamente cabrá interponer recurso contencioso-administrativo."
+   },
+   {
+    "id": "D",
+    "text": "Las Comunidades Autónomas podrán atribuir la competencia para la resolución de la reclamación en materia de acceso a la información pública al Consejo de Transparencia y Buen Gobierno mediante la correspondiente encomienda de gestión, que habrá de ser publicada, al menos, en el Boletín Oficial de la Comunidad Autónoma."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 38. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 38
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-039",
+  "topicId": "especifico-44",
+  "prompt": "El Reglamento UE 2016/679 de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos recoge:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Cuando el tratamiento de los datos personal se base en el consentimiento del interesado, el encargado del tratamiento deberá ser capaz de demostrar que aquel consintió el tratamiento de sus datos personales."
+   },
+   {
+    "id": "B",
+    "text": "Una de las condiciones para que el tratamiento de los datos personales sea lícito, es que el interesado haya dado su consentimiento para el tratamiento de sus datos personales para uno o varios fines específicos."
+   },
+   {
+    "id": "C",
+    "text": "Queda prohibido el tratamiento de datos personales que revelen el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, o la afiliación sindical, y el tratamiento de datos genéticos, datos biométricos dirigidos a identificar de manera unívoca a una persona física, datos relativos a la salud o datos relativos a la vida sexual o la orientación sexual de una persona física, salvo que el interesado dé su consentimiento tácito o expreso para el tratamiento de dichos datos personales con uno o más de los fines especificados."
+   },
+   {
+    "id": "D",
+    "text": "Cada responsable y, en su caso, su representante, deberán presentar ante la autoridad competente en cada Estado, un registro de las actividades de tratamiento efectuadas bajo su responsabilidad, antes de iniciar el tratamiento."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 39. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 39
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-040",
+  "topicId": "especifico-44",
+  "prompt": "De acuerdo con los datos del Boletín Estadístico del personal al servicio de las Administraciones Públicas, actualizados al mes de enero de 2024, ¿en qué porcentaje se sitúa actualmente la presencia de las mujeres dentro del empleo público en España?",
+  "options": [
+   {
+    "id": "A",
+    "text": "44%"
+   },
+   {
+    "id": "B",
+    "text": "52%"
+   },
+   {
+    "id": "C",
+    "text": "59%"
+   },
+   {
+    "id": "D",
+    "text": "65% 10"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 40. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 40
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-041",
+  "topicId": "comun-11",
+  "prompt": "Según lo dispuesto en el artículo 8 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la discriminación por embarazo o maternidad se considera:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Discriminación directa por razón de sexo."
+   },
+   {
+    "id": "B",
+    "text": "Discriminación indirecta por razón de sexo."
+   },
+   {
+    "id": "C",
+    "text": "Acoso por razón de sexo."
+   },
+   {
+    "id": "D",
+    "text": "Trato discriminatorio."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 41. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 41
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-042",
+  "topicId": "comun-11",
+  "prompt": "El artículo 2 de la Ley 27/2022, de 20 de diciembre, de institucionalización de la evaluación de las políticas públicas en la Administración General del Estado, contempla a efectos de dicha ley, una serie de definiciones. ¿Cuál de las que a continuación se muestran es correcta?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Política pública: Es el conjunto coherente de técnicas, instrumentos y herramientas cuantitativas y cualitativas que se siguen en el proceso de evaluación de una política pública para realizar los análisis necesarios y obtener evidencias que apoyen la construcción de conclusiones y recomendaciones."
+   },
+   {
+    "id": "B",
+    "text": "Objeto de evaluación: Es el conjunto de actuaciones dirigidas a la satisfacción del interés general o a la solución de un problema o necesidad públicos, en cualquiera de sus formas de despliegue en normas, estrategias, planes, programas, medidas, o cualquier otra denominación equivalente."
+   },
+   {
+    "id": "C",
+    "text": "Metodología de evaluación: Se considera a la intervención sobre la que se realiza el proceso de evaluación y que podrá ser una política pública, cualquier dimensión, elemento o característica de la misma, o un conjunto de ellas."
+   },
+   {
+    "id": "D",
+    "text": "Enfoque de la evaluación: Es la orientación del proceso de evaluación que adopta el equipo evaluador en función del marco teórico y la metodología que aplica en cada caso."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 42. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 42
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-043",
+  "topicId": "comun-12",
+  "prompt": "Según lo previsto en la Ley 27/2022, de 20 de diciembre, de institucionalización de la evaluación de políticas públicas en la Administración General del Estado:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La racionalidad es uno de los criterios de valor público establecidos para la evaluación de las políticas públicas."
+   },
+   {
+    "id": "B",
+    "text": "La realización de evaluaciones intermedias en políticas públicas tendrá una duración máxima de tres años de duración, para posibilitar su revisión y garantizar el cumplimiento de sus objetivos, sus resultados e impactos."
+   },
+   {
+    "id": "C",
+    "text": "Las evaluaciones ex post de revisión del gasto público que se consideren necesarias se realizarán por la Comisión Superior de Evaluación."
+   },
+   {
+    "id": "D",
+    "text": "La evaluación de las políticas públicas puede ser de diseño, de implementación y de resultados e impactos."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 43. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 43
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-044",
+  "topicId": "comun-09",
+  "prompt": "De conformidad con la Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción, señale la respuesta correcta:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las personas físicas o jurídicas del sector privado que tengan contratados a treinta trabajadores están obligados a disponer de un Sistema interno de información."
+   },
+   {
+    "id": "B",
+    "text": "El Sistema interno de información de cualquier organismo de la Administración General del Estado no podrá ser gestionado por un tercero externo."
+   },
+   {
+    "id": "C",
+    "text": "Transcurridos dos meses desde la recepción de la comunicación sin que se hubiesen iniciado actuaciones de investigación, deberá procederse a su supresión, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del Sistema."
+   },
+   {
+    "id": "D",
+    "text": "Las personas jurídicas en el sector privado que tengan entre cincuenta y doscientos cuarenta y nueve trabajadores y que así lo decidan, podrán compartir entre sí el Sistema interno de información."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 44. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 44
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-etgoa-2024-045",
+  "topicId": "comun-05",
+  "prompt": "¿Cuál de las siguientes afirmaciones en relación con distintas magnitudes macroeconómicas de España es cierta?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Producto Interior Bruto (PIB) de España registró en 2023 un crecimiento del 3,9% respecto a 2022."
+   },
+   {
+    "id": "B",
+    "text": "El índice de precios al consumo se redujo ligeramente respecto al año 2022, ubicándose en el 5,5%."
+   },
+   {
+    "id": "C",
+    "text": "La tasa de paro (% de la población activa) aumentó ligeramente en 2023 respecto a 2022."
+   },
+   {
+    "id": "D",
+    "text": "La deuda de las Administraciones Públicas (% del PIB) en el año 2023 descendió respecto a 2022. 11"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Escala Técnica de Gestión de Organismos Autónomos, bloque común, pregunta 45. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Escala Técnica de Gestión de Organismos Autónomos (Resolución de 1 de julio de 2024)",
+   "ministerio": "INAP",
+   "grupo": "A1 funcionario",
+   "especialidad": "bloque de materias comunes",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Nivel A1, superior a M3: usar con criterio; régimen de organismos autónomos coincidente con el INAEM",
+   "numeroOriginal": 45
+  },
+  "active": true,
+  "optionCount": 4
+ }
+]
