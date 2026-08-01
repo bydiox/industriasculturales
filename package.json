@@ -1,6 +1,6 @@
 {
   "name": "m3-gestion-industrias-culturales-creativas",
-  "version": "0.1.43",
+  "version": "0.1.44",
   "private": true,
   "type": "module",
   "scripts": {
@@ -59,6 +59,7 @@
     "content:questions:reference-second-pass-2026-08-01": "node scripts/add-reference-source-second-pass-questions-2026-08-01.mjs",
     "content:questions:reference-third-pass-2026-08-01": "node scripts/add-reference-source-third-pass-questions-2026-08-01.mjs",
     "content:questions:pool5-final-pass-2026-08-01": "node scripts/add-pool5-final-pass-questions-2026-08-01.mjs",
+    "content:questions:pool5-reinforcement-2026-08-01": "node scripts/add-pool5-reinforcement-questions-2026-08-01.mjs",
     "content:questions:m1-variants-b": "node scripts/add-m1-technical-variants-b.mjs",
     "content:questions:anchor-official": "node scripts/anchor-official-questions.mjs",
     "content:questions:anchor-official-curated-followup": "node scripts/anchor-official-curated-followup.mjs",

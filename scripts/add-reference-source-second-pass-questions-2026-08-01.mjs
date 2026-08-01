@@ -231,9 +231,9 @@ const items = [
     prompt: 'Según el Plan de Derechos Culturales, ¿qué problema se detecta en el uso del Bono Cultural Joven?',
     options: [
       { id: 'A', text: 'Señales de falta de equidad en acceso y uso.' },
-      { id: 'B', text: 'Exceso de oferta en todos los municipios rurales.' },
-      { id: 'C', text: 'Ausencia de cualquier potencial inclusivo.' },
-      { id: 'D', text: 'Prohibición de descuentos para jóvenes.' }
+      { id: 'B', text: 'Dificultades de programación en zonas rurales.' },
+      { id: 'C', text: 'Baja articulación con mediación cultural.' },
+      { id: 'D', text: 'Escasa coordinación con centros educativos.' }
     ],
     correctOptionId: 'A',
     explanation: 'La medida 9 señala que el Bono Cultural Joven tiene potencial inclusivo, pero ha mostrado señales de falta de equidad en su acceso y uso.',
@@ -315,9 +315,9 @@ const items = [
     prompt: 'El programa Cultura y Ciudadanía del Plan de Derechos Culturales promueve la participación en colaboración con:',
     options: [
       { id: 'A', text: 'Agentes públicos y privados.' },
-      { id: 'B', text: 'Solo centros estatales.' },
-      { id: 'C', text: 'Solo empresas audiovisuales.' },
-      { id: 'D', text: 'Solo órganos consultivos.' }
+      { id: 'B', text: 'Centros educativos y universidades.' },
+      { id: 'C', text: 'Entidades locales y bibliotecas.' },
+      { id: 'D', text: 'Museos estatales y archivos.' }
     ],
     correctOptionId: 'A',
     explanation: 'La medida 22 define Cultura y Ciudadanía como un programa para promover la participación ciudadana en cultura en colaboración con agentes públicos y privados.',
@@ -343,9 +343,9 @@ const items = [
     prompt: 'La medida 12 del Plan de Derechos Culturales plantea la cultura en el ámbito penitenciario como herramienta para:',
     options: [
       { id: 'A', text: 'Imaginar el futuro y reconstruir vínculos con el entorno.' },
-      { id: 'B', text: 'Sustituir programas educativos por sanciones internas.' },
-      { id: 'C', text: 'Gestionar exclusivamente permisos y licencias laborales.' },
-      { id: 'D', text: 'Regular la contratación de espectáculos públicos.' }
+      { id: 'B', text: 'Mejorar hábitos lectores y acceso a bibliotecas.' },
+      { id: 'C', text: 'Impulsar mediación artística en centros educativos.' },
+      { id: 'D', text: 'Crear redes comunitarias de espacios culturales.' }
     ],
     correctOptionId: 'A',
     explanation: 'La medida 12 parte de que la cultura ayuda a imaginar el futuro, trascender límites y reconstruir vínculos con el entorno en contextos de privación de libertad.',
@@ -385,9 +385,9 @@ const items = [
     prompt: 'Según el Plan de Derechos Culturales, ¿qué equipamientos pueden funcionar como refugios climáticos?',
     options: [
       { id: 'A', text: 'Equipamientos culturales, especialmente bibliotecas.' },
-      { id: 'B', text: 'Exclusivamente salas de exhibición cinematográfica.' },
-      { id: 'C', text: 'Únicamente teatros de titularidad estatal.' },
-      { id: 'D', text: 'Solo museos inscritos como bienes inmuebles BIC.' }
+      { id: 'B', text: 'Centros educativos, especialmente conservatorios.' },
+      { id: 'C', text: 'Espacios escénicos, especialmente salas de ensayo.' },
+      { id: 'D', text: 'Centros museísticos, especialmente almacenes.' }
     ],
     correctOptionId: 'A',
     explanation: 'La medida 85 destaca el potencial de los equipamientos culturales, entre ellos bibliotecas, para actuar como refugios climáticos.',

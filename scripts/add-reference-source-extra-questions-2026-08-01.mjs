@@ -174,10 +174,10 @@ const items = [
     topicId: 'especifico-10',
     prompt: 'Según el Anuario 2024, ¿quién facilitó los datos de bienes muebles e inmuebles inscritos como BIC?',
     options: [
-      { id: 'A', text: 'La Subdirección General de Registros y Documentación del Patrimonio Histórico.' },
-      { id: 'B', text: 'La Subdirección General de Fomento de la Industria Cinematográfica.' },
-      { id: 'C', text: 'La Oficina Presupuestaria del Ministerio de Cultura.' },
-      { id: 'D', text: 'La Subdirección General de los Archivos Estatales.' }
+      { id: 'A', text: 'Registros y Documentación del Patrimonio Histórico.' },
+      { id: 'B', text: 'Fomento de la Industria Cinematográfica.' },
+      { id: 'C', text: 'Archivos Estatales y Sistemas Documentales.' },
+      { id: 'D', text: 'Promoción del Libro y la Lectura.' }
     ],
     correctOptionId: 'A',
     explanation: 'El epígrafe de Patrimonio atribuye esos datos a la Subdirección General de Registros y Documentación del Patrimonio Histórico del Ministerio de Cultura.',
@@ -426,10 +426,10 @@ const items = [
     topicId: 'especifico-25',
     prompt: 'Según el Plan de Derechos Culturales, la Plataforma Cine en Municipios se orienta a:',
     options: [
-      { id: 'A', text: 'Facilitar proyecciones colectivas en municipios sin salas cercanas.' },
-      { id: 'B', text: 'Actualizar el inventario de residencias artísticas.' },
-      { id: 'C', text: 'Impulsar cesiones de espacios infrautilizados.' },
-      { id: 'D', text: 'Crear campañas de diversidad lingüística.' }
+      { id: 'A', text: 'Facilitar cine colectivo en municipios sin salas cercanas.' },
+      { id: 'B', text: 'Crear una red estable de residencias artísticas.' },
+      { id: 'C', text: 'Ceder espacios culturales a iniciativas ciudadanas.' },
+      { id: 'D', text: 'Difundir guías de diversidad lingüística.' }
     ],
     correctOptionId: 'A',
     explanation: 'La medida 76 crea un proyecto piloto para facilitar el acceso colectivo a proyecciones en municipios pequeños, zonas rurales y territorios despoblados sin salas cercanas.',

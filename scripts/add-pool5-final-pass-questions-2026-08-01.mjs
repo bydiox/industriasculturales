@@ -53,10 +53,10 @@ const items = [
     topicId: 'especifico-06',
     prompt: '¿Qué se entiende por teatro victoriano?',
     options: [
-      { id: 'A', text: 'Teatro producido en Inglaterra durante el reinado de Victoria, entre 1837 y 1901.' },
-      { id: 'B', text: 'Teatro francés de corte neoclásico desarrollado durante el reinado de Luis XIV.' },
-      { id: 'C', text: 'Teatro musical vienés vinculado a la opereta de finales del siglo XIX.' },
-      { id: 'D', text: 'Teatro comercial madrileño ligado al género chico de un solo acto.' }
+      { id: 'A', text: 'Teatro inglés del reinado de Victoria, entre 1837 y 1901.' },
+      { id: 'B', text: 'Teatro francés del reinado de Luis XIV, entre 1643 y 1715.' },
+      { id: 'C', text: 'Teatro musical vienés vinculado a la opereta decimonónica.' },
+      { id: 'D', text: 'Teatro madrileño ligado al género chico de corta duración.' }
     ],
     correctOptionId: 'A',
     explanation: 'La pregunta oficial identifica el teatro victoriano con la producción teatral inglesa de la época de la reina Victoria, 1837-1901.',
@@ -101,10 +101,10 @@ const items = [
     topicId: 'especifico-07',
     prompt: '¿Qué elemento común caracteriza al denominado género chico?',
     options: [
-      { id: 'A', text: 'La menor duración de las obras, que permitía varios pases diarios y precios más bajos.' },
-      { id: 'B', text: 'El uso obligatorio de recitativo continuo y ausencia de diálogo hablado.' },
-      { id: 'C', text: 'La representación exclusiva en grandes teatros de ópera italianos.' },
-      { id: 'D', text: 'La prohibición de números musicales y escenas costumbristas.' }
+      { id: 'A', text: 'La menor duración de las obras y la posibilidad de varios pases diarios.' },
+      { id: 'B', text: 'El predominio del recitativo continuo y de la acción cantada.' },
+      { id: 'C', text: 'La representación en grandes teatros de ópera italianos.' },
+      { id: 'D', text: 'El formato de concierto lírico sin escenas costumbristas.' }
     ],
     correctOptionId: 'A',
     explanation: 'La clave oficial del género chico es la reducción de duración, que facilitaba varios pases diarios y abarataba precios.',
@@ -317,7 +317,7 @@ const items = [
       { id: 'A', text: 'La carga mental se vincula a exigencias intelectuales y tratamiento de información.' },
       { id: 'B', text: 'La carga mental mide el esfuerzo muscular y la postura de trabajo.' },
       { id: 'C', text: 'La carga mental equivale al ruido, la iluminación y la temperatura.' },
-      { id: 'D', text: 'La carga mental describe solo la duración contractual de la jornada.' }
+      { id: 'D', text: 'La carga mental describe la duración y distribución de la jornada.' }
     ],
     correctOptionId: 'A',
     explanation: 'La NTP 0179 sitúa la carga mental en las exigencias intelectuales de la tarea y los factores que afectan mentalmente a la persona.',

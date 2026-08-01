@@ -75400,19 +75400,19 @@
     "options": [
       {
         "id": "A",
-        "text": "La Subdirección General de Registros y Documentación del Patrimonio Histórico."
+        "text": "Registros y Documentación del Patrimonio Histórico."
       },
       {
         "id": "B",
-        "text": "La Subdirección General de Fomento de la Industria Cinematográfica."
+        "text": "Fomento de la Industria Cinematográfica."
       },
       {
         "id": "C",
-        "text": "La Oficina Presupuestaria del Ministerio de Cultura."
+        "text": "Archivos Estatales y Sistemas Documentales."
       },
       {
         "id": "D",
-        "text": "La Subdirección General de los Archivos Estatales."
+        "text": "Promoción del Libro y la Lectura."
       }
     ],
     "correctOptionId": "A",
@@ -76228,19 +76228,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Actualizar el inventario de residencias artísticas."
+        "text": "Crear una red estable de residencias artísticas."
       },
       {
         "id": "B",
-        "text": "Impulsar cesiones de espacios infrautilizados."
+        "text": "Ceder espacios culturales a iniciativas ciudadanas."
       },
       {
         "id": "C",
-        "text": "Crear campañas de diversidad lingüística."
+        "text": "Difundir guías de diversidad lingüística."
       },
       {
         "id": "D",
-        "text": "Facilitar proyecciones colectivas en municipios sin salas cercanas."
+        "text": "Facilitar cine colectivo en municipios sin salas cercanas."
       }
     ],
     "correctOptionId": "D",
@@ -76964,11 +76964,11 @@
     "options": [
       {
         "id": "A",
-        "text": "Ausencia de cualquier potencial inclusivo."
+        "text": "Baja articulación con mediación cultural."
       },
       {
         "id": "B",
-        "text": "Prohibición de descuentos para jóvenes."
+        "text": "Escasa coordinación con centros educativos."
       },
       {
         "id": "C",
@@ -76976,7 +76976,7 @@
       },
       {
         "id": "D",
-        "text": "Exceso de oferta en todos los municipios rurales."
+        "text": "Dificultades de programación en zonas rurales."
       }
     ],
     "correctOptionId": "C",
@@ -77240,15 +77240,15 @@
     "options": [
       {
         "id": "A",
-        "text": "Solo centros estatales."
+        "text": "Centros educativos y universidades."
       },
       {
         "id": "B",
-        "text": "Solo empresas audiovisuales."
+        "text": "Entidades locales y bibliotecas."
       },
       {
         "id": "C",
-        "text": "Solo órganos consultivos."
+        "text": "Museos estatales y archivos."
       },
       {
         "id": "D",
@@ -77332,7 +77332,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Regular la contratación de espectáculos públicos."
+        "text": "Crear redes comunitarias de espacios culturales."
       },
       {
         "id": "B",
@@ -77340,11 +77340,11 @@
       },
       {
         "id": "C",
-        "text": "Sustituir programas educativos por sanciones internas."
+        "text": "Mejorar hábitos lectores y acceso a bibliotecas."
       },
       {
         "id": "D",
-        "text": "Gestionar exclusivamente permisos y licencias laborales."
+        "text": "Impulsar mediación artística en centros educativos."
       }
     ],
     "correctOptionId": "B",
@@ -77474,15 +77474,15 @@
       },
       {
         "id": "B",
-        "text": "Exclusivamente salas de exhibición cinematográfica."
+        "text": "Centros educativos, especialmente conservatorios."
       },
       {
         "id": "C",
-        "text": "Únicamente teatros de titularidad estatal."
+        "text": "Espacios escénicos, especialmente salas de ensayo."
       },
       {
         "id": "D",
-        "text": "Solo museos inscritos como bienes inmuebles BIC."
+        "text": "Centros museísticos, especialmente almacenes."
       }
     ],
     "correctOptionId": "A",
@@ -78620,19 +78620,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Teatro comercial madrileño ligado al género chico de un solo acto."
+        "text": "Teatro madrileño ligado al género chico de corta duración."
       },
       {
         "id": "B",
-        "text": "Teatro producido en Inglaterra durante el reinado de Victoria, entre 1837 y 1901."
+        "text": "Teatro inglés del reinado de Victoria, entre 1837 y 1901."
       },
       {
         "id": "C",
-        "text": "Teatro francés de corte neoclásico desarrollado durante el reinado de Luis XIV."
+        "text": "Teatro francés del reinado de Luis XIV, entre 1643 y 1715."
       },
       {
         "id": "D",
-        "text": "Teatro musical vienés vinculado a la opereta de finales del siglo XIX."
+        "text": "Teatro musical vienés vinculado a la opereta decimonónica."
       }
     ],
     "correctOptionId": "B",
@@ -78749,19 +78749,19 @@
     "options": [
       {
         "id": "A",
-        "text": "La prohibición de números musicales y escenas costumbristas."
+        "text": "El formato de concierto lírico sin escenas costumbristas."
       },
       {
         "id": "B",
-        "text": "La menor duración de las obras, que permitía varios pases diarios y precios más bajos."
+        "text": "La menor duración de las obras y la posibilidad de varios pases diarios."
       },
       {
         "id": "C",
-        "text": "El uso obligatorio de recitativo continuo y ausencia de diálogo hablado."
+        "text": "El predominio del recitativo continuo y de la acción cantada."
       },
       {
         "id": "D",
-        "text": "La representación exclusiva en grandes teatros de ópera italianos."
+        "text": "La representación en grandes teatros de ópera italianos."
       }
     ],
     "correctOptionId": "B",
@@ -79322,7 +79322,7 @@
       },
       {
         "id": "B",
-        "text": "La carga mental describe solo la duración contractual de la jornada."
+        "text": "La carga mental describe la duración y distribución de la jornada."
       },
       {
         "id": "C",
@@ -79345,6 +79345,1702 @@
     "origin": {
       "type": "generated_reference",
       "label": "M3 · cierre pool5 desde fuentes técnicas y referencias · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-006-01",
+    "topicId": "especifico-06",
+    "prompt": "¿Qué autor fue conocido como el Fénix de los Ingenios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Juan Ruiz de Alarcón."
+      },
+      {
+        "id": "B",
+        "text": "Lope de Vega."
+      },
+      {
+        "id": "C",
+        "text": "Calderón de la Barca."
+      },
+      {
+        "id": "D",
+        "text": "Tirso de Molina."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La pregunta oficial M1 identifica a Lope de Vega con el sobrenombre de Fénix de los Ingenios.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 35. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "own_variant",
+      "variantOf": "m1-cultura-maquinaria-2023-35",
+      "label": "Variante propia de refuerzo de m1-cultura-maquinaria-2023-35",
+      "basedOn": "Pregunta oficial M1 Cultura 2023",
+      "historical": false
+    },
+    "variantPolicy": {
+      "createdAt": "2026-08-01",
+      "rule": "Variante propia con cuatro opciones; la pregunta oficial original conserva su formato histórico."
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-006-02",
+    "topicId": "especifico-06",
+    "prompt": "¿Quién escribió El gran teatro del mundo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Calderón de la Barca."
+      },
+      {
+        "id": "B",
+        "text": "Lope de Vega."
+      },
+      {
+        "id": "C",
+        "text": "Tirso de Molina."
+      },
+      {
+        "id": "D",
+        "text": "Francisco de Rojas Zorrilla."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "La pregunta oficial M1 atribuye El gran teatro del mundo a Calderón de la Barca.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Cuestionario M1 Maquinaria Escénica para el Espectáculo en Vivo, turno libre, pregunta 36. Ministerio de Cultura y Deporte, 25/11/2023."
+    },
+    "origin": {
+      "type": "own_variant",
+      "variantOf": "m1-cultura-maquinaria-2023-36",
+      "label": "Variante propia de refuerzo de m1-cultura-maquinaria-2023-36",
+      "basedOn": "Pregunta oficial M1 Cultura 2023",
+      "historical": false
+    },
+    "variantPolicy": {
+      "createdAt": "2026-08-01",
+      "rule": "Variante propia con cuatro opciones; la pregunta oficial original conserva su formato histórico."
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-007-01",
+    "topicId": "especifico-07",
+    "prompt": "Según la pregunta oficial M3 2021, la tonadilla escénica supuso:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La supervivencia de un género lírico esencialmente español."
+      },
+      {
+        "id": "B",
+        "text": "La llegada a España del modelo italiano de ópera seria."
+      },
+      {
+        "id": "C",
+        "text": "El avance hacia formas contrapuntísticas de cámara."
+      },
+      {
+        "id": "D",
+        "text": "La consolidación del lied romántico para voz y piano."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "La plantilla oficial de 2021 da como correcta la supervivencia de un género lírico esencialmente español.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Convocatoria oficial M3 2021, primer ejercicio, pregunta 61"
+    },
+    "origin": {
+      "type": "own_variant",
+      "variantOf": "m3-2021-oficial-061",
+      "label": "Variante propia de refuerzo de m3-2021-oficial-061",
+      "basedOn": "Convocatoria oficial M3 2021",
+      "historical": false
+    },
+    "variantPolicy": {
+      "createdAt": "2026-08-01",
+      "rule": "Variante propia con cuatro opciones; la pregunta oficial original conserva su formato histórico."
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-007-02",
+    "topicId": "especifico-07",
+    "prompt": "Marina, de Emilio Arrieta, se estrenó como zarzuela en 1855 y en 1871 se adaptó para representarse como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sainete."
+      },
+      {
+        "id": "B",
+        "text": "Revista."
+      },
+      {
+        "id": "C",
+        "text": "Tonadilla."
+      },
+      {
+        "id": "D",
+        "text": "Ópera."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "La pregunta oficial M3 2021 indica que Marina fue modificada parcialmente en 1871 para revestir forma de ópera.",
+    "source": {
+      "kind": "official_exam",
+      "reference": "Convocatoria oficial M3 2021, primer ejercicio, pregunta 62"
+    },
+    "origin": {
+      "type": "own_variant",
+      "variantOf": "m3-2021-oficial-062",
+      "label": "Variante propia de refuerzo de m3-2021-oficial-062",
+      "basedOn": "Convocatoria oficial M3 2021",
+      "historical": false
+    },
+    "variantPolicy": {
+      "createdAt": "2026-08-01",
+      "rule": "Variante propia con cuatro opciones; la pregunta oficial original conserva su formato histórico."
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-011-01",
+    "topicId": "especifico-11",
+    "prompt": "Según el Anuario 2024, la Estadística de Museos y Colecciones Museográficas se desarrolla con colaboración de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Entidades de gestión, Registro de Fundaciones y asociaciones."
+      },
+      {
+        "id": "B",
+        "text": "Defensa, Patrimonio Nacional y comunidades y ciudades autónomas."
+      },
+      {
+        "id": "C",
+        "text": "INAEM, ICAA, Dirección General del Libro y centros estatales."
+      },
+      {
+        "id": "D",
+        "text": "FEMP, municipios, diputaciones provinciales y cabildos insulares."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "El Anuario cita la colaboración del Ministerio de Defensa, Patrimonio Nacional y las comunidades y ciudades autónomas.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "anuario-cultura-2024",
+      "file": "sources/fuente-anuario-estadisticas-2024.html",
+      "author": "Ministerio de Cultura · División de Estadística y Estudios",
+      "edition": "Anuario de Estadísticas Culturales 2024",
+      "url": "https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/aec.html",
+      "anchorId": "anuario-cultura-2024-s11-museos-y-colecciones-museogr-f-01",
+      "reference": "Museos y colecciones museográficas, párrafo 1",
+      "locator": "Museos y colecciones museográficas, párrafo 1"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-011-02",
+    "topicId": "especifico-11",
+    "prompt": "Según el Anuario 2024, en 2022 el número medio de visitas por museo abierto fue de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "35.221."
+      },
+      {
+        "id": "B",
+        "text": "13.817."
+      },
+      {
+        "id": "C",
+        "text": "51.600."
+      },
+      {
+        "id": "D",
+        "text": "75.100."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "El Anuario señala 35.221 visitas de media por museo abierto en 2022, frente a 13.817 en 2020.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "anuario-cultura-2024",
+      "file": "sources/fuente-anuario-estadisticas-2024.html",
+      "author": "Ministerio de Cultura · División de Estadística y Estudios",
+      "edition": "Anuario de Estadísticas Culturales 2024",
+      "url": "https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/aec.html",
+      "anchorId": "anuario-cultura-2024-s11-museos-y-colecciones-museogr-f-01",
+      "reference": "Museos y colecciones museográficas, párrafo 1",
+      "locator": "Museos y colecciones museográficas, párrafo 1"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-012-01",
+    "topicId": "especifico-12",
+    "prompt": "Según IMS437_3, ¿qué fases forman parte de la producción de espectáculos en vivo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Preproducción, preparación, montaje, ensayos, representación, desmontaje y cierre."
+      },
+      {
+        "id": "B",
+        "text": "Catalogación, conservación, restauración, préstamo, exposición y depósito."
+      },
+      {
+        "id": "C",
+        "text": "Registro, reparto, recaudación, liquidación, distribución y archivo."
+      },
+      {
+        "id": "D",
+        "text": "Diagnóstico, encuesta, segmentación, mediación, publicidad y venta."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "IMS437_3 enumera esas fases como ciclo de producción de espectáculos en vivo y eventos.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-ims437-3-contenidos",
+      "reference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "locator": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-012-02",
+    "topicId": "especifico-12",
+    "prompt": "Según IMS437_3, la documentación de producción incluye calendario, tareas, responsables, presupuesto y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Derechos morales y entidades de gestión."
+      },
+      {
+        "id": "B",
+        "text": "Legados, catálogos y fondos documentales."
+      },
+      {
+        "id": "C",
+        "text": "Patronaje, medidas y pruebas de vestuario."
+      },
+      {
+        "id": "D",
+        "text": "Necesidades técnicas y coordinación de equipos."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "La fuente menciona calendario, tareas, responsables, necesidades técnicas, presupuesto y coordinación de equipos.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-ims437-3-contenidos",
+      "reference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "locator": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-013-01",
+    "topicId": "especifico-13",
+    "prompt": "Según el Componente 24, las fragilidades estructurales de las industrias culturales las hacen especialmente vulnerables en períodos de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Expansión."
+      },
+      {
+        "id": "B",
+        "text": "Normalidad."
+      },
+      {
+        "id": "C",
+        "text": "Descentralización."
+      },
+      {
+        "id": "D",
+        "text": "Crisis."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "El Componente 24 vincula esas fragilidades con una vulnerabilidad especial en períodos de crisis.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "componente-24",
+      "file": "sources/fuente-componente-24.html",
+      "author": "Gobierno de España · Plan de Recuperación, Transformación y Resiliencia",
+      "edition": "Componente 24: Revalorización de la industria cultural",
+      "url": "https://planderecuperacion.gob.es/politicas-y-componentes/componente-24-revalorizacion-de-la-industria-cultural",
+      "anchorId": "componente-24-sec-1",
+      "reference": "Descripción general del componente",
+      "locator": "Descripción general del componente"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-013-02",
+    "topicId": "especifico-13",
+    "prompt": "En el Sistema de Indicadores de la FEMP, una de las cuestiones marco de la Agenda 21 es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Propiedad industrial y patentes culturales."
+      },
+      {
+        "id": "B",
+        "text": "Archivo administrativo y firma electrónica."
+      },
+      {
+        "id": "C",
+        "text": "Cultura y desarrollo social, económico y territorial."
+      },
+      {
+        "id": "D",
+        "text": "Contratación artística y régimen sancionador."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La FEMP incluye cultura y desarrollo social, económico y territorial entre las cuestiones marco del sistema de indicadores.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "femp-indicadores-politicas-culturales",
+      "file": "sources/fuente-femp-indicadores.html",
+      "author": "Federación Española de Municipios y Provincias · Ministerio de Cultura",
+      "edition": "Sistema de indicadores para la evaluación de las políticas culturales locales",
+      "url": "https://www.cultura.gob.es/dam/jcr:d7da8b7a-94a9-4766-ab97-599a2df576b8/evaluacion-politicas-locales-cor.pdf",
+      "anchorId": "femp-indicadores-politicas-culturales-p10",
+      "reference": "Párrafo 10",
+      "locator": "Párrafo 10"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-014-01",
+    "topicId": "especifico-14",
+    "prompt": "Según el Anuario 2024, la Estadística de Fundaciones ofrece resultados derivados de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las liquidaciones de derechos de autor y derechos conexos."
+      },
+      {
+        "id": "B",
+        "text": "Los catálogos de museos y colecciones museográficas."
+      },
+      {
+        "id": "C",
+        "text": "Las cuentas económicas entregadas anualmente por las fundaciones."
+      },
+      {
+        "id": "D",
+        "text": "Las encuestas de hábitos culturales de la población joven."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La estadística ofrece indicadores económicos derivados de las cuentas económicas que las fundaciones entregan con periodicidad anual.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "anuario-cultura-2024",
+      "file": "sources/fuente-anuario-estadisticas-2024.html",
+      "author": "Ministerio de Cultura · División de Estadística y Estudios",
+      "edition": "Anuario de Estadísticas Culturales 2024",
+      "url": "https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/aec.html",
+      "anchorId": "anuario-cultura-2024-s20-fundaciones-sujetas-al-01",
+      "reference": "Fundaciones sujetas al Protectorado Estatal, párrafo 1",
+      "locator": "Fundaciones sujetas al Protectorado Estatal, párrafo 1"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-014-02",
+    "topicId": "especifico-14",
+    "prompt": "En 2022, según el Anuario 2024, ¿qué porcentaje de fundaciones tratadas tenía Cultura como actividad o finalidad principal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2,8%."
+      },
+      {
+        "id": "B",
+        "text": "26%."
+      },
+      {
+        "id": "C",
+        "text": "17,9%."
+      },
+      {
+        "id": "D",
+        "text": "15,8%."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "El Anuario indica que el 26% de las fundaciones sujetas al Protectorado Estatal tratadas correspondía a Cultura.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "anuario-cultura-2024",
+      "file": "sources/fuente-anuario-estadisticas-2024.html",
+      "author": "Ministerio de Cultura · División de Estadística y Estudios",
+      "edition": "Anuario de Estadísticas Culturales 2024",
+      "url": "https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/aec.html",
+      "anchorId": "anuario-cultura-2024-s20-fundaciones-sujetas-al-01",
+      "reference": "Fundaciones sujetas al Protectorado Estatal, párrafo 1",
+      "locator": "Fundaciones sujetas al Protectorado Estatal, párrafo 1"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-015-01",
+    "topicId": "especifico-15",
+    "prompt": "En el Plan de Derechos Culturales, la medida 4 incluye expresamente un plan impulsado por:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Patrimonio Nacional."
+      },
+      {
+        "id": "B",
+        "text": "El INAEM."
+      },
+      {
+        "id": "C",
+        "text": "El ICAA."
+      },
+      {
+        "id": "D",
+        "text": "La BNE."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La medida 4 menciona el Plan de Inclusión en las Artes Escénicas y la Música, impulsado por el INAEM.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "plan-derechos-culturales-2025",
+      "file": "sources/fuente-plan-derechos-culturales.html",
+      "author": "Ministerio de Cultura",
+      "edition": "Plan de Derechos Culturales 2025",
+      "url": "https://planderechosculturales.cultura.gob.es/",
+      "anchorId": "plan-derechos-culturales-2025-medida-004",
+      "reference": "Medida 4: Inclusión y no discriminación en instituciones culturales",
+      "locator": "Medida 4: Inclusión y no discriminación en instituciones culturales"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-015-02",
+    "topicId": "especifico-15",
+    "prompt": "Según el Plan de Derechos Culturales, los refugios climáticos se vinculan con:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La respuesta cultural ante la crisis climática."
+      },
+      {
+        "id": "B",
+        "text": "La catalogación de bienes patrimoniales."
+      },
+      {
+        "id": "C",
+        "text": "La recaudación de derechos de autor."
+      },
+      {
+        "id": "D",
+        "text": "La formación de elencos artísticos."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "La medida 85 presenta los refugios climáticos como apuesta estratégica ante la crisis climática actual.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "plan-derechos-culturales-2025",
+      "file": "sources/fuente-plan-derechos-culturales.html",
+      "author": "Ministerio de Cultura",
+      "edition": "Plan de Derechos Culturales 2025",
+      "url": "https://planderechosculturales.cultura.gob.es/",
+      "anchorId": "plan-derechos-culturales-2025-medida-085",
+      "reference": "Medida 85: Espacios culturales como refugios climáticos",
+      "locator": "Medida 85: Espacios culturales como refugios climáticos"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-018-01",
+    "topicId": "especifico-18",
+    "prompt": "Tras construir su Sistema de Indicadores, la FEMP señala como actuación pendiente:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un reglamento de propiedad intelectual."
+      },
+      {
+        "id": "B",
+        "text": "Un registro de compañías escénicas."
+      },
+      {
+        "id": "C",
+        "text": "Una prueba piloto en localizaciones tipo."
+      },
+      {
+        "id": "D",
+        "text": "Una convocatoria estatal de subvenciones."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La FEMP indica que queda por realizar una prueba piloto de implementación en localizaciones tipo.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "femp-indicadores-politicas-culturales",
+      "file": "sources/fuente-femp-indicadores.html",
+      "author": "Federación Española de Municipios y Provincias · Ministerio de Cultura",
+      "edition": "Sistema de indicadores para la evaluación de las políticas culturales locales",
+      "url": "https://www.cultura.gob.es/dam/jcr:d7da8b7a-94a9-4766-ab97-599a2df576b8/evaluacion-politicas-locales-cor.pdf",
+      "anchorId": "femp-indicadores-politicas-culturales-p13",
+      "reference": "Párrafo 13",
+      "locator": "Párrafo 13"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-018-02",
+    "topicId": "especifico-18",
+    "prompt": "Según el Plan de Derechos Culturales, el balance social y comunitario permite medir:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La plantilla orgánica."
+      },
+      {
+        "id": "B",
+        "text": "El retorno social."
+      },
+      {
+        "id": "C",
+        "text": "El aforo máximo."
+      },
+      {
+        "id": "D",
+        "text": "La vida útil técnica."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La medida 15 señala que el balance social y comunitario sirve para valorar bien común, cohesión social y retorno social.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "plan-derechos-culturales-2025",
+      "file": "sources/fuente-plan-derechos-culturales.html",
+      "author": "Ministerio de Cultura",
+      "edition": "Plan de Derechos Culturales 2025",
+      "url": "https://planderechosculturales.cultura.gob.es/",
+      "anchorId": "plan-derechos-culturales-2025-medida-015",
+      "reference": "Medida 15: Estudio sobre la aplicación del balance social y comunitario",
+      "locator": "Medida 15: Estudio sobre la aplicación del balance social y comunitario"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-020-01",
+    "topicId": "especifico-20",
+    "prompt": "Según la introducción del Anuario 2024, la publicación incorpora información de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Datos presupuestarios de organismos públicos."
+      },
+      {
+        "id": "B",
+        "text": "Más de una veintena de fuentes estadísticas."
+      },
+      {
+        "id": "C",
+        "text": "Una única encuesta anual de hogares."
+      },
+      {
+        "id": "D",
+        "text": "Registros de entidades culturales privadas."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La introducción explica que el Anuario integra información de más de una veintena de fuentes estadísticas.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "anuario-cultura-2024",
+      "file": "sources/fuente-anuario-estadisticas-2024.html",
+      "author": "Ministerio de Cultura · División de Estadística y Estudios",
+      "edition": "Anuario de Estadísticas Culturales 2024",
+      "url": "https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/aec.html",
+      "anchorId": "anuario-cultura-2024-s00-introducci-n-y-notas-metodol-g-01",
+      "reference": "Introducción y notas metodológicas, párrafo 1",
+      "locator": "Introducción y notas metodológicas, párrafo 1"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-020-02",
+    "topicId": "especifico-20",
+    "prompt": "Según el Anuario 2024, la Cuenta Satélite de la Cultura tiene como objetivo estimar:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El impacto de la cultura sobre la economía española."
+      },
+      {
+        "id": "B",
+        "text": "La asistencia diaria a todos los espacios escénicos."
+      },
+      {
+        "id": "C",
+        "text": "La duración media de las giras teatrales."
+      },
+      {
+        "id": "D",
+        "text": "El número de contratos artísticos temporales."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "La Cuenta Satélite proporciona información económica para estimar el impacto de la cultura en el conjunto de la economía española.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "anuario-cultura-2024",
+      "file": "sources/fuente-anuario-estadisticas-2024.html",
+      "author": "Ministerio de Cultura · División de Estadística y Estudios",
+      "edition": "Anuario de Estadísticas Culturales 2024",
+      "url": "https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/aec.html",
+      "anchorId": "anuario-cultura-2024-s18-cuenta-01",
+      "reference": "Cuenta Satélite de la Cultura, párrafo 1",
+      "locator": "Cuenta Satélite de la Cultura, párrafo 1"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-026-01",
+    "topicId": "especifico-26",
+    "prompt": "En la C24.R1, la adecuación del marco jurídico, fiscal y laboral busca mejorar:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La inscripción de bienes inmuebles como BIC."
+      },
+      {
+        "id": "B",
+        "text": "La conservación preventiva de colecciones."
+      },
+      {
+        "id": "C",
+        "text": "La certificación técnica de maquinaria."
+      },
+      {
+        "id": "D",
+        "text": "La protección social de los agentes del sector cultural."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "El Componente 24 vincula la C24.R1 con mejorar la protección social de los agentes del sector y aumentar la inversión privada.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "componente-24",
+      "file": "sources/fuente-componente-24.html",
+      "author": "Gobierno de España · Plan de Recuperación, Transformación y Resiliencia",
+      "edition": "Componente 24: Revalorización de la industria cultural",
+      "url": "https://planderecuperacion.gob.es/politicas-y-componentes/componente-24-revalorizacion-de-la-industria-cultural",
+      "anchorId": "componente-24-sec-3",
+      "reference": "Detalle sobre cada reforma/inversión del componente",
+      "locator": "Detalle sobre cada reforma/inversión del componente"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-026-02",
+    "topicId": "especifico-26",
+    "prompt": "Según el Componente 24, el colectivo objetivo de la C24.R1 incluye trabajadores del sector cultural y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Comunidades autónomas y diputaciones."
+      },
+      {
+        "id": "B",
+        "text": "Entidades de gestión colectiva."
+      },
+      {
+        "id": "C",
+        "text": "Empresas y personas físicas."
+      },
+      {
+        "id": "D",
+        "text": "Museos y bibliotecas estatales."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La C24.R1 identifica como colectivo objetivo a trabajadores del sector cultural y a empresas y personas físicas.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "componente-24",
+      "file": "sources/fuente-componente-24.html",
+      "author": "Gobierno de España · Plan de Recuperación, Transformación y Resiliencia",
+      "edition": "Componente 24: Revalorización de la industria cultural",
+      "url": "https://planderecuperacion.gob.es/politicas-y-componentes/componente-24-revalorizacion-de-la-industria-cultural",
+      "anchorId": "componente-24-sec-3",
+      "reference": "Detalle sobre cada reforma/inversión del componente",
+      "locator": "Detalle sobre cada reforma/inversión del componente"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-028-01",
+    "topicId": "especifico-28",
+    "prompt": "Según el Componente 24, la C24.R2 incluye culminar la transposición de directivas europeas sobre:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Patrimonio histórico y archivos estatales."
+      },
+      {
+        "id": "B",
+        "text": "Derechos de autor en el Mercado Único Digital."
+      },
+      {
+        "id": "C",
+        "text": "Contratación pública de espectáculos en vivo."
+      },
+      {
+        "id": "D",
+        "text": "Fundaciones y asociaciones culturales."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La reforma C24.R2 menciona la transposición de las Directivas 2019/789 y 2019/790 sobre derechos de autor en el Mercado Único Digital.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "componente-24",
+      "file": "sources/fuente-componente-24.html",
+      "author": "Gobierno de España · Plan de Recuperación, Transformación y Resiliencia",
+      "edition": "Componente 24: Revalorización de la industria cultural",
+      "url": "https://planderecuperacion.gob.es/politicas-y-componentes/componente-24-revalorizacion-de-la-industria-cultural",
+      "anchorId": "componente-24-sec-3",
+      "reference": "Detalle sobre cada reforma/inversión del componente",
+      "locator": "Detalle sobre cada reforma/inversión del componente"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-028-02",
+    "topicId": "especifico-28",
+    "prompt": "Según el Anuario 2024, en 2023 la recaudación total de las entidades de gestión de derechos de propiedad intelectual fue:",
+    "options": [
+      {
+        "id": "A",
+        "text": "537,8 millones de euros."
+      },
+      {
+        "id": "B",
+        "text": "277,6 millones de euros."
+      },
+      {
+        "id": "C",
+        "text": "71,4 millones de euros."
+      },
+      {
+        "id": "D",
+        "text": "17,1 millones de euros."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "El Anuario cifra en 537,8 millones de euros la recaudación total de las entidades de gestión en 2023.",
+    "source": {
+      "kind": "referencia",
+      "sourceId": "anuario-cultura-2024",
+      "file": "sources/fuente-anuario-estadisticas-2024.html",
+      "author": "Ministerio de Cultura · División de Estadística y Estudios",
+      "edition": "Anuario de Estadísticas Culturales 2024",
+      "url": "https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/aec.html",
+      "anchorId": "anuario-cultura-2024-s05-propiedad-01",
+      "reference": "Propiedad intelectual, párrafo 1",
+      "locator": "Propiedad intelectual, párrafo 1"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-029-01",
+    "topicId": "especifico-29",
+    "prompt": "Según ART523_3, la construcción de decorados parte de interpretar diseños y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Planos."
+      },
+      {
+        "id": "B",
+        "text": "Partituras."
+      },
+      {
+        "id": "C",
+        "text": "Figurines."
+      },
+      {
+        "id": "D",
+        "text": "Convocatorias."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "ART523_3 se refiere a interpretar diseños y planos para construir, montar y adaptar decorados.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-art523-3-contenidos",
+      "reference": "ART523_3, Construcción de decorados para la escena",
+      "locator": "ART523_3, Construcción de decorados para la escena",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-3634"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-029-02",
+    "topicId": "especifico-29",
+    "prompt": "Según ART524_3, un practicable se integra en el ámbito de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La gestión de públicos."
+      },
+      {
+        "id": "B",
+        "text": "La propiedad intelectual."
+      },
+      {
+        "id": "C",
+        "text": "La mediación cultural."
+      },
+      {
+        "id": "D",
+        "text": "La maquinaria escénica."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "ART524_3 enumera los practicables entre elementos y estructuras de la maquinaria escénica.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-art524-3-contenidos",
+      "reference": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
+      "locator": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-3634"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-032-01",
+    "topicId": "especifico-32",
+    "prompt": "Según ART524_3, el ciclo de trabajo de los elementos escénicos incluye montaje, desmontaje, almacenamiento y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Patrocinio."
+      },
+      {
+        "id": "B",
+        "text": "Catalogación."
+      },
+      {
+        "id": "C",
+        "text": "Mantenimiento."
+      },
+      {
+        "id": "D",
+        "text": "Mediación."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "ART524_3 menciona montaje, desmontaje, almacenamiento y mantenimiento de elementos escénicos.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-art524-3-contenidos",
+      "reference": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
+      "locator": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-3634"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-032-02",
+    "topicId": "especifico-32",
+    "prompt": "Según el temario M1 de Realización, la utilería teatral se estudia junto a sus tipos, características y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gestión de abonos."
+      },
+      {
+        "id": "B",
+        "text": "Mobiliario de escena."
+      },
+      {
+        "id": "C",
+        "text": "Patronaje histórico."
+      },
+      {
+        "id": "D",
+        "text": "Mapping escénico."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "El temario M1 de Realización incluye conceptos básicos de utilería, tipos y características, y mobiliario de escena.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/inaem-m1-2022.html",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-23830",
+      "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t7",
+      "reference": "Temario técnico INAEM M1, Realización de Proyectos Audiovisuales y Espectáculos, tema 7",
+      "locator": "Temario técnico INAEM M1, Realización de Proyectos Audiovisuales y Espectáculos, tema 7"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-034-01",
+    "topicId": "especifico-34",
+    "prompt": "Según IMS437_3, adaptar el espectáculo puede referirse a espacios de representación y condiciones de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gira."
+      },
+      {
+        "id": "B",
+        "text": "Taquilla."
+      },
+      {
+        "id": "C",
+        "text": "Archivo."
+      },
+      {
+        "id": "D",
+        "text": "Mecenazgo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "IMS437_3 incluye adaptar el espectáculo a espacios y condiciones de gira dentro de la asistencia a producción.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-ims437-3-contenidos",
+      "reference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "locator": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-034-02",
+    "topicId": "especifico-34",
+    "prompt": "Según la actualización de producción y adaptación, los presupuestos aparecen asociados a planificación de fases y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Partituras."
+      },
+      {
+        "id": "B",
+        "text": "Figurines."
+      },
+      {
+        "id": "C",
+        "text": "Atriles."
+      },
+      {
+        "id": "D",
+        "text": "Cronogramas."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "La fuente de producción y adaptación menciona organización, contratación, planificación de fases, cronogramas y presupuestos.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-pci477-produccion",
+      "reference": "Producción y adaptación de espacios escénicos, actualización 2019",
+      "locator": "Producción y adaptación de espacios escénicos, actualización 2019",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6893"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-035-01",
+    "topicId": "especifico-35",
+    "prompt": "Según el temario M1 de sastrería, la interpretación de figurines se relaciona con desgloses y comunicación con:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El maquinista."
+      },
+      {
+        "id": "B",
+        "text": "El iluminador."
+      },
+      {
+        "id": "C",
+        "text": "El taquillero."
+      },
+      {
+        "id": "D",
+        "text": "El figurinista."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "El tema 4 de Gestión de Sastrería menciona interpretación de figurines, desgloses y comunicación con el figurinista.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/inaem-m1-2022.html",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-23830",
+      "anchorId": "inaem-m1-2022-gestion-de-sastreria-del-espectaculo-e-t4",
+      "reference": "Temario técnico INAEM M1, Gestión de Sastrería del Espectáculo en Vivo, tema 4",
+      "locator": "Temario técnico INAEM M1, Gestión de Sastrería del Espectáculo en Vivo, tema 4"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-035-02",
+    "topicId": "especifico-35",
+    "prompt": "Según el temario M1 de peluquería, las pelucas y postizos se estudian junto con materiales, productos, útiles y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cronogramas de producción."
+      },
+      {
+        "id": "B",
+        "text": "Protocolos de contratación."
+      },
+      {
+        "id": "C",
+        "text": "Técnicas de manipulación y limpieza."
+      },
+      {
+        "id": "D",
+        "text": "Sistemas de elevación y tiro."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "El tema 7 de Estilismo y Dirección de Peluquería incluye pelucas y postizos, materiales, productos, útiles y técnicas de manipulación y limpieza.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/inaem-m1-2022.html",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-23830",
+      "anchorId": "inaem-m1-2022-estilismo-y-direccion-de-peluqueria-t7",
+      "reference": "Temario técnico INAEM M1, Estilismo y Dirección de Peluquería, tema 7",
+      "locator": "Temario técnico INAEM M1, Estilismo y Dirección de Peluquería, tema 7"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-036-01",
+    "topicId": "especifico-36",
+    "prompt": "Según IMS442_3, la dirección de escenario incluye seguimiento de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las fichas de préstamo."
+      },
+      {
+        "id": "B",
+        "text": "Las ayudas fiscales."
+      },
+      {
+        "id": "C",
+        "text": "Las órdenes de escena."
+      },
+      {
+        "id": "D",
+        "text": "Las cuentas anuales."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "IMS442_3 describe la regiduría como interpretación del proyecto, preparación del espacio, organización de equipos y seguimiento de las órdenes de escena.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-ims442-3-contenidos",
+      "reference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
+      "locator": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-036-02",
+    "topicId": "especifico-36",
+    "prompt": "Según el temario M1 de asistencia a dirección técnica, la regiduría se estudia con libreto, partitura, planificación y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Indicadores de consumo."
+      },
+      {
+        "id": "B",
+        "text": "Organización del trabajo."
+      },
+      {
+        "id": "C",
+        "text": "Cuentas justificativas."
+      },
+      {
+        "id": "D",
+        "text": "Derechos de explotación."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "El tema 7 de asistencia a dirección técnica incluye conceptos de regiduría, libreto, partitura, planificación y organización del trabajo.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/inaem-m1-2022.html",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-23830",
+      "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t7",
+      "reference": "Temario técnico INAEM M1, Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, tema 7",
+      "locator": "Temario técnico INAEM M1, Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, tema 7"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-037-01",
+    "topicId": "especifico-37",
+    "prompt": "Según IMS442_3, la regiduría adapta su trabajo a teatros, espacios no convencionales y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Taquilla."
+      },
+      {
+        "id": "B",
+        "text": "Gira."
+      },
+      {
+        "id": "C",
+        "text": "Mecenazgo."
+      },
+      {
+        "id": "D",
+        "text": "Archivo."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "IMS442_3 incluye la adaptación del trabajo de regiduría a teatros, espacios no convencionales y gira.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-ims442-3-contenidos",
+      "reference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
+      "locator": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-037-02",
+    "topicId": "especifico-37",
+    "prompt": "Según el temario M1 de Realización, el regidor en ensayos se vincula con planificación de ensayos, tipos de ensayos y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Funciones del regidor durante los ensayos."
+      },
+      {
+        "id": "B",
+        "text": "Liquidación de derechos de propiedad intelectual."
+      },
+      {
+        "id": "C",
+        "text": "Catalogación de fondos documentales."
+      },
+      {
+        "id": "D",
+        "text": "Determinación de incentivos fiscales."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "El tema 10 de Realización trata el regidor en ensayos, planificación, tipos de ensayos y funciones durante los ensayos.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/inaem-m1-2022.html",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-23830",
+      "anchorId": "inaem-m1-2022-realizacion-de-proyectos-audiovisuales-t10",
+      "reference": "Temario técnico INAEM M1, Realización de Proyectos Audiovisuales y Espectáculos, tema 10",
+      "locator": "Temario técnico INAEM M1, Realización de Proyectos Audiovisuales y Espectáculos, tema 10"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-038-01",
+    "topicId": "especifico-38",
+    "prompt": "Según IMS437_3, la asistencia a producción coordina recursos artísticos, técnicos y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanos."
+      },
+      {
+        "id": "B",
+        "text": "Registrales."
+      },
+      {
+        "id": "C",
+        "text": "Museísticos."
+      },
+      {
+        "id": "D",
+        "text": "Editoriales."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "IMS437_3 habla de planificar la producción y coordinar recursos artísticos, técnicos y humanos.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-ims437-3-contenidos",
+      "reference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "locator": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-972"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-038-02",
+    "topicId": "especifico-38",
+    "prompt": "Según el temario M1 de asistencia a dirección técnica, la coordinación de giras incluye planificación de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "ISBN y depósito legal."
+      },
+      {
+        "id": "B",
+        "text": "Cuentas fundacionales."
+      },
+      {
+        "id": "C",
+        "text": "Fondos museográficos."
+      },
+      {
+        "id": "D",
+        "text": "Carga y descarga."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "El tema 5 menciona coordinación de ensayos, montajes, funciones y giras, así como planificación de la carga y descarga.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/inaem-m1-2022.html",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-23830",
+      "anchorId": "inaem-m1-2022-asistencia-a-la-direccion-tecnica-de-e-t5",
+      "reference": "Temario técnico INAEM M1, Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, tema 5",
+      "locator": "Temario técnico INAEM M1, Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, tema 5"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-040-01",
+    "topicId": "especifico-40",
+    "prompt": "Según la actualización técnica de 2024, el vídeo aplicado a escena incorpora mapping, warping, proyección y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Patronaje."
+      },
+      {
+        "id": "B",
+        "text": "Mecenazgo."
+      },
+      {
+        "id": "C",
+        "text": "Catalogación."
+      },
+      {
+        "id": "D",
+        "text": "Vídeo-dramaturgia."
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "La actualización de 2024 incluye preparación de contenidos, línea de tiempo, efectos, mapping, warping, proyección y vídeo-dramaturgia.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-video-escena-2024",
+      "reference": "Tecnología de vídeo y contenidos para la escena, actualización 2024",
+      "locator": "Tecnología de vídeo y contenidos para la escena, actualización 2024",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20759"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-040-02",
+    "topicId": "especifico-40",
+    "prompt": "Según la actualización técnica de 2024, entre los protocolos y controles de vídeo escénico pueden figurar MIDI, OSC, Ethernet y:",
+    "options": [
+      {
+        "id": "A",
+        "text": "ISBN."
+      },
+      {
+        "id": "B",
+        "text": "DAFO."
+      },
+      {
+        "id": "C",
+        "text": "SMPTE."
+      },
+      {
+        "id": "D",
+        "text": "BIC."
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "La fuente cita MIDI, OSC, Ethernet y SMPTE cuando forman parte del sistema de vídeo escénico.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/cncp-technical.html",
+      "anchorId": "cncp-video-escena-2024",
+      "reference": "Tecnología de vídeo y contenidos para la escena, actualización 2024",
+      "locator": "Tecnología de vídeo y contenidos para la escena, actualización 2024",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20759"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-042-01",
+    "topicId": "especifico-42",
+    "prompt": "Según la NTP 355 del INSST, la respuesta fisiológica de estrés es una respuesta del organismo ante una demanda que altera su:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Presupuesto."
+      },
+      {
+        "id": "B",
+        "text": "Equilibrio."
+      },
+      {
+        "id": "C",
+        "text": "Contrato."
+      },
+      {
+        "id": "D",
+        "text": "Aforo."
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "La NTP 355 presenta el estrés como respuesta general del organismo ante demandas o alteraciones de su equilibrio.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/m3-bibliography.html",
+      "anchorId": "ntp-0355-fisiologia",
+      "reference": "NTP 355, Fisiología del estrés",
+      "locator": "NTP 355, Fisiología del estrés",
+      "url": "https://www.insst.es/materias/riesgos/riesgos-psicosociales/estres-laboral"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
+      "historical": false
+    },
+    "active": true,
+    "optionCount": 4,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-reinforce-20260801-042-02",
+    "topicId": "especifico-42",
+    "prompt": "Según la NTP 318, el estrés laboral no depende solo del estímulo externo, sino también de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La percepción y los recursos de la persona."
+      },
+      {
+        "id": "B",
+        "text": "La titularidad pública del equipamiento."
+      },
+      {
+        "id": "C",
+        "text": "La modalidad de exhibición escénica."
+      },
+      {
+        "id": "D",
+        "text": "La duración artística del espectáculo."
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "La NTP 318 explica el estrés como interacción entre estresores, percepción y características o recursos personales.",
+    "source": {
+      "kind": "bibliografia",
+      "file": "sources/m3-bibliography.html",
+      "anchorId": "ntp-0318-proceso",
+      "reference": "NTP 318, El estrés: proceso de generación en el ámbito laboral",
+      "locator": "NTP 318, El estrés: proceso de generación en el ámbito laboral",
+      "url": "https://www.insst.es/documents/94886/326827/ntp_318.pdf/2c36529c-e315-4b60-9b6d-33cb81a8bfd0"
+    },
+    "origin": {
+      "type": "generated_reference",
+      "label": "M3 · refuerzo pool5 por temas con margen cero · 2026-08-01",
       "historical": false
     },
     "active": true,

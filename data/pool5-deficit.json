@@ -106,12 +106,12 @@
     },
     "especifico-06": {
       "pool5": 6,
-      "activeCount": 6,
+      "activeCount": 8,
       "deficit": 0
     },
     "especifico-07": {
       "pool5": 6,
-      "activeCount": 6,
+      "activeCount": 8,
       "deficit": 0
     },
     "especifico-08": {
@@ -131,27 +131,27 @@
     },
     "especifico-11": {
       "pool5": 8,
-      "activeCount": 8,
+      "activeCount": 10,
       "deficit": 0
     },
     "especifico-12": {
       "pool5": 5,
-      "activeCount": 5,
+      "activeCount": 7,
       "deficit": 0
     },
     "especifico-13": {
       "pool5": 6,
-      "activeCount": 6,
+      "activeCount": 8,
       "deficit": 0
     },
     "especifico-14": {
       "pool5": 5,
-      "activeCount": 5,
+      "activeCount": 7,
       "deficit": 0
     },
     "especifico-15": {
       "pool5": 5,
-      "activeCount": 5,
+      "activeCount": 7,
       "deficit": 0
     },
     "especifico-16": {
@@ -166,7 +166,7 @@
     },
     "especifico-18": {
       "pool5": 7,
-      "activeCount": 7,
+      "activeCount": 9,
       "deficit": 0
     },
     "especifico-19": {
@@ -176,7 +176,7 @@
     },
     "especifico-20": {
       "pool5": 5,
-      "activeCount": 5,
+      "activeCount": 7,
       "deficit": 0
     },
     "especifico-21": {
@@ -206,7 +206,7 @@
     },
     "especifico-26": {
       "pool5": 8,
-      "activeCount": 8,
+      "activeCount": 10,
       "deficit": 0
     },
     "especifico-27": {
@@ -216,12 +216,12 @@
     },
     "especifico-28": {
       "pool5": 8,
-      "activeCount": 8,
+      "activeCount": 10,
       "deficit": 0
     },
     "especifico-29": {
       "pool5": 3,
-      "activeCount": 3,
+      "activeCount": 5,
       "deficit": 0
     },
     "especifico-30": {
@@ -236,7 +236,7 @@
     },
     "especifico-32": {
       "pool5": 4,
-      "activeCount": 4,
+      "activeCount": 6,
       "deficit": 0
     },
     "especifico-33": {
@@ -246,27 +246,27 @@
     },
     "especifico-34": {
       "pool5": 4,
-      "activeCount": 4,
+      "activeCount": 6,
       "deficit": 0
     },
     "especifico-35": {
       "pool5": 4,
-      "activeCount": 4,
+      "activeCount": 6,
       "deficit": 0
     },
     "especifico-36": {
       "pool5": 6,
-      "activeCount": 6,
+      "activeCount": 8,
       "deficit": 0
     },
     "especifico-37": {
       "pool5": 4,
-      "activeCount": 4,
+      "activeCount": 6,
       "deficit": 0
     },
     "especifico-38": {
       "pool5": 3,
-      "activeCount": 3,
+      "activeCount": 5,
       "deficit": 0
     },
     "especifico-39": {
@@ -276,7 +276,7 @@
     },
     "especifico-40": {
       "pool5": 3,
-      "activeCount": 3,
+      "activeCount": 5,
       "deficit": 0
     },
     "especifico-41": {
@@ -286,7 +286,7 @@
     },
     "especifico-42": {
       "pool5": 8,
-      "activeCount": 8,
+      "activeCount": 10,
       "deficit": 0
     },
     "especifico-43": {
