@@ -231,19 +231,34 @@ function reviewCandidates() {
     .sort((a, b) => {
       const sa = stats[a.id] || {};
       const sb = stats[b.id] || {};
-      const scoreA = (Number(sa.incorrect) || 0) * 3 + (Number(sa.blank) || 0) * 2 + (doubtful.has(a.id) ? 1 : 0) + (saved.has(a.id) ? 1 : 0);
-      const scoreB = (Number(sb.incorrect) || 0) * 3 + (Number(sb.blank) || 0) * 2 + (doubtful.has(b.id) ? 1 : 0) + (saved.has(b.id) ? 1 : 0);
+      const scoreA = (Number(sa.incorrect) || 0) * 5 + (Number(sa.blank) || 0) * 3 + (doubtful.has(a.id) ? 2 : 0) + (saved.has(a.id) ? 1 : 0);
+      const scoreB = (Number(sb.incorrect) || 0) * 5 + (Number(sb.blank) || 0) * 3 + (doubtful.has(b.id) ? 2 : 0) + (saved.has(b.id) ? 1 : 0);
       return scoreB - scoreA;
     });
+}
+
+function reviewSummary(candidates) {
+  const stats = state.progress.questionStats || {};
+  const doubtful = new Set(state.progress.doubtfulQuestionIds || []);
+  const saved = new Set(state.progress.savedQuestionIds || []);
+  return candidates.reduce((acc, question) => {
+    const item = stats[question.id] || {};
+    if (Number(item.incorrect) > 0) acc.wrong += 1;
+    if (Number(item.blank) > 0) acc.blank += 1;
+    if (doubtful.has(question.id)) acc.doubtful += 1;
+    if (saved.has(question.id)) acc.saved += 1;
+    return acc;
+  }, { wrong: 0, blank: 0, doubtful: 0, saved: 0 });
 }
 
 function sampleReviewQuestions() {
   const candidates = reviewCandidates();
   const selected = candidates.slice(0, Math.min(20, candidates.length));
+  const summary = reviewSummary(candidates);
   return {
-    questions: shuffledOptions(selected),
+    questions: selected,
     notice: candidates.length
-      ? `Repaso inteligente: ${candidates.length} preguntas marcadas por fallos, blancos, dudas o guardado.`
+      ? `Repaso inteligente: prioriza ${summary.wrong} fallo(s) y ${summary.blank} blanco(s); después entran ${summary.doubtful} dudosa(s) y ${summary.saved} guardada(s).`
       : ''
   };
 }
@@ -507,6 +522,40 @@ function unitStudyScope(unitId) {
   };
 }
 
+function unitStudyPlainGuide(unit, reading) {
+  const scope = unitStudyScope(unit.id);
+  const hasLaws = Boolean(reading?.lawIds?.length);
+  const hasDocs = Boolean(reading?.documentIds?.length);
+  const status = scope.status;
+  const study = scope.study;
+  const sourceText = hasLaws && hasDocs
+    ? 'Lee primero las normas marcadas y completa con las guías del mundo.'
+    : hasLaws
+      ? 'Lee las normas marcadas; si una está recortada, basta con la versión de estudio.'
+      : 'Estudia las fuentes y guías: aquí no hay una ley que memorizar de principio a fin.';
+  const avoidText = status === 'partial'
+    ? 'No leas todo como si fuera temario íntegro: quédate con los apartados señalados y las preguntas ancladas.'
+    : status === 'support'
+      ? 'No busques artículos donde no los hay: aquí importan vocabulario, conceptos y hechos verificables.'
+      : status === 'context' || status === 'low'
+        ? 'No lo conviertas en prioridad: sirve para situar el tema o resolver dudas concretas.'
+        : 'No amplíes por libre antes de dominar lo marcado en este mundo.';
+  const trainText = unit.topicIds.length > 1
+    ? 'Después haz los temas en orden y cierra con el cuestionario final del mundo.'
+    : 'Después haz el test del tema y repite solo si no llegas al mínimo.';
+  return { study, sourceText, avoidText, trainText };
+}
+
+function renderUnitStudyBrief(unit, reading) {
+  const guide = unitStudyPlainGuide(unit, reading);
+  return `
+    <aside class="unit-study-brief" aria-label="Qué estudiar en este mundo">
+      <div><strong>Estudia</strong><span>${escapeHtml(guide.study)}</span></div>
+      <div><strong>No te líes</strong><span>${escapeHtml(guide.avoidText)}</span></div>
+      <div><strong>Entrena así</strong><span>${escapeHtml(guide.trainText)}</span></div>
+    </aside>`;
+}
+
 function studyScopeBadge(scope) {
   const status = studyStatus(scope.status);
   return `<span class="scope-badge is-${escapeHtml(status.tone || scope.status)}">${escapeHtml(status.label)}</span>`;
@@ -527,6 +576,103 @@ function renderHomeMenu() {
     <button class="home-menu-card menu-practical" type="button" data-home-action="practico"><span class="home-menu-icon" aria-hidden="true">◆</span><span class="home-menu-label">Supuesto pr&#225;ctico</span><small>Qu&#233; es, hist&#243;rico y supuestos para entrenar.</small></button>
     <button class="home-menu-card menu-laws" type="button" data-home-action="laws"><span class="home-menu-icon" aria-hidden="true">§</span><span class="home-menu-label">Estudio</span><small>Legislación y fuentes de apoyo, separadas por tipo.</small></button>
     <button class="home-menu-card menu-official" type="button" data-home-action="official"><span class="home-menu-icon" aria-hidden="true">▣</span><span class="home-menu-label">Material oficial</span><small>Ex&#225;menes anteriores y documentos de referencia.</small></button>`;
+}
+
+function nextHomeGuidance() {
+  if (state.progress.activeSession?.questionIds?.length) {
+    return {
+      tone: 'resume',
+      kicker: 'Sesión guardada',
+      title: 'Ahora toca: continuar donde lo dejaste',
+      body: 'Hay un test empezado. Lo más fácil es retomarlo antes de abrir otro bloque.',
+      action: 'Continuar sesión',
+      actionType: 'resume'
+    };
+  }
+
+  const units = orderedUnits();
+  const unitIndex = units.findIndex((unit, index) => unitIsUnlocked(index) && !state.progress.completedUnits.includes(unit.id));
+  if (unitIndex === -1) {
+    return {
+      tone: 'complete',
+      kicker: 'Historia completa',
+      title: 'Ahora toca: consolidar y simular',
+      body: 'Ya está abierto el camino completo. Lo útil ahora es repasar fallos y alternar con modo examen.',
+      action: 'Ir a repaso',
+      actionType: 'review'
+    };
+  }
+
+  const unit = units[unitIndex];
+  const unitWeight = formatExamWeight(unitExamWeight(unit));
+  if (!unitIsRead(unit)) {
+    return {
+      tone: 'reading',
+      kicker: `Mundo ${unitIndex + 1} de ${units.length} · ${unitWeight} del examen`,
+      title: `Ahora toca: leer ${unit.title}`,
+      body: 'Primero mira el material de estudio de este mundo; después la app te deja avanzar por sus tests.',
+      action: 'Abrir modo Historia',
+      actionType: 'story',
+      unitId: unit.id
+    };
+  }
+
+  const topicId = unit.topicIds.find((id, topicIndex) => !state.progress.completedTopics.includes(id) && topicIsUnlocked(unit, unitIndex, topicIndex));
+  if (topicId) {
+    const topic = state.content.topicsById[topicId];
+    return {
+      tone: 'quiz',
+      kicker: `Mundo ${unitIndex + 1} de ${units.length} · ${unitWeight} del examen`,
+      title: `Ahora toca: ${topicLabel(topic)}`,
+      body: `Haz el cuestionario breve de este tema. Si no sale, reintentas: no es castigo, es entrenamiento.`,
+      action: 'Empezar test',
+      actionType: 'topic',
+      unitId: unit.id,
+      topicId
+    };
+  }
+
+  return {
+    tone: 'final',
+    kicker: `Mundo ${unitIndex + 1} de ${units.length} · ${unitWeight} del examen`,
+    title: `Ahora toca: cerrar ${unit.title}`,
+    body: 'Ya has pasado los temas de este mundo. Falta el cuestionario final para desbloquear el siguiente.',
+    action: 'Hacer final',
+    actionType: 'unit-final',
+    unitId: unit.id
+  };
+}
+
+function renderHomeGuidance() {
+  const panel = $('#home-guidance');
+  if (!panel || !state.content.studyPlan) return;
+  const guidance = nextHomeGuidance();
+  panel.className = `home-guidance is-${guidance.tone}`;
+  panel.innerHTML = `
+    <div class="home-guidance-copy">
+      <span>${escapeHtml(guidance.kicker)}</span>
+      <strong>${escapeHtml(guidance.title)}</strong>
+      <p>${escapeHtml(guidance.body)}</p>
+    </div>
+    <button
+      id="home-guidance-action"
+      class="primary compact-action"
+      type="button"
+      data-guidance-action="${escapeHtml(guidance.actionType)}"
+      data-guidance-unit="${escapeHtml(guidance.unitId || '')}"
+      data-guidance-topic="${escapeHtml(guidance.topicId || '')}"
+    >${escapeHtml(guidance.action)}</button>`;
+}
+
+function handleHomeGuidanceAction() {
+  const button = $('#home-guidance-action');
+  if (!button) return;
+  const action = button.dataset.guidanceAction;
+  if (action === 'resume') resumeActiveSession();
+  else if (action === 'review') start('repaso');
+  else if (action === 'topic') start('historia-tema', button.dataset.guidanceTopic, 'aleatorio', button.dataset.guidanceUnit);
+  else if (action === 'unit-final') start('historia-unidad', button.dataset.guidanceUnit, 'aleatorio', button.dataset.guidanceUnit);
+  else openStoryAtUnit(button.dataset.guidanceUnit);
 }
 
 function renderExamChoicePanel() {
@@ -653,7 +799,15 @@ function renderPracticalPanel() {
   $('#home-practical').innerHTML = `
     <div class="panel-back-row"><button class="secondary" type="button" data-practical-back>&#8592; Inicio</button></div>
     <h2>Supuesto pr&#225;ctico</h2>
-    <p>Empieza por uno de estos tres caminos. Cada tarjeta abre el apartado correspondiente del dossier.</p>
+    <p>Empieza por uno de estos caminos. Cada tarjeta abre el apartado correspondiente del dossier, con índice y navegación.</p>
+    <aside class="practical-roadmap">
+      <strong>Orden recomendado para Mar&#237;a</strong>
+      <ol>
+        <li>Leer <em>Qu&#233; es</em> para entender formato y puntuaci&#243;n.</li>
+        <li>Mirar <em>Hist&#243;rico real</em> para ver qu&#233; ha pedido de verdad el tribunal.</li>
+        <li>Practicar con <em>Supuesto futuro</em> y despu&#233;s escribir una respuesta semanal a reloj.</li>
+      </ol>
+    </aside>
     <div class="practical-menu" aria-label="Apartados del supuesto pr&#225;ctico">
       <button class="practical-menu-card practical-menu-0" type="button" data-practical-anchor="study-1-la-prueba"><span class="practical-menu-icon">0</span><strong>Qu&#233; es</strong><small>Formato, tiempo, puntuaci&#243;n y lectura oral.</small></button>
       <button class="practical-menu-card practical-menu-1" type="button" data-practical-anchor="study-2-lo-que-de-verdad-pide-el-tribunal"><span class="practical-menu-icon">1</span><strong>Hist&#243;rico real</strong><small>Qu&#233; han pedido los supuestos reales.</small></button>
@@ -1392,6 +1546,7 @@ function renderStory() {
           <span class="unit-progress">${completedTopics}/${unit.topicIds.length}</span>
         </button>
         <div class="unit-body" ${expanded ? '' : 'hidden'}>
+          ${renderUnitStudyBrief(unit, reading)}
           ${readingBlock}
           <ol class="story-topics">${topics}</ol>
           <div class="unit-final">
@@ -1515,6 +1670,73 @@ function modeLabel() {
   return 'Libre';
 }
 
+function activeHistoryUnit() {
+  if (state.unitId) return state.content.unitsById?.[state.unitId] || orderedUnits().find(unit => unit.id === state.unitId);
+  return currentHistoryUnitId()
+    ? state.content.unitsById?.[currentHistoryUnitId()] || orderedUnits().find(unit => unit.id === currentHistoryUnitId())
+    : null;
+}
+
+function historyBriefForCurrentQuiz() {
+  if (!state.mode?.startsWith('historia')) return null;
+  const unit = activeHistoryUnit();
+  if (!unit) return null;
+  const unitScope = unitStudyScope(unit.id);
+  const passPercent = Math.round((state.content.studyPlan?.historyRules?.passThreshold || 0.7) * 100);
+  if (state.mode === 'historia-tema') {
+    const topic = state.content.topicsById[state.topicId];
+    if (!topic) return null;
+    const stats = state.questions
+      .map(question => state.progress.questionStats?.[question.id] || {})
+      .reduce((acc, item) => ({
+        wrong: acc.wrong + (Number(item.incorrect) || 0),
+        blank: acc.blank + (Number(item.blank) || 0)
+      }), { wrong: 0, blank: 0 });
+    const sourceHint = unitScope.status === 'support'
+      ? 'Responde conceptos y hechos verificables; no hace falta citar artículos.'
+      : unitScope.status === 'partial'
+        ? 'Céntrate en el alcance marcado, no en memorizar la norma completa.'
+        : 'Fíjate en definiciones, órganos, plazos y diferencias literales.';
+    const weakHint = stats.wrong || stats.blank
+      ? `${stats.wrong + stats.blank} respuesta(s) previa(s) de este test ya aparecen como fallo o blanco: léelas despacio.`
+      : 'Primera vuelta limpia: si dudas, márcala y vuelve desde Repaso.';
+    return {
+      kicker: `${topicLabel(topic)} · ${formatExamWeight(topicExamWeight(topic.id))} del examen`,
+      title: 'Antes de contestar',
+      points: [
+        `Objetivo: superar el ${passPercent}% y responder todas para avanzar.`,
+        sourceHint,
+        weakHint
+      ]
+    };
+  }
+  return {
+    kicker: `${unit.title} · ${formatExamWeight(unitExamWeight(unit))} del examen`,
+    title: 'Antes del final del mundo',
+    points: [
+      'Esto mezcla los temas ya superados: no es para correr, es para consolidar.',
+      unitScope.study,
+      `Mínimo: ${passPercent}% y ninguna en blanco para desbloquear el siguiente mundo.`
+    ]
+  };
+}
+
+function renderHistoryBrief() {
+  const panel = $('#history-brief');
+  if (!panel) return;
+  const brief = historyBriefForCurrentQuiz();
+  if (!brief || state.index > 0) {
+    panel.hidden = true;
+    panel.innerHTML = '';
+    return;
+  }
+  panel.innerHTML = `
+    <span>${escapeHtml(brief.kicker)}</span>
+    <strong>${escapeHtml(brief.title)}</strong>
+    <ul>${brief.points.map(point => `<li>${escapeHtml(point)}</li>`).join('')}</ul>`;
+  panel.hidden = false;
+}
+
 function resumeActiveSession() {
   const saved = state.progress.activeSession;
   if (!saved?.questionIds?.length) return;
@@ -1585,6 +1807,7 @@ function renderQuestion() {
   quizNotice.textContent = state.sessionNotice;
   quizNotice.hidden = !state.sessionNotice;
   $('#question-count').textContent = `${state.index + 1} / ${state.questions.length}`;
+  renderHistoryBrief();
   const origin = $('#question-origin');
   if (question.origin) {
     origin.textContent = `${question.origin.label} · Pregunta ${question.origin.questionNumber} · material histórico de comparación`;
@@ -1650,11 +1873,18 @@ function renderFeedback(response) {
 function applyResponse(response) {
   $('#options').classList.add('answered');
   $('#blank').hidden = true;
+  const right = !response.blank && response.optionId === state.questions[state.index].correctOptionId;
   $('#options').querySelectorAll('.option').forEach(button => {
     button.title = 'Tocar para pasar a la siguiente pregunta';
     button.setAttribute('aria-label', `${button.textContent.trim()}. Tocar de nuevo para pasar a la siguiente pregunta`);
     if (!response.blank && button.dataset.option === state.questions[state.index].correctOptionId) button.classList.add('correct');
     if (!response.blank && button.dataset.option === response.optionId && response.optionId !== state.questions[state.index].correctOptionId) button.classList.add('wrong');
+    if (!response.blank && button.dataset.option === response.optionId) {
+      button.classList.add(right ? 'answer-pop-correct' : 'answer-shake-wrong');
+      button.addEventListener('animationend', () => {
+        button.classList.remove('answer-pop-correct', 'answer-shake-wrong');
+      }, { once: true });
+    }
   });
   renderFeedback(response);
   $('#next').hidden = false;
@@ -1851,6 +2081,7 @@ function openHomePanel(panelId) {
 function renderProgress() {
   $('#progress').textContent = `${state.progress.correct} aciertos · ${state.progress.completedUnits.length}/19 unidades`;
   renderResumeControl();
+  renderHomeGuidance();
 }
 
 renderHomeMenu();
@@ -1981,6 +2212,9 @@ document.querySelectorAll('[data-home-action]').forEach(button => button.addEven
   else if (action === 'laws') { renderLawCatalog(); openLawCatalog(); }
   else if (action === 'official') openHomePanel('home-official');
 }));
+$('#home-guidance').addEventListener('click', event => {
+  if (event.target.closest('#home-guidance-action')) handleHomeGuidanceAction();
+});
 
 applyTheme(themePreference);
 const colorSchemeQuery = window.matchMedia?.('(prefers-color-scheme: dark)');
