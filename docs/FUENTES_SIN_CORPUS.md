@@ -1,31 +1,139 @@
-# Fuentes pendientes para los 14 temas sin corpus
+# Fuentes no legislativas: qué estudiar y qué no
 
-El lote `pool3` ha cubierto los temas que ya tenían corpus jurídico o CNECP. Los 14 temas siguientes siguen a cero y no se generarán preguntas hasta fijar una fuente editorial verificable.
+Esta oposición no se prepara solo con leyes. Hay temas de historia, públicos, programación, escena, planificación o tecnología que no tienen un artículo legal detrás. Para esos temas usamos fuentes de apoyo: documentos oficiales, publicaciones institucionales y referencias profesionales.
 
-## Fuentes institucionales ya identificadas
+La regla importante es esta: **las fuentes largas no son deberes de lectura completa**. Están en la app para justificar preguntas, consultar dudas y abrir el apartado exacto con “Ver fuente”. María debe estudiar el concepto del temario, no memorizar documentos enteros.
 
-### Historia de las artes · `especifico-06` a `especifico-10`
+## Historia de las artes
 
-El **Centro de Documentación de las Artes Escénicas y de la Música (CDAEM)** es una unidad del INAEM que reúne documentación de teatro, circo, música y danza. La fuente institucional explica su creación y su función de inventariado, catalogación y difusión del patrimonio documental: [CDAEM e INAEM](https://www.cultura.gob.es/cultura/artesescenicas/contenedora-noticias-prensa/a2019/abril/cdaem.html). Sus publicaciones y catálogos pueden servir para anclas bibliográficas, pero todavía hay que seleccionar obras y apartados concretos antes de convertirlos en preguntas.
+Temas: teatro, música, danza, circo y artes visuales.
 
-Para `especifico-10` (artes visuales) se revisarán además catálogos y publicaciones de museos estatales del Ministerio de Cultura; no se asumirá que una fuente de artes escénicas cubra automáticamente artes visuales.
+Qué estudiar:
 
-### Públicos, comunicación y programación · `especifico-21` a `especifico-25`
+- nombres, conceptos, géneros y funciones básicas;
+- diferencias claras entre formas artísticas;
+- instituciones y recursos documentales relevantes cuando aparezcan en preguntas;
+- nivel de test: definición, identificación o atribución.
 
-La **Encuesta de Hábitos y Prácticas Culturales en España** es una operación estadística oficial del Ministerio de Cultura, incluida en el Plan Estadístico Nacional. Su ficha describe población, periodicidad, muestreo y variables de participación, satisfacción, motivos y barreras: [metodología EHPC](https://www.cultura.gob.es/servicios-al-ciudadano/estadisticas/cultura/mc/culturabase/encuesta-de-habitos/metodologia-habitos.html). Los resultados 2024-2025 incluyen apartados específicos de artes escénicas, música, participación activa y equipamientos: [resultados EHPC 2024-2025](https://www.cultura.gob.es/servicios-a-la-ciudadania/estadisticas/cultura/mc/culturabase/encuesta-de-habitos/resultados-habitos/2024-2025.html).
+Qué no estudiar:
 
-Esta fuente sirve para indicadores y análisis de públicos; no cubre por sí sola segmentación, posicionamiento, diseño de campañas o comisariado artístico. Esos subapartados requerirán bibliografía profesional adicional.
+- historia universal del arte en detalle;
+- crítica artística;
+- biografías largas;
+- lenguaje musical que ya no está en el temario.
 
-## Pendientes de decisión editorial
+Fuentes de respaldo:
 
-- `especifico-13`: políticas y modelos culturales, gobernanza y economía creativa.
-- `especifico-18` y `especifico-19`: planificación estratégica, evaluación y retorno social.
-- `especifico-27`: economía de la cultura e industrias culturales y creativas.
+- CDAEM para danza y patrimonio documental;
+- Anuario de Estadísticas Culturales cuando la pregunta sea sobre sectores o datos culturales;
+- examen histórico solo como calibrador de dificultad.
 
-Para estos cuatro temas se buscarán primero estrategias y estadísticas oficiales del Ministerio de Cultura, INAEM, Unión Europea y organismos internacionales. Hasta identificar apartados estables, se mantendrán a cero y no se usarán anclas jurídicas de conveniencia.
+## Públicos, comunicación, mediación y programación
 
-## Criterio para la siguiente importación
+Temas: marketing cultural, públicos, comunicación, mediación, educación, participación, programación, comisariado, temporadas, festivales y circuitos.
 
-Cada fuente deberá tener institución autora, título, URL estable, fecha o edición y un apartado local con `anchorId`. Las preguntas se etiquetarán como `bibliografia` y explicarán si la fuente aporta una definición, una metodología, un indicador o un marco de política cultural. No se presentarán datos estadísticos de una edición concreta como si fueran una regla permanente.
+Qué estudiar:
 
-Para contenidos académicos o profesionales sin ancla institucional estable se admite además `source.kind: "referencia"`, con `reference`, autoría o edición cuando se conozcan y, opcionalmente, URL y localizador bibliográfico. Estas preguntas no se presentarán como legislación ni como fuente oficial; el objetivo es declarar honestamente el origen académico o profesional.
+- segmentación, posicionamiento, abonos y descuentos;
+- públicos, audiencias y hábitos culturales;
+- comunicación y difusión de proyectos culturales;
+- mediación, educación y participación;
+- programación, comisariado, temporadas, festivales y circuitos.
+
+Qué no estudiar:
+
+- marketing comercial general;
+- campañas publicitarias completas;
+- opiniones sobre “la mejor” estrategia;
+- textos de política cultural que no definan conceptos verificables.
+
+Fuentes de respaldo:
+
+- Anuario de Estadísticas Culturales;
+- guías de indicadores y planificación cultural;
+- Plan de Derechos Culturales para participación, mediación y acceso.
+
+## Planificación estratégica y estadísticas
+
+Temas: planes estratégicos, diagnóstico, objetivos, indicadores, evaluación, retorno social, estadísticas e indicadores culturales.
+
+Qué estudiar:
+
+- qué es un diagnóstico;
+- qué es un objetivo;
+- qué es un indicador;
+- diferencia entre resultado, impacto y retorno social;
+- para qué sirven las estadísticas culturales.
+
+Qué no estudiar:
+
+- consultoría estratégica abierta;
+- modelos empresariales no culturales;
+- tablas estadísticas completas;
+- datos concretos sin relevancia conceptual.
+
+Fuentes de respaldo:
+
+- FEMP e indicadores culturales;
+- Anuario de Estadísticas Culturales;
+- Cuenta Satélite de la Cultura;
+- Plan de Derechos Culturales cuando se hable de evaluación de políticas culturales.
+
+## Producción, políticas y economía de la cultura
+
+Temas: producción ejecutiva, políticas culturales, tercer sector, modelos de gestión, economía de la cultura e industrias culturales y creativas.
+
+Qué estudiar:
+
+- roles de producción y gestión;
+- fases y documentos básicos de producción;
+- qué son industrias culturales y creativas;
+- gobernanza y modelos culturales;
+- tercer sector cultural, asociaciones y fundaciones.
+
+Qué no estudiar:
+
+- ejecución técnica de montaje;
+- economía general;
+- fiscalidad completa;
+- programas públicos no conectados con el temario.
+
+Fuentes de respaldo:
+
+- CNECP/CNCP técnico cuando el tema sea producción o escena;
+- Componente 24 para economía cultural, digitalización y modernización;
+- Anuario para magnitudes culturales;
+- legislación de asociaciones, fundaciones y mecenazgo cuando el epígrafe sea jurídico.
+
+## Técnica escénica, regiduría y tecnología
+
+Temas: espacio escénico, edificio teatral, escenografía, maquinaria, utilería, iluminación, sonido, vídeo, sastrería, caracterización, dirección de escenario, gira y software aplicado.
+
+Qué estudiar:
+
+- vocabulario básico;
+- elementos del espacio escénico;
+- funciones de maquinaria, utilería, iluminación, sonido y vídeo;
+- conceptos básicos de sastrería, maquillaje y peluquería;
+- libro de regiduría, coordinación, ensayos, función y gira;
+- usos generales de herramientas digitales.
+
+Qué no estudiar:
+
+- oficio completo de técnico M1;
+- química capilar;
+- costura profesional avanzada;
+- cableado o software a nivel de especialista;
+- maniobras técnicas complejas.
+
+Fuentes de respaldo:
+
+- CNECP/CNCP técnico;
+- temarios M1 del INAEM solo como calibrador;
+- normas de seguridad cuando el tema sea PRL, edificio o espectáculos.
+
+## Cómo usar “Ver fuente”
+
+Cuando una pregunta no sale de una ley, “Ver fuente” abre el documento que justifica esa pregunta. Eso no significa que María tenga que leerse el documento entero. Significa: “esta pregunta sale de este apartado”.
+
+Si una fuente parece demasiado larga, el criterio es simple: estudiar solo el apartado conectado con la pregunta y con el epígrafe oficial de la convocatoria.

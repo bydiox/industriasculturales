@@ -4,6 +4,8 @@ Este documento explica qué debe estudiar María en cada mundo del modo Historia
 
 La app no debe inventar leyes para los temas que no son jurídicos. Cuando un tema es editorial, técnico o bibliográfico, se marca así y se estudia con fuentes de apoyo.
 
+Para el corte tema por tema, usa también **Delimitación explícita de la convocatoria**. Ese documento dice qué entra en cada uno de los 60 temas y qué materiales no deben ampliar el banco principal aunque estén dentro de la app.
+
 ## Cómo leer este mapa
 
 - **Legislación**: normas que sí forman parte del estudio directo.

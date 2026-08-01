@@ -75,7 +75,7 @@
       "documentIds": ["mapa-historia"]
     },
     "U17": {
-      "lawIds": ["rd-992-2014"],
+      "lawIds": ["rd-992-2014-cte"],
       "documentIds": ["mapa-historia", "tecnico", "m1-cuestionarios"]
     }
   }

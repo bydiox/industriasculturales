@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "description": "Fuentes no legislativas que sirven para estudiar o justificar preguntas cuando el temario no se responde con una norma jurídica.",
+  "documents": [
+    {
+      "id": "src-cncp-technical",
+      "title": "CNECP/CNCP técnico de escena y producción",
+      "summary": "Estándares profesionales oficiales para espacio escénico, maquinaria, iluminación, sonido, vídeo, producción y regiduría. Se estudia como fuente técnica, no como ley.",
+      "file": "data/sources/cncp-technical.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "source",
+      "showInStudyCatalog": false
+    },
+    {
+      "id": "src-cdaem-danza",
+      "title": "CDAEM: danza y patrimonio escénico",
+      "summary": "Fuente institucional para estudiar documentación de danza, patrimonio escénico y recursos del CDAEM sin convertirlo en articulado legal.",
+      "file": "data/sources/fuente-cdaem-danza.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "source",
+      "showInStudyCatalog": false
+    },
+    {
+      "id": "src-anuario-estadisticas",
+      "title": "Anuario de Estadísticas Culturales",
+      "summary": "Fuente oficial para datos culturales, hábitos, sectores, empleo, gasto, museos, artes escénicas y magnitudes culturales.",
+      "file": "data/sources/fuente-anuario-estadisticas-2024.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "source",
+      "showInStudyCatalog": false
+    },
+    {
+      "id": "src-femp-indicadores",
+      "title": "FEMP: indicadores y planificación cultural",
+      "summary": "Fuente de apoyo para planificación estratégica, indicadores, evaluación, públicos y gestión cultural local.",
+      "file": "data/sources/fuente-femp-indicadores.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "source",
+      "showInStudyCatalog": false
+    },
+    {
+      "id": "src-plan-derechos-culturales",
+      "title": "Plan de Derechos Culturales",
+      "summary": "Fuente institucional para derechos culturales, participación, mediación, inclusión, públicos y acceso a la cultura.",
+      "file": "data/sources/fuente-plan-derechos-culturales.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "source",
+      "showInStudyCatalog": false
+    },
+    {
+      "id": "src-componente-24",
+      "title": "Componente 24: revalorización de la industria cultural",
+      "summary": "Fuente para economía de la cultura, digitalización, financiación, modernización sectorial y políticas públicas culturales.",
+      "file": "data/sources/fuente-componente-24.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "source",
+      "showInStudyCatalog": false
+    },
+    {
+      "id": "src-insst-estadistica",
+      "title": "INSST y estadísticas culturales",
+      "summary": "Fuentes oficiales de apoyo para carga mental, estrés laboral, Anuario de Estadísticas Culturales y Cuenta Satélite de la Cultura.",
+      "file": "data/sources/m3-bibliography.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "source",
+      "showInStudyCatalog": false
+    },
+    {
+      "id": "src-inaem-m1-2022",
+      "title": "Temario INAEM M1 2022 como calibrador técnico",
+      "summary": "Referencia comparativa para calibrar vocabulario técnico de escena, sastrería, caracterización, regiduría y artes visuales. No sustituye el temario M3.",
+      "file": "data/sources/inaem-m1-2022.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "official",
+      "showInStudyCatalog": false
+    }
+  ]
+}

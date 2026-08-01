@@ -31,66 +31,245 @@
   "defaultLawStatus": "study",
   "defaultDocumentStatus": "support",
   "units": {
-    "U01": { "status": "study", "study": "Constitución, Corona, Cortes, Gobierno y organización territorial." },
-    "U05": { "status": "study", "study": "TREBEP, selección, incompatibilidades y, sobre todo, IV Convenio Único." },
-    "U15": { "status": "support", "study": "Técnica escénica: estudiar fuentes profesionales y usar las normas solo para seguridad y edificios." },
-    "U03": { "status": "study", "study": "Ley 39/2015, Ley 40/2015 y aplicación administrativa al INAEM." },
-    "U02": { "status": "study", "study": "Tratados y fuentes del Derecho de la Unión Europea." },
-    "U07": { "status": "partial", "study": "INAEM y centros: estudiar organización vigente, misiones y modelos de gestión; cuidado con estatutos anteriores." },
-    "U06": { "status": "study", "study": "Contrato de trabajo, representación, sindicatos, huelga y conflicto colectivo." },
-    "U04": { "status": "partial", "study": "LCSP como núcleo. Estatuto del Artista: régimen aplicable y reforma reciente como contexto." },
-    "U08": { "status": "support", "study": "Historia de teatro, música, danza, circo y artes visuales. No hay legislación que memorizar." },
-    "U10": { "status": "partial", "study": "Tercer sector y mecenazgo con leyes; producción, políticas y economía cultural con fuentes editoriales." },
-    "U18": { "status": "partial", "study": "Prevención con normas; carga mental y estrés con fuentes técnicas del INSST." },
-    "U13": { "status": "support", "study": "Públicos, comunicación, mediación y programación. Se estudia con fuentes profesionales, no con leyes." },
-    "U12": { "status": "partial", "study": "Estadística con marco legal y publicaciones oficiales; planificación estratégica con metodología." },
-    "U14": { "status": "partial", "study": "Mecenazgo y propiedad intelectual como núcleo; IA y colaboración público-privada como contexto aplicado." },
-    "U16": { "status": "support", "study": "Regiduría y dirección de escenario: oficio, fuentes técnicas y supuesto práctico." },
-    "U11": { "status": "partial", "study": "Igualdad, discapacidad y accesibilidad con normas; derechos culturales y sostenibilidad con planes y fuentes." },
-    "U09": { "status": "partial", "study": "Patrimonio y museos con legislación; memoria de artes escénicas con fuentes documentales." },
-    "U19": { "status": "study", "study": "Gestión presupuestaria, subvenciones, ingresos y convenios del sector público." },
-    "U17": { "status": "support", "study": "Ofimática, software escénico y nuevas tecnologías: estudiar funciones y usos, no una norma jurídica." }
+    "U01": {
+      "status": "study",
+      "study": "Constitución, Corona, Cortes, Gobierno y organización territorial."
+    },
+    "U05": {
+      "status": "study",
+      "study": "TREBEP, selección, incompatibilidades y, sobre todo, IV Convenio Único."
+    },
+    "U15": {
+      "status": "support",
+      "study": "Técnica escénica: estudiar fuentes profesionales y usar las normas solo para seguridad y edificios."
+    },
+    "U03": {
+      "status": "study",
+      "study": "Ley 39/2015, Ley 40/2015 y aplicación administrativa al INAEM."
+    },
+    "U02": {
+      "status": "study",
+      "study": "Tratados y fuentes del Derecho de la Unión Europea."
+    },
+    "U07": {
+      "status": "partial",
+      "study": "INAEM y centros: estudiar organización vigente, misiones y modelos de gestión; cuidado con estatutos anteriores."
+    },
+    "U06": {
+      "status": "study",
+      "study": "Contrato de trabajo, representación, sindicatos, huelga y conflicto colectivo."
+    },
+    "U04": {
+      "status": "partial",
+      "study": "LCSP como núcleo. Estatuto del Artista: régimen aplicable y reforma reciente como contexto."
+    },
+    "U08": {
+      "status": "support",
+      "study": "Historia de teatro, música, danza, circo y artes visuales. No hay legislación que memorizar."
+    },
+    "U10": {
+      "status": "partial",
+      "study": "Tercer sector y mecenazgo con leyes; producción, políticas y economía cultural con fuentes editoriales."
+    },
+    "U18": {
+      "status": "partial",
+      "study": "Prevención con normas; carga mental y estrés con fuentes técnicas del INSST."
+    },
+    "U13": {
+      "status": "support",
+      "study": "Públicos, comunicación, mediación y programación. Se estudia con fuentes profesionales, no con leyes."
+    },
+    "U12": {
+      "status": "partial",
+      "study": "Estadística con marco legal y publicaciones oficiales; planificación estratégica con metodología."
+    },
+    "U14": {
+      "status": "partial",
+      "study": "Mecenazgo y propiedad intelectual como núcleo; IA y colaboración público-privada como contexto aplicado."
+    },
+    "U16": {
+      "status": "support",
+      "study": "Regiduría y dirección de escenario: oficio, fuentes técnicas y supuesto práctico."
+    },
+    "U11": {
+      "status": "partial",
+      "study": "Igualdad, discapacidad y accesibilidad con normas; derechos culturales y sostenibilidad con planes y fuentes."
+    },
+    "U09": {
+      "status": "partial",
+      "study": "Patrimonio y museos con legislación; memoria de artes escénicas con fuentes documentales."
+    },
+    "U19": {
+      "status": "study",
+      "study": "Gestión presupuestaria, subvenciones, ingresos y convenios del sector público."
+    },
+    "U17": {
+      "status": "support",
+      "study": "Ofimática, software escénico y nuevas tecnologías: estudiar funciones y usos, no una norma jurídica."
+    }
   },
   "laws": {
-    "rd-314-2006": { "status": "partial", "study": "Interesa por edificios, seguridad y adecuación funcional, no como Código Técnico completo." },
-    "rd-486-1997": { "status": "partial", "study": "Sirve para lugares de trabajo y condiciones de seguridad; no explica iluminación artística." },
-    "rd-1215-1997": { "status": "partial", "study": "Equipos de trabajo y seguridad, especialmente en escenario y montajes." },
-    "rd-773-1997": { "status": "partial", "study": "Equipos de protección individual. Estudiar lo necesario para prevención." },
-    "rd-2816-1982": { "status": "partial", "study": "Seguridad y funcionamiento de espectáculos y locales. No cubre todo el oficio escénico." },
-    "rd-1028-2025": { "status": "study", "study": "Clave para la estructura reciente del Ministerio/INAEM." },
-    "rd-2491-1996": { "status": "partial", "study": "Útil para estructura y funciones del INAEM, pero contrastar con reorganización posterior." },
-    "orden-cul-2039-2011-cdn": { "status": "partial", "study": "Estudiar misión y modelo de gestión del centro; cuidado con organigramas desactualizados." },
-    "orden-cul-3355-2010-cntc": { "status": "partial", "study": "Estudiar misión y modelo de gestión del centro; no usar como organigrama vigente sin contraste." },
-    "orden-cul-451-2011-zarzuela": { "status": "partial", "study": "Estudiar misión y modelo de gestión del Teatro de la Zarzuela." },
-    "orden-cul-3359-2011-cndm": { "status": "partial", "study": "Estudiar fines, programación y modelo de difusión musical." },
-    "orden-cul-3065-2010-bne": { "status": "partial", "study": "Estudiar misión y modelo artístico del Ballet Nacional de España." },
-    "orden-cul-1993-2010-cnd": { "status": "partial", "study": "Estudiar misión y modelo artístico de la Compañía Nacional de Danza." },
-    "rd-2084-1978-ocne": { "status": "context", "study": "Norma histórica/obsoleta para OCNE. No estudiar como organización vigente." },
-    "rd-1245-2002": { "status": "partial", "study": "Reglamento vigente de la ONE/OCNE. Estudiar organización y funcionamiento." },
-    "res-jonde-2023-becas": { "status": "low", "study": "Becas JONDE: material marginal. Solo consultar si aparece en una pregunta concreta." },
-    "cultura-magalia-2025": { "status": "support", "study": "Fuente institucional sobre Magalia. Usar como apoyo, no como norma con articulado." },
-    "cultura-inaem-centros-2026": { "status": "study", "study": "Fuente institucional actual para centros y estructura real del INAEM." },
-    "rd-1435-1985": { "status": "study", "study": "Régimen laboral especial artístico aplicable como base de estudio del test." },
-    "rd-607-2026": { "status": "context", "study": "Reforma futura del régimen artístico: saber que existe y qué cambia, no estudiarla como régimen principal aplicable." },
-    "rdl-5-2022": { "status": "partial", "study": "Cambios laborales del Estatuto del Artista. Estudiar efectos principales." },
-    "rdl-1-2023": { "status": "partial", "study": "Incentivos y protección social de artistas. Estudiar solo lo conectado con el temario." },
-    "ley-27-2014": { "status": "partial", "study": "Impuesto sobre Sociedades: apoyo para mecenazgo e incentivos, no estudio fiscal completo." },
-    "rdl-6-2023": { "status": "partial", "study": "Reforma puntual de la Ley 49/2002. Estudiar impacto en mecenazgo." },
-    "rdl-24-2021": { "status": "partial", "study": "Propiedad intelectual en mercado digital. Estudiar solo lo relacionado con derechos de autor e IA." },
-    "ley-50-1984": { "status": "partial", "study": "Interesa especialmente por la creación del INAEM." },
-    "rd-1009-2023": { "status": "partial", "study": "Estructura departamental: apoyo para ubicar el Ministerio y el INAEM." },
-    "rd-323-2024": { "status": "partial", "study": "Estructura del Ministerio de Cultura: estudiar como marco organizativo actual." },
-    "orden-cul-3520-2008": { "status": "support", "study": "Código de buenas prácticas del INAEM. Fuente de apoyo para gobernanza cultural." },
-    "ley-17-1997-cm": { "status": "support", "study": "Norma autonómica útil para espectáculos públicos en Madrid, pero no núcleo estatal de la convocatoria." }
+    "rd-314-2006": {
+      "status": "partial",
+      "study": "Interesa por edificios, seguridad y adecuación funcional, no como Código Técnico completo."
+    },
+    "rd-486-1997": {
+      "status": "partial",
+      "study": "Sirve para lugares de trabajo y condiciones de seguridad; no explica iluminación artística."
+    },
+    "rd-1215-1997": {
+      "status": "partial",
+      "study": "Equipos de trabajo y seguridad, especialmente en escenario y montajes."
+    },
+    "rd-773-1997": {
+      "status": "partial",
+      "study": "Equipos de protección individual. Estudiar lo necesario para prevención."
+    },
+    "rd-2816-1982": {
+      "status": "partial",
+      "study": "Seguridad y funcionamiento de espectáculos y locales. No cubre todo el oficio escénico."
+    },
+    "rd-1028-2025": {
+      "status": "study",
+      "study": "Clave para la estructura reciente del Ministerio/INAEM."
+    },
+    "rd-2491-1996": {
+      "status": "partial",
+      "study": "Útil para estructura y funciones del INAEM, pero contrastar con reorganización posterior."
+    },
+    "orden-cul-2039-2011-cdn": {
+      "status": "partial",
+      "study": "Estudiar misión y modelo de gestión del centro; cuidado con organigramas desactualizados."
+    },
+    "orden-cul-3355-2010-cntc": {
+      "status": "partial",
+      "study": "Estudiar misión y modelo de gestión del centro; no usar como organigrama vigente sin contraste."
+    },
+    "orden-cul-451-2011-zarzuela": {
+      "status": "partial",
+      "study": "Estudiar misión y modelo de gestión del Teatro de la Zarzuela."
+    },
+    "orden-cul-3359-2011-cndm": {
+      "status": "partial",
+      "study": "Estudiar fines, programación y modelo de difusión musical."
+    },
+    "orden-cul-3065-2010-bne": {
+      "status": "partial",
+      "study": "Estudiar misión y modelo artístico del Ballet Nacional de España."
+    },
+    "orden-cul-1993-2010-cnd": {
+      "status": "partial",
+      "study": "Estudiar misión y modelo artístico de la Compañía Nacional de Danza."
+    },
+    "rd-2084-1978-ocne": {
+      "status": "context",
+      "study": "Norma histórica/obsoleta para OCNE. No estudiar como organización vigente."
+    },
+    "rd-1245-2002": {
+      "status": "partial",
+      "study": "Reglamento vigente de la ONE/OCNE. Estudiar organización y funcionamiento."
+    },
+    "res-jonde-2023-becas": {
+      "status": "low",
+      "study": "Becas JONDE: material marginal. Solo consultar si aparece en una pregunta concreta."
+    },
+    "cultura-magalia-2025": {
+      "status": "support",
+      "study": "Fuente institucional sobre Magalia. Usar como apoyo, no como norma con articulado."
+    },
+    "cultura-inaem-centros-2026": {
+      "status": "study",
+      "study": "Fuente institucional actual para centros y estructura real del INAEM."
+    },
+    "rd-1435-1985": {
+      "status": "study",
+      "study": "Régimen laboral especial artístico aplicable como base de estudio del test."
+    },
+    "rd-607-2026": {
+      "status": "context",
+      "study": "Reforma futura del régimen artístico: saber que existe y qué cambia, no estudiarla como régimen principal aplicable."
+    },
+    "rdl-5-2022": {
+      "status": "partial",
+      "study": "Cambios laborales del Estatuto del Artista. Estudiar efectos principales."
+    },
+    "rdl-1-2023": {
+      "status": "partial",
+      "study": "Incentivos y protección social de artistas. Estudiar solo lo conectado con el temario."
+    },
+    "ley-27-2014": {
+      "status": "partial",
+      "study": "Impuesto sobre Sociedades: apoyo para mecenazgo e incentivos, no estudio fiscal completo."
+    },
+    "rdl-6-2023": {
+      "status": "partial",
+      "study": "Reforma puntual de la Ley 49/2002. Estudiar impacto en mecenazgo."
+    },
+    "rdl-24-2021": {
+      "status": "partial",
+      "study": "Propiedad intelectual en mercado digital. Estudiar solo lo relacionado con derechos de autor e IA."
+    },
+    "ley-50-1984": {
+      "status": "partial",
+      "study": "Interesa especialmente por la creación del INAEM."
+    },
+    "rd-1009-2023": {
+      "status": "partial",
+      "study": "Estructura departamental: apoyo para ubicar el Ministerio y el INAEM."
+    },
+    "rd-323-2024": {
+      "status": "partial",
+      "study": "Estructura del Ministerio de Cultura: estudiar como marco organizativo actual."
+    },
+    "orden-cul-3520-2008": {
+      "status": "support",
+      "study": "Código de buenas prácticas del INAEM. Fuente de apoyo para gobernanza cultural."
+    },
+    "ley-17-1997-cm": {
+      "status": "support",
+      "study": "Norma autonómica útil para espectáculos públicos en Madrid, pero no núcleo estatal de la convocatoria."
+    },
+    "rd-992-2014-cte": {
+      "status": "partial",
+      "study": "Centro de Tecnolog?a del Espect?culo como Centro de Referencia Nacional: calificaci?n, r?gimen jur?dico y ?rganos b?sicos."
+    }
   },
   "documents": {
-    "guia-maria": { "status": "study", "study": "Guía de orientación general para María." },
-    "mapa-historia": { "status": "study", "study": "Brújula principal para saber qué entra en cada mundo." },
-    "readme": { "status": "study", "study": "Uso de la app y forma de avanzar." },
-    "formato": { "status": "study", "study": "Formato, puntuación y estrategia de examen." },
-    "fuentes": { "status": "support", "study": "Fuentes para temas sin corpus legal. Consultar cuando el mundo sea editorial." },
-    "tecnico": { "status": "support", "study": "Fuentes técnicas INAEM/M1 para escena, sonido, iluminación, utilería, sastrería y dirección de escenario." },
-    "m1-cuestionarios": { "status": "support", "study": "Calibran dificultad y vocabulario técnico. No sustituyen el temario M3." },
-    "practico": { "status": "study", "study": "Dossier específico para preparar el supuesto práctico." }
+    "guia-maria": {
+      "status": "study",
+      "study": "Guía de orientación general para María."
+    },
+    "delimitacion": {
+      "status": "study",
+      "study": "Delimitación tema por tema de lo que entra en la convocatoria y de lo que no debe ampliarse."
+    },
+    "mapa-historia": {
+      "status": "study",
+      "study": "Brújula principal para saber qué entra en cada mundo."
+    },
+    "readme": {
+      "status": "study",
+      "study": "Uso de la app y forma de avanzar."
+    },
+    "formato": {
+      "status": "study",
+      "study": "Formato, puntuación y estrategia de examen."
+    },
+    "fuentes": {
+      "status": "support",
+      "study": "Fuentes para temas sin corpus legal. Consultar cuando el mundo sea editorial."
+    },
+    "tecnico": {
+      "status": "support",
+      "study": "Fuentes técnicas INAEM/M1 para escena, sonido, iluminación, utilería, sastrería y dirección de escenario."
+    },
+    "m1-cuestionarios": {
+      "status": "support",
+      "study": "Calibran dificultad y vocabulario técnico. No sustituyen el temario M3."
+    },
+    "practico": {
+      "status": "study",
+      "study": "Dossier específico para preparar el supuesto práctico."
+    }
   }
 }

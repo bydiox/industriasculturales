@@ -311,6 +311,17 @@
       "scopeStatus": "pending-anchor-selection",
       "label": "Texto completo",
       "note": "Norma autonómica útil para espectáculos públicos en Madrid, pero no núcleo estatal de la convocatoria. No se recorta automáticamente porque aún no hay anclas suficientes para delimitarlo con seguridad."
+    },
+    "rd-992-2014-cte": {
+      "mode": "selected",
+      "scopeStatus": "explicit-convocation-scope",
+      "label": "Solo lo que entra",
+      "note": "Interesa por la calificaci?n del Centro de Tecnolog?a del Espect?culo como Centro de Referencia Nacional y su marco b?sico.",
+      "anchorIds": [
+        "rd-992-2014-cte-a1",
+        "rd-992-2014-cte-a2",
+        "rd-992-2014-cte-anexo"
+      ]
     }
   },
   "generationPolicy": {

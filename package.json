@@ -1,13 +1,13 @@
 {
   "name": "m3-gestion-industrias-culturales-creativas",
-  "version": "0.1.51",
+  "version": "0.1.59",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "node scripts/serve.mjs",
     "version:bump": "node scripts/bump-version.mjs",
-    "check": "node --check src/app.js && node --check src/questions.js && node --check src/scoring.js && node --check src/option-quality.js && node --check src/progress-store.js && node --check src/supabase-client.js && node --check scripts/serve.mjs && node --check scripts/validate-content.mjs",
-    "content:validate": "node scripts/validate-content.mjs && node scripts/validate-reference-questions.mjs && node scripts/validate-inaem-reference.mjs && node scripts/audit-option-quality.mjs",
+    "check": "node --check src/app.js && node --check src/questions.js && node --check src/scoring.js && node --check src/option-quality.js && node --check src/progress-store.js && node --check src/supabase-client.js && node --check scripts/serve.mjs && node --check scripts/validate-content.mjs && node --check scripts/validate-convocation-scope.mjs",
+    "content:validate": "node scripts/validate-content.mjs && node scripts/validate-convocation-scope.mjs && node scripts/validate-reference-questions.mjs && node scripts/validate-inaem-reference.mjs && node scripts/audit-option-quality.mjs",
     "content:questions:corpus": "node scripts/add-corpus-questions.mjs",
     "content:questions:missing-topics": "node scripts/add-missing-topic-questions.mjs",
     "content:questions:balance-common": "node scripts/add-common-balance-questions.mjs",
