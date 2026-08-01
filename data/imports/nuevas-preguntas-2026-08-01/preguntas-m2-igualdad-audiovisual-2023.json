@@ -1,0 +1,899 @@
+[
+ {
+  "id": "m2-igualdad-audiovisual-2023-01",
+  "topicId": "comun-05",
+  "prompt": "Los Estatutos de Autonomía deben plasmarse en:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": ""
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 1. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 1
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-02",
+  "topicId": "comun-09",
+  "prompt": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece cómo podrán finalizar los procedimientos administrativos, ¿cuál no es una de dichas formas?",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": ""
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 2. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 2
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-08",
+  "topicId": "comun-05",
+  "prompt": "La creación del denominado Fondo de Compensación Interterritorial responde al principio de:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": ""
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 8. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 8
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-10",
+  "topicId": "comun-09",
+  "prompt": "Cuando de una resolución administrativa, o de cualquier otra forma de finalización del procedimiento administrativo prevista en esta ley, nazca una obligación de pago derivada de una sanción pecuniaria, multa o cualquier otro derecho que haya de abonarse a la Hacienda pública, este se efectuará preferentemente, salvo que se justifique la imposibilidad de hacerlo, utilizando alguno de los medios electrónicos siguientes:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Transferencia bancaria. Domiciliación bancaria. Todas son correctas."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 10. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 10
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-11",
+  "topicId": "comun-09",
+  "prompt": "La solicitud de un informe preceptivo:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Es obligatoria. Requiere representación legal. Es voluntaria."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 11. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 11
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-12",
+  "topicId": "comun-09",
+  "prompt": "Atendiendo al artículo 100.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en caso de que hubiera varios medios de ejecución admisibles, se elegirá:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "El más restrictivo a la libertad individual. El más limitativo a la libertad individual. El menos restrictivo a la libertad individual."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 12. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 12
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-14",
+  "topicId": "especifico-16",
+  "prompt": "De acuerdo con la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, se entiende que hay composición equilibrada:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Cuando las personas de cada sexo no superen el 60 % ni sean menos del 40 %. Cuando las personas de cada sexo no superen el 70 % ni sean menos del 30 %. Cuando las personas de cada sexo no superen el 80 % ni sean menos del 20 %. NO SE DETENGA. CONTINÚE EN LA PÁGINA SIGUIENTE 3"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 14. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 14
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-15",
+  "topicId": "especifico-16",
+  "prompt": "Según dispone la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la publicidad que comporte una conducta discriminatoria será una publicidad:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Ilícita. De igualdad. Discriminatoria."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 15. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 15
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-16",
+  "topicId": "comun-01",
+  "prompt": "De acuerdo con el artículo 53.2 de la Constitución Española:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección segunda del Capítulo segundo ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional. El recurso de amparo ante el Tribunal Constitucional es aplicable a la objeción de conciencia reconocida en el artículo 30. Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo segundo ante los Tribunales ordinarios por un procedimiento basado en los principios de primacía y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 16. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 16
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-17",
+  "topicId": "comun-04",
+  "prompt": "Es una competencia del Presidente del Gobierno:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Declarar los estados de alarma y de excepción y proponer al Congreso de los Diputados la declaración del estado de sitio. Crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales. Interponer el recurso de inconstitucionalidad."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 17. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 17
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-18",
+  "topicId": "comun-11",
+  "prompt": "Los empleados públicos tienen los siguientes derechos de carácter individual en correspondencia con la naturaleza jurídica de su relación de servicio:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "A la movilidad en la condición de funcionario de carrera. A la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente fuera del horario laboral. A la adopción de medidas que favorezcan la conciliación de la vida personal, familiar y laboral."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 18. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 18
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-19",
+  "topicId": "comun-09",
+  "prompt": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "4 El plazo de subsanación en un procedimiento administrativo es de diez días, y no podrá ser ampliado. El plazo de subsanación en un procedimiento administrativo es de cinco días hábiles. El plazo de subsanación podrá ser ampliado prudencialmente hasta cinco días, siempre que no se trate de procedimientos selectivos o de concurrencia competitiva. NO SE DETENGA. CONTINÚE EN LA PÁGINA SIGUIENTE"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 19. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 19
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-20",
+  "topicId": "comun-10",
+  "prompt": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en el procedimiento abierto simplificado:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "El plazo para la presentación de proposiciones no podrá ser inferior a quince días a contar desde el siguiente a la publicación en el perfil de contratante del anuncio de licitación. En los contratos de obras, el plazo será como mínimo de veinte días. El plazo para la presentación de proposiciones no podrá ser inferior a veinte días a contar desde el siguiente a la publicación en el perfil de contratante del anuncio de licitación. En los contratos de obras, el plazo será como mínimo de treinta días. El plazo para la presentación de proposiciones no podrá ser inferior a diez días a contar desde el siguiente a la publicación en el perfil de contratante del anuncio de licitación. En los contratos de obras, el plazo será como mínimo de quince días."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 20. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 20
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-21",
+  "topicId": "especifico-41",
+  "prompt": "La Comisión Nacional de Seguridad y Salud en el Trabajo:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Adoptará sus acuerdos por consenso. Estará integrada por un representante de cada una de las Comunidades Autónomas y entidades locales y por igual número de miembros de la Administración General del Estado. Es un órgano colegiado asesor de las Administraciones públicas en la formulación de las políticas de prevención."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 21. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 21
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-22",
+  "topicId": "comun-10",
+  "prompt": "Se consideran contratos menores, según el artículo 118 de la Ley 9/2017:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Aquellos contratos de obras de valor estimado inferior a 40.000 euros. Aquellos contratos de servicios y suministros de valor estimado hasta 15.000 euros. Aquellos contratos de servicios y suministros de valor estimado hasta 14.999 euros."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 22. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 22
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-23",
+  "topicId": "comun-05",
+  "prompt": "Las Comunidades Autónomas podrán asumir competencias en las siguientes materias, de acuerdo con el artículo 148 de la Constitución Española:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "La gestión en materia de protección del medio ambiente. Administración de Justicia. Legislación sobre propiedad intelectual e industrial."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 23. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 23
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-24",
+  "topicId": "especifico-16",
+  "prompt": "¿Qué es el acoso por razón de sexo, atendiendo a la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres?",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad. Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo. Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 24. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 24
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-25",
+  "topicId": "especifico-16",
+  "prompt": "La elaboración de un plan de igualdad será realizado:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Por las empresas de treinta o más trabajadores, que deberá ser asimismo objeto de negociación en la forma que se determine en la legislación laboral. Por las empresas de sesenta o más trabajadores, que deberá ser asimismo objeto de negociación en la forma que se determine en la legislación laboral. Su implantación será voluntaria, previa consulta a la representación legal de los trabajadores y trabajadoras. Por las empresas de cincuenta o más trabajadores, que deberá ser asimismo objeto de negociación en la forma que se determine en la legislación laboral. NO SE DETENGA. CONTINÚE EN LA PÁGINA SIGUIENTE 5"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 25. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 25
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-28",
+  "topicId": "especifico-44",
+  "prompt": "Atendiendo al artículo 40 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "La clasificación orgánica de los estados de gastos de los presupuestos agrupará por secciones y servicios los créditos asignados a los distintos centros gestores de gasto de los órganos con dotación diferenciada en los presupuestos, la Administración General del Estado, sus organismos autónomos, entidades de la Seguridad Social y otras entidades, según proceda. La clasificación económica de los estados de gastos de los presupuestos agrupará por secciones y servicios los créditos asignados a los distintos centros gestores de gasto de los órganos con dotación diferenciada en los presupuestos, la Administración General del Estado, sus organismos autónomos, entidades de la Seguridad Social y otras entidades, según proceda. La clasificación por programas de los estados de gastos de los presupuestos agrupará por secciones y servicios los créditos asignados a los distintos centros gestores de gasto de los órganos con dotación diferenciada en los presupuestos, la Administración General del Estado, sus organismos autónomos, entidades de la Seguridad Social y otras entidades, según proceda."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 28. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 28
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-47",
+  "topicId": "especifico-28",
+  "prompt": "La Directiva 2001/29/CE del Parlamento Europeo y del Consejo, de 22 de mayo de 2001, relativa a la armonización de determinados aspectos de los derechos de autor y derechos afines a los derechos de autor en la sociedad de la información:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Establece normativas sobre la obtención de licencias y derechos para el uso de obras musicales y sonoras en películas. No tiene un impacto directo en el uso de la música y otros elementos sonoros. Regula la protección de los derechos de autor, pero se excluyen las producciones audiovisuales."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 47. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 47
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-52",
+  "topicId": "comun-01",
+  "prompt": "El artículo 20.2 de la Constitución Española:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Regula la cláusula de conciencia. Prohíbe la censura previa. Regula el secreto profesional."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 52. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 52
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-53",
+  "topicId": "especifico-28",
+  "prompt": "Los autores tienen el derecho de oponerse a cualquier modificación, distorsión o mutilación de su obra. Les asiste el:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Derecho de integridad. Derecho de transformación. Derecho de reproducción. NO SE DETENGA. CONTINÚE EN LA PÁGINA SIGUIENTE 9"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 53. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 53
+  },
+  "active": true,
+  "optionCount": 3
+ },
+ {
+  "id": "m2-igualdad-audiovisual-2023-54",
+  "topicId": "especifico-28",
+  "prompt": "Según el Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia, los derechos de propiedad intelectual sobre una obra en colaboración:",
+  "options": [
+   {
+    "id": "A",
+    "text": ""
+   },
+   {
+    "id": "B",
+    "text": ""
+   },
+   {
+    "id": "C",
+    "text": "Corresponden a todos los autores en la proporción que ellos determinen. Corresponden a todos los autores en igual proporciona inalterable. Corresponden únicamente al autor principal de la obra colectiva."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del tribunal.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuestionario M2 Comunicación Audiovisual, turno libre, pregunta 54. Ministerio de Igualdad, 25/11/2023."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Resolución de la Secretaría de Estado de Función Pública de 26 de mayo de 2023 (BOE de 31 de mayo)",
+   "ministerio": "Ministerio de Igualdad",
+   "grupo": "M2",
+   "especialidad": "Comunicación Audiovisual",
+   "turno": "libre",
+   "fecha": "2023-11-25",
+   "nota": "Grupo M2, no M3: aporta a la parte común compartida",
+   "numeroOriginal": 54
+  },
+  "active": true,
+  "optionCount": 3
+ }
+]

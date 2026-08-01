@@ -1,0 +1,1120 @@
+[
+ {
+  "id": "inap-advo-2024-02",
+  "topicId": "comun-09",
+  "prompt": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas establece que las notificaciones:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se practicarán, en todo caso, por medios electrónicos."
+   },
+   {
+    "id": "B",
+    "text": "Se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía."
+   },
+   {
+    "id": "C",
+    "text": "Se podrán practicar por medios electrónicos las que contengan medios de pago a favor de los obligados, tales como cheques."
+   },
+   {
+    "id": "D",
+    "text": "Cuando la notificación por medios electrónicos sea de carácter obligatorio, se entenderá rechazada cuando hayan transcurrido tres días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido. 2024 - ADVO-L – MODELO A Página 7 de 14"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 2. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 2
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-03",
+  "topicId": "comun-05",
+  "prompt": "De acuerdo con la definición contenida en el artículo 38 de la Ley 40/2015, 1 de octubre, de Régimen Jurídico del Sector Público, aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a uno o varios organismos públicos o entidades de derecho público en ejercicio de sus competencias es:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un portal de internet."
+   },
+   {
+    "id": "B",
+    "text": "Una carpeta ciudadana."
+   },
+   {
+    "id": "C",
+    "text": "Una sede electrónica."
+   },
+   {
+    "id": "D",
+    "text": "Un código seguro de verificación."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 3. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 3
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-05",
+  "topicId": "comun-09",
+  "prompt": "En función de lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrá interponerse el recurso extraordinario de revisión ante el órgano administrativo que lo dictó, que también será el competente para su resolución, cuando concurra alguna de las circunstancias siguientes:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Que al dictarlo se hubiera incurrido en error de hecho o de derecho, que resulte de los propios documentos incorporados al expediente únicamente con posterioridad a la incoación del expediente."
+   },
+   {
+    "id": "B",
+    "text": "Que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida."
+   },
+   {
+    "id": "C",
+    "text": "Que en la resolución hayan influido parcialmente documentos o testimonios declarados falsos por auto judicial, anterior a aquella resolución."
+   },
+   {
+    "id": "D",
+    "text": "Que la resolución administrativa haya sido emitida con omisión del procedimiento legalmente establecido."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 5. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 5
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-06",
+  "topicId": "comun-04",
+  "prompt": "Según el artículo 124 de la Constitución Española de 1978, ¿quién nombra al Fiscal General del Estado?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Fiscal General del Estado será nombrado por Presidente del Tribunal Constitucional, entre los miembros del Consejo General del Poder Judicial."
+   },
+   {
+    "id": "B",
+    "text": "El Fiscal General del Estado será nombrado por el Gobierno, a propuesta del Consejo General del Poder Judicial."
+   },
+   {
+    "id": "C",
+    "text": "El Fiscal General del Estado será nombrado por el Consejo General del Poder Judicial, a propuesta del Gobierno."
+   },
+   {
+    "id": "D",
+    "text": "El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 6. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 6
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-07",
+  "topicId": "comun-04",
+  "prompt": "Según el artículo 5.3 de la Ley 50/1997, de 27 de noviembre, del Gobierno, las deliberaciones del Consejo de Ministros serán:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Secretas."
+   },
+   {
+    "id": "B",
+    "text": "Públicas."
+   },
+   {
+    "id": "C",
+    "text": "Motivadas."
+   },
+   {
+    "id": "D",
+    "text": "Sancionadas por el Rey."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 7. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 7
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-11",
+  "topicId": "comun-01",
+  "prompt": "Según la Constitución Española de 1978, ¿cuál de las siguientes opciones es correcta respecto a los Estatutos de Autonomía?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Son la norma institucional superior de cada comunidad autónoma y del Estado."
+   },
+   {
+    "id": "B",
+    "text": "El Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico."
+   },
+   {
+    "id": "C",
+    "text": "El procedimiento de reforma requerirá, en todo caso, la celebración de un referéndum y la aprobación por las Cortes Generales, mediante ley orgánica."
+   },
+   {
+    "id": "D",
+    "text": "Se aprueban por ley ordinaria."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 11. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 11
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-13",
+  "topicId": "comun-06",
+  "prompt": "El artículo 2 del Tratado de la Unión Europea establece que la Unión Europea se fundamenta en los valores de respeto de la dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos humanos, incluidos los derechos de las personas pertenecientes a minorías. ¿Qué institución de la Unión Europea está facultada para constatar la existencia de una violación grave y persistente de un Estado miembro de los valores contemplados en dicho artículo?",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Consejo Europeo."
+   },
+   {
+    "id": "B",
+    "text": "La Comisión Europea."
+   },
+   {
+    "id": "C",
+    "text": "El Parlamento Europeo."
+   },
+   {
+    "id": "D",
+    "text": "El Tribunal de Justicia de la Unión Europea."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 13. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 13
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-17",
+  "topicId": "comun-09",
+  "prompt": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos de pleno derecho:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las disposiciones administrativas que establezcan la retroactividad de disposiciones sancionadoras favorables."
+   },
+   {
+    "id": "B",
+    "text": "Los actos dictados por órgano manifiestamente competente por razón de la materia o del territorio."
+   },
+   {
+    "id": "C",
+    "text": "Los actos que tengan un contenido imposible."
+   },
+   {
+    "id": "D",
+    "text": "Las disposiciones administrativas que vulneren otras disposiciones administrativas de rango inferior. 2024 - ADVO-L – MODELO A Página 2 de 14"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 17. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 17
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-18",
+  "topicId": "comun-03",
+  "prompt": "Según lo dispuesto en los artículos 90 y 91 de la Constitución Española de 1978, aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, su Presidente dará inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de éste. Indique la respuesta correcta:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El Senado en el plazo de tres meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo."
+   },
+   {
+    "id": "B",
+    "text": "El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, una vez transcurrido el plazo previsto en el artículo 91 de la Constitución Española de 1978 desde la interposición del mismo."
+   },
+   {
+    "id": "C",
+    "text": "El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de veinte días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados."
+   },
+   {
+    "id": "D",
+    "text": "El Rey sancionará en el plazo de veinte días naturales las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 18. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 18
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-19",
+  "topicId": "comun-09",
+  "prompt": "Con arreglo a lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que reste menos para su tramitación ordinaria, ¿en qué tiempo deberán ser resueltos los procedimientos administrativos tramitados de manera simplificada?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Diez días, a contar desde la notificación al interesado del acuerdo de tramitación simplificada del procedimiento."
+   },
+   {
+    "id": "B",
+    "text": "Treinta días, a contar desde la notificación al interesado del acuerdo de tramitación simplificada del procedimiento."
+   },
+   {
+    "id": "C",
+    "text": "Diez días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento."
+   },
+   {
+    "id": "D",
+    "text": "Treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 19. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 19
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-20",
+  "topicId": "comun-09",
+  "prompt": "Conforme a lo señalado en el artículo 74 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las cuestiones incidentales que se susciten en un procedimiento:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Suspenderán la tramitación del procedimiento, salvo la recusación, que no lo suspenderá."
+   },
+   {
+    "id": "B",
+    "text": "Suspenderán la tramitación del procedimiento."
+   },
+   {
+    "id": "C",
+    "text": "No suspenderán la tramitación del procedimiento en ningún caso."
+   },
+   {
+    "id": "D",
+    "text": "No suspenderán la tramitación del procedimiento, salvo la recusación."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 20. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 20
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-21",
+  "topicId": "comun-10",
+  "prompt": "El artículo 16 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece que son contratos de suministro:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Aquellos por el que uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia."
+   },
+   {
+    "id": "B",
+    "text": "Los que tienen por objeto la ejecución de una obra, aislada o conjuntamente con la redacción del proyecto."
+   },
+   {
+    "id": "C",
+    "text": "Aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra."
+   },
+   {
+    "id": "D",
+    "text": "Los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 21. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 21
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-22",
+  "topicId": "comun-10",
+  "prompt": "El artículo 145 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público establece sobre la adjudicación de los contratos que:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se realizará atendiendo a la oferta económica más ventajosa, sin necesidad de justificarlo en el expediente."
+   },
+   {
+    "id": "B",
+    "text": "Se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio."
+   },
+   {
+    "id": "C",
+    "text": "Se realizará atendiendo exclusivamente a criterios cualitativos."
+   },
+   {
+    "id": "D",
+    "text": "Se realizará atendiendo exclusivamente a criterios cuantitativos."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 22. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 22
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-24",
+  "topicId": "comun-05",
+  "prompt": "Conforme al artículo 29 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la graduación de la sanción administrativa considerará especialmente los siguientes criterios:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La inexistencia de intencionalidad y no reincidencia en la comisión de infracciones administrativas."
+   },
+   {
+    "id": "B",
+    "text": "La no reincidencia en la comisión de infracciones administrativas."
+   },
+   {
+    "id": "C",
+    "text": "El grado de culpabilidad o la inexistencia de intencionalidad."
+   },
+   {
+    "id": "D",
+    "text": "El grado de culpabilidad o la existencia de intencionalidad."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 24. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 24
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-27",
+  "topicId": "comun-11",
+  "prompt": "Según el artículo 10 del texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿en qué circunstancia se puede nombrar a un funcionario interino?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Cuando existan plazas vacantes, y no sea posible su cobertura por funcionarios de carrera, por un máximo de dos años."
+   },
+   {
+    "id": "B",
+    "text": "Por el exceso o acumulación de tareas por plazo máximo de tres meses, dentro de un periodo de doce meses."
+   },
+   {
+    "id": "C",
+    "text": "Para la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario."
+   },
+   {
+    "id": "D",
+    "text": "Para la ejecución de programas de carácter estructural."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 27. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 27
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-28",
+  "topicId": "comun-11",
+  "prompt": "Según el artículo 62 del texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuál de los siguientes requisitos es necesario cumplir para adquirir la condición de funcionario de carrera?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Toma de posesión dentro de los tres días posteriores al nombramiento."
+   },
+   {
+    "id": "B",
+    "text": "Acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico."
+   },
+   {
+    "id": "C",
+    "text": "Superación del proceso selectivo, aunque en ese momento no se reúna la titulación requerida en la convocatoria."
+   },
+   {
+    "id": "D",
+    "text": "Toma de posesión al día siguiente de haber sido nombrado."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 28. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 28
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-29",
+  "topicId": "comun-12",
+  "prompt": "El artículo 61 del texto refundido de la Ley del Estatuto Básico del Empleado Público, establece que los sistemas selectivos de personal laboral fijo serán:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los de concurso oposición o entrevista."
+   },
+   {
+    "id": "B",
+    "text": "Los de concurso oposición o concurso de valoración de méritos con entrevista."
+   },
+   {
+    "id": "C",
+    "text": "Los de oposición o concurso oposición con entrevista."
+   },
+   {
+    "id": "D",
+    "text": "Los de oposición, concurso oposición o concurso de valoración de méritos."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 29. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 29
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-30",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo con el artículo 53 del texto refundido de la Ley del Estatuto Básico del Empleado Público, dentro del Código de conducta de los empleados públicos, es un principio ético:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Desempeñar las tareas correspondientes a su puesto de trabajo de forma diligente y cumpliendo la jornada y el horario establecidos."
+   },
+   {
+    "id": "B",
+    "text": "No aceptar ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas."
+   },
+   {
+    "id": "C",
+    "text": "Administrar los recursos y bienes públicos con austeridad, y no utilizar los mismos en provecho propio o de personas allegadas. Tendrán, asimismo, el deber de velar por su conservación."
+   },
+   {
+    "id": "D",
+    "text": "Garantizar la atención al ciudadano en la lengua que lo solicite."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 30. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 30
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-31",
+  "topicId": "comun-11",
+  "prompt": "Según el artículo 98.3 del texto refundido de la Ley del Estatuto Básico del Empleado Público:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 6 meses, salvo en caso de paralización del procedimiento imputable al interesado."
+   },
+   {
+    "id": "B",
+    "text": "La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 3 meses, salvo en caso de paralización del procedimiento imputable al interesado."
+   },
+   {
+    "id": "C",
+    "text": "La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 12 meses, salvo en caso de paralización del procedimiento imputable al interesado."
+   },
+   {
+    "id": "D",
+    "text": "La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 18 meses, salvo en caso de paralización del procedimiento imputable al interesado."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 31. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 31
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-33",
+  "topicId": "comun-13",
+  "prompt": "De conformidad con el IV Convenio colectivo único para el personal laboral de la Administración General del Estado, la modificación de la clasificación profesional de determinados colectivos de personal, sólo podrá ser aprobada:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Por la Subcomisión Paritaria a la que pertenezca."
+   },
+   {
+    "id": "B",
+    "text": "Por la Comisión Negociadora del Convenio."
+   },
+   {
+    "id": "C",
+    "text": "Por la Comisión Paritaria."
+   },
+   {
+    "id": "D",
+    "text": "Por mayoría del colectivo afectado."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 33. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 33
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-35",
+  "topicId": "especifico-44",
+  "prompt": "El artículo 134 de la Constitución Española de 1978 establece, literalmente, que el Gobierno deberá presentar los Presupuestos Generales del Estado:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Ante las Cortes Generales al menos tres meses antes de la expiración de los del año anterior."
+   },
+   {
+    "id": "B",
+    "text": "Ante el Congreso de los Diputados antes de que finalice el ejercicio presupuestario."
+   },
+   {
+    "id": "C",
+    "text": "Ante los Presidentes de ambas Cámaras Legislativas antes de la expiración de los del año anterior."
+   },
+   {
+    "id": "D",
+    "text": "Ante el Congreso de los Diputados al menos tres meses antes de la expiración de los del año anterior. 2024 - ADVO-L – MODELO A Página 4 de 14"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 35. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 35
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-36",
+  "topicId": "especifico-44",
+  "prompt": "Conforme a la clasificación económica del gasto en los Presupuestos Generales del Estado, los gastos destinados a atender las indemnizaciones por razón del servicio se imputarán al:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Capítulo 1."
+   },
+   {
+    "id": "B",
+    "text": "Capítulo 2."
+   },
+   {
+    "id": "C",
+    "text": "Capítulo 3."
+   },
+   {
+    "id": "D",
+    "text": "Capítulo 4."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 36. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 36
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-37",
+  "topicId": "comun-10",
+  "prompt": "Con carácter general y de acuerdo con el artículo 198 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Administración tiene la obligación de abonar el precio de las prestaciones convenidas dentro de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los treinta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato."
+   },
+   {
+    "id": "B",
+    "text": "Los sesenta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato."
+   },
+   {
+    "id": "C",
+    "text": "Los noventa días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato."
+   },
+   {
+    "id": "D",
+    "text": "Los veinte días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 37. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 37
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-38",
+  "topicId": "especifico-44",
+  "prompt": "De conformidad con el artículo 75 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿a quién le competen las funciones de Ordenador General de pagos del Estado?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Al Ministro de Economía."
+   },
+   {
+    "id": "B",
+    "text": "Al Director General del Tesoro y Política Financiera."
+   },
+   {
+    "id": "C",
+    "text": "Al Secretario General del Tesoro y Financiación Internacional."
+   },
+   {
+    "id": "D",
+    "text": "Al Ministro de Hacienda."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 38. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 38
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-39",
+  "topicId": "comun-12",
+  "prompt": "De acuerdo con la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública, señale la respuesta correcta respecto al complemento específico:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se percibe en 12 pagas."
+   },
+   {
+    "id": "B",
+    "text": "Es el correspondiente al nivel del puesto que se desempeñe."
+   },
+   {
+    "id": "C",
+    "text": "Es una retribución básica, que se devenga con carácter fijo y periodicidad mensual."
+   },
+   {
+    "id": "D",
+    "text": "En ningún caso podrá asignarse más de un complemento específico a cada puesto de trabajo."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 39. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 39
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-advo-2024-40",
+  "topicId": "comun-12",
+  "prompt": "Indique la respuesta correcta entre las siguientes opciones relativas a lo dispuesto en el artículo 10 del Real Decreto 640/1987, de 8 de mayo, sobre pagos librados «a justificar»:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los Cajeros pagadores quedarán obligados a justificar la aplicación de las cantidades recibidas dentro del mes siguiente a la inversión de las mismas y en todo caso en el plazo de seis meses desde la percepción de los correspondientes fondos."
+   },
+   {
+    "id": "B",
+    "text": "Los Cajeros pagadores quedarán obligados a justificar la aplicación de las cantidades recibidas dentro de los dos meses siguientes a la inversión de las mismas y en todo caso en el plazo de tres meses desde la percepción de los correspondientes fondos."
+   },
+   {
+    "id": "C",
+    "text": "Los Cajeros pagadores quedarán obligados a justificar la aplicación de las cantidades recibidas dentro de los dos meses siguientes a la inversión de las mismas y en todo caso en el plazo de seis meses desde la percepción de los correspondientes fondos."
+   },
+   {
+    "id": "D",
+    "text": "Los Cajeros pagadores quedarán obligados a justificar la aplicación de las cantidades recibidas dentro del mes siguiente a la inversión de las mismas y en todo caso en el plazo de tres meses desde la percepción de los correspondientes fondos."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo General Administrativo del Estado, ingreso libre, modelo A, pregunta 40. INAP, 2024."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo General Administrativo de la Administración del Estado, ingreso libre (INAP, 2024)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "C1 funcionario",
+   "especialidad": "ejercicio único, primera parte",
+   "turno": "libre",
+   "fecha": "2024",
+   "nota": "Cuerpo de funcionario, no personal laboral: aporta al temario común compartido, no al IV Convenio",
+   "numeroOriginal": 40
+  },
+  "active": true,
+  "optionCount": 4
+ }
+]

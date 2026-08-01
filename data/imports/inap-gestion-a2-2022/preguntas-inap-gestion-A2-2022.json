@@ -1,0 +1,2969 @@
+[
+ {
+  "id": "inap-gace-2022-003",
+  "topicId": "comun-13",
+  "prompt": "De conformidad con el artículo 84 de IV Convenio colectivo único para el personal laboral de la Administración General del Estado, en materia de representación colectiva del personal laboral se estará a lo dispuesto en:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El título II del Estatuto de los Trabajadores y en el XII del IV Convenio colectivo único para el personal laboral de la Administración General del Estado."
+   },
+   {
+    "id": "B",
+    "text": "El título II del Estatuto de los Trabajadores, en la Ley Orgánica de Libertad Sindical y en el XII del IV Convenio colectivo único para el personal laboral de la Administración General del Estado."
+   },
+   {
+    "id": "C",
+    "text": "El título III del Estatuto de los Trabajadores, en la Ley Orgánica de Libertad Sindical y en el XII del IV Convenio colectivo único para el personal laboral de la Administración General del Estado."
+   },
+   {
+    "id": "D",
+    "text": "El título II del Estatuto de los Trabajadores, en la Ley Orgánica de Libertad Sindical y en el X del IV Convenio colectivo único para el personal laboral de la Administración General del Estado."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 3. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 3
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-004",
+  "topicId": "especifico-44",
+  "prompt": "En los Presupuestos Generales del Estado, la generación de crédito podrá realizarse, sin esperar al correspondiente ingreso que la justifique, cuando exista un compromiso firme de aportación, siempre que el ingreso se prevea realizar en el propio ejercicio, en uno de los siguientes supuestos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "En el caso de los organismos autónomos y de la Seguridad Social, por venta de bienes o prestación de servicios."
+   },
+   {
+    "id": "B",
+    "text": "En el caso de los organismos autónomos y de la Seguridad Social, por aportación del Estado."
+   },
+   {
+    "id": "C",
+    "text": "En el caso de Departamentos Ministeriales, por venta de bienes o prestación de servicios."
+   },
+   {
+    "id": "D",
+    "text": "En el caso de Departamentos Ministeriales, por enajenaciones de inmovilizado."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 4. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 4
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-005",
+  "topicId": "comun-09",
+  "prompt": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si un informe debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas y transcurriera el plazo sin que aquel se hubiera emitido:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Deberán proseguir las actuaciones, salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento."
+   },
+   {
+    "id": "B",
+    "text": "Se podrán proseguir las actuaciones, salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento."
+   },
+   {
+    "id": "C",
+    "text": "Deberán proseguir las actuaciones, y el informe emitido fuera de plazo deberá ser teniendo en cuenta al adoptar la correspondiente resolución."
+   },
+   {
+    "id": "D",
+    "text": "Se podrán proseguir las actuaciones y el informe emitido fuera de plazo podrá no ser tenido en cuenta al adoptar la correspondiente resolución. 2022 - GACE-L Página 12 de 12"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 5. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 5
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-006",
+  "topicId": "comun-03",
+  "prompt": "De acuerdo con lo dispuesto en el artículo 67 de la Constitución Española de 1978, las reuniones de Parlamentarios que se celebren sin convocatoria reglamentaria:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Son ilegales y están prohibidas."
+   },
+   {
+    "id": "B",
+    "text": "No vincularán a las Cámaras, pero los Parlamentarios podrán ejercer sus funciones ostentando sus privilegios."
+   },
+   {
+    "id": "C",
+    "text": "No vincularán a las Cámaras, y los Parlamentarios no podrán ejercer sus funciones ni ostentar sus privilegios."
+   },
+   {
+    "id": "D",
+    "text": "Vincularán a las cámaras si asisten una mayoría de Parlamentarios de cada Cámara y, en ese caso, podrán ejercer sus privilegios."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 6. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 6
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-009",
+  "topicId": "comun-05",
+  "prompt": "De acuerdo con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Delegados del Gobierno en las Comunidades Autónomas:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Son órganos directivos con rango de Subsecretario que dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia."
+   },
+   {
+    "id": "B",
+    "text": "Son órganos directivos con rango de Secretario de Estado que dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia."
+   },
+   {
+    "id": "C",
+    "text": "Son órganos directivos con rango de Ministro que dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia."
+   },
+   {
+    "id": "D",
+    "text": "Son órganos directivos con rango de Secretario General que dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia. 2022 - GACE-L Página 1 de 12"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 9. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 9
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-010",
+  "topicId": "comun-05",
+  "prompt": "De acuerdo con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿cuál es la definición de los organismos autónomos estatales?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Son entidades de derecho público, con personalidad jurídica propia, tesorería y patrimonio propios y autonomía en su gestión, que desarrollan actividades propias de la Administración Pública, en calidad de organizaciones instrumentales diferenciadas y dependientes de ésta."
+   },
+   {
+    "id": "B",
+    "text": "Son entidades de derecho público, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión, que se financian con ingresos de mercado y desarrollan actividades prestacionales."
+   },
+   {
+    "id": "C",
+    "text": "Son entidades de derecho público, dotadas de personalidad jurídica pública, patrimonio propio y autonomía en su gestión, facultadas para ejercer potestades administrativas, que son creadas por el Gobierno para el cumplimiento de los programas correspondientes a las políticas públicas que desarrolle la Administración General del Estado en el ámbito de sus competencias."
+   },
+   {
+    "id": "D",
+    "text": "Son entidades de derecho público que, vinculadas a la Administración General del Estado y con personalidad jurídica propia, tienen atribuidas funciones de regulación o supervisión de carácter externo sobre sectores económicos o actividades determinadas por requerir su desempeño de independencia funcional respecto de la Administración General del Estado."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 10. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 10
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-011",
+  "topicId": "comun-05",
+  "prompt": "¿Cuál de las siguientes viene recogida en el artículo 148 de la Constitución Española de 1978 como una competencia que pueden asumir las Comunidades Autónomas?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Nacionalidad, inmigración, emigración, extranjería y derecho de asilo."
+   },
+   {
+    "id": "B",
+    "text": "Legislación sobre pesas y medidas, determinación de la hora oficial."
+   },
+   {
+    "id": "C",
+    "text": "Bases y coordinación de la planificación general de la actividad económica."
+   },
+   {
+    "id": "D",
+    "text": "Ordenación del territorio, urbanismo y vivienda."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 11. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 11
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-012",
+  "topicId": "comun-05",
+  "prompt": "De acuerdo con el artículo 152 de la Constitución Española de 1978, la organización institucional en los Estatutos de Autonomía aprobados por el procedimiento del artículo 151 se basa en:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Una Asamblea Legislativa, un Consejo de Gobierno y un Presidente."
+   },
+   {
+    "id": "B",
+    "text": "Una Asamblea, un Consejo Legislativo y un Presidente."
+   },
+   {
+    "id": "C",
+    "text": "Una Asamblea Local, un Consejo de Gobierno y un Presidente."
+   },
+   {
+    "id": "D",
+    "text": "Una Asamblea Autonómica, un Consejo Legislativo y un Presidente."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 12. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 12
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-013",
+  "topicId": "comun-05",
+  "prompt": "Según lo establecido en la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la coordinación de la prestación del servicio de recogida y tratamiento de residuos es competencia de la Diputación provincial o entidad equivalente en municipios con:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Población inferior a 50.000 habitantes."
+   },
+   {
+    "id": "B",
+    "text": "Población inferior a 5.000 habitantes."
+   },
+   {
+    "id": "C",
+    "text": "Población superior a 20.000 habitantes."
+   },
+   {
+    "id": "D",
+    "text": "Población inferior a 20.000 habitantes."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 13. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 13
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-014",
+  "topicId": "comun-06",
+  "prompt": "¿Qué seis países firmaron en 1951 el Tratado constitutivo de la Comunidad Europea del Carbón y del Acero (CECA), también conocido como Tratado de París?",
+  "options": [
+   {
+    "id": "A",
+    "text": "España, Portugal, Italia, Grecia, Francia y Bélgica."
+   },
+   {
+    "id": "B",
+    "text": "Bélgica, Francia, Italia, la República Federal de Alemania, Luxemburgo y los Países Bajos."
+   },
+   {
+    "id": "C",
+    "text": "Reino Unido, Francia, Portugal, la República Federal de Alemania, Países Bajos y España."
+   },
+   {
+    "id": "D",
+    "text": "Suiza, Luxemburgo, Bélgica, Países Bajos, Austria y la República Federal de Alemania."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 14. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 14
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-015",
+  "topicId": "comun-06",
+  "prompt": "De acuerdo con el Tratado de la Unión Europea, ¿quién nombra y por qué mayoría al Alto Representante de la Unión para Asuntos de Exteriores y Política de Seguridad?",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Comisión por mayoría cualificada."
+   },
+   {
+    "id": "B",
+    "text": "El Consejo Europeo por mayoría cualificada."
+   },
+   {
+    "id": "C",
+    "text": "El Consejo Europeo por mayoría simple."
+   },
+   {
+    "id": "D",
+    "text": "El Consejo por mayoría de miembros."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 15. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 15
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-016",
+  "topicId": "comun-06",
+  "prompt": "De acuerdo con el artículo 50 del Tratado de la Unión Europea, un Estado que quiera retirarse de la Unión Europea debe notificar su intención a:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Comisión Europea."
+   },
+   {
+    "id": "B",
+    "text": "El Parlamento Europeo."
+   },
+   {
+    "id": "C",
+    "text": "El Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad."
+   },
+   {
+    "id": "D",
+    "text": "El Consejo Europeo."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 16. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 16
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-017",
+  "topicId": "comun-06",
+  "prompt": "Tras la salida del Reino Unido de la Unión Europea, y en la actual legislatura, ¿a cuántos diputados del Parlamento Europeo escoge España?",
+  "options": [
+   {
+    "id": "A",
+    "text": "96"
+   },
+   {
+    "id": "B",
+    "text": "59"
+   },
+   {
+    "id": "C",
+    "text": "33"
+   },
+   {
+    "id": "D",
+    "text": "6"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 17. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 17
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-018",
+  "topicId": "comun-07",
+  "prompt": "De acuerdo con el artículo 285 del Tratado de Funcionamiento de la Unión Europea, ¿quién compone el Tribunal de Cuentas de la Unión Europea?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Treinta personas elegidas por el Parlamento Europeo."
+   },
+   {
+    "id": "B",
+    "text": "Los presidentes del órgano fiscalizador de cuentas de cada Estado miembro."
+   },
+   {
+    "id": "C",
+    "text": "Diez personas designadas por la Comisión Europea."
+   },
+   {
+    "id": "D",
+    "text": "Un nacional de cada Estado miembro. 2022 - GACE-L Página 2 de 12"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 18. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 18
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-019",
+  "topicId": "comun-07",
+  "prompt": "De acuerdo con lo establecido en el Tratado de Funcionamiento de la Unión Europea, una de las siguientes NO es una característica propia de los actos delegados:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los actos legislativos que deleguen en la Comisión los poderes para adoptar actos no legislativos de alcance general fijarán de forma expresa las condiciones a las que estará sujeta la delegación."
+   },
+   {
+    "id": "B",
+    "text": "El acto delegado no podrá entrar en vigor si el Parlamento Europeo, por mayoría de los miembros que lo componen, ha formulado objeciones en el plazo fijado en el acto legislativo."
+   },
+   {
+    "id": "C",
+    "text": "Un acto legislativo podrá delegar en la Comisión los poderes para adoptar actos no legislativos de alcance general que completen o modifiquen determinados elementos no esenciales del acto legislativo."
+   },
+   {
+    "id": "D",
+    "text": "El acto delegado no podrá entrar en vigor si el Consejo, por mayoría de los miembros que lo componen, ha formulado objeciones en el plazo fijado en el acto legislativo."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 19. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 19
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-020",
+  "topicId": "comun-06",
+  "prompt": "El vigente Marco Financiero Plurianual de la Unión Europea corresponde al periodo:",
+  "options": [
+   {
+    "id": "A",
+    "text": "2021-2025"
+   },
+   {
+    "id": "B",
+    "text": "2020-2024"
+   },
+   {
+    "id": "C",
+    "text": "2021-2027"
+   },
+   {
+    "id": "D",
+    "text": "2023-2025"
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 20. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 20
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-021",
+  "topicId": "comun-07",
+  "prompt": "De acuerdo con el Tratado de Funcionamiento de la Unión Europea, la presentación de las cuentas del presupuesto de la Unión Europea le corresponde:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Al Parlamento Europeo y al Consejo con arreglo un procedimiento legislativo especial."
+   },
+   {
+    "id": "B",
+    "text": "Al Banco Central Europeo."
+   },
+   {
+    "id": "C",
+    "text": "A la Comisión."
+   },
+   {
+    "id": "D",
+    "text": "Al Parlamento por recomendación del Consejo."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 21. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 21
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-022",
+  "topicId": "comun-07",
+  "prompt": "De acuerdo con el artículo 312 del Tratado de Funcionamiento de la Unión Europea, ¿cuál es el periodo mínimo de tiempo para el que se establece el Marco Financiero Plurianual?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Tres años."
+   },
+   {
+    "id": "B",
+    "text": "Un año."
+   },
+   {
+    "id": "C",
+    "text": "Diez años."
+   },
+   {
+    "id": "D",
+    "text": "Cinco años."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 22. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 22
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-023",
+  "topicId": "comun-06",
+  "prompt": "¿Dónde tiene su sede FRONTEX, la Agencia Europea de la Guardia de Fronteras y Costas?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Madrid."
+   },
+   {
+    "id": "B",
+    "text": "Varsovia."
+   },
+   {
+    "id": "C",
+    "text": "Roma."
+   },
+   {
+    "id": "D",
+    "text": "Budapest."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 23. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 23
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-024",
+  "topicId": "comun-09",
+  "prompt": "De acuerdo con lo establecido en el artículo 14 de la Ley 39/2015, de 1 octubre, del Procedimiento Administrativo de las Administraciones Públicas, ¿quién está obligado a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con las Administraciones para la gestión de sus asuntos personales."
+   },
+   {
+    "id": "B",
+    "text": "Las personas físicas."
+   },
+   {
+    "id": "C",
+    "text": "Quienes representen a un interesado que no esté obligado a relacionarse electrónicamente con la Administración."
+   },
+   {
+    "id": "D",
+    "text": "Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 24. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 24
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-034",
+  "topicId": "especifico-16",
+  "prompt": "De acuerdo con el artículo 52 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el Gobierno atenderá al principio de presencia equilibrada de mujeres y hombres en el nombramiento de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los órganos constitucionales cuya designación le corresponda."
+   },
+   {
+    "id": "B",
+    "text": "Los órganos directivos de la Administración General del Estado y de los organismos públicos vinculados o dependientes de ella cuya designación le corresponda."
+   },
+   {
+    "id": "C",
+    "text": "Los Consejos de Administración de las sociedades cotizadas."
+   },
+   {
+    "id": "D",
+    "text": "Los órganos superiores de la Administración General del Estado cuya designación le corresponda."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 34. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 34
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-037",
+  "topicId": "comun-08",
+  "prompt": "De conformidad con lo dispuesto en el Código Civil, indique qué fuente del derecho regirá sólo en defecto de ley aplicable:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los principios generales del derecho, siempre que no sean contrarios a la moral o al orden público."
+   },
+   {
+    "id": "B",
+    "text": "La jurisprudencia, siempre que no sea contraria a la moral o al orden público, y que resulte probada."
+   },
+   {
+    "id": "C",
+    "text": "La costumbre, siempre que no sea contraria a la moral o al orden publico, y que resulte probada."
+   },
+   {
+    "id": "D",
+    "text": "La doctrina científica, siempre que no sea contraria a la moral o al orden público."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 37. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 37
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-038",
+  "topicId": "comun-08",
+  "prompt": "De conformidad con lo dispuesto en la Constitución Española de 1978, los Decretos-Leyes dictados por el Gobierno en casos de extraordinaria y urgente necesidad:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Deberán ser sometidos a debate y votación de totalidad al Congreso, convocado al efecto si no estuviese reunido, en el plazo de los sesenta días siguientes a su promulgación."
+   },
+   {
+    "id": "B",
+    "text": "Deberán ser sometidos a debate y votación de las Cortes Generales, convocadas al efecto si no estuviesen reunidas, en el plazo de los treinta días siguientes a su promulgación."
+   },
+   {
+    "id": "C",
+    "text": "Deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso, convocado al efecto si no estuviese reunido, en el plazo de los treinta días siguientes a su promulgación."
+   },
+   {
+    "id": "D",
+    "text": "Deberán ser sometidos a debate y votación de totalidad del Senado, convocado al efecto si no estuviese reunido, en el plazo de los sesenta días siguientes a su promulgación."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 38. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 38
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-039",
+  "topicId": "comun-08",
+  "prompt": "Indique cuál de las siguientes materias está reservada a Ley Orgánica:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El derecho a la protección a la salud."
+   },
+   {
+    "id": "B",
+    "text": "La organización del Tribunal de Cuentas."
+   },
+   {
+    "id": "C",
+    "text": "La potestad originaria del Estado para establecer tributos."
+   },
+   {
+    "id": "D",
+    "text": "La protección de los derechos y el bienestar de los animales."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 39. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 39
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-040",
+  "topicId": "comun-08",
+  "prompt": "¿Qué rango normativo se exige para la regulación del estatuto de los funcionarios públicos, el acceso a la función pública, las peculiaridades de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Rango de ley."
+   },
+   {
+    "id": "B",
+    "text": "Rango reglamentario."
+   },
+   {
+    "id": "C",
+    "text": "Rango de ley para el acceso a la función pública, y rango reglamentario para la regulación del estatuto de los funcionarios públicos, las peculiaridades de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones."
+   },
+   {
+    "id": "D",
+    "text": "Rango de ley para la regulación del estatuto de los funcionarios públicos y el acceso a la función pública, y rango reglamentario para el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 40. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 40
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-041",
+  "topicId": "comun-08",
+  "prompt": "Podrá prescindirse del trámite de audiencia e información pública durante el procedimiento de elaboración de normas con rango de Ley y reglamentos cuando la propuesta normativa:",
+  "options": [
+   {
+    "id": "A",
+    "text": "No tenga un impacto significativo en la actividad económica."
+   },
+   {
+    "id": "B",
+    "text": "No imponga obligaciones relevantes a los destinatarios."
+   },
+   {
+    "id": "C",
+    "text": "Regule los órganos, cargos y autoridades del Gobierno o de las organizaciones dependientes o vinculadas a éstas."
+   },
+   {
+    "id": "D",
+    "text": "Regule aspectos parciales de una materia."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 41. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 41
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-042",
+  "topicId": "comun-08",
+  "prompt": "Las disposiciones y resoluciones de los Ministros que afecten a varios Departamentos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Revestirán la forma de Orden Ministerial conjunta, dictada a propuesta de los Ministros interesados."
+   },
+   {
+    "id": "B",
+    "text": "Revestirán la forma de Orden Ministerial del Ministro de la Presidencia, dictada a propuesta de los Ministros interesados."
+   },
+   {
+    "id": "C",
+    "text": "Revestirán la forma de Real Decreto del Presidente del Gobierno, dictado a propuesta de los Ministros interesados."
+   },
+   {
+    "id": "D",
+    "text": "Revestirán la forma de Acuerdo del Consejo de Ministros, dictado a propuesta de los Ministros interesados."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 42. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 42
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-043",
+  "topicId": "comun-05",
+  "prompt": "Según lo establecido en el artículo 23 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿cuál de los siguientes NO es un motivo de abstención en un procedimiento administrativo?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Tener parentesco de consanguinidad dentro del cuarto grado con cualquiera de los interesados en el procedimiento."
+   },
+   {
+    "id": "B",
+    "text": "Tener parentesco de afinidad dentro del segundo grado con cualquiera de los interesados en el procedimiento."
+   },
+   {
+    "id": "C",
+    "text": "Compartir despacho profesional con los interesados en el procedimiento."
+   },
+   {
+    "id": "D",
+    "text": "Haberle prestado al interesado hace cinco años servicios profesionales de cualquier tipo."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 43. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 43
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-044",
+  "topicId": "comun-09",
+  "prompt": "Cuando el interesado o su representante rechace la notificación de una actuación administrativa:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se hará constar en el expediente, dando por efectuado el trámite y siguiéndose el procedimiento."
+   },
+   {
+    "id": "B",
+    "text": "Se hará un segundo intento de la notificación por una sola vez y en una hora distinta dentro de los tres días siguientes."
+   },
+   {
+    "id": "C",
+    "text": "La notificación se hará por medio de la publicación de un anuncio en el boletín oficial de la Comunidad Autónoma o de la Provincia."
+   },
+   {
+    "id": "D",
+    "text": "La notificación se hará por medio de un anuncio publicado en el Boletín Oficial del Estado."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 44. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 44
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-045",
+  "topicId": "comun-10",
+  "prompt": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las modificaciones del contrato NO previstas en el pliego de cláusulas administrativas particulares que se lleven a cabo serán obligatorias para los contratistas:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Cuando impliquen aislada o conjuntamente, una alteración en su cuantía que no exceda del 20 % del precio inicial del contrato, IVA excluido."
+   },
+   {
+    "id": "B",
+    "text": "Cuando impliquen aislada o conjuntamente, una alteración en su cuantía que exceda del 20 % del precio inicial del contrato, IVA excluido."
+   },
+   {
+    "id": "C",
+    "text": "Cuando impliquen aislada o conjuntamente, una alteración en su cuantía que exceda del 70 % del precio inicial del contrato, IVA excluido."
+   },
+   {
+    "id": "D",
+    "text": "Cuando impliquen aislada o conjuntamente, una alteración en su cuantía que exceda del 50 % del precio inicial del contrato, IVA excluido. 2022 - GACE-L Página 5 de 12"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 45. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 45
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-046",
+  "topicId": "comun-10",
+  "prompt": "Indique la respuesta correcta con relación a la adjudicación de los contratos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los procedimientos de adjudicación son el concurso y la subasta."
+   },
+   {
+    "id": "B",
+    "text": "El procedimiento negociado sin publicidad se utiliza cuando la prestación de un contrato incluya soluciones innovadoras."
+   },
+   {
+    "id": "C",
+    "text": "Los plazos previstos en la Ley del Sector Público se entienden referidos a días naturales, salvo que en la misma se indique expresamente que sólo deben computarse los días hábiles."
+   },
+   {
+    "id": "D",
+    "text": "Los procedimientos de adjudicación son los contratos de obras, suministros y servicios."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 46. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 46
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-047",
+  "topicId": "comun-10",
+  "prompt": "Según lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, indique para qué tipo de contratos es requisito indispensable que el empresario se encuentre debidamente clasificado:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Contratos de suministros cuyo valor estimado sea inferior a 200.000 euros."
+   },
+   {
+    "id": "B",
+    "text": "Contratos de obras cuyo valor estimado sea inferior a 500.000 euros."
+   },
+   {
+    "id": "C",
+    "text": "Contratos de suministros cuyo valor estimado sea igual o superior a 300.000 euros."
+   },
+   {
+    "id": "D",
+    "text": "Contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 47. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 47
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-048",
+  "topicId": "comun-10",
+  "prompt": "¿Qué regulación resulta aplicable a los contratos de fabricación?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las normas generales y especiales del contrato de obras."
+   },
+   {
+    "id": "B",
+    "text": "Las normas generales y especiales del contrato de suministro."
+   },
+   {
+    "id": "C",
+    "text": "Las normas generales y especiales del contrato de obras, salvo las relativas a su publicidad y procedimiento de adjudicación, que se acomodarán, en todo caso, al contrato de suministro."
+   },
+   {
+    "id": "D",
+    "text": "Las normas generales y especiales del contrato de suministro, salvo las relativas a su publicidad y procedimiento de adjudicación, que se acomodarán, en todo caso, al contrato de obras."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 48. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 48
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-049",
+  "topicId": "comun-10",
+  "prompt": "Según lo dispuesto en la Ley 9/2017, de Contratos del Sector Público, si se demorase injustificadamente la comprobación del replanteo de la obra, dando lugar a la resolución del contrato, el contratista sólo tendrá derecho a percibir por todos los conceptos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Una indemnización equivalente al tres por cien del precio de la adjudicación, IVA excluido."
+   },
+   {
+    "id": "B",
+    "text": "Una indemnización equivalente al dos por cien del precio de adjudicación, IVA excluido."
+   },
+   {
+    "id": "C",
+    "text": "Una indemnización equivalente al cinco por cien del precio de adjudicación, IVA excluido."
+   },
+   {
+    "id": "D",
+    "text": "Una indemnización equivalente al seis por cien del precio de adjudicación, IVA excluido."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 49. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 49
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-050",
+  "topicId": "especifico-44",
+  "prompt": "De conformidad con lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, podrán ser subvencionados con carácter excepcional:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los intereses deudores de las cuentas bancarias, cuando así lo prevea la normativa reguladora de la subvención."
+   },
+   {
+    "id": "B",
+    "text": "Los intereses, recargos y sanciones administrativas y penales, cuando así lo prevea la normativa reguladora de la subvención."
+   },
+   {
+    "id": "C",
+    "text": "Los gastos de procedimientos judiciales, cuando así lo prevea la normativa reguladora de la subvención."
+   },
+   {
+    "id": "D",
+    "text": "Los gastos de garantía bancaria, cuando así lo prevea la normativa reguladora de la subvención."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 50. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 50
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-051",
+  "topicId": "especifico-44",
+  "prompt": "De acuerdo con lo establecido en el artículo 42 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, en la tramitación del procedimiento de reintegro de subvenciones se garantizará, en todo caso, el derecho del interesado a:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La revisión del expediente administrativo."
+   },
+   {
+    "id": "B",
+    "text": "La presentación de alegaciones."
+   },
+   {
+    "id": "C",
+    "text": "La presentación de medios de prueba."
+   },
+   {
+    "id": "D",
+    "text": "La audiencia."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 51. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 51
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-057",
+  "topicId": "comun-09",
+  "prompt": "Salvo que se establezca otro plazo menor en las normas especiales que sean de aplicación, la duración de las concesiones sobre bienes de dominio público no podrá exceder de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "65 años, incluidas las prórrogas."
+   },
+   {
+    "id": "B",
+    "text": "70 años, incluidas las prórrogas."
+   },
+   {
+    "id": "C",
+    "text": "75 años, incluidas las prórrogas."
+   },
+   {
+    "id": "D",
+    "text": "60 años, incluidas las prórrogas."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 57. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 57
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-058",
+  "topicId": "comun-09",
+  "prompt": "De conformidad con el artículo 32 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas de toda lesión que sufran en sus bienes y derechos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "En todos los casos en los que se produzca la anulación en via administrativa o por el orden jurisdiccional contencioso- administrativo de actos o disposiciones administrativas."
+   },
+   {
+    "id": "B",
+    "text": "Cuando la lesión sea consecuencia del funcionamiento normal de los servicios públicos."
+   },
+   {
+    "id": "C",
+    "text": "Cuando la lesión sea consecuencia de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley."
+   },
+   {
+    "id": "D",
+    "text": "Cuando la lesión haya tenido lugar por causa de fuerza mayor."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 58. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 58
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-059",
+  "topicId": "comun-09",
+  "prompt": "El procedimiento mediante el cual la Administración exige de oficio en vía administrativa de sus autoridades y demás personal a su servicio la responsabilidad en que hubieran incurrido por dolo, culpa o negligencia graves constará, al menos, del siguiente trámite:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Alegaciones durante un plazo de diez días."
+   },
+   {
+    "id": "B",
+    "text": "Práctica de las pruebas admitidas durante un plazo de diez días."
+   },
+   {
+    "id": "C",
+    "text": "Audiencia durante un plazo de diez días."
+   },
+   {
+    "id": "D",
+    "text": "Resolución por el órgano competente en el plazo de diez días."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 59. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 59
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-060",
+  "topicId": "comun-09",
+  "prompt": "De conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, indique cuándo prescribe el derecho a reclamar en un procedimiento de responsabilidad patrimonial:",
+  "options": [
+   {
+    "id": "A",
+    "text": "A los seis meses de la curación o determinación del alcance de las secuelas, en caso de daños de carácter fisico o psíquico a las personas."
+   },
+   {
+    "id": "B",
+    "text": "Al mes de la publicación en el Diario oficial correspondiente de la sentencia que declare la inconstitucionalidad de la norma o su carácter contrario al Derecho de la Unión Europea en los casos de responsabilidad patrimonial a que se refiere el artículo 32, apartados 4 y 5 de la Ley 40/2015."
+   },
+   {
+    "id": "C",
+    "text": "Al año de la producción del hecho o el acto que motive la indemnización o se manifieste su efecto lesivo."
+   },
+   {
+    "id": "D",
+    "text": "A los seis meses de haberse notificado la resolución administrativa en los casos en que proceda reconocer derecho a indemnización por anulación en vía administrativa de un acto o disposición de carácter general."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 60. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 60
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-061",
+  "topicId": "comun-09",
+  "prompt": "Identifique, de entre las siguientes opciones, un acto administrativo:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El reconocimiento de un trienio a un funcionario público."
+   },
+   {
+    "id": "B",
+    "text": "Una disposición administrativa de carácter general."
+   },
+   {
+    "id": "C",
+    "text": "Una sentencia judicial."
+   },
+   {
+    "id": "D",
+    "text": "La reclamación de un ciudadano por el anormal funcionamiento de un servicio público."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 61. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 61
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-062",
+  "topicId": "comun-09",
+  "prompt": "De conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que en la norma correspondiente se fije plazo distinto, los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Diez días a partir del siguiente al de la notificación del correspondiente acto."
+   },
+   {
+    "id": "B",
+    "text": "Diez días a partir del día de la notificación del correspondiente acto."
+   },
+   {
+    "id": "C",
+    "text": "Quince días a partir del siguiente al de la notificación del correspondiente acto."
+   },
+   {
+    "id": "D",
+    "text": "Quince días a partir del día de notificación del correspondiente acto."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 62. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 62
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-063",
+  "topicId": "comun-09",
+  "prompt": "Es un medio de ejecución forzosa de los actos administrativos:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La sanción subsidiaria."
+   },
+   {
+    "id": "B",
+    "text": "La multa coercitiva."
+   },
+   {
+    "id": "C",
+    "text": "La compulsa de documentos administrativos."
+   },
+   {
+    "id": "D",
+    "text": "La desviación de poder."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 63. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 63
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-064",
+  "topicId": "comun-09",
+  "prompt": "¿Cuál de los siguientes NO es un derecho del interesado en el procedimiento administrativo?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Acceder y obtener los documentos contenidos en los procedimientos."
+   },
+   {
+    "id": "B",
+    "text": "No presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario."
+   },
+   {
+    "id": "C",
+    "text": "Obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar."
+   },
+   {
+    "id": "D",
+    "text": "Actuar asistido de asesor cuando lo considere conveniente para la defensa de sus intereses."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 64. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 64
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-065",
+  "topicId": "comun-09",
+  "prompt": "De conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la declaración de lesividad de actos anulables:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo."
+   },
+   {
+    "id": "B",
+    "text": "No exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo."
+   },
+   {
+    "id": "C",
+    "text": "Será susceptible de recurso, debiendo notificarse a los interesados."
+   },
+   {
+    "id": "D",
+    "text": "Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 65. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 65
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-068",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo con el artículo 103.3 de la Constitución Española de 1978, el acceso a la función pública y las garantías de imparcialidad en el ejercicio de sus funciones se regulará:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Por Ley Orgánica."
+   },
+   {
+    "id": "B",
+    "text": "Por Real Decreto."
+   },
+   {
+    "id": "C",
+    "text": "Por Ley."
+   },
+   {
+    "id": "D",
+    "text": "Por Reglamento."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 68. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 68
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-069",
+  "topicId": "comun-11",
+  "prompt": "Señale la afirmación INCORRECTA en relación con la pérdida de la condición de funcionario:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La renuncia no puede ser aceptada cuando el funcionario esté sujeto a expediente disciplinario."
+   },
+   {
+    "id": "B",
+    "text": "La jubilación total conlleva la pérdida en la condición de funcionario."
+   },
+   {
+    "id": "C",
+    "text": "Cabe la rehabilitación de la condición de funcionario si desaparece la causa objetiva que motivó su extinción."
+   },
+   {
+    "id": "D",
+    "text": "La pena principal o accesoria de prisión conlleva la pérdida de la condición de funcionario."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 69. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 69
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-070",
+  "topicId": "comun-11",
+  "prompt": "Señale la afirmación INCORRECTA en relación con el personal eventual:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Su cese y nombramiento serán libres."
+   },
+   {
+    "id": "B",
+    "text": "Desarrolla funciones directivas definidas como tales en las normas específicas de cada Administración."
+   },
+   {
+    "id": "C",
+    "text": "Le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios."
+   },
+   {
+    "id": "D",
+    "text": "La experiencia obtenida como eventual no podrá constituir mérito para la promoción interna."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 70. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 70
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-071",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo con lo establecido en el artículo 10 del texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿qué régimen jurídico les será de aplicación al personal funcionario interino?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Al personal funcionario interino le será de aplicación en su totalidad el régimen general de los funcionarios de carrera mientras estén prestando servicios."
+   },
+   {
+    "id": "B",
+    "text": "Al personal funcionario interino le será aplicable el régimen general del personal funcionario de carrera en cuanto sea adecuado a la naturaleza de su condición temporal y al carácter extraordinario y urgente de su nombramiento, salvo aquellos derechos inherentes a la condición de funcionario de carrera."
+   },
+   {
+    "id": "C",
+    "text": "Al personal funcionario interino le será aplicable el régimen general del personal funcionario de carrera, salvo aquellos derechos relativos a la antigüedad , y con independencia de la naturaleza de su condición de personal temporal y al carácter urgente de su nombramiento."
+   },
+   {
+    "id": "D",
+    "text": "Al personal funcionario interino no le será aplicable el régimen general del personal funcionario de carrera salvo aquellos derechos que sean inherentes a la condición de todos los empleados públicos."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 71. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 71
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-072",
+  "topicId": "comun-15",
+  "prompt": "En relación con el derecho de huelga de los empleados públicos, el artículo 30 del texto refundido de la Ley del Estatuto Básico del Empleado Público establece que:",
+  "options": [
+   {
+    "id": "A",
+    "text": "A quienes ejerciten del derecho de huelga se les aplicará la deducción proporcional en sus retribuciones complementarias y en las prestaciones sociales correspondientes al tiempo en que hayan permanecido en esa situación."
+   },
+   {
+    "id": "B",
+    "text": "El ejercicio del derecho de huelga por parte de los empleados públicos supondrá la deducción proporcional en las retribuciones integras y en las prestaciones sociales correspondientes al tiempo en que hayan permanecido en esa situación sin que la deducción de haberes que se efectúe tenga carácter de sanción."
+   },
+   {
+    "id": "C",
+    "text": "Quienes ejerciten el derecho de huelga no devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación sin que la deducción de haberes que se efectúe tenga carácter de sanción, ni afecte al régimen respectivo de sus prestaciones sociales."
+   },
+   {
+    "id": "D",
+    "text": "Los empleados públicos que ejerciten el derecho de huelga no devengaran ni percibirán las retribuciones ni las prestaciones sociales correspondientes al tiempo en que hayan permanecido en esa situación sin que la deducción de haberes que se efectúe tenga carácter de sanción."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 72. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 72
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-073",
+  "topicId": "comun-11",
+  "prompt": "¿Cuál de los siguientes conceptos NO tiene el carácter de sanción disciplinaria, de conformidad con el Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Suspensión de funciones."
+   },
+   {
+    "id": "B",
+    "text": "Apercibimiento."
+   },
+   {
+    "id": "C",
+    "text": "Deducción proporcional de retribuciones."
+   },
+   {
+    "id": "D",
+    "text": "Traslado con cambio de residencia."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 73. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 73
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-074",
+  "topicId": "comun-13",
+  "prompt": "El porcentaje máximo que la bolsa de horas puede alcanzar de la jornada anual de cada empleado o empleada, para los casos de cuidado de hijos o hijas menores de edad y menores sujetos a tutela o acogimiento, y para la atención de personas mayores y personas con discapacidad hasta el primer grado de consanguinidad o afinidad, es:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El 5 por ciento."
+   },
+   {
+    "id": "B",
+    "text": "El 1 por ciento."
+   },
+   {
+    "id": "C",
+    "text": "El 25 por ciento."
+   },
+   {
+    "id": "D",
+    "text": "El 10 por ciento."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 74. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 74
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-075",
+  "topicId": "comun-12",
+  "prompt": "Señale la afirmación correcta en relación con los procesos de selección de acceso al empleo público:",
+  "options": [
+   {
+    "id": "A",
+    "text": "En las Ofertas de Empleo Público se reservará un cupo no inferior al 12 % para personas con discapacidad."
+   },
+   {
+    "id": "B",
+    "text": "Los funcionarios interinos no podrán formar parte de los órganos de selección."
+   },
+   {
+    "id": "C",
+    "text": "Los sistemas de selección de funcionarios de carrera serán el concurso o el concurso-oposición."
+   },
+   {
+    "id": "D",
+    "text": "En todo caso, será requisito de participación ostentar la condición de nacional español. 2022 - GACE-L Página 8 de 12"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 75. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 75
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-076",
+  "topicId": "comun-12",
+  "prompt": "Señale la afirmación correcta en relación con las competencias en materia de personal:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La Oferta de Empleo Público la aprueba la persona titular del Ministerio de Hacienda y Función Pública."
+   },
+   {
+    "id": "B",
+    "text": "Las convocatorias de procesos selectivos de Cuerpos especiales corresponden a los Ministros."
+   },
+   {
+    "id": "C",
+    "text": "La creación de Cuerpos de Funcionarios corresponde a la Directora General de la Función Pública."
+   },
+   {
+    "id": "D",
+    "text": "Corresponde a las personas titulares de las Subsecretarías ostentar la Jefatura Superior de Personal en los Ministerios."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 76. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 76
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-077",
+  "topicId": "comun-12",
+  "prompt": "De acuerdo con lo previsto en el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado, y en relación con la provisión de puestos de trabajo:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La adscripción provisional se produce, entre otros, cuando se suprime un puesto de trabajo ocupado."
+   },
+   {
+    "id": "B",
+    "text": "La comisión de servicios se produce, entre otros, para facilitar la ocupación de puestos con carácter definitivo a otro de carácter definitivo."
+   },
+   {
+    "id": "C",
+    "text": "No cabe el reingreso activo mediante la participación en procedimientos de libre designación."
+   },
+   {
+    "id": "D",
+    "text": "En los procedimientos de libre designación, los representantes de los trabajadores formarán parte de sus comisiones de valoración."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 77. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 77
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-078",
+  "topicId": "comun-12",
+  "prompt": "De conformidad con el Real Decreto 364/1995 de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado, el plazo máximo para resolver los concursos es de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Un mes salvo que en la convocatoria se establezca otro distinto."
+   },
+   {
+    "id": "B",
+    "text": "Dos meses en todo caso."
+   },
+   {
+    "id": "C",
+    "text": "Tres meses salvo que en la convocatoria se establezca otro distinto."
+   },
+   {
+    "id": "D",
+    "text": "Dos meses salvo que en la convocatoria se establezca otro distinto."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 78. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 78
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-079",
+  "topicId": "comun-12",
+  "prompt": "Señale la afirmación INCORRECTA en relación con la provisión de puestos mediante concurso:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Sus convocatorias requieren de autorización previa."
+   },
+   {
+    "id": "B",
+    "text": "Deberán abstenerse de participar en las comisiones de valoración los titulares de los centros directivos al que figuren adscritos los puestos convocados."
+   },
+   {
+    "id": "C",
+    "text": "Sus convocatorias se publicarán en el Boletín Oficial del Estado."
+   },
+   {
+    "id": "D",
+    "text": "En determinadas circunstancias cabe realizar entrevistas para valorar los méritos."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 79. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 79
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-080",
+  "topicId": "comun-12",
+  "prompt": "De acuerdo con la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, NO se podrá compatibilizar la función pública con:",
+  "options": [
+   {
+    "id": "A",
+    "text": "La producción literaria."
+   },
+   {
+    "id": "B",
+    "text": "La preparación para el acceso a la función pública."
+   },
+   {
+    "id": "C",
+    "text": "Pertenecer a un Consejo de Administración de una empresa pública."
+   },
+   {
+    "id": "D",
+    "text": "La participación con un quince por ciento en el capital de una empresa concesionaria de las Administraciones Públicas."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 80. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 80
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-081",
+  "topicId": "comun-12",
+  "prompt": "Un funcionario público que es nombrado Secretario de Estado queda en situación administrativa de:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Excedencia forzosa."
+   },
+   {
+    "id": "B",
+    "text": "Servicios especiales."
+   },
+   {
+    "id": "C",
+    "text": "Expectativa de destino."
+   },
+   {
+    "id": "D",
+    "text": "Excedencia por prestación de servicios en el sector público."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 81. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 81
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-084",
+  "topicId": "comun-13",
+  "prompt": "Señale la afirmación correcta en relación con el IV Convenio colectivo único para el personal laboral de la Administración General del Estado:",
+  "options": [
+   {
+    "id": "A",
+    "text": "El sistema de clasificación profesional se estructura en grupos profesionales, Cuerpos de adscripción y Familias de especialización."
+   },
+   {
+    "id": "B",
+    "text": "El Convenio prevé grupos profesionales de clasificación en función de la titulación exigida en el ingreso."
+   },
+   {
+    "id": "C",
+    "text": "Está incluido en su ámbito de aplicación el personal de alta dirección."
+   },
+   {
+    "id": "D",
+    "text": "Está incluido en su ámbito de aplicación el personal laboral que presta servicios en el exterior."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 84. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 84
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-085",
+  "topicId": "comun-11",
+  "prompt": "De conformidad con el texto refundido de la Ley del Estatuto Básico del Empleado Público, y en relación con los derechos de negociación colectiva, representación y participación institucional, señale la afirmación correcta:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las Juntas de Personal representan al personal laboral de cada organización."
+   },
+   {
+    "id": "B",
+    "text": "Las Juntas de Personal representan al personal funcionario y laboral de los Departamentos Ministeriales."
+   },
+   {
+    "id": "C",
+    "text": "Las Mesas de Negociación se constituyen allí donde no hay Juntas de Personal o Comités de Empresa."
+   },
+   {
+    "id": "D",
+    "text": "Los Delegados de Personal se eligen por un mandato de cuatro años. 2022 - GACE-L Página 9 de 12"
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 85. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 85
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-087",
+  "topicId": "comun-11",
+  "prompt": "De acuerdo a lo regulado en el texto refundido de la Ley del Estatuto Básico del Empleado Público, en relación a las personas con discapacidad en las Ofertas de Empleo Público:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Se reservará un cupo no inferior al cinco por ciento de las vacantes para ser cubiertas entre personas con discapacidad. De dicho porcentaje, al menos, el dos por ciento de las plazas ofertadas lo será para ser cubiertas por personas que acrediten discapacidad intelectual y el resto para personas que acrediten cualquier otro tipo de discapacidad."
+   },
+   {
+    "id": "B",
+    "text": "Se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad. De dicho porcentaje, al menos, el dos por ciento de las plazas ofertadas lo será para ser cubiertas por personas que acrediten discapacidad intelectual y el resto para personas que acrediten cualquier otro tipo de discapacidad."
+   },
+   {
+    "id": "C",
+    "text": "Se reservará un cupo no superior al diez por ciento de las vacantes para ser cubiertas entre personas con discapacidad. De dicho porcentaje, al menos, el cuatro por ciento de las plazas ofertadas lo será para ser cubiertas por personas que acrediten discapacidad intelectual y el resto para personas que acrediten cualquier otro tipo de discapacidad."
+   },
+   {
+    "id": "D",
+    "text": "Se reservará un cupo superior al cinco por ciento de las vacantes para ser cubiertas entre personas con discapacidad. De dicho porcentaje, al menos, el uno por ciento de las plazas ofertadas lo será para ser cubiertas por personas que acrediten discapacidad intelectual y el resto para personas que acrediten cualquier otro tipo de discapacidad."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 87. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 87
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-088",
+  "topicId": "especifico-44",
+  "prompt": "De acuerdo con el artículo 26 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿cuáles son todos los principios que rigen la programación presupuestaria?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Los principios de estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, eficiencia en la asignación y utilización de los recursos públicos, responsabilidad y lealtad institucional."
+   },
+   {
+    "id": "B",
+    "text": "Los principios de estabilidad presupuestaria, plurianualidad y unidad de caja."
+   },
+   {
+    "id": "C",
+    "text": "Los principios de estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, unidad de caja, eficacia en la asignación y utilización de todos los recursos, coherencia normativa y lealtad institucional."
+   },
+   {
+    "id": "D",
+    "text": "Los principios de estabilidad presupuestaria, equilibrio financiero, plurianualidad, transparencia y neutralidad en la utilización de los recursos, responsabilidad y lealtad institucional."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 88. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 88
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-089",
+  "topicId": "especifico-44",
+  "prompt": "Según la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en el presupuesto anual, el conjunto de créditos que, para el logro de los objetivos anuales que el mismo establezca, se pone a disposición del gestor responsable de su ejecución, constituye un:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Concepto presupuestario."
+   },
+   {
+    "id": "B",
+    "text": "Subconcepto presupuestario."
+   },
+   {
+    "id": "C",
+    "text": "Programa de gasto."
+   },
+   {
+    "id": "D",
+    "text": "Partida de gasto."
+   }
+  ],
+  "correctOptionId": "C",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 89. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 89
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-090",
+  "topicId": "especifico-44",
+  "prompt": "Indique la opción correcta en relación con la prórroga de los Presupuestos Generales del Estado:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Si la Ley de Presupuestos Generales del Estado no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los presupuestos iniciales del ejercicio anterior hasta la aprobación en el Congreso de los Diputados de los nuevos."
+   },
+   {
+    "id": "B",
+    "text": "Si la Ley de Presupuestos Generales del Estado no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los presupuestos iniciales del ejercicio anterior hasta la aprobación y publicación de los nuevos en el ‘‘Boletín Oficial del Estado’’."
+   },
+   {
+    "id": "C",
+    "text": "Si la Ley de Presupuestos Generales del Estado no se aprobara antes del 1 de diciembre del ejercicio económico en vigor, se considerarán automáticamente prorrogados los presupuestos iniciales del ejercicio anterior hasta la aprobación y publicación de los nuevos en el ‘‘Boletín Oficial del Estado’’."
+   },
+   {
+    "id": "D",
+    "text": "Si la Ley de Presupuestos Generales del Estado no se aprobara antes del primer día del ejercicio económico correspondiente, se tramitará de urgencia la prórroga en las Cortes Generales de los presupuestos iniciales del ejercicio anterior hasta la aprobación y publicación de los nuevos en el ‘‘Boletín Oficial del Estado’’."
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 90. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 90
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-091",
+  "topicId": "especifico-44",
+  "prompt": "¿Cuál de las siguientes afirmaciones sobre modificaciones presupuestarias es INCORRECTA?",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las generaciones son modificaciones que incrementan los créditos como consecuencia de la realización de determinados ingresos no previstos o superiores a los contemplados en el presupuesto inicial."
+   },
+   {
+    "id": "B",
+    "text": "Las transferencias son traspasos de dotaciones entre créditos. Pueden realizarse entre los diferentes créditos del presupuesto incluso con la creación de créditos nuevos, con determinadas restricciones."
+   },
+   {
+    "id": "C",
+    "text": "Cuando haya de realizarse con cargo al Presupuesto del Estado algún gasto que no pueda demorarse hasta el ejercicio siguiente, y no exista crédito adecuado o sea insuficiente y no ampliable el consignado y su dotación no resulte posible a través de las restantes figuras previstas en el artículo 51 de la Ley General Presupuestaria, deberá procederse a la tramitación de un crédito extraordinario o suplementario del inicialmente previsto."
+   },
+   {
+    "id": "D",
+    "text": "Únicamente tendrán la condición de ampliables los créditos destinados al pago de pensiones de Clases Pasivas del Estado."
+   }
+  ],
+  "correctOptionId": "D",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 91. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 91
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-096",
+  "topicId": "especifico-44",
+  "prompt": "Dentro de la clasificación económica del gasto, las primas de seguros se imputan al artículo:",
+  "options": [
+   {
+    "id": "A",
+    "text": "24"
+   },
+   {
+    "id": "B",
+    "text": "22"
+   },
+   {
+    "id": "C",
+    "text": "23"
+   },
+   {
+    "id": "D",
+    "text": "20"
+   }
+  ],
+  "correctOptionId": "B",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 96. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 96
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-099",
+  "topicId": "especifico-44",
+  "prompt": "En la estructura de los estados de ingresos del Sector Público Estatal, ¿dónde se incluyen las tasas y precios públicos?",
+  "options": [
+   {
+    "id": "A",
+    "text": "En los ingresos corrientes."
+   },
+   {
+    "id": "B",
+    "text": "En los ingresos de capital."
+   },
+   {
+    "id": "C",
+    "text": "En los activos financieros."
+   },
+   {
+    "id": "D",
+    "text": "En las operaciones financieras (activos y pasivos, dependiendo del caso)."
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 99. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 99
+  },
+  "active": true,
+  "optionCount": 4
+ },
+ {
+  "id": "inap-gace-2022-100",
+  "topicId": "comun-11",
+  "prompt": "Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias. Señale la afirmación correcta:",
+  "options": [
+   {
+    "id": "A",
+    "text": "Las retribuciones básicas son las que retribuyen al funcionario según la adscripción de su cuerpo o escala a un determinado Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo, y por su antigüedad en el mismo."
+   },
+   {
+    "id": "B",
+    "text": "Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por el sueldo asignado a cada Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo."
+   },
+   {
+    "id": "C",
+    "text": "Las retribuciones complementarias son las que retribuyen el desempeño extraordinario, cuando así se acredite."
+   },
+   {
+    "id": "D",
+    "text": "La cuantía y estructura de las retribuciones complementarias de los funcionarios se establecerán por los correspondientes decretos de los órganos de gobierno de cada Administración Pública. 2022 - GACE-L Página 11 de 12 Preguntas de reserva"
+   }
+  ],
+  "correctOptionId": "A",
+  "explanation": "Pregunta oficial. Respuesta según la plantilla definitiva del INAP.",
+  "source": {
+   "kind": "official_exam",
+   "reference": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre, pregunta 100. INAP, 2022."
+  },
+  "origin": {
+   "type": "official_exam",
+   "historical": true,
+   "convocatoria": "Cuerpo de Gestión de la Administración Civil del Estado, ingreso libre (INAP, 2022)",
+   "ministerio": "INAP / Función Pública",
+   "grupo": "A2 funcionario",
+   "especialidad": "primer ejercicio",
+   "turno": "libre",
+   "fecha": "2022",
+   "nota": "Cuerpo de funcionario: aporta al temario común compartido",
+   "numeroOriginal": 100
+  },
+  "active": true,
+  "optionCount": 4
+ }
+]

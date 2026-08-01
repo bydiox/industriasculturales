@@ -1,6 +1,6 @@
 {
   "name": "m3-gestion-industrias-culturales-creativas",
-  "version": "0.1.18",
+  "version": "0.1.21",
   "private": true,
   "type": "module",
   "scripts": {
@@ -46,6 +46,9 @@
     "content:import:official-2021": "node scripts/import-official-m3-2021.mjs",
     "content:import:m1-para-m3": "node scripts/import-m1-para-m3-final.mjs",
     "content:normalize:law-aliases": "node scripts/normalize-law-aliases.mjs",
-    "content:import:m3-cultura": "node scripts/import-m3-cultura-2023-2025.mjs"
+    "content:import:m3-cultura": "node scripts/import-m3-cultura-2023-2025.mjs",
+    "content:import:nuevas-preguntas": "node scripts/import-nuevas-preguntas-2026-08-01.mjs",
+    "content:import:inap-gestion-a2-2024": "node scripts/import-inap-gestion-a2-2024.mjs",
+    "content:import:inap-gestion-a2-2022": "node scripts/import-inap-gestion-a2-2022.mjs"
   }
 }
