@@ -15,16 +15,52 @@
       "showInStudyCatalog": true
     },
     {
-      "id": "src-estudio-tecnica-escena",
-      "title": "Técnica escénica, regiduría y tecnología · ficha de estudio",
-      "summary": "Vocabulario básico de escenario, maquinaria, iluminación, sonido, vídeo, sastrería, caracterización y regiduría.",
-      "file": "data/sources/fuente-tecnica-escena-B.html",
+      "id": "src-estudio-tecnica-espacio",
+      "title": "Espacio escénico y técnica · ficha de estudio",
+      "summary": "Vocabulario esencial de espacio, maquinaria, iluminación, sonido, vídeo, marcado, sastrería y caracterización.",
+      "file": "data/sources/fuente-tecnica-espacio-B.html",
       "format": "html",
       "category": "fuentes",
       "kind": "study-guide",
-      "topicIds": ["especifico-29", "especifico-30", "especifico-31", "especifico-32", "especifico-33", "especifico-34", "especifico-35", "especifico-36", "especifico-37", "especifico-38", "especifico-39", "especifico-40"],
+      "topicIds": ["especifico-29", "especifico-30", "especifico-31", "especifico-32", "especifico-33", "especifico-34", "especifico-35"],
       "relatedFiles": ["data/sources/cncp-technical.html", "data/sources/inaem-m1-2022.html"],
       "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-regiduria",
+      "title": "Dirección de escenario · ficha de estudio",
+      "summary": "Funciones, libro de regiduría, avisos, ensayos, gira y respuesta inicial ante incidencias.",
+      "file": "data/sources/fuente-regiduria-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-36", "especifico-37", "especifico-38"],
+      "relatedFiles": ["data/sources/cncp-technical.html", "data/sources/inaem-m1-2022.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-tecnologia",
+      "title": "Software y tecnología cultural · ficha de estudio",
+      "summary": "Ofimática, software de escena y usos generales de las nuevas tecnologías en cultura.",
+      "file": "data/sources/fuente-tecnologia-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "study-guide",
+      "topicIds": ["especifico-39", "especifico-40"],
+      "relatedFiles": ["data/sources/cncp-technical.html", "data/sources/inaem-m1-2022.html"],
+      "showInStudyCatalog": true
+    },
+    {
+      "id": "src-estudio-tecnica-escena",
+      "title": "Técnica escénica, regiduría y tecnología · fuente completa",
+      "summary": "Versión conjunta conservada como respaldo editorial.",
+      "file": "data/sources/fuente-tecnica-escena-B.html",
+      "format": "html",
+      "category": "fuentes",
+      "kind": "source",
+      "topicIds": ["especifico-29", "especifico-30", "especifico-31", "especifico-32", "especifico-33", "especifico-34", "especifico-35", "especifico-36", "especifico-37", "especifico-38", "especifico-39", "especifico-40"],
+      "relatedFiles": ["data/sources/cncp-technical.html", "data/sources/inaem-m1-2022.html"],
+      "showInStudyCatalog": false
     },
     {
       "id": "src-estudio-produccion-economia",

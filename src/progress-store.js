@@ -2,7 +2,7 @@ const STORAGE_KEY = 'skeleton_progress_v1';
 let remoteSync = null;
 
 const emptyProgress = () => ({
-  version: 2,
+  version: 3,
   completedTopics: [],
   completedUnits: [],
   readUnits: [],
@@ -11,6 +11,9 @@ const emptyProgress = () => ({
   questionStats: {},
   savedQuestionIds: [],
   doubtfulQuestionIds: [],
+  practicalDraft: '',
+  practicalChecklist: [],
+  practicalPromptIndex: 0,
   currentTopicId: null,
   currentUnitId: null,
   answered: 0,
@@ -24,7 +27,7 @@ function normalize(progress = {}) {
   return {
     ...emptyProgress(),
     ...progress,
-    version: 2,
+    version: 3,
     completedTopics: Array.isArray(progress.completedTopics) ? [...new Set(progress.completedTopics)] : [],
     completedUnits: Array.isArray(progress.completedUnits) ? [...new Set(progress.completedUnits)] : [],
     readUnits: Array.isArray(progress.readUnits) ? [...new Set(progress.readUnits)] : [],
@@ -32,7 +35,10 @@ function normalize(progress = {}) {
     activeSession: progress.activeSession && typeof progress.activeSession === 'object' ? progress.activeSession : null,
     questionStats: progress.questionStats && typeof progress.questionStats === 'object' ? progress.questionStats : {},
     savedQuestionIds: Array.isArray(progress.savedQuestionIds) ? [...new Set(progress.savedQuestionIds)] : [],
-    doubtfulQuestionIds: Array.isArray(progress.doubtfulQuestionIds) ? [...new Set(progress.doubtfulQuestionIds)] : []
+    doubtfulQuestionIds: Array.isArray(progress.doubtfulQuestionIds) ? [...new Set(progress.doubtfulQuestionIds)] : [],
+    practicalDraft: typeof progress.practicalDraft === 'string' ? progress.practicalDraft : '',
+    practicalChecklist: Array.isArray(progress.practicalChecklist) ? [...new Set(progress.practicalChecklist.map(Number).filter(Number.isFinite))] : [],
+    practicalPromptIndex: Number.isInteger(Number(progress.practicalPromptIndex)) ? Number(progress.practicalPromptIndex) : 0
   };
 }
 

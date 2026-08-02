@@ -91,20 +91,37 @@ function isPrimaryHistoricalExam(question) {
     && text.includes('2021');
 }
 
-function allocateExamQuotas(poolTarget, total) {
-  const entries = Object.entries(poolTarget?.byTopic || {});
-  const raw = entries.map(([topicId, target]) => ({ topicId, exact: (target.perExam / 100) * total }));
+function allocateWeightedQuotas(entries, total) {
+  const weightTotal = entries.reduce((sum, [, target]) => sum + Number(target.perExam || 0), 0) || 1;
+  const raw = entries.map(([topicId, target]) => ({
+    topicId,
+    exact: (Number(target.perExam || 0) / weightTotal) * total,
+    tieBreaker: Math.random()
+  }));
   const quotas = raw.map(item => ({ ...item, quota: Math.floor(item.exact) }));
   let remaining = total - quotas.reduce((sum, item) => sum + item.quota, 0);
-  quotas.sort((a, b) => (b.exact - b.quota) - (a.exact - a.quota));
+  quotas.sort((a, b) => (b.exact - b.quota) - (a.exact - a.quota) || a.tieBreaker - b.tieBreaker);
   for (let index = 0; index < remaining; index += 1) quotas[index].quota += 1;
   return quotas;
+}
+
+function allocateExamQuotas(content, total) {
+  const entries = Object.entries(content.poolTarget?.byTopic || {});
+  const common = entries.filter(([topicId]) => (content.topicsById?.[topicId]?.part || (topicId.startsWith('comun-') ? 'comun' : '')) === 'comun');
+  const specific = entries.filter(([topicId]) => (content.topicsById?.[topicId]?.part || (topicId.startsWith('especifico-') ? 'especifico' : '')) === 'especifico');
+  if (!common.length || !specific.length) return allocateWeightedQuotas(entries, total);
+  const configuredCommon = Number(content.examConfig?.firstExercise?.commonQuestions || Math.round(total / 2));
+  const configuredSpecific = Number(content.examConfig?.firstExercise?.specificQuestions || total - configuredCommon);
+  return [
+    ...allocateWeightedQuotas(common, configuredCommon),
+    ...allocateWeightedQuotas(specific, configuredSpecific)
+  ];
 }
 
 function sampleProportionalExam(content) {
   const total = content.examConfig?.firstExercise?.questions || 100;
   const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
-  const quotas = allocateExamQuotas(content.poolTarget, total);
+  const quotas = allocateExamQuotas(content, total);
   const selected = [];
   const missing = [];
   for (const { topicId, quota } of quotas) {
@@ -132,27 +149,63 @@ function sampleAvoidingPrevious(candidates, limit, excludeQuestionIds = []) {
   return shuffled(selected);
 }
 
+function historyRetryNotice(questions, excludeQuestionIds = []) {
+  if (!excludeQuestionIds.length) return '';
+  const previous = new Set(excludeQuestionIds);
+  const repeated = questions.filter(question => previous.has(question.id)).length;
+  const fresh = questions.length - repeated;
+  return repeated
+    ? `Test renovado con el máximo disponible: ${fresh} pregunta(s) nueva(s) y ${repeated} de refuerzo porque este tema no tiene más preguntas distintas.`
+    : `Test nuevo: ${fresh} preguntas distintas del intento anterior.`;
+}
+
+function boundedHistoryLimit(value, minimum, maximum) {
+  return Math.max(minimum, Math.min(maximum, Math.round(value)));
+}
+
+function topicHistoryLimit(content, topicId) {
+  const rules = content.studyPlan?.historyRules || {};
+  if (!rules.weightedQuestionLimits) return rules.topicQuestionLimit || 5;
+  const weight = Number(content.poolTarget?.byTopic?.[topicId]?.perExam || 0);
+  const commonBoost = topicId.startsWith('comun-') ? Number(rules.commonTopicWeightBoost || 1) : 1;
+  return boundedHistoryLimit(weight * Number(rules.topicWeightFactor || 3) * commonBoost, Number(rules.topicQuestionMinimum || 3), Number(rules.topicQuestionMaximum || 12));
+}
+
+function unitHistoryLimit(content, unit) {
+  const rules = content.studyPlan?.historyRules || {};
+  if (!rules.weightedQuestionLimits) return rules.unitQuestionLimit || 10;
+  const commonTopics = unit.topicIds.filter(topicId => topicId.startsWith('comun-')).length;
+  const maximum = commonTopics >= unit.topicIds.length / 2
+    ? Number(rules.commonUnitQuestionMaximum || rules.unitQuestionMaximum || 12)
+    : Number(rules.unitQuestionMaximum || 12);
+  return boundedHistoryLimit(Number(unit.weight || 0) * Number(rules.unitWeightFactor || 1.5), Number(rules.unitQuestionMinimum || 3), maximum);
+}
+
 function sampleUnitQuestions(content, unitId, excludeQuestionIds = []) {
   const unit = content.unitsById[unitId];
   if (!unit) return [];
-  const limit = content.studyPlan.historyRules.unitQuestionLimit;
+  const limit = unitHistoryLimit(content, unit);
   const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
   const excluded = new Set(excludeQuestionIds);
-  const queues = unit.topicIds
-    .map(topicId => shuffled(currentQuestions(content.byTopic[topicId] || [], expectedOptions).filter(question => !excluded.has(question.id))))
-    .filter(queue => queue.length);
+  const quotas = allocateWeightedQuotas(
+    unit.topicIds.map(topicId => [topicId, { perExam: content.poolTarget?.byTopic?.[topicId]?.perExam || 1 }]),
+    limit
+  );
   const selected = [];
-  while (queues.length && selected.length < limit) {
-    for (let index = queues.length - 1; index >= 0 && selected.length < limit; index -= 1) {
-      selected.push(queues[index].shift());
-      if (!queues[index].length) queues.splice(index, 1);
-    }
+  for (const { topicId, quota } of quotas) {
+    const candidates = currentQuestions(content.byTopic[topicId] || [], expectedOptions);
+    selected.push(...sampleAvoidingPrevious(candidates, Math.min(quota, candidates.length), excludeQuestionIds));
   }
   if (selected.length < limit) {
     const used = new Set(selected.map(question => question.id));
-    const fallback = unit.topicIds.flatMap(topicId => currentQuestions(content.byTopic[topicId] || [], expectedOptions))
+    const allFallback = unit.topicIds.flatMap(topicId => currentQuestions(content.byTopic[topicId] || [], expectedOptions))
       .filter(question => !used.has(question.id));
-    selected.push(...shuffled(fallback).slice(0, limit - selected.length));
+    const freshFallback = allFallback.filter(question => !excluded.has(question.id));
+    selected.push(...shuffled(freshFallback).slice(0, limit - selected.length));
+    if (selected.length < limit) {
+      const nowUsed = new Set(selected.map(question => question.id));
+      selected.push(...shuffled(allFallback.filter(question => !nowUsed.has(question.id))).slice(0, limit - selected.length));
+    }
   }
   return shuffled(selected);
 }
@@ -168,11 +221,15 @@ export function sampleQuestions(content, mode, targetId = null, examType = 'alea
     };
   }
   if (mode === 'historia-tema') {
-    const limit = content.studyPlan.historyRules.topicQuestionLimit;
+    const limit = topicHistoryLimit(content, targetId);
     const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
-    return { questions: sampleAvoidingPrevious(currentQuestions(content.byTopic[targetId] || [], expectedOptions), limit, excludeQuestionIds), notice: '' };
+    const questions = sampleAvoidingPrevious(currentQuestions(content.byTopic[targetId] || [], expectedOptions), limit, excludeQuestionIds);
+    return { questions, notice: historyRetryNotice(questions, excludeQuestionIds) };
   }
-  if (mode === 'historia-unidad') return { questions: sampleUnitQuestions(content, targetId, excludeQuestionIds), notice: '' };
+  if (mode === 'historia-unidad') {
+    const questions = sampleUnitQuestions(content, targetId, excludeQuestionIds);
+    return { questions, notice: historyRetryNotice(questions, excludeQuestionIds) };
+  }
   if (mode === 'examen') return sampleProportionalExam(content);
   const expectedOptions = content.examConfig?.firstExercise?.optionsPerQuestion || 4;
   const filters = mode === 'libre' && targetId && typeof targetId === 'object' ? targetId : {};

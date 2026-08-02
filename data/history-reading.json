@@ -13,7 +13,7 @@
     },
     "U15": {
       "lawIds": ["rd-2816-1982", "rd-314-2006", "rd-486-1997", "rd-1215-1997", "rd-773-1997", "rd-171-2004"],
-      "documentIds": ["src-estudio-tecnica-escena", "practico"]
+      "documentIds": ["src-estudio-tecnica-espacio"]
     },
     "U03": {
       "lawIds": ["ley-39-2015", "ley-40-2015", "rd-2491-1996"],
@@ -61,7 +61,7 @@
     },
     "U16": {
       "lawIds": ["rd-2816-1982", "rd-171-2004", "rd-393-2007"],
-      "documentIds": ["src-estudio-tecnica-escena", "practico"]
+      "documentIds": ["src-estudio-regiduria", "practico"]
     },
     "U11": {
       "lawIds": ["lo-3-2007", "rdleg-1-2013", "rd-193-2023", "conv-onu-2006", "ley-7-2021"],
@@ -77,7 +77,7 @@
     },
     "U17": {
       "lawIds": ["rd-992-2014-cte"],
-      "documentIds": ["src-estudio-tecnica-escena"]
+      "documentIds": ["src-estudio-tecnologia"]
     }
   }
 }

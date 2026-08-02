@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "status": "active",
   "note": "Déficit operativo de preguntas activas con cuatro opciones frente a pool5. Las preguntas históricas de tres opciones no se cuentan; las migraciones editoriales sí.",
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-02",
   "byTopic": {
     "comun-01": {
       "pool5": 15,
-      "activeCount": 44,
+      "activeCount": 36,
       "deficit": 0
     },
     "comun-02": {
@@ -21,12 +21,12 @@
     },
     "comun-04": {
       "pool5": 18,
-      "activeCount": 38,
+      "activeCount": 36,
       "deficit": 0
     },
     "comun-05": {
       "pool5": 17,
-      "activeCount": 54,
+      "activeCount": 51,
       "deficit": 0
     },
     "comun-06": {
@@ -56,22 +56,22 @@
     },
     "comun-11": {
       "pool5": 13,
-      "activeCount": 71,
+      "activeCount": 61,
       "deficit": 0
     },
     "comun-12": {
       "pool5": 12,
-      "activeCount": 51,
+      "activeCount": 45,
       "deficit": 0
     },
     "comun-13": {
       "pool5": 30,
-      "activeCount": 62,
+      "activeCount": 43,
       "deficit": 0
     },
     "comun-14": {
       "pool5": 17,
-      "activeCount": 30,
+      "activeCount": 20,
       "deficit": 0
     },
     "comun-15": {
@@ -226,22 +226,22 @@
     },
     "especifico-30": {
       "pool5": 6,
-      "activeCount": 12,
+      "activeCount": 11,
       "deficit": 0
     },
     "especifico-31": {
       "pool5": 7,
-      "activeCount": 9,
+      "activeCount": 7,
       "deficit": 0
     },
     "especifico-32": {
       "pool5": 4,
-      "activeCount": 6,
+      "activeCount": 4,
       "deficit": 0
     },
     "especifico-33": {
       "pool5": 11,
-      "activeCount": 21,
+      "activeCount": 18,
       "deficit": 0
     },
     "especifico-34": {
@@ -266,12 +266,12 @@
     },
     "especifico-38": {
       "pool5": 3,
-      "activeCount": 5,
+      "activeCount": 4,
       "deficit": 0
     },
     "especifico-39": {
       "pool5": 4,
-      "activeCount": 5,
+      "activeCount": 4,
       "deficit": 0
     },
     "especifico-40": {

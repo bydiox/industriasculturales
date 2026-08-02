@@ -121,6 +121,10 @@ for (const question of questions) {
   if (question.source?.lawId === 'rd-607-2026' && !['prospectivo-hasta-2027-05-24', 'vigente-desde-2027-05-25'].includes(question.temporalContext)) {
     fail(`Pregunta del RD 607/2026 sin contexto temporal correcto: ${question.id}`);
   }
+  const activeInCurrentBank = question.active === true || (question.active !== false && question.origin?.historical !== true);
+  if (activeInCurrentBank && question.source?.lawId && !question.source.anchorId) {
+    fail(`Pregunta activa con norma pero sin ancla exacta: ${question.id}`);
+  }
   if (question.source) {
     if (question.source.kind === 'official_exam') {
       if (!question.source.reference) fail(`Examen oficial sin referencia: ${question.id}`);
@@ -128,9 +132,10 @@ for (const question of questions) {
     }
     if (question.source.kind === 'bibliografia' || question.source.kind === 'referencia') {
       if (!question.source.reference) fail(`Fuente bibliográfica sin referencia: ${question.id}`);
-      if (question.source.file && question.source.anchorId) {
+      if (question.source.file) {
         const html = await readSourceHtml(question.source.file, question.id);
-        if (html && !new RegExp(`(?:id|data-anchor-id)=["']${question.source.anchorId}["']`).test(html)) {
+        if (!question.source.anchorId && activeInCurrentBank) warn(`Referencia local activa sin ancla precisa: ${question.id}`);
+        if (html && question.source.anchorId && !new RegExp(`(?:id|data-anchor-id)=["']${question.source.anchorId}["']`).test(html)) {
           fail(`Ancla bibliográfica inexistente en ${question.id}: ${question.source.anchorId}`);
         }
       }

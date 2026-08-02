@@ -7,6 +7,15 @@
     "passThreshold": 0.7,
     "topicQuestionLimit": 5,
     "unitQuestionLimit": 10,
+    "weightedQuestionLimits": true,
+    "topicWeightFactor": 3,
+    "commonTopicWeightBoost": 1.2,
+    "topicQuestionMinimum": 3,
+    "topicQuestionMaximum": 12,
+    "unitWeightFactor": 1.5,
+    "unitQuestionMinimum": 3,
+    "unitQuestionMaximum": 12,
+    "commonUnitQuestionMaximum": 15,
     "unlockPolicy": "sequential"
   },
   "units": [

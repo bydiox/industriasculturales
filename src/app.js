@@ -48,6 +48,7 @@ const THEME_COLORS = {
 const THEME_PREFERENCES = ['system', 'light', 'dark'];
 
 let cloudSaveTimer = null;
+let practicalTimer = null;
 
 function loadThemePreference() {
   try {
@@ -223,15 +224,21 @@ function reviewCandidates() {
   const stats = state.progress.questionStats || {};
   const doubtful = new Set(state.progress.doubtfulQuestionIds || []);
   const saved = new Set(state.progress.savedQuestionIds || []);
+  const now = Date.now();
   const active = state.content.questions.filter(question => question.active === true || (question.active !== false && question.origin?.historical !== true));
   return active
     .filter(question => {
       const item = stats[question.id] || {};
-      return Number(item.incorrect) > 0 || Number(item.blank) > 0 || doubtful.has(question.id) || saved.has(question.id);
+      const legacyPending = !item.dueAt && (Number(item.incorrect) > 0 || Number(item.blank) > 0);
+      const scheduled = item.dueAt && new Date(item.dueAt).getTime() <= now;
+      return legacyPending || scheduled || doubtful.has(question.id) || saved.has(question.id);
     })
     .sort((a, b) => {
       const sa = stats[a.id] || {};
       const sb = stats[b.id] || {};
+      const dueA = sa.dueAt ? new Date(sa.dueAt).getTime() : 0;
+      const dueB = sb.dueAt ? new Date(sb.dueAt).getTime() : 0;
+      if (dueA !== dueB) return dueA - dueB;
       const scoreA = (Number(sa.incorrect) || 0) * 5 + (Number(sa.blank) || 0) * 3 + (doubtful.has(a.id) ? 2 : 0) + (saved.has(a.id) ? 1 : 0);
       const scoreB = (Number(sb.incorrect) || 0) * 5 + (Number(sb.blank) || 0) * 3 + (doubtful.has(b.id) ? 2 : 0) + (saved.has(b.id) ? 1 : 0);
       return scoreB - scoreA;
@@ -254,12 +261,12 @@ function reviewSummary(candidates) {
 
 function sampleReviewQuestions() {
   const candidates = reviewCandidates();
-  const selected = candidates.slice(0, Math.min(20, candidates.length));
+  const selected = candidates.slice(0, Math.min(10, candidates.length));
   const summary = reviewSummary(candidates);
   return {
     questions: selected,
     notice: candidates.length
-      ? `Repaso inteligente: prioriza ${summary.wrong} fallo(s) y ${summary.blank} blanco(s); después entran ${summary.doubtful} dudosa(s) y ${summary.saved} guardada(s).`
+      ? `Repaso de hoy: hasta 10 preguntas vencidas. Prioriza ${summary.wrong} fallo(s) y ${summary.blank} blanco(s); después entran ${summary.doubtful} dudosa(s) y ${summary.saved} guardada(s). Las acertadas volverán más adelante.`
       : ''
   };
 }
@@ -267,10 +274,26 @@ function sampleReviewQuestions() {
 function recordQuestionResponse(question, response) {
   const stats = state.progress.questionStats || {};
   const previous = stats[question.id] || { attempts: 0, correct: 0, incorrect: 0, blank: 0 };
-  const next = { ...previous, attempts: (Number(previous.attempts) || 0) + 1, lastAnsweredAt: new Date().toISOString() };
-  if (response.blank) next.blank = (Number(previous.blank) || 0) + 1;
-  else if (response.correct) next.correct = (Number(previous.correct) || 0) + 1;
-  else next.incorrect = (Number(previous.incorrect) || 0) + 1;
+  const now = new Date();
+  const next = { ...previous, attempts: (Number(previous.attempts) || 0) + 1, lastAnsweredAt: now.toISOString() };
+  if (response.blank) {
+    next.blank = (Number(previous.blank) || 0) + 1;
+    next.consecutiveCorrect = 0;
+    next.lastResult = 'blank';
+    next.dueAt = now.toISOString();
+  } else if (response.correct) {
+    next.correct = (Number(previous.correct) || 0) + 1;
+    next.consecutiveCorrect = (Number(previous.consecutiveCorrect) || 0) + 1;
+    next.lastResult = 'correct';
+    const intervals = [1, 3, 7, 14, 30];
+    const days = intervals[Math.min(next.consecutiveCorrect - 1, intervals.length - 1)];
+    next.dueAt = new Date(now.getTime() + days * 86400000).toISOString();
+  } else {
+    next.incorrect = (Number(previous.incorrect) || 0) + 1;
+    next.consecutiveCorrect = 0;
+    next.lastResult = 'incorrect';
+    next.dueAt = now.toISOString();
+  }
   state.progress.questionStats = { ...stats, [question.id]: next };
 }
 
@@ -646,7 +669,7 @@ function lawNeedsDefaultStudyCut(lawId) {
 
 function renderHomeMenu() {
   $('#home-menu').innerHTML = `
-    <button class="home-menu-card menu-guide" type="button" data-home-action="guide"><span class="home-menu-icon" aria-hidden="true">✦</span><span class="home-menu-label">Gu&#237;a</span><small>La ruta de estudio preparada para Mar&#237;a.</small></button>
+    <button class="home-menu-card menu-guide" type="button" data-home-action="guide"><span class="home-menu-icon" aria-hidden="true">✦</span><span class="home-menu-label">Gu&#237;a</span><small>La ruta de estudio para preparar esta oposici&#243;n.</small></button>
     <button class="home-menu-card menu-story" type="button" data-home-action="story"><span class="home-menu-icon" aria-hidden="true">◈</span><span class="home-menu-label">Modo historia</span><small>Avanza por unidades y desbloquea cada cuestionario.</small></button>
     <button class="home-menu-card menu-free is-primary" id="start-free" type="button"><span class="home-menu-icon" aria-hidden="true">☷</span><span class="home-menu-label">Pr&#225;ctica libre</span><small>Preguntas del banco completo, sin orden obligatorio.</small></button>
     <button class="home-menu-card menu-exam" id="start-exam" type="button"><span class="home-menu-icon" aria-hidden="true">?</span><span class="home-menu-label">Modo examen</span><small>Simulacro proporcional con la configuraci&#243;n elegida.</small></button>
@@ -665,6 +688,18 @@ function nextHomeGuidance() {
       body: 'Hay un test empezado. Lo más fácil es retomarlo antes de abrir otro bloque.',
       action: 'Continuar sesión',
       actionType: 'resume'
+    };
+  }
+
+  const dueReview = reviewCandidates();
+  if (dueReview.length >= 5) {
+    return {
+      tone: 'review',
+      kicker: 'Repaso pendiente',
+      title: `Ahora toca: consolidar ${Math.min(10, dueReview.length)} preguntas`,
+      body: 'Son fallos, blancos o dudas que ya toca volver a mirar. Después continúa por el punto marcado en Historia.',
+      action: 'Hacer repaso breve',
+      actionType: 'review'
     };
   }
 
@@ -876,12 +911,14 @@ function openFreePracticePanel() {
 }
 
 function renderPracticalPanel() {
+  clearInterval(practicalTimer);
+  practicalTimer = null;
   $('#home-practical').innerHTML = `
     <div class="panel-back-row"><button class="secondary" type="button" data-practical-back>&#8592; Inicio</button></div>
     <h2>Supuesto pr&#225;ctico</h2>
     <p>Empieza por uno de estos caminos. Cada tarjeta abre el apartado correspondiente del dossier, con índice y navegación.</p>
     <aside class="practical-roadmap">
-      <strong>Orden recomendado para Mar&#237;a</strong>
+      <strong>Orden recomendado</strong>
       <ol>
         <li>Leer <em>Qu&#233; es</em> para entender formato y puntuaci&#243;n.</li>
         <li>Mirar <em>Hist&#243;rico real</em> para ver qu&#233; ha pedido de verdad el tribunal.</li>
@@ -898,7 +935,7 @@ function renderPracticalPanel() {
       <button class="practical-subcase-card" type="button" data-practical-anchor="study-5-las-estructuras-que-hay-que-llevar-memorizadas"><span class="practical-subcase-icon">1</span><strong>Estructuras</strong><small>Pliego, proyecto, nota de prensa y plan.</small></button>
       <button class="practical-subcase-card" type="button" data-practical-anchor="study-6-el-guion-de-emergencia-familia-b"><span class="practical-subcase-icon">2</span><strong>Emergencia</strong><small>Incidente en funci&#243;n y evacuaci&#243;n.</small></button>
       <button class="practical-subcase-card" type="button" data-practical-doc="practico-zarzuela-2022"><span class="practical-subcase-icon">3</span><strong>Zarzuela 2022</strong><small>El caso real de La Gatita con planos.</small></button>
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-7-metodo-de-preparacion"><span class="practical-subcase-icon">4</span><strong>Entrenamiento</strong><small>Una respuesta semanal a reloj y lectura oral.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-trainer><span class="practical-subcase-icon">4</span><strong>Entrenamiento</strong><small>Escribe a reloj, guarda el borrador y revísalo con una lista de control.</small></button>
       <button class="practical-subcase-card" type="button" data-practical-anchor="study-9-supuestos-originales-incorporados"><span class="practical-subcase-icon">5</span><strong>PDF reales</strong><small>Siete supuestos originales para leer en contexto.</small></button>
     </div>
     <h3 class="practical-subtitle">Material visual</h3>
@@ -914,6 +951,96 @@ function renderPracticalPanel() {
   $('#home-practical').querySelectorAll('[data-practical-anchor], [data-practical-doc]').forEach(button => {
     button.addEventListener('click', () => openStudyDocument(button.dataset.practicalDoc || 'practico', button.dataset.practicalAnchor));
   });
+  $('#home-practical').querySelector('[data-practical-trainer]')?.addEventListener('click', renderPracticalTrainer);
+}
+
+function practicalTimeLabel(seconds) {
+  const safe = Math.max(0, Number(seconds) || 0);
+  const hours = Math.floor(safe / 3600);
+  const minutes = Math.floor((safe % 3600) / 60);
+  const rest = safe % 60;
+  return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(rest).padStart(2, '0')}`;
+}
+
+function renderPracticalTrainer() {
+  clearInterval(practicalTimer);
+  practicalTimer = null;
+  const draft = state.progress.practicalDraft || '';
+  const checked = state.progress.practicalChecklist || [];
+  const promptIndex = Number(state.progress.practicalPromptIndex) || 0;
+  const checks = [
+    'He respondido todas las tareas del enunciado.',
+    'He utilizado datos concretos del caso.',
+    'La respuesta tiene títulos, orden y una conclusión clara.',
+    'He incluido seguridad, accesibilidad, género o dimensión pública solo cuando encajan.',
+    'He reservado tiempo para revisar y corregir.'
+  ];
+  $('#home-practical').innerHTML = `
+    <div class="panel-back-row"><button class="secondary" type="button" data-practical-menu>&#8592; Supuesto pr&#225;ctico</button></div>
+    <span class="guide-kicker">Entrenamiento escrito</span>
+    <h2>Simula las dos horas</h2>
+    <p>Elige un encargo, escribe una respuesta completa y compru&#233;bala al terminar. El borrador se guarda en este dispositivo.</p>
+    <section class="practical-trainer">
+      <label for="practical-prompt"><strong>Enunciado de entrenamiento</strong></label>
+      <select id="practical-prompt">
+        <option ${promptIndex === 0 ? 'selected' : ''}>Planifica la presentación de una temporada cultural: objetivos, públicos, calendario, recursos, comunicación e indicadores.</option>
+        <option ${promptIndex === 1 ? 'selected' : ''}>Redacta el protocolo de actuación ante una incidencia durante una función, utilizando los recursos y espacios descritos.</option>
+        <option ${promptIndex === 2 ? 'selected' : ''}>Prepara un proyecto de mediación y desarrollo de públicos para un centro cultural público.</option>
+      </select>
+      <div class="practical-clock" aria-live="polite"><strong id="practical-time">02:00:00</strong><div><button class="primary compact-action" type="button" data-timer-start>Iniciar</button><button class="secondary compact-action" type="button" data-timer-pause>Pausar</button><button class="secondary compact-action" type="button" data-timer-reset>Reiniciar</button></div></div>
+      <label for="practical-answer"><strong>Respuesta</strong><span id="practical-word-count">0 palabras</span></label>
+      <textarea id="practical-answer" rows="18" placeholder="Empieza por inventariar los datos del enunciado y ordenar las tareas…">${escapeHtml(draft)}</textarea>
+      <fieldset class="practical-checklist"><legend>Comprobación final</legend>${checks.map((item, index) => `<label><input type="checkbox" value="${index}" ${checked.includes(index) ? 'checked' : ''}> <span>${escapeHtml(item)}</span></label>`).join('')}</fieldset>
+      <div class="practical-trainer-actions"><button class="secondary" type="button" data-open-practical-method>Ver estructura y m&#233;todo</button><button class="secondary danger-action" type="button" data-clear-practical>Vaciar borrador</button></div>
+    </section>`;
+  let remaining = 7200;
+  const time = $('#practical-time');
+  const answer = $('#practical-answer');
+  const countWords = () => {
+    const words = answer.value.trim() ? answer.value.trim().split(/\s+/).length : 0;
+    $('#practical-word-count').textContent = `${words} palabra${words === 1 ? '' : 's'}`;
+  };
+  const stopTimer = () => {
+    clearInterval(practicalTimer);
+    practicalTimer = null;
+  };
+  $('#home-practical').querySelector('[data-practical-menu]').addEventListener('click', renderPracticalPanel);
+  $('#home-practical').querySelector('[data-timer-start]').addEventListener('click', () => {
+    if (practicalTimer || remaining <= 0) return;
+    practicalTimer = setInterval(() => {
+      remaining = Math.max(0, remaining - 1);
+      time.textContent = practicalTimeLabel(remaining);
+      if (!remaining) stopTimer();
+    }, 1000);
+  });
+  $('#home-practical').querySelector('[data-timer-pause]').addEventListener('click', stopTimer);
+  $('#home-practical').querySelector('[data-timer-reset]').addEventListener('click', () => {
+    stopTimer();
+    remaining = 7200;
+    time.textContent = practicalTimeLabel(remaining);
+  });
+  $('#practical-prompt').addEventListener('change', event => {
+    state.progress.practicalPromptIndex = event.currentTarget.selectedIndex;
+    state.progress = progressStore.save(state.progress);
+  });
+  answer.addEventListener('input', () => {
+    countWords();
+    state.progress.practicalDraft = answer.value;
+    state.progress = progressStore.save(state.progress);
+  });
+  $('#home-practical').querySelector('.practical-checklist').addEventListener('change', event => {
+    const values = [...event.currentTarget.querySelectorAll('input:checked')].map(input => Number(input.value));
+    state.progress.practicalChecklist = values;
+    state.progress = progressStore.save(state.progress);
+  });
+  $('#home-practical').querySelector('[data-open-practical-method]').addEventListener('click', () => openStudyDocument('practico', 'study-5-las-estructuras-que-hay-que-llevar-memorizadas'));
+  $('#home-practical').querySelector('[data-clear-practical]').addEventListener('click', () => {
+    answer.value = '';
+    countWords();
+    state.progress.practicalDraft = '';
+    state.progress = progressStore.save(state.progress);
+  });
+  countWords();
 }
 
 function inlineMarkdown(value) {
@@ -1792,7 +1919,9 @@ function historyBriefForCurrentQuiz() {
   const unit = activeHistoryUnit();
   if (!unit) return null;
   const unitScope = unitStudyScope(unit.id);
-  const passPercent = Math.round((state.content.studyPlan?.historyRules?.passThreshold || 0.7) * 100);
+  const passThreshold = state.content.studyPlan?.historyRules?.passThreshold || 0.7;
+  const passPercent = Math.round(passThreshold * 100);
+  const requiredAnswers = Math.ceil(state.questions.length * passThreshold);
   if (state.mode === 'historia-tema') {
     const topic = state.content.topicsById[state.topicId];
     if (!topic) return null;
@@ -1814,7 +1943,7 @@ function historyBriefForCurrentQuiz() {
       kicker: `${topicLabel(topic)} · ${formatExamWeight(topicExamWeight(topic.id))} del examen`,
       title: 'Antes de contestar',
       points: [
-        `Objetivo: superar el ${passPercent}% y responder todas para avanzar.`,
+        `Objetivo: al menos ${requiredAnswers} de ${state.questions.length} y responder todas para avanzar (mínimo ${passPercent}%).`,
         sourceHint,
         weakHint
       ]
@@ -1826,7 +1955,7 @@ function historyBriefForCurrentQuiz() {
     points: [
       'Esto mezcla los temas ya superados: no es para correr, es para consolidar.',
       unitScope.study,
-      `Mínimo: ${passPercent}% y ninguna en blanco para desbloquear el siguiente mundo.`
+      `Mínimo: ${requiredAnswers} de ${state.questions.length} y ninguna en blanco para desbloquear el siguiente mundo.`
     ]
   };
 }
@@ -1942,7 +2071,7 @@ function renderQuestion() {
   setQuizBodyHidden(showingIntro);
   if (showingIntro) return;
   const origin = $('#question-origin');
-  if (question.origin) {
+  if (question.origin && state.mode === 'examen' && state.examType === 'historico') {
     origin.textContent = `${question.origin.label} · Pregunta ${question.origin.questionNumber} · material histórico de comparación`;
     origin.hidden = false;
   } else {
@@ -2169,7 +2298,7 @@ function finish() {
       ? `Has desbloqueado la unidad ${unitIndex + 2}.`
       : 'Has completado todo el modo Historia.';
   } else if (state.mode.startsWith('historia')) {
-    detail = `Necesitas al menos un ${Math.round(threshold * 100)} % y responder todas las preguntas para avanzar.`;
+    detail = `Necesitas al menos ${Math.ceil(state.questions.length * threshold)} aciertos de ${state.questions.length} y responder todas las preguntas para avanzar.`;
   }
 
   state.progress.answered += state.answered;

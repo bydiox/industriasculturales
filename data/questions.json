@@ -20344,6 +20344,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -20401,6 +20407,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -20458,6 +20470,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -20479,15 +20497,16 @@
       },
       {
         "id": "d",
-        "text": "Informar de inmediato de cualquier situación de riesgo."
+        "text": "Elegir por iniciativa propia el equipo de protección que debe facilitar la empresa."
       }
     ],
     "correctOptionId": "B",
-    "explanation": "Correcta: «Usar adecuadamente los medios y equipos de protección y los dispositivos de seguridad existentes» Motivo: es la opción que responde exactamente al enunciado. Las demás opciones («La paralización de la actividad en caso de riesgo grave o inminente.», «La evaluación de riesgos del puesto de trabajo.» y «Informar de inmediato de cualquier situación de riesgo.») cambian algún elemento esencial del enunciado.",
+    "explanation": "El artículo 29 de la Ley 31/1995 obliga a usar correctamente máquinas, herramientas, sustancias y equipos de protección, y a no inutilizar los dispositivos de seguridad. La evaluación del puesto corresponde a la empresa; el trabajador no elige unilateralmente los equipos. La paralización colectiva sigue el procedimiento previsto para un riesgo grave e inminente.",
     "source": {
-      "kind": "official_exam",
-      "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 51. Ministerio de Cultura y Deporte, 25/11/2023.",
-      "note": "Tres opciones proceden del cuestionario oficial M1; la cuarta es una ampliación editorial para el formato de cuatro opciones."
+      "lawId": "ley-31-1995",
+      "anchorId": "ley-31-1995-a29",
+      "reference": "Ley 31/1995, artículo 29",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
     },
     "origin": {
       "type": "official_exam",
@@ -20515,6 +20534,17 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Se sustituyó un cuarto distractor que también era una obligación legal del trabajador."
+    },
+    "officialSource": {
+      "kind": "official_exam",
+      "reference": "M1 Cultura · Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos · 2023 · pregunta 51",
+      "note": "Las tres opciones originales proceden del cuestionario oficial; la cuarta y, cuando se indica, la clave se han revisado para el formato y el Derecho vigentes."
     }
   },
   {
@@ -20578,6 +20608,12 @@
       "kind": "official_exam",
       "reference": "Cuestionario M1 Asistencia a la Dirección Técnica de Espectáculos en Vivo y Eventos, turno libre, pregunta 52. Ministerio de Cultura y Deporte, 25/11/2023.",
       "note": "Tres opciones proceden del cuestionario oficial M1; la cuarta es una ampliación editorial para el formato de cuatro opciones."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -20635,6 +20671,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -20692,6 +20734,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -20749,6 +20797,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -24124,6 +24178,12 @@
       "status": "anchored-by-explicit-citation",
       "reviewedAt": "2026-08-01",
       "note": "Anclaje automático conservador: norma y artículo aparecen citados en el enunciado u opciones; la procedencia oficial se conserva en origin/officialSource."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -24181,12 +24241,18 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
     "id": "m1-cultura-comun-2023-17",
     "topicId": "especifico-41",
-    "prompt": "Según la tabla del artículo 31.2 de la vigente Ley 31/1995 de Prevención de Riesgos Laborales, si en una empresa se pueden designar hasta 5 delegados de prevención, el número de trabajadores de la misma se encontrará en el intervalo de:",
+    "prompt": "Según la tabla del artículo 35.2 de la Ley 31/1995, de Prevención de Riesgos Laborales, ¿qué plantilla corresponde a cinco Delegados de Prevención?",
     "options": [
       {
         "id": "A",
@@ -24202,15 +24268,15 @@
       },
       {
         "id": "d",
-        "text": "Entre 1.001 y 2.000 trabajadores."
+        "text": "3.001 a 4.000 trabajadores."
       }
     ],
     "correctOptionId": "B",
-    "explanation": "Correcta: «1.001 a 2.000 trabajadores» Motivo: es el dato concreto que hay que retener (Ley 31/1995, artículo 31). Las otras opciones («501 a 1000 trabajadores.», «2.001 a 3.000 trabajadores.» y «Entre 1.001 y 2.000 trabajadores.») modifican la cifra, plazo o intervalo.",
+    "explanation": "La escala del artículo 35.2 de la Ley 31/1995 asigna cinco Delegados de Prevención a empresas de 1.001 a 2.000 trabajadores. Los demás intervalos corresponden a otro número de delegados.",
     "source": {
       "lawId": "ley-31-1995",
-      "anchorId": "ley-31-1995-a31",
-      "reference": "Ley 31/1995, artículo 31",
+      "anchorId": "ley-31-1995-a35",
+      "reference": "Ley 31/1995, artículo 35.2",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
     },
     "origin": {
@@ -24249,6 +24315,12 @@
       "status": "anchored-by-explicit-citation",
       "reviewedAt": "2026-08-01",
       "note": "Anclaje automático conservador: norma y artículo aparecen citados en el enunciado u opciones; la procedencia oficial se conserva en origin/officialSource."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Se eliminó una opción que repetía literalmente la respuesta correcta y se corrigió el artículo citado."
     }
   },
   {
@@ -24587,6 +24659,12 @@
       "status": "anchored-by-literal-text-match",
       "reviewedAt": "2026-08-01",
       "note": "Anclaje automático conservador: la pregunta cita una única norma importada y la respuesta correcta aparece literalmente en un único bloque de esa norma; la procedencia oficial se conserva en origin/officialSource."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -24655,6 +24733,12 @@
       "status": "anchored-from-official-question",
       "reviewedAt": "2026-08-01",
       "note": "Ancla curada manualmente a partir del texto legal aplicable; la procedencia oficial se conserva en origin/officialSource."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -24723,6 +24807,12 @@
       "status": "anchored-by-literal-text-match",
       "reviewedAt": "2026-08-01",
       "note": "Anclaje automático conservador: la pregunta cita una única norma importada y la respuesta correcta aparece literalmente en un único bloque de esa norma; la procedencia oficial se conserva en origin/officialSource."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -24791,6 +24881,12 @@
       "status": "anchored-by-explicit-citation",
       "reviewedAt": "2026-08-01",
       "note": "Anclaje automático conservador: norma y artículo aparecen citados en el enunciado u opciones; la procedencia oficial se conserva en origin/officialSource."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -24859,6 +24955,12 @@
       "status": "anchored-from-official-question",
       "reviewedAt": "2026-08-01",
       "note": "Ancla curada manualmente a partir del texto legal aplicable; la procedencia oficial se conserva en origin/officialSource."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -25584,7 +25686,7 @@
       },
       {
         "id": "d",
-        "text": "Sí, porque el calor puede deteriorar las fibras y reducir su resistencia."
+        "text": "Sí, siempre que la carga permanezca por debajo de la mitad de la WLL."
       },
       {
         "id": "A",
@@ -25596,7 +25698,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "Correcta: «No, porque tienen poca resistencia al calor» Motivo: es la opción que responde exactamente al enunciado. Las demás opciones («Sí, se pueden utilizar sin ninguna precaución.», «Sí, porque el calor puede deteriorar las fibras y reducir su resistencia.», «No y porque dificultan la refrigeración de los focos.») cambian algún elemento esencial del enunciado.",
+    "explanation": "Las eslingas textiles son sensibles al calor: una temperatura elevada puede degradar sus fibras y reducir su resistencia. Respetar una fracción de la carga máxima de uso no elimina ese riesgo térmico.",
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 48. Ministerio de Cultura y Deporte, 25/11/2023.",
@@ -25628,32 +25730,38 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Se retiró un distractor contradictorio que explicaba el mismo riesgo de la respuesta correcta."
     }
   },
   {
     "id": "m1-cultura-iluminacion-2023-49",
     "topicId": "especifico-41",
-    "prompt": "Los equipos de elevación deben ser usados de acuerdo a su Carga Máximo de Uso (WLL), pero además:",
+    "prompt": "¿Qué documento permite acreditar que un equipo de elevación recibe el mantenimiento y las revisiones previstos?",
     "options": [
       {
         "id": "d",
-        "text": "La carga debe repartirse de forma uniforme entre los puntos de suspensión."
+        "text": "El plano de implantación de la escenografía."
       },
       {
         "id": "A",
-        "text": "Deben ser manejados por personal formado según instrucciones facilitadas por el comerciante."
+        "text": "La hoja de carga utilizada durante el último montaje."
       },
       {
         "id": "B",
-        "text": "Deben disponer de registro de revisiones que garanticen un mantenimiento adecuado."
+        "text": "El registro actualizado de mantenimiento y revisiones."
       },
       {
         "id": "C",
-        "text": "A y B son correctas."
+        "text": "La relación nominal del personal que trabaja en escena."
       }
     ],
     "correctOptionId": "B",
-    "explanation": "Correcta: «Deben disponer de registro de revisiones que garanticen un mantenimiento adecuado» Motivo: es la opción que responde exactamente al enunciado. Las demás opciones («La carga debe repartirse de forma uniforme entre los puntos de suspensión.», «Deben ser manejados por personal formado según instrucciones facilitadas por el comerciante.» y «A y B son correctas.») cambian algún elemento esencial del enunciado.",
+    "explanation": "El registro de mantenimiento y revisiones deja constancia de las comprobaciones realizadas al equipo. La hoja de carga, la relación de personal y el plano de implantación tienen otras finalidades y no acreditan por sí solos su mantenimiento.",
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Iluminación, Captación y Tratamiento de Imagen, turno libre, pregunta 49. Ministerio de Cultura y Deporte, 25/11/2023.",
@@ -25685,6 +25793,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "La pregunta se reformuló para que solo exista una respuesta correcta y se eliminaron afirmaciones acumulativas."
     }
   },
   {
@@ -35029,7 +35143,7 @@
     "options": [
       {
         "id": "d",
-        "text": "Es una factura que se genera, transmite y conserva en formato electrónico estructurado."
+        "text": "Es una factura emitida en papel que después se escanea únicamente para archivarla."
       },
       {
         "id": "A",
@@ -35045,7 +35159,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "Correcta: «Es una factura que se expide y se recibe en soporte electrónico». Motivo: es la opción que responde exactamente al enunciado. Las demás opciones («Es una factura que se genera, transmite y conserva en formato electrónico estructurado.», «Es una factura que se expide y se recibe por e-mail» y «Es una factura que sólo expiden las empresas ecológicas») cambian algún elemento esencial del enunciado.",
+    "explanation": "Una factura electrónica se expide y se recibe en formato electrónico. Enviarla por correo puede ser un canal, pero no define por sí solo el concepto; escanear una factura en papel tampoco convierte su emisión original en electrónica.",
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 54. Ministerio de Cultura y Deporte, 25/11/2023.",
@@ -35077,6 +35191,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Se sustituyó una segunda definición válida por un distractor inequívoco del mismo campo."
     }
   },
   {
@@ -35183,27 +35303,27 @@
   {
     "id": "m1-cultura-produccion-2023-57",
     "topicId": "especifico-44",
-    "prompt": "¿Qué ventajas tiene una factura electrónica frente a una en papel?",
+    "prompt": "¿Qué efecto puede producir la factura electrónica sobre el ciclo de tramitación y cobro?",
     "options": [
       {
         "id": "C",
-        "text": "La factura electrónica acorta los ciclos de tramitación, incluido el cobro."
+        "text": "Puede acortar el ciclo de tramitación, incluido el cobro."
       },
       {
         "id": "d",
-        "text": "Facilita la integración automática con los sistemas de contabilidad."
+        "text": "Retrasa el registro hasta que se imprime el documento."
       },
       {
         "id": "A",
-        "text": "No hay ninguna ventaja."
+        "text": "Obliga a duplicar la tramitación en papel antes del pago."
       },
       {
         "id": "B",
-        "text": "La factura electrónica sólo la tramitan aquellas empresas declaradas como ecológicas."
+        "text": "Impide automatizar la recepción y la validación de datos."
       }
     ],
     "correctOptionId": "C",
-    "explanation": "Correcta: «La factura electrónica acorta los ciclos de tramitación, incluido el cobro» Motivo: es la opción que responde exactamente al enunciado. Las demás opciones («Facilita la integración automática con los sistemas de contabilidad.», «No hay ninguna ventaja.» y «La factura electrónica sólo la tramitan aquellas empresas declaradas como ecológicas.») cambian algún elemento esencial del enunciado.",
+    "explanation": "La factura electrónica puede acelerar la recepción, validación y contabilización, reduciendo el ciclo de tramitación y cobro. No exige una copia previa en papel ni impide la automatización.",
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 57. Ministerio de Cultura y Deporte, 25/11/2023.",
@@ -35235,6 +35355,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Se acotó el enunciado porque el cuarto distractor anterior también describía una ventaja real."
     }
   },
   {
@@ -35292,6 +35418,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -35537,6 +35669,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -35781,23 +35919,23 @@
     "options": [
       {
         "id": "d",
-        "text": "Solo deberá incluir los pagos efectuados, excluyendo los compromisos pendientes."
+        "text": "Solo los pagos ya efectuados, excluyendo cualquier compromiso pendiente."
       },
       {
         "id": "A",
-        "text": "Todas las salidas o egresos de dinero, tanto fijos como variables, que ha derogado la empresa durante el mes, como por ejemplo: pago de alquileres, luz, nómina de pago para el personal, materiales, también se deben incluir los gastos imprevistos."
+        "text": "Las salidas previstas o realizadas, tanto fijas como variables, incluidos los gastos imprevistos."
       },
       {
         "id": "B",
-        "text": "Sólo deberá incluir las salidas fijas de dinero, como por ejemplo: pago de alquileres, luz."
+        "text": "Solo las salidas fijas, como alquileres, suministros y nóminas."
       },
       {
         "id": "C",
-        "text": "Sólo deberá incluir los gastos imprevistos."
+        "text": "Solo los gastos imprevistos surgidos durante la actividad."
       }
     ],
     "correctOptionId": "A",
-    "explanation": "Correcta: «Todas las salidas o egresos de dinero, tanto fijos como variables, que ha derogado la empresa durante el mes, como por ejemplo: pago de alquileres, luz, nómina de pago para el personal, materiales, también se deben incluir los gastos imprevistos» Motivo: es la opción que responde exactamente al enunciado. Las demás opciones («Solo deberá incluir los pagos efectuados, excluyendo los compromisos pendientes.», «Sólo deberá incluir las salidas fijas de dinero, como por ejemplo: pago de alquileres, luz.» y «Sólo deberá incluir los gastos imprevistos.») cambian algún elemento esencial del enunciado.",
+    "explanation": "Un balance o control de gastos debe ofrecer una visión completa: gastos fijos, variables e imprevistos, no una sola categoría. Limitarlo a pagos efectuados también ocultaría compromisos que deben controlarse.",
     "source": {
       "kind": "official_exam",
       "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 69. Ministerio de Cultura y Deporte, 25/11/2023.",
@@ -35829,6 +35967,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Se corrigió una errata y se igualó la extensión de las cuatro respuestas."
     }
   },
   {
@@ -36214,11 +36358,11 @@
     "options": [
       {
         "id": "B",
-        "text": "37 ½ horas"
+        "text": "37,5 horas semanales."
       },
       {
         "id": "C",
-        "text": "40 horas"
+        "text": "40 horas semanales."
       },
       {
         "id": "d",
@@ -36226,15 +36370,16 @@
       },
       {
         "id": "A",
-        "text": "37 horas"
+        "text": "37 horas semanales."
       }
     ],
-    "correctOptionId": "C",
-    "explanation": "Correcta: «40 horas». Motivo: es el dato concreto que hay que retener. Las otras opciones («37 ½ horas», «35 horas semanales.» y «37 horas») modifican la cifra, plazo o intervalo.",
+    "correctOptionId": "B",
+    "explanation": "El artículo 64.1 del IV Convenio Único fija con carácter general una jornada máxima de 37,5 horas semanales de trabajo efectivo y 1.642 horas anuales. La respuesta histórica de 40 horas no coincide con el texto consolidado que debe estudiarse ahora.",
     "source": {
-      "kind": "official_exam",
-      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 78. Ministerio de Cultura y Deporte, 25/11/2023.",
-      "note": "Tres opciones proceden del cuestionario oficial M1; la cuarta es una ampliación editorial para el formato de cuatro opciones."
+      "lawId": "convenio-iv",
+      "anchorId": "convenio-iv-a6-6",
+      "reference": "IV Convenio Único, artículo 64.1",
+      "url": "https://www.boe.es/eli/es/res/2019/05/13/(1)/con"
     },
     "origin": {
       "type": "official_exam",
@@ -36264,9 +36409,20 @@
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
     },
     "sourceReview": {
-      "status": "needs-answer-review-before-anchoring",
-      "reviewedAt": "2026-08-01",
-      "note": "La respuesta importada marca 40 horas, pero el artículo 64.1 del IV Convenio fija la jornada general en 37,5 horas semanales; no se ancla hasta revisar plantilla/origen."
+      "status": "corrected-against-current-consolidated-text",
+      "reviewedAt": "2026-08-02",
+      "note": "Se corrige la clave importada: el texto consolidado fija 37,5 horas semanales."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Respuesta actualizada contra el artículo 64.1 del texto consolidado."
+    },
+    "officialSource": {
+      "kind": "official_exam",
+      "reference": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023 · pregunta 78",
+      "note": "Las tres opciones originales proceden del cuestionario oficial; la cuarta y, cuando se indica, la clave se han revisado para el formato y el Derecho vigentes."
     }
   },
   {
@@ -36382,6 +36538,12 @@
       "status": "anchored-by-explicit-citation",
       "reviewedAt": "2026-08-01",
       "note": "Anclaje automático conservador: norma y artículo aparecen citados en el enunciado u opciones; la procedencia oficial se conserva en origin/officialSource."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -37339,6 +37501,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -37360,15 +37528,16 @@
       },
       {
         "id": "d",
-        "text": "Sí, siempre que la suma no supere el coste de la actividad subvencionada."
+        "text": "Sí, si proceden de administraciones diferentes, aunque en conjunto superen el coste."
       }
     ],
     "correctOptionId": "A",
-    "explanation": "Correcta: «Sí, siempre que el importe de las mismas sea de tal cuantía que, aisladamente o en concurrencia con otras subvenciones, no supere el coste de la actividad subvencionada» Motivo: es la opción que responde exactamente al enunciado. Las demás opciones («No, sólo se puede solicitar una ayuda pública por producción.», «Sí, siempre.», «Sí y siempre que la suma no supere el coste de la actividad subvencionada.») cambian algún elemento esencial del enunciado.",
+    "explanation": "La concurrencia de subvenciones es posible, pero su importe total no puede superar el coste de la actividad subvencionada. Que las ayudas procedan de administraciones distintas no permite sobrepasar ese límite.",
     "source": {
-      "kind": "official_exam",
-      "reference": "Cuestionario M1 Producción de Audiovisuales y Espectáculos, turno libre, pregunta 107. Ministerio de Cultura y Deporte, 25/11/2023.",
-      "note": "Tres opciones proceden del cuestionario oficial M1; la cuarta es una ampliación editorial para el formato de cuatro opciones."
+      "lawId": "ley-38-2003",
+      "anchorId": "ley-38-2003-a19",
+      "reference": "Ley 38/2003, artículo 19.3",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977"
     },
     "origin": {
       "type": "official_exam",
@@ -37396,6 +37565,17 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Se eliminó una paráfrasis que duplicaba la respuesta correcta."
+    },
+    "officialSource": {
+      "kind": "official_exam",
+      "reference": "M1 Cultura · Producción de Audiovisuales y Espectáculos · 2023 · pregunta 107",
+      "note": "Las tres opciones originales proceden del cuestionario oficial; la cuarta y, cuando se indica, la clave se han revisado para el formato y el Derecho vigentes."
     }
   },
   {
@@ -37453,6 +37633,12 @@
       "migratedAt": "2026-07-31",
       "source": "m1-pool5-curated",
       "editorialNote": "Cuarta opción revisada como distractor del mismo campo semántico; las tres primeras proceden del cuestionario oficial M1."
+    },
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Revisión manual de la cuarta opción: se mantiene por ser plausible, homogénea y no duplicar la respuesta correcta."
     }
   },
   {
@@ -47012,8 +47198,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 3
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-02",
@@ -47149,8 +47341,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 5
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-05",
@@ -47194,8 +47392,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 5
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-04",
@@ -47327,8 +47531,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 26
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-04",
@@ -47372,8 +47582,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 4
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-05",
@@ -47461,8 +47677,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 4
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-01",
@@ -47552,8 +47774,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 7
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-09",
@@ -47597,8 +47825,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 9
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-08",
@@ -47642,8 +47876,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 8
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-08",
@@ -47687,8 +47927,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 8
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-07",
@@ -47732,8 +47978,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 7
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-10",
@@ -47777,8 +48029,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 10
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-14",
@@ -47822,8 +48080,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 14
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-06",
@@ -47867,8 +48131,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 6
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-07",
@@ -47912,8 +48182,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 7
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-06",
@@ -47957,8 +48233,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 6
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-19",
@@ -48002,8 +48284,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 19
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-09",
@@ -48047,8 +48335,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 9
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-08",
@@ -48092,8 +48386,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 8
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-06",
@@ -48137,8 +48437,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 6
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-12",
@@ -48182,8 +48488,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 12
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-10",
@@ -48227,8 +48539,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 10
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-13",
@@ -48272,8 +48590,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 13
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-10",
@@ -48317,8 +48641,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 10
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-13",
@@ -48362,8 +48692,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 13
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-11",
@@ -48408,8 +48744,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 11
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-11",
@@ -48453,8 +48795,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 11
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-12",
@@ -48498,8 +48846,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 12
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-15",
@@ -48543,8 +48897,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 15
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-15",
@@ -48588,8 +48948,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 15
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-12",
@@ -48633,8 +48999,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 12
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-15",
@@ -48678,8 +49050,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 15
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-14",
@@ -48767,8 +49145,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 14
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-13",
@@ -48812,8 +49196,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 13
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-11",
@@ -48857,8 +49247,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 11
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-16",
@@ -49124,8 +49520,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 29
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-30",
@@ -49169,8 +49571,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 30
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-25",
@@ -49258,8 +49666,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 24
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-25",
@@ -49485,8 +49899,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 21
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-21",
@@ -49530,8 +49950,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 21
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-22",
@@ -49711,8 +50137,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 24
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-23",
@@ -49756,8 +50188,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 23
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-26",
@@ -49847,8 +50285,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 30
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-26",
@@ -50028,8 +50472,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 35
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-27",
@@ -50205,8 +50655,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 29
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-29",
@@ -50305,8 +50761,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 27
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-28",
@@ -50836,8 +51298,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 33
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-34",
@@ -50881,8 +51349,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 34
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-34",
@@ -51014,8 +51488,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 36
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-02",
@@ -51105,8 +51585,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 36
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-39",
@@ -51150,8 +51636,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 39
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-39",
@@ -51287,8 +51779,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 3
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-01",
@@ -51378,8 +51876,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 1
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool3-40",
@@ -51423,8 +51927,14 @@
       "label": "M1 · Iluminación, Captación y Tratamiento de Imagen · 2025",
       "questionNumber": 40
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-40",
@@ -51468,8 +51978,14 @@
       "label": "M1 · Guía, Información y Asistencia Turística · 2025",
       "questionNumber": 40
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-40",
@@ -51513,8 +52029,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 40
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-37",
@@ -51558,8 +52080,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 37
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool1-38",
@@ -51603,8 +52131,14 @@
       "label": "M1 · Maquinaria Escénica para el Espectáculo en Vivo · 2025",
       "questionNumber": 38
     },
-    "active": true,
-    "optionCount": 4
+    "active": false,
+    "optionCount": 4,
+    "editorialStatus": "pending-current-law-and-anchor-review",
+    "sourceReview": {
+      "status": "pending-current-law-and-anchor-review",
+      "reviewedAt": "2026-08-02",
+      "reason": "La pregunta citaba una norma sin señalar el precepto exacto. Se conserva fuera del banco activo hasta verificar simultáneamente respuesta vigente y ancla."
+    }
   },
   {
     "id": "m1c-2025-pool2-37",
@@ -83493,10 +84027,10 @@
         "id": "C",
         "text": "Tipos de prendas, accesorios, adornos y usos historicistas."
       },
-    {
-      "id": "D",
-      "text": "Lavado, secado, planchado y almacenaje de prendas."
-    }
+      {
+        "id": "D",
+        "text": "Lavado, secado, planchado y almacenaje de prendas."
+      }
     ],
     "correctOptionId": "C",
     "explanation": "En vestuario escénico conviene reconocer prendas, accesorios, adornos y usos historicistas como vocabulario básico de espectáculo, sin entrar en técnicas profesionales de confección.",
@@ -85451,5 +85985,44 @@
     "active": true,
     "optionCount": 4,
     "createdAt": "2026-08-01"
+  },
+  {
+    "id": "m3-ref-especifico-39-qlab-01",
+    "topicId": "especifico-39",
+    "prompt": "¿Para qué se utilizan QLab y otras herramientas equivalentes en un espectáculo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Para organizar y lanzar cues de audio, vídeo o control escénico."
+      },
+      {
+        "id": "b",
+        "text": "Para calcular las nóminas y las cotizaciones de la compañía."
+      },
+      {
+        "id": "c",
+        "text": "Para confeccionar digitalmente el vestuario de cada personaje."
+      },
+      {
+        "id": "d",
+        "text": "Para sustituir el cálculo estructural de decorados y practicables."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "QLab es una herramienta de control de espectáculo: permite ordenar y lanzar cues o pies de audio, vídeo y otras acciones. Las nóminas, la confección de vestuario y el cálculo estructural corresponden a otros programas y procesos.",
+    "source": {
+      "kind": "referencia",
+      "reference": "Software y tecnología cultural · ficha de estudio, apartado «Software aplicado a escena»",
+      "locator": "Apartado «Software aplicado a escena»",
+      "file": "sources/fuente-tecnologia-B.html",
+      "anchorId": "escena"
+    },
+    "active": true,
+    "editorialReview": {
+      "status": "reviewed-for-current-m3-bank",
+      "reviewedAt": "2026-08-02",
+      "reviewer": "codex",
+      "note": "Pregunta definicional de nivel M3, con cuatro distractores homogéneos y fuente local."
+    }
   }
 ]

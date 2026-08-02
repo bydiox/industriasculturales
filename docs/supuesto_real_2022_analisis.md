@@ -1,6 +1,6 @@
 # Supuesto real 2022 — Teatro de la Zarzuela, *La Gatita*
 
-Este documento analiza el único supuesto práctico real que tenemos de la especialidad **M3 Gestión de Industrias Culturales y Creativas**. Es importante, pero debe leerse con un matiz: el temario actual de María es más amplio que el de 2021. Por eso este caso no significa que el próximo supuesto vaya a ser necesariamente de emergencia escénica, pero sí enseña una forma de razonar que puede volver a aparecer.
+Este documento analiza el único supuesto práctico real que tenemos de la especialidad **M3 Gestión de Industrias Culturales y Creativas**. Es importante, pero debe leerse con un matiz: el temario actual es más amplio que el de 2021. Por eso este caso no significa que el próximo supuesto vaya a ser necesariamente de emergencia escénica, pero sí enseña una forma de razonar que puede volver a aparecer.
 
 La idea central: el tribunal no pedía recitar normativa. Pedía leer un enunciado con planos, personal, accesos, maquinaria, público y dos incidentes; decidir qué hacer en cada caso; y escribirlo con orden.
 
@@ -130,7 +130,7 @@ En una respuesta de examen, bastaría con citar dos o tres referencias bien colo
 
 Con los seis supuestos M3 posteriores, la lectura cambia un poco. *La Gatita* es el único caso de incidentes. Los otros se parecen más a encargos con entregables: planificar un gabinete, redactar una nota de prensa, preparar un pliego, organizar un proyecto.
 
-Eso sugiere que, con el temario actual de María, lo más probable no es necesariamente otro caso puro de regiduría. Puede caer un encargo de gestión, producción o programación. Pero este supuesto sigue siendo imprescindible porque es el único precedente exacto de su especialidad y porque el temario nuevo conserva dirección de escenario, edificio teatral, PRL y emergencias.
+Eso sugiere que, con el temario actual, lo más probable no es necesariamente otro caso puro de regiduría. Puede caer un encargo de gestión, producción o programación. Pero este supuesto sigue siendo imprescindible porque es el único precedente exacto de la especialidad y porque el temario nuevo conserva dirección de escenario, edificio teatral, PRL y emergencias.
 
 La conclusión práctica no es “solo estudiar incidentes”. Es:
 
