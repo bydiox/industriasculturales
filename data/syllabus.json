@@ -2,7 +2,7 @@
   "app": {
     "id": "m3-gestion-industrias-culturales-creativas",
     "name": "M3 Gestión de Industrias Culturales y Creativas",
-    "version": "0.1.86"
+    "version": "0.1.90"
   },
   "source": {
     "document": "convocatoria-m3-bases-genericas-oep-2023-2024.pdf",
@@ -389,5 +389,5 @@
       "title": "Ley 9/2017 de Contratos del Sector Público y su integración con el Real Decreto-ley 1/2023 sobre el Estatuto del Artista en materia laboral y contractual."
     }
   ],
-  "version": "0.1.58"
+  "version": "0.1.90"
 }

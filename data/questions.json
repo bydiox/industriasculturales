@@ -16144,7 +16144,7 @@
   {
     "id": "m3-pool-001",
     "topicId": "especifico-29",
-    "prompt": "Según ART523_3, Construcción de decorados para la escena, En la cualificación ART523_3, ¿qué operación forma parte del trabajo escenográfico?",
+    "prompt": "Según, Construcción de decorados para la escena, En la cualificación, ¿qué operación forma parte del trabajo escenográfico?",
     "options": [
       {
         "id": "a",
@@ -16164,7 +16164,7 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "ART523_3 se centra en interpretar diseños y planos y en construir, montar o adaptar elementos escenográficos; no describe funciones de subvención ni de ticketing.",
+    "explanation": "se centra en interpretar diseños y planos y en construir, montar o adaptar elementos escenográficos; no describe funciones de subvención ni de ticketing.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART523_3, Construcción de decorados para la escena",
@@ -16184,7 +16184,7 @@
   {
     "id": "m3-pool-002",
     "topicId": "especifico-29",
-    "prompt": "Según ART524_3, Maquinaria escénica para el espectáculo en vivo, ¿Qué conjunto pertenece al ámbito técnico de la maquinaria escénica ART524_3?",
+    "prompt": "Según, Maquinaria escénica para el espectáculo en vivo, ¿Qué conjunto pertenece al ámbito técnico de la maquinaria escénica?",
     "options": [
       {
         "id": "a",
@@ -16204,7 +16204,7 @@
       }
     ],
     "correctOptionId": "c",
-    "explanation": "ART524_3 recoge elementos de maquinaria y estructuras escénicas, como bastidores, rampas y practicables, junto con su montaje y mantenimiento.",
+    "explanation": "recoge elementos de maquinaria y estructuras escénicas, como bastidores, rampas y practicables, junto con su montaje y mantenimiento.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
@@ -16264,7 +16264,7 @@
   {
     "id": "m3-pool-004",
     "topicId": "especifico-34",
-    "prompt": "Según IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos, ¿Qué documentación ayuda a coordinar la producción y la logística de una adaptación escénica?",
+    "prompt": "Según, Asistencia a la producción de espectáculos en vivo y eventos, ¿Qué documentación ayuda a coordinar la producción y la logística de una adaptación escénica?",
     "options": [
       {
         "id": "a",
@@ -16284,7 +16284,7 @@
       }
     ],
     "correctOptionId": "c",
-    "explanation": "IMS437_3 relaciona la producción con calendario, tareas, responsables, necesidades técnicas y presupuesto.",
+    "explanation": "relaciona la producción con calendario, tareas, responsables, necesidades técnicas y presupuesto.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
@@ -16304,7 +16304,7 @@
   {
     "id": "m3-pool-005",
     "topicId": "especifico-36",
-    "prompt": "Según IMS442_3, Regiduría de espectáculos en vivo y eventos, ¿Qué documento reúne habitualmente las órdenes, avisos y cambios de una función?",
+    "prompt": "Según, Regiduría de espectáculos en vivo y eventos, ¿Qué documento reúne habitualmente las órdenes, avisos y cambios de una función?",
     "options": [
       {
         "id": "a",
@@ -16324,7 +16324,7 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "El estándar IMS442_3 identifica el libro de regiduría como documentación de ensayo y función, junto con convocatorias y partes.",
+    "explanation": "El estándar identifica el libro de regiduría como documentación de ensayo y función, junto con convocatorias y partes.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
@@ -16344,7 +16344,7 @@
   {
     "id": "m3-pool-006",
     "topicId": "especifico-36",
-    "prompt": "Según IMS442_3, Regiduría de espectáculos en vivo y eventos, Durante una representación, ¿qué función encaja con la regiduría?",
+    "prompt": "Según, Regiduría de espectáculos en vivo y eventos, Durante una representación, ¿qué función encaja con la regiduría?",
     "options": [
       {
         "id": "a",
@@ -16364,7 +16364,7 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "IMS442_3 vincula la regiduría con la coordinación de artistas, equipos técnicos, cambios, avisos y comunicación durante la función.",
+    "explanation": "vincula la regiduría con la coordinación de artistas, equipos técnicos, cambios, avisos y comunicación durante la función.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
@@ -16384,7 +16384,7 @@
   {
     "id": "m3-pool-007",
     "topicId": "especifico-36",
-    "prompt": "Según IMS442_3, Regiduría de espectáculos en vivo y eventos, Antes de un ensayo, ¿qué actuación corresponde a una preparación de regiduría?",
+    "prompt": "Según, Regiduría de espectáculos en vivo y eventos, Antes de un ensayo, ¿qué actuación corresponde a una preparación de regiduría?",
     "options": [
       {
         "id": "a",
@@ -16444,7 +16444,7 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "IMS437_3 ordena la producción por fases; los ensayos y la representación se sitúan después de la preparación y el montaje.",
+    "explanation": "ordena la producción por fases; los ensayos y la representación se sitúan después de la preparación y el montaje.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
@@ -16464,7 +16464,7 @@
   {
     "id": "m3-pool-009",
     "topicId": "especifico-37",
-    "prompt": "Según IMS442_3, Regiduría de espectáculos en vivo y eventos, En teatro o circo, ¿qué criterio debe guiar la dirección de escenario?",
+    "prompt": "Según, Regiduría de espectáculos en vivo y eventos, En teatro o circo, ¿qué criterio debe guiar la dirección de escenario?",
     "options": [
       {
         "id": "a",
@@ -16504,7 +16504,7 @@
   {
     "id": "m3-pool-010",
     "topicId": "especifico-37",
-    "prompt": "Según IMS442_3, Regiduría de espectáculos en vivo y eventos, ¿Cuál de estas tareas pertenece a la coordinación de una función escénica?",
+    "prompt": "Según, Regiduría de espectáculos en vivo y eventos, ¿Cuál de estas tareas pertenece a la coordinación de una función escénica?",
     "options": [
       {
         "id": "a",
@@ -16544,7 +16544,7 @@
   {
     "id": "m3-pool-011",
     "topicId": "especifico-37",
-    "prompt": "Según IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos, Al trabajar con un espacio no convencional, ¿qué debe hacer la producción escénica?",
+    "prompt": "Según, Asistencia a la producción de espectáculos en vivo y eventos, Al trabajar con un espacio no convencional, ¿qué debe hacer la producción escénica?",
     "options": [
       {
         "id": "a",
@@ -16564,7 +16564,7 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "IMS437_3 e IMS442_3 contemplan la adaptación a espacios de representación no convencionales.",
+    "explanation": "e contemplan la adaptación a espacios de representación no convencionales.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos",
@@ -16584,7 +16584,7 @@
   {
     "id": "m3-pool-012",
     "topicId": "especifico-38",
-    "prompt": "Según IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos, En una gira, ¿qué información es esencial para adaptar la producción a cada recinto?",
+    "prompt": "Según, Asistencia a la producción de espectáculos en vivo y eventos, En una gira, ¿qué información es esencial para adaptar la producción a cada recinto?",
     "options": [
       {
         "id": "a",
@@ -16624,7 +16624,7 @@
   {
     "id": "m3-pool-013",
     "topicId": "especifico-38",
-    "prompt": "Según IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos, Ante una incidencia durante una gira, ¿qué respuesta se ajusta a la gestión de producción?",
+    "prompt": "Según, Asistencia a la producción de espectáculos en vivo y eventos, Ante una incidencia durante una gira, ¿qué respuesta se ajusta a la gestión de producción?",
     "options": [
       {
         "id": "a",
@@ -16664,7 +16664,7 @@
   {
     "id": "m3-pool-014",
     "topicId": "especifico-39",
-    "prompt": "Según IMS437_3, Asistencia a la producción de espectáculos en vivo y eventos, ¿Qué conjunto describe documentación útil para gestionar una producción escénica?",
+    "prompt": "Según, Asistencia a la producción de espectáculos en vivo y eventos, ¿Qué conjunto describe documentación útil para gestionar una producción escénica?",
     "options": [
       {
         "id": "a",
@@ -16704,7 +16704,7 @@
   {
     "id": "m3-pool-015",
     "topicId": "especifico-39",
-    "prompt": "Según Actualización de vídeo y contenidos para la escena, RD 918/2024, En los contenidos de vídeo escénico de 2024, ¿qué combinación es coherente?",
+    "prompt": "En vídeo escénico, ¿qué combinación de tareas es coherente en la preparación de contenidos?",
     "options": [
       {
         "id": "a",
@@ -16724,7 +16724,7 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "El RD 918/2024 incorpora contenidos de software, línea de tiempo, efectos, pruebas, respaldo y coordinación de cues para vídeo escénico.",
+    "explanation": "La preparación de vídeo escénico puede incluir software, línea de tiempo, efectos, pruebas, copias de respaldo y coordinación de cues.",
     "source": {
       "kind": "bibliografia",
       "reference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
@@ -16744,7 +16744,7 @@
   {
     "id": "m3-pool-016",
     "topicId": "especifico-39",
-    "prompt": "Según Actualización de vídeo y contenidos para la escena, RD 918/2024, ¿Qué debe contemplar una preparación técnica de contenidos de vídeo para escena?",
+    "prompt": "En vídeo escénico, ¿qué debe contemplar una preparación técnica de contenidos?",
     "options": [
       {
         "id": "a",
@@ -16764,7 +16764,7 @@
       }
     ],
     "correctOptionId": "c",
-    "explanation": "Los contenidos de 2024 incluyen pruebas, copias de seguridad y coordinación con cues y regiduría.",
+    "explanation": "La preparación técnica debe prever pruebas, copias de seguridad y coordinación con cues y regiduría para evitar fallos durante la función.",
     "source": {
       "kind": "bibliografia",
       "reference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
@@ -16784,7 +16784,7 @@
   {
     "id": "m3-pool-017",
     "topicId": "especifico-40",
-    "prompt": "Según Actualización de vídeo y contenidos para la escena, RD 918/2024, ¿Qué protocolos aparecen entre los contenidos tecnológicos de vídeo escénico?",
+    "prompt": "En tecnología aplicada al espectáculo, ¿qué protocolos pueden aparecer en control y sincronización de vídeo escénico?",
     "options": [
       {
         "id": "a",
@@ -16804,7 +16804,7 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "La actualización de 2024 menciona MIDI, OSC, Ethernet y SMPTE en relación con control y sincronización de sistemas escénicos.",
+    "explanation": "MIDI, OSC, Ethernet y SMPTE pueden intervenir en control y sincronización de sistemas escénicos de vídeo.",
     "source": {
       "kind": "bibliografia",
       "reference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
@@ -16824,7 +16824,7 @@
   {
     "id": "m3-pool-018",
     "topicId": "especifico-40",
-    "prompt": "Según Actualización de vídeo y contenidos para la escena, RD 918/2024, En el contexto de proyección escénica, ¿qué describe mejor el mapping?",
+    "prompt": "En el contexto de proyección escénica, ¿qué describe mejor el mapping?",
     "options": [
       {
         "id": "a",
@@ -16844,7 +16844,7 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "El mapping adapta contenidos digitales a una superficie de proyección; el RD 918/2024 lo sitúa junto a warping, proyección y vídeo-dramaturgia.",
+    "explanation": "El mapping adapta contenidos digitales a una superficie de proyección; se relaciona con warping, proyección y vídeo aplicado a escena.",
     "source": {
       "kind": "bibliografia",
       "reference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
@@ -17344,7 +17344,7 @@
   {
     "id": "m3-pool-033",
     "topicId": "especifico-31",
-    "prompt": "Según ART523_3, Construcción de decorados para la escena, Al implantar una escenografía, ¿qué documentación resulta directamente útil?",
+    "prompt": "Según, Construcción de decorados para la escena, Al implantar una escenografía, ¿qué documentación resulta directamente útil?",
     "options": [
       {
         "id": "a",
@@ -17364,7 +17364,7 @@
       }
     ],
     "correctOptionId": "c",
-    "explanation": "ART523_3 relaciona la construcción y adaptación de decorados con diseños, planos, materiales y el espacio de representación.",
+    "explanation": "relaciona la construcción y adaptación de decorados con diseños, planos, materiales y el espacio de representación.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART523_3, Construcción de decorados para la escena",
@@ -17384,7 +17384,7 @@
   {
     "id": "m3-pool-034",
     "topicId": "especifico-31",
-    "prompt": "Según ART523_3, Construcción de decorados para la escena, ¿Qué aspecto debe comprobarse al adaptar un decorado a un espacio distinto del previsto?",
+    "prompt": "Según, Construcción de decorados para la escena, ¿Qué aspecto debe comprobarse al adaptar un decorado a un espacio distinto del previsto?",
     "options": [
       {
         "id": "a",
@@ -17424,7 +17424,7 @@
   {
     "id": "m3-pool-035",
     "topicId": "especifico-31",
-    "prompt": "Según ART524_3, Maquinaria escénica para el espectáculo en vivo, En relación con la maquinaria escénica, ¿qué documentación acompaña al montaje?",
+    "prompt": "Según, Maquinaria escénica para el espectáculo en vivo, En relación con la maquinaria escénica, ¿qué documentación acompaña al montaje?",
     "options": [
       {
         "id": "a",
@@ -17444,7 +17444,7 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "ART524_3 incluye documentación técnica, medición, materiales, herramientas y comprobaciones de seguridad del montaje.",
+    "explanation": "incluye documentación técnica, medición, materiales, herramientas y comprobaciones de seguridad del montaje.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
@@ -17464,7 +17464,7 @@
   {
     "id": "m3-pool-036",
     "topicId": "especifico-33",
-    "prompt": "Según IMS075_3, Luminotecnia para el espectáculo en vivo, ¿Qué tarea forma parte de la preparación de un montaje luminotécnico?",
+    "prompt": "Según, Luminotecnia para el espectáculo en vivo, ¿Qué tarea forma parte de la preparación de un montaje luminotécnico?",
     "options": [
       {
         "id": "a",
@@ -17484,7 +17484,7 @@
       }
     ],
     "correctOptionId": "c",
-    "explanation": "IMS075_3 contempla la planificación de aparatos, líneas, dimmers y sistemas de control.",
+    "explanation": "contempla la planificación de aparatos, líneas, dimmers y sistemas de control.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS075_3, Luminotecnia para el espectáculo en vivo",
@@ -17504,7 +17504,7 @@
   {
     "id": "m3-pool-037",
     "topicId": "especifico-33",
-    "prompt": "Según IMS075_3, Luminotecnia para el espectáculo en vivo, ¿Qué operación se relaciona con el enfoque de proyectores?",
+    "prompt": "Según, Luminotecnia para el espectáculo en vivo, ¿Qué operación se relaciona con el enfoque de proyectores?",
     "options": [
       {
         "id": "a",
@@ -17544,7 +17544,7 @@
   {
     "id": "m3-pool-038",
     "topicId": "especifico-33",
-    "prompt": "Según IMS075_3, Luminotecnia para el espectáculo en vivo, ¿Qué afirmación distingue correctamente una función de los dimmers en una instalación escénica?",
+    "prompt": "Según, Luminotecnia para el espectáculo en vivo, ¿Qué afirmación distingue correctamente una función de los dimmers en una instalación escénica?",
     "options": [
       {
         "id": "a",
@@ -17584,7 +17584,7 @@
   {
     "id": "m3-pool-039",
     "topicId": "especifico-33",
-    "prompt": "Según Actualización de vídeo y contenidos para la escena, RD 918/2024, En vídeo escénico, ¿qué conjunto de tareas aparece en la actualización de 2024?",
+    "prompt": "En vídeo escénico, ¿qué conjunto de tareas pertenece a la preparación de contenidos?",
     "options": [
       {
         "id": "a",
@@ -17604,7 +17604,7 @@
       }
     ],
     "correctOptionId": "c",
-    "explanation": "El RD 918/2024 incorpora preparación de contenidos, software, efectos, timeline, pruebas, respaldo y coordinación de la reproducción.",
+    "explanation": "La preparación de contenidos de vídeo puede incluir software, efectos, línea de tiempo, pruebas, respaldo y coordinación de la reproducción.",
     "source": {
       "kind": "bibliografia",
       "reference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
@@ -17624,7 +17624,7 @@
   {
     "id": "m3-pool-040",
     "topicId": "especifico-33",
-    "prompt": "Según Actualización de vídeo y contenidos para la escena, RD 918/2024, ¿Qué diferencia técnica recoge el temario entre una señal de control y un contenido de vídeo?",
+    "prompt": "En vídeo escénico, ¿qué diferencia hay entre una señal de control y un contenido de vídeo?",
     "options": [
       {
         "id": "a",
@@ -17644,7 +17644,7 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "Los contenidos de 2024 separan la preparación del material audiovisual de los protocolos y sistemas de control y sincronización.",
+    "explanation": "El contenido de vídeo es el material audiovisual que se proyecta o reproduce; la señal de control sirve para coordinar, disparar o sincronizar sistemas.",
     "source": {
       "kind": "bibliografia",
       "reference": "Actualización de vídeo y contenidos para la escena, RD 918/2024",
@@ -71739,7 +71739,7 @@
   {
     "id": "m1-cultura-asistencia-2023-64-B",
     "topicId": "especifico-31",
-    "prompt": "Según ART523_3, ¿qué documento resulta básico para construir o adaptar decorados al espacio escénico?",
+    "prompt": "Según, ¿qué documento resulta básico para construir o adaptar decorados al espacio escénico?",
     "options": [
       {
         "id": "A",
@@ -71759,7 +71759,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "ART523_3 se centra en interpretar diseños y planos para construir, montar y adaptar decorados al espacio de representación.",
+    "explanation": "se centra en interpretar diseños y planos para construir, montar y adaptar decorados al espacio de representación.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART523_3, Construcción de decorados para la escena",
@@ -71780,7 +71780,7 @@
   {
     "id": "m1-cultura-asistencia-2023-65-B",
     "topicId": "especifico-31",
-    "prompt": "Según ART523_3, ¿qué relación debe existir entre decorado y espacio de representación?",
+    "prompt": "Según, ¿qué relación debe existir entre decorado y espacio de representación?",
     "options": [
       {
         "id": "A",
@@ -71800,7 +71800,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "La fuente ART523_3 incluye construcción, montaje y adaptación de decorados y elementos escenográficos al espacio de representación.",
+    "explanation": "La fuente incluye construcción, montaje y adaptación de decorados y elementos escenográficos al espacio de representación.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART523_3, Construcción de decorados para la escena",
@@ -71821,7 +71821,7 @@
   {
     "id": "m1-cultura-asistencia-2023-67-B",
     "topicId": "especifico-31",
-    "prompt": "Según ART524_3, ¿qué conjunto pertenece al trabajo de maquinaria escénica?",
+    "prompt": "Según, ¿qué conjunto pertenece al trabajo de maquinaria escénica?",
     "options": [
       {
         "id": "A",
@@ -71841,7 +71841,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "ART524_3 recoge elementos y estructuras de maquinaria escénica como bastidores, rampas, practicables, forillos y otros componentes.",
+    "explanation": "recoge elementos y estructuras de maquinaria escénica como bastidores, rampas, practicables, forillos y otros componentes.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
@@ -71862,7 +71862,7 @@
   {
     "id": "m1-cultura-asistencia-2023-68-B",
     "topicId": "especifico-32",
-    "prompt": "Según ART524_3, ¿qué tarea forma parte del ciclo de trabajo de la maquinaria escénica?",
+    "prompt": "Según, ¿qué tarea forma parte del ciclo de trabajo de la maquinaria escénica?",
     "options": [
       {
         "id": "A",
@@ -71882,7 +71882,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "ART524_3 menciona expresamente montaje, desmontaje, almacenamiento y mantenimiento de elementos escénicos.",
+    "explanation": "menciona expresamente montaje, desmontaje, almacenamiento y mantenimiento de elementos escénicos.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
@@ -71903,7 +71903,7 @@
   {
     "id": "m1-cultura-asistencia-2023-75-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS439_3, ¿qué elementos forman parte del desarrollo y control del sonido en vivo?",
+    "prompt": "Según, ¿qué elementos forman parte del desarrollo y control del sonido en vivo?",
     "options": [
       {
         "id": "A",
@@ -71923,7 +71923,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS439_3 se presenta como referencia para diseñar, documentar, probar y operar sistemas de sonido en directo, considerando señal, patch, control y escucha.",
+    "explanation": "se presenta como referencia para diseñar, documentar, probar y operar sistemas de sonido en directo, considerando señal, patch, control y escucha.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS439_3, Desarrollo y control de sonido en vivo",
@@ -71944,7 +71944,7 @@
   {
     "id": "m1-cultura-asistencia-2023-77-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS439_3, ¿qué debe documentarse al preparar un sistema de sonido en vivo?",
+    "prompt": "Según, ¿qué debe documentarse al preparar un sistema de sonido en vivo?",
     "options": [
       {
         "id": "A",
@@ -71964,7 +71964,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS439_3 incluye diseño, documentación, prueba y operación de sistemas de sonido en directo, con atención a señal, patch, control y escucha.",
+    "explanation": "incluye diseño, documentación, prueba y operación de sistemas de sonido en directo, con atención a señal, patch, control y escucha.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS439_3, Desarrollo y control de sonido en vivo",
@@ -71985,7 +71985,7 @@
   {
     "id": "m1-cultura-asistencia-2023-78-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS436_2, ¿qué fases aparecen en la operación básica de sistemas de sonido?",
+    "prompt": "Según, ¿qué fases aparecen en la operación básica de sistemas de sonido?",
     "options": [
       {
         "id": "A",
@@ -72005,7 +72005,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS436_2 se describe como referencia para montaje y operación básica de sistemas de sonido e intercomunicación, con preparación, prueba, operación y desmontaje.",
+    "explanation": "se describe como referencia para montaje y operación básica de sistemas de sonido e intercomunicación, con preparación, prueba, operación y desmontaje.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS436_2, Operaciones de sonido",
@@ -72026,7 +72026,7 @@
   {
     "id": "m1-cultura-asistencia-2023-79-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS436_2, ¿a qué ámbito pertenece el montaje y operación básica de sistemas de intercomunicación?",
+    "prompt": "Según, ¿a qué ámbito pertenece el montaje y operación básica de sistemas de intercomunicación?",
     "options": [
       {
         "id": "A",
@@ -72046,7 +72046,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS436_2 incluye sistemas de sonido e intercomunicación en espectáculos, con montaje, prueba, operación y desmontaje.",
+    "explanation": "incluye sistemas de sonido e intercomunicación en espectáculos, con montaje, prueba, operación y desmontaje.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS436_2, Operaciones de sonido",
@@ -72067,7 +72067,7 @@
   {
     "id": "m1-cultura-asistencia-2023-80-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS439_3, ¿qué comprobación encaja con la prueba de un sistema de sonido en directo?",
+    "prompt": "Según, ¿qué comprobación encaja con la prueba de un sistema de sonido en directo?",
     "options": [
       {
         "id": "A",
@@ -72087,7 +72087,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS439_3 incluye probar y operar sistemas de sonido en directo considerando señal, control y escucha.",
+    "explanation": "incluye probar y operar sistemas de sonido en directo considerando señal, control y escucha.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS439_3, Desarrollo y control de sonido en vivo",
@@ -72108,7 +72108,7 @@
   {
     "id": "m1-cultura-asistencia-2023-81-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS439_3, ¿qué dimensión debe coordinarse en la operación de sonido durante una función?",
+    "prompt": "Según, ¿qué dimensión debe coordinarse en la operación de sonido durante una función?",
     "options": [
       {
         "id": "A",
@@ -72128,7 +72128,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS439_3 menciona la coordinación con escena y la seguridad de montaje dentro del desarrollo y control del sonido en vivo.",
+    "explanation": "menciona la coordinación con escena y la seguridad de montaje dentro del desarrollo y control del sonido en vivo.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS439_3, Desarrollo y control de sonido en vivo",
@@ -72149,7 +72149,7 @@
   {
     "id": "m1-cultura-asistencia-2023-88-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS075_3, ¿qué elementos se coordinan en la planificación de una instalación luminotécnica?",
+    "prompt": "Según, ¿qué elementos se coordinan en la planificación de una instalación luminotécnica?",
     "options": [
       {
         "id": "A",
@@ -72169,7 +72169,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS075_3 incluye la planificación del montaje y distribución de aparatos, líneas, dimmers y sistemas de control.",
+    "explanation": "incluye la planificación del montaje y distribución de aparatos, líneas, dimmers y sistemas de control.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS075_3, Luminotecnia para el espectáculo en vivo",
@@ -72190,7 +72190,7 @@
   {
     "id": "m1-cultura-asistencia-2023-89-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS075_3, ¿con qué se relacionan los dimmers en luminotecnia escénica?",
+    "prompt": "Según, ¿con qué se relacionan los dimmers en luminotecnia escénica?",
     "options": [
       {
         "id": "A",
@@ -72210,7 +72210,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS075_3 incluye la planificación de aparatos, líneas, dimmers y sistemas de control dentro de la luminotecnia para espectáculo en vivo.",
+    "explanation": "incluye la planificación de aparatos, líneas, dimmers y sistemas de control dentro de la luminotecnia para espectáculo en vivo.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS075_3, Luminotecnia para el espectáculo en vivo",
@@ -72231,7 +72231,7 @@
   {
     "id": "m1-cultura-asistencia-2023-90-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS075_3, ¿qué aspecto forma parte del trabajo de enfoque y ajuste de la iluminación escénica?",
+    "prompt": "Según, ¿qué aspecto forma parte del trabajo de enfoque y ajuste de la iluminación escénica?",
     "options": [
       {
         "id": "A",
@@ -72251,7 +72251,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS075_3 recoge ángulos, posiciones, recortes, enfoque, color y documentación en la iluminación escénica.",
+    "explanation": "recoge ángulos, posiciones, recortes, enfoque, color y documentación en la iluminación escénica.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS075_3, Luminotecnia para el espectáculo en vivo",
@@ -72272,7 +72272,7 @@
   {
     "id": "m1-cultura-asistencia-2023-91-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS075_3, ¿qué debe coordinarse con el diseño de puesta en escena en un montaje luminotécnico?",
+    "prompt": "Según, ¿qué debe coordinarse con el diseño de puesta en escena en un montaje luminotécnico?",
     "options": [
       {
         "id": "A",
@@ -72292,7 +72292,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS075_3 vincula la documentación y coordinación luminotécnica con el diseño de la puesta en escena.",
+    "explanation": "vincula la documentación y coordinación luminotécnica con el diseño de la puesta en escena.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS075_3, Luminotecnia para el espectáculo en vivo",
@@ -72313,7 +72313,7 @@
   {
     "id": "m1-cultura-asistencia-2023-92-B",
     "topicId": "especifico-33",
-    "prompt": "Según IMS075_3, ¿qué elementos se planifican en el montaje de iluminación escénica?",
+    "prompt": "Según, ¿qué elementos se planifican en el montaje de iluminación escénica?",
     "options": [
       {
         "id": "A",
@@ -72333,7 +72333,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS075_3 menciona la planificación del montaje y distribución de aparatos, líneas, dimmers y sistemas de control.",
+    "explanation": "menciona la planificación del montaje y distribución de aparatos, líneas, dimmers y sistemas de control.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS075_3, Luminotecnia para el espectáculo en vivo",
@@ -83279,7 +83279,7 @@
   {
     "id": "m3-pool5-final-12-01",
     "topicId": "especifico-12",
-    "prompt": "Según IMS437_3, ¿qué bloque de tareas encaja con la asistencia a la producción de espectáculos en vivo?",
+    "prompt": "Según, ¿qué bloque de tareas encaja con la asistencia a la producción de espectáculos en vivo?",
     "options": [
       {
         "id": "A",
@@ -83319,7 +83319,7 @@
   {
     "id": "m3-pool5-final-29-01",
     "topicId": "especifico-29",
-    "prompt": "Según ART523_3, al construir decorados para la escena, ¿qué operación es propia del trabajo escenográfico?",
+    "prompt": "Según, al construir decorados para la escena, ¿qué operación es propia del trabajo escenográfico?",
     "options": [
       {
         "id": "A",
@@ -83339,7 +83339,7 @@
       }
     ],
     "correctOptionId": "D",
-    "explanation": "ART523_3 se centra en interpretar diseños y planos y en construir, montar o adaptar decorados y elementos escenográficos al espacio de representación.",
+    "explanation": "se centra en interpretar diseños y planos y en construir, montar o adaptar decorados y elementos escenográficos al espacio de representación.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART523_3, Construcción de decorados para la escena",
@@ -83359,7 +83359,7 @@
   {
     "id": "m3-pool5-final-32-01",
     "topicId": "especifico-32",
-    "prompt": "Según ART524_3, ¿qué conjunto pertenece a elementos y estructuras de maquinaria escénica?",
+    "prompt": "Según, ¿qué conjunto pertenece a elementos y estructuras de maquinaria escénica?",
     "options": [
       {
         "id": "A",
@@ -83379,7 +83379,7 @@
       }
     ],
     "correctOptionId": "B",
-    "explanation": "ART524_3 enumera bastidores, rampas, practicables, forillos, desembarcos y otros componentes de la caja escénica.",
+    "explanation": "enumera bastidores, rampas, practicables, forillos, desembarcos y otros componentes de la caja escénica.",
     "source": {
       "kind": "bibliografia",
       "reference": "ART524_3, Maquinaria escénica para el espectáculo en vivo",
@@ -83479,7 +83479,7 @@
   {
     "id": "m3-pool5-final-35-01",
     "topicId": "especifico-35",
-    "prompt": "Según el temario técnico M1 de sastrería, la terminología específica del vestuario de espectáculo incluye:",
+    "prompt": "En vestuario escénico, ¿qué conjunto describe mejor la terminología básica de prendas y caracterización de época?",
     "options": [
       {
         "id": "A",
@@ -83493,13 +83493,13 @@
         "id": "C",
         "text": "Tipos de prendas, accesorios, adornos y usos historicistas."
       },
-      {
-        "id": "D",
-        "text": "Puntadas, planchado, lavado y mantenimiento de calzado."
-      }
+    {
+      "id": "D",
+      "text": "Lavado, secado, planchado y almacenaje de prendas."
+    }
     ],
     "correctOptionId": "C",
-    "explanation": "El temario M1 de sastrería incluye terminología del vestuario: prendas, accesorios, adornos y usos historicistas de distintas épocas.",
+    "explanation": "En vestuario escénico conviene reconocer prendas, accesorios, adornos y usos historicistas como vocabulario básico de espectáculo, sin entrar en técnicas profesionales de confección.",
     "source": {
       "kind": "bibliografia",
       "reference": "Temario técnico INAEM M1, Gestión de Sastrería del Espectáculo en Vivo, tema 3",
@@ -83519,7 +83519,7 @@
   {
     "id": "m3-pool5-final-35-02",
     "topicId": "especifico-35",
-    "prompt": "Según el temario M1 de caracterización, ¿qué bloque pertenece al proceso de maquillaje profesional?",
+    "prompt": "En caracterización escénica, ¿qué bloque pertenece al trabajo básico de maquillaje y prótesis?",
     "options": [
       {
         "id": "A",
@@ -83539,7 +83539,7 @@
       }
     ],
     "correctOptionId": "B",
-    "explanation": "El temario de caracterización incluye diseño y elaboración de máscaras y prótesis, además de productos, útiles y técnicas asociados.",
+    "explanation": "La caracterización escénica incluye productos, útiles y técnicas de maquillaje, máscaras y prótesis cuando sirven para construir la apariencia del personaje.",
     "source": {
       "kind": "bibliografia",
       "reference": "Temario técnico INAEM M1, Caracterización y Maquillaje Profesional, tema 5",
@@ -83559,7 +83559,7 @@
   {
     "id": "m3-pool5-final-36-01",
     "topicId": "especifico-36",
-    "prompt": "Según IMS442_3, ¿qué documentación se asocia directamente a la regiduría de ensayos y función?",
+    "prompt": "Según, ¿qué documentación se asocia directamente a la regiduría de ensayos y función?",
     "options": [
       {
         "id": "A",
@@ -83579,7 +83579,7 @@
       }
     ],
     "correctOptionId": "B",
-    "explanation": "IMS442_3 menciona el libro de regiduría, convocatorias, partes y documentación de ensayo y función.",
+    "explanation": "menciona el libro de regiduría, convocatorias, partes y documentación de ensayo y función.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
@@ -83599,7 +83599,7 @@
   {
     "id": "m3-pool5-final-37-01",
     "topicId": "especifico-37",
-    "prompt": "Según IMS442_3, durante la representación la regiduría coordina especialmente:",
+    "prompt": "Según, durante la representación la regiduría coordina especialmente:",
     "options": [
       {
         "id": "A",
@@ -83619,7 +83619,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "La fuente IMS442_3 sitúa en regiduría la coordinación de artistas, equipos técnicos, cambios, avisos y comunicación durante la representación.",
+    "explanation": "La fuente sitúa en regiduría la coordinación de artistas, equipos técnicos, cambios, avisos y comunicación durante la representación.",
     "source": {
       "kind": "bibliografia",
       "reference": "IMS442_3, Regiduría de espectáculos en vivo y eventos",
@@ -84019,7 +84019,7 @@
   {
     "id": "m3-reinforce-20260801-012-01",
     "topicId": "especifico-12",
-    "prompt": "Según IMS437_3, ¿qué fases forman parte de la producción de espectáculos en vivo?",
+    "prompt": "Según, ¿qué fases forman parte de la producción de espectáculos en vivo?",
     "options": [
       {
         "id": "A",
@@ -84039,7 +84039,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS437_3 enumera esas fases como ciclo de producción de espectáculos en vivo y eventos.",
+    "explanation": "enumera esas fases como ciclo de producción de espectáculos en vivo y eventos.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/cncp-technical.html",
@@ -84060,7 +84060,7 @@
   {
     "id": "m3-reinforce-20260801-012-02",
     "topicId": "especifico-12",
-    "prompt": "Según IMS437_3, la documentación de producción incluye calendario, tareas, responsables, presupuesto y:",
+    "prompt": "Según, la documentación de producción incluye calendario, tareas, responsables, presupuesto y:",
     "options": [
       {
         "id": "A",
@@ -84717,7 +84717,7 @@
   {
     "id": "m3-reinforce-20260801-029-01",
     "topicId": "especifico-29",
-    "prompt": "Según ART523_3, la construcción de decorados parte de interpretar diseños y:",
+    "prompt": "Según, la construcción de decorados parte de interpretar diseños y:",
     "options": [
       {
         "id": "A",
@@ -84737,7 +84737,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "ART523_3 se refiere a interpretar diseños y planos para construir, montar y adaptar decorados.",
+    "explanation": "se refiere a interpretar diseños y planos para construir, montar y adaptar decorados.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/cncp-technical.html",
@@ -84758,7 +84758,7 @@
   {
     "id": "m3-reinforce-20260801-029-02",
     "topicId": "especifico-29",
-    "prompt": "Según ART524_3, un practicable se integra en el ámbito de:",
+    "prompt": "Según, un practicable se integra en el ámbito de:",
     "options": [
       {
         "id": "A",
@@ -84778,7 +84778,7 @@
       }
     ],
     "correctOptionId": "D",
-    "explanation": "ART524_3 enumera los practicables entre elementos y estructuras de la maquinaria escénica.",
+    "explanation": "enumera los practicables entre elementos y estructuras de la maquinaria escénica.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/cncp-technical.html",
@@ -84799,7 +84799,7 @@
   {
     "id": "m3-reinforce-20260801-032-01",
     "topicId": "especifico-32",
-    "prompt": "Según ART524_3, el ciclo de trabajo de los elementos escénicos incluye montaje, desmontaje, almacenamiento y:",
+    "prompt": "Según, el ciclo de trabajo de los elementos escénicos incluye montaje, desmontaje, almacenamiento y:",
     "options": [
       {
         "id": "A",
@@ -84819,7 +84819,7 @@
       }
     ],
     "correctOptionId": "C",
-    "explanation": "ART524_3 menciona montaje, desmontaje, almacenamiento y mantenimiento de elementos escénicos.",
+    "explanation": "menciona montaje, desmontaje, almacenamiento y mantenimiento de elementos escénicos.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/cncp-technical.html",
@@ -84881,7 +84881,7 @@
   {
     "id": "m3-reinforce-20260801-034-01",
     "topicId": "especifico-34",
-    "prompt": "Según IMS437_3, adaptar el espectáculo puede referirse a espacios de representación y condiciones de:",
+    "prompt": "Según, adaptar el espectáculo puede referirse a espacios de representación y condiciones de:",
     "options": [
       {
         "id": "A",
@@ -84901,7 +84901,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS437_3 incluye adaptar el espectáculo a espacios y condiciones de gira dentro de la asistencia a producción.",
+    "explanation": "incluye adaptar el espectáculo a espacios y condiciones de gira dentro de la asistencia a producción.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/cncp-technical.html",
@@ -84963,7 +84963,7 @@
   {
     "id": "m3-reinforce-20260801-035-01",
     "topicId": "especifico-35",
-    "prompt": "Según el temario M1 de sastrería, la interpretación de figurines se relaciona con desgloses y comunicación con:",
+    "prompt": "En sastrería escénica, la interpretación de figurines exige comunicación especialmente con:",
     "options": [
       {
         "id": "A",
@@ -84983,7 +84983,7 @@
       }
     ],
     "correctOptionId": "D",
-    "explanation": "El tema 4 de Gestión de Sastrería menciona interpretación de figurines, desgloses y comunicación con el figurinista.",
+    "explanation": "El figurín orienta el vestuario del personaje; por eso sastrería debe coordinarse especialmente con quien diseña o define esos figurines.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/inaem-m1-2022.html",
@@ -85004,27 +85004,27 @@
   {
     "id": "m3-reinforce-20260801-035-02",
     "topicId": "especifico-35",
-    "prompt": "Según el temario M1 de peluquería, las pelucas y postizos se estudian junto con materiales, productos, útiles y:",
+    "prompt": "En caracterización escénica, ¿para qué sirven las pelucas y postizos?",
     "options": [
       {
         "id": "A",
-        "text": "Cronogramas de producción."
+        "text": "Para planificar cronogramas de producción."
       },
       {
         "id": "B",
-        "text": "Protocolos de contratación."
+        "text": "Para aplicar protocolos de contratación."
       },
       {
         "id": "C",
-        "text": "Técnicas de manipulación y limpieza."
+        "text": "Para modificar o completar el aspecto del personaje."
       },
       {
         "id": "D",
-        "text": "Sistemas de elevación y tiro."
+        "text": "Para controlar sistemas de elevación escénica."
       }
     ],
     "correctOptionId": "C",
-    "explanation": "El tema 7 de Estilismo y Dirección de Peluquería incluye pelucas y postizos, materiales, productos, útiles y técnicas de manipulación y limpieza.",
+    "explanation": "Las pelucas y postizos pertenecen a la caracterización porque ayudan a construir visualmente el personaje. No hace falta estudiar técnicas profesionales de peluquería.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/inaem-m1-2022.html",
@@ -85045,7 +85045,7 @@
   {
     "id": "m3-reinforce-20260801-036-01",
     "topicId": "especifico-36",
-    "prompt": "Según IMS442_3, la dirección de escenario incluye seguimiento de:",
+    "prompt": "Según, la dirección de escenario incluye seguimiento de:",
     "options": [
       {
         "id": "A",
@@ -85065,7 +85065,7 @@
       }
     ],
     "correctOptionId": "C",
-    "explanation": "IMS442_3 describe la regiduría como interpretación del proyecto, preparación del espacio, organización de equipos y seguimiento de las órdenes de escena.",
+    "explanation": "describe la regiduría como interpretación del proyecto, preparación del espacio, organización de equipos y seguimiento de las órdenes de escena.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/cncp-technical.html",
@@ -85127,7 +85127,7 @@
   {
     "id": "m3-reinforce-20260801-037-01",
     "topicId": "especifico-37",
-    "prompt": "Según IMS442_3, la regiduría adapta su trabajo a teatros, espacios no convencionales y:",
+    "prompt": "Según, la regiduría adapta su trabajo a teatros, espacios no convencionales y:",
     "options": [
       {
         "id": "A",
@@ -85147,7 +85147,7 @@
       }
     ],
     "correctOptionId": "B",
-    "explanation": "IMS442_3 incluye la adaptación del trabajo de regiduría a teatros, espacios no convencionales y gira.",
+    "explanation": "incluye la adaptación del trabajo de regiduría a teatros, espacios no convencionales y gira.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/cncp-technical.html",
@@ -85209,7 +85209,7 @@
   {
     "id": "m3-reinforce-20260801-038-01",
     "topicId": "especifico-38",
-    "prompt": "Según IMS437_3, la asistencia a producción coordina recursos artísticos, técnicos y:",
+    "prompt": "Según, la asistencia a producción coordina recursos artísticos, técnicos y:",
     "options": [
       {
         "id": "A",
@@ -85229,7 +85229,7 @@
       }
     ],
     "correctOptionId": "A",
-    "explanation": "IMS437_3 habla de planificar la producción y coordinar recursos artísticos, técnicos y humanos.",
+    "explanation": "habla de planificar la producción y coordinar recursos artísticos, técnicos y humanos.",
     "source": {
       "kind": "bibliografia",
       "file": "sources/cncp-technical.html",

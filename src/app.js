@@ -41,11 +41,6 @@ const THEME_LABELS = {
   light: 'Blanco',
   dark: 'Negro'
 };
-const THEME_SHORT_LABELS = {
-  system: 'S',
-  light: 'B',
-  dark: 'N'
-};
 const THEME_COLORS = {
   light: '#f5efe4',
   dark: '#101318'
@@ -90,7 +85,7 @@ function applyTheme(preference = themePreference) {
   if (meta) meta.setAttribute('content', THEME_COLORS[theme]);
   const toggle = $('#theme-toggle');
   if (toggle) {
-    toggle.textContent = `Tema: ${THEME_SHORT_LABELS[preference]}`;
+    toggle.textContent = '◐';
     toggle.title = `Tema actual: ${THEME_LABELS[preference]}. Tocar para cambiar.`;
     toggle.setAttribute('aria-label', `Cambiar tema de color. Tema actual: ${THEME_LABELS[preference]}.`);
   }
@@ -561,6 +556,13 @@ function studyDocumentTypeLabel(document) {
   if (document?.kind === 'official') return 'Material oficial';
   if (document?.kind === 'practical') return 'Práctico';
   return 'Guía';
+}
+
+function studyDocumentActionLabel(document) {
+  if (document?.kind === 'study-guide') return 'Abrir ficha completa';
+  if (document?.kind === 'source') return 'Abrir fuente';
+  if (document?.kind === 'practical') return 'Abrir guía';
+  return 'Leer ahora';
 }
 
 function studyStatus(statusId) {
@@ -1039,7 +1041,7 @@ function openStudyCategory(categoryId) {
         <span class="reading-type">${escapeHtml(studyDocumentTypeLabel(document))}</span>
         <h3>${escapeHtml(document.title)}</h3>
         <p>${escapeHtml(document.summary)}</p>
-        <button class="secondary study-doc-open" type="button" data-study-doc="${escapeHtml(document.id)}">Leer ahora</button>
+        <button class="secondary study-doc-open" type="button" data-study-doc="${escapeHtml(document.id)}">${escapeHtml(studyDocumentActionLabel(document))}</button>
       </article>`).join('')
     : '<p class="study-empty">Todavía no hay documentos en esta categoría.</p>';
   $('#study-document-view').hidden = true;
@@ -1052,9 +1054,20 @@ function renderDocumentStudyContext(documentId) {
   const document = studyDocumentById(documentId);
   const scope = documentStudyScope(documentId);
   const weight = studyDocumentExamWeight(document);
+  const topics = (document?.topicIds || [])
+    .map(topicId => state.content.topicsById?.[topicId])
+    .filter(Boolean);
+  const topicBlock = topics.length
+    ? `<div class="study-context-topics"><strong>Temas que cubre</strong><ul>${topics.map(topic => `<li>${escapeHtml(topicLabel(topic))}</li>`).join('')}</ul></div>`
+    : '';
+  const opening = document?.kind === 'study-guide'
+    ? '<div><strong>Ficha completa</strong><p>Esta es la lectura breve preparada para estudiar antes del test. La tarjeta anterior era solo la vista previa.</p></div>'
+    : '';
   return `<div class="law-context study-scope-context">
+    ${opening}
     <div><strong>Alcance de estudio</strong><p>${studyScopeBadge(scope)} ${escapeHtml(scope.study)}</p></div>
     <div><strong>Peso orientativo</strong><p>${weight > 0 ? `Esta fuente sostiene preguntas de temas que suman aproximadamente ${formatExamWeight(weight)} del examen.` : 'Fuente de orientación o contexto: no se estudia por porcentaje propio.'}</p></div>
+    ${topicBlock}
   </div>`;
 }
 
@@ -1062,7 +1075,7 @@ async function openStudyDocument(documentId, focusId = null) {
   const studyDocument = studyDocumentById(documentId);
   if (!studyDocument) return;
   activeStudyCategory = studyDocumentCategory(studyDocument.id);
-  const categoryDocuments = allStudyDocuments().filter(item => studyDocumentCategory(item.id) === activeStudyCategory);
+  const categoryDocuments = allStudyDocuments().filter(item => studyDocumentCategory(item.id) === activeStudyCategory && item.showInStudyCatalog !== false);
   const index = categoryDocuments.findIndex(item => item.id === documentId);
   $('#study-page-title').textContent = studyDocument.title;
   $('#study-page-subtitle').textContent = studyDocument.summary;
@@ -1135,6 +1148,7 @@ function renderLawCatalog() {
         ${studyScopeBadge(documentStudyScope(document.id))}
         <small>${escapeHtml(document.summary)}</small>
         <span class="exam-weight-chip">${escapeHtml(weightText)}</span>
+        <span class="source-card-action">${escapeHtml(studyDocumentActionLabel(document))} →</span>
       </button>`;
     }).join('')}`;
   const lawCards = laws.map(law => {
@@ -1658,7 +1672,7 @@ function renderStory() {
                 <strong>${escapeHtml(document.title)}</strong>
                 <small>${escapeHtml(document.summary)}</small>
                 <div class="unit-reading-actions">
-                  <button class="secondary compact-action" type="button" data-story-doc-open="${escapeHtml(document.id)}">Abrir</button>
+                  <button class="secondary compact-action" type="button" data-story-doc-open="${escapeHtml(document.id)}">${escapeHtml(studyDocumentActionLabel(document))}</button>
                   <button class="secondary compact-action mark-read-action" type="button" data-mark-reading-item="${escapeHtml(itemId)}" data-reading-unit="${escapeHtml(unit.id)}" aria-pressed="${read ? 'true' : 'false'}" ${canToggleReading ? '' : 'disabled'}>${read ? 'Quitar leído' : canMarkReading ? 'Marcar leído' : 'Bloqueado'}</button>
                 </div>
               </article>`;
@@ -1966,7 +1980,8 @@ function renderFeedback(response) {
     return;
   }
   const right = response.optionId === question.correctOptionId;
-  const reference = question.source?.reference;
+  const technicalSupportSource = /(?:cncp-technical|inaem-m1-2022)\.html$/i.test(question.source?.file || '');
+  const reference = technicalSupportSource ? 'Fuente técnica de apoyo' : question.source?.reference;
   const law = question.source ? state.content.lawsById[question.source.lawId] : null;
   const localSourceUrl = question.source?.file ? `data/${question.source.file}#${question.source.anchorId}` : null;
   const externalSourceLabel = question.source?.kind === 'referencia' ? 'Referencia externa' : 'Fuente oficial';
