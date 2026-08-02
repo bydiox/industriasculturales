@@ -508,6 +508,7 @@ const studyDocuments = [
   { id: 'mapa-historia', title: 'Mapa de estudio del modo Historia', summary: 'Documento interno de apoyo: qué se estudia en cada mundo y qué parte es legislación, técnica o editorial.', file: 'docs/MAPA_ESTUDIO_MODO_HISTORIA.md', showInStudyCatalog: false },
   { id: 'readme', title: 'Léeme antes de empezar', summary: 'Qué contiene la app, cómo avanzar y cómo interpretar los resultados.', file: 'docs/LEEME.md', showInStudyCatalog: true },
   { id: 'practico', title: 'Supuesto práctico', summary: 'Qué pidió el tribunal en supuestos reales y cómo entrenar respuestas escritas.', file: 'docs/practico_dossier_estudio.md', showInStudyCatalog: true },
+  { id: 'practico-zarzuela-2022', title: 'Zarzuela 2022 · análisis del supuesto real', summary: 'El caso de La Gatita, los planos, los dos incidentes y cómo responderlos.', file: 'docs/supuesto_real_2022_analisis.md', showInStudyCatalog: true },
   { id: 'formato', title: 'Cómo es el examen', summary: 'Formato, puntuación, penalización y estrategia de respuesta.', file: 'docs/FORMATO_EXAMEN.md', showInStudyCatalog: true },
   { id: 'fuentes', title: 'Guía de fuentes no legislativas', summary: 'Documento interno de criterio: cómo usar fuentes largas sin convertirlas en deberes de lectura.', file: 'docs/FUENTES_SIN_CORPUS.md', showInStudyCatalog: false },
   { id: 'auditoria-fuentes', title: 'Auditoría de fuentes no legislativas', summary: 'Documento interno de revisión editorial y trazabilidad.', file: 'docs/AUDITORIA_FUENTES_NO_LEGISLATIVAS.md', showInStudyCatalog: false },
@@ -521,7 +522,7 @@ const studyCategories = [
   { id: 'fuentes', icon: '▤', title: 'Fuentes y temario', summary: 'Fichas breves para estudiar lo que no procede de una ley.' }
 ];
 let activeStudyCategory = 'practico';
-const documentCategory = documentId => ({ 'guia-maria': 'readme', readme: 'readme', practico: 'practico', formato: 'examen', fuentes: 'fuentes', 'auditoria-fuentes': 'fuentes', tecnico: 'fuentes', delimitacion: 'fuentes', 'mapa-historia': 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
+const documentCategory = documentId => ({ 'guia-maria': 'readme', readme: 'readme', practico: 'practico', 'practico-zarzuela-2022': 'practico', formato: 'examen', fuentes: 'fuentes', 'auditoria-fuentes': 'fuentes', tecnico: 'fuentes', delimitacion: 'fuentes', 'mapa-historia': 'fuentes', 'm1-cuestionarios': 'oficial' }[documentId] || 'fuentes');
 studyDocuments.push({ id: 'm1-cuestionarios', title: 'Cuestionarios técnicos M1 Cultura', summary: 'Documento interno de calibración técnica. No sustituye el temario M3.', file: 'docs/CUESTIONARIOS_M1_CULTURA.md', showInStudyCatalog: false });
 let activeLawId = null;
 let activeLawAnchorId = null;
@@ -896,8 +897,9 @@ function renderPracticalPanel() {
     <div class="practical-subcases" aria-label="Supuestos pr&#225;cticos de entrenamiento">
       <button class="practical-subcase-card" type="button" data-practical-anchor="study-5-las-estructuras-que-hay-que-llevar-memorizadas"><span class="practical-subcase-icon">1</span><strong>Estructuras</strong><small>Pliego, proyecto, nota de prensa y plan.</small></button>
       <button class="practical-subcase-card" type="button" data-practical-anchor="study-6-el-guion-de-emergencia-familia-b"><span class="practical-subcase-icon">2</span><strong>Emergencia</strong><small>Incidente en funci&#243;n y evacuaci&#243;n.</small></button>
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-7-metodo-de-preparacion"><span class="practical-subcase-icon">3</span><strong>Entrenamiento</strong><small>Una respuesta semanal a reloj y lectura oral.</small></button>
-      <button class="practical-subcase-card" type="button" data-practical-anchor="study-9-supuestos-originales-incorporados"><span class="practical-subcase-icon">4</span><strong>PDF reales</strong><small>Siete supuestos originales para leer en contexto.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-doc="practico-zarzuela-2022"><span class="practical-subcase-icon">3</span><strong>Zarzuela 2022</strong><small>El caso real de La Gatita con planos.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-7-metodo-de-preparacion"><span class="practical-subcase-icon">4</span><strong>Entrenamiento</strong><small>Una respuesta semanal a reloj y lectura oral.</small></button>
+      <button class="practical-subcase-card" type="button" data-practical-anchor="study-9-supuestos-originales-incorporados"><span class="practical-subcase-icon">5</span><strong>PDF reales</strong><small>Siete supuestos originales para leer en contexto.</small></button>
     </div>
     <h3 class="practical-subtitle">Material visual</h3>
     <p>Planos y esquemas para reconocer el espacio esc&#233;nico y leer un supuesto.</p>
@@ -909,13 +911,14 @@ function renderPracticalPanel() {
     </div>
     <p class="practical-note">Los planos reales se conservan para uso personal y como ejercicio de lectura del supuesto pr&#225;ctico. Los esquemas did&#225;cticos son material original.</p>`;
   $('#home-practical').querySelector('[data-practical-back]').addEventListener('click', returnHome);
-  $('#home-practical').querySelectorAll('[data-practical-anchor]').forEach(button => {
-    button.addEventListener('click', () => openStudyDocument('practico', button.dataset.practicalAnchor));
+  $('#home-practical').querySelectorAll('[data-practical-anchor], [data-practical-doc]').forEach(button => {
+    button.addEventListener('click', () => openStudyDocument(button.dataset.practicalDoc || 'practico', button.dataset.practicalAnchor));
   });
 }
 
 function inlineMarkdown(value) {
   return escapeHtml(value)
+    .replace(/!\[([^\]]*)\]\(((?:docs|data|assets)\/[^)]+)\)/g, '<img src="$2" alt="$1" loading="lazy">')
     .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+|#[^)]+|(?:docs|data|assets)\/[^)]+)\)/g, (match, label, url) => url.startsWith('http')
       ? `<a href="${url}" target="_blank" rel="noreferrer">${label}</a>`
       : `<a href="${url}">${label}</a>`)

@@ -96,6 +96,28 @@ Es el precedente directo de la especialidad M3 Industrias Culturales: el supuest
 
 Este histórico sí debe estudiarse con atención porque enseña cómo el tribunal convierte un plano y una incidencia en una respuesta de gestión: seguridad, cadena de mando, evacuación, coordinación y decisión de no reanudar.
 
+### Histórico 2022 — Teatro de la Zarzuela: *La Gatita*
+
+Este es el supuesto histórico más importante para esta especialidad porque no es genérico: entró en **M3 Industrias Culturales** y trabajaba con el Teatro de la Zarzuela, una configuración escénica concreta y dos incidencias durante la función.
+
+**Qué material daba el tribunal.** El enunciado incluía planos del teatro en configuración normal y en la configuración invertida de *La Gatita*. Esos planos no son decoración: son parte del caso. Hay que leerlos para entender dónde está el público, dónde queda la caja escénica, qué recorridos de evacuación son razonables y por qué una respuesta “de manual” puede fallar si no mira el plano.
+
+![Plano real del Teatro de la Zarzuela en configuración normal](assets/practico/plano_zarzuela_normal_2022.png)
+
+![Plano real del Teatro de la Zarzuela en configuración invertida para La Gatita](assets/practico/plano_zarzuela_la_gatita_2022.png)
+
+**Qué hay que aprender de este histórico.**
+
+- Localizar accesos, platea, escenario, caja escénica y zona ocupada por el público.
+- Comparar configuración normal e invertida.
+- Entender que el público puede quedar situado sobre el antiguo escenario.
+- Separar un incidente resoluble —un desmayo— de una emergencia terminal —un incendio no controlado—.
+- Ordenar la respuesta: seguridad de personas, comunicación, mando, evacuación, recuento y parte de incidencias.
+
+**La trampa principal.** El telón cortafuegos no se trata como una frase automática. Si el público está dentro de la caja escénica por la configuración invertida, bajarlo antes de evacuar podría encerrarlo con el foco de riesgo. Por eso la respuesta correcta depende de leer el plano.
+
+**Hasta dónde estudiar.** No hay que memorizar cada metro del teatro. Hay que saber mirar un plano, detectar qué cambia respecto a una configuración normal y escribir una respuesta ordenada de gestión de emergencia.
+
 ### Patrón C — Híbrido
 
 Puede aparecer un encargo de producción con un incidente incrustado. No es una predicción: solo una combinación razonable de los dos patrones anteriores para entrenar respuestas flexibles.
