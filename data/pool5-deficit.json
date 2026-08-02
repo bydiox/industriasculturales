@@ -6,7 +6,7 @@
   "byTopic": {
     "comun-01": {
       "pool5": 15,
-      "activeCount": 36,
+      "activeCount": 44,
       "deficit": 0
     },
     "comun-02": {
@@ -21,12 +21,12 @@
     },
     "comun-04": {
       "pool5": 18,
-      "activeCount": 36,
+      "activeCount": 38,
       "deficit": 0
     },
     "comun-05": {
       "pool5": 17,
-      "activeCount": 51,
+      "activeCount": 54,
       "deficit": 0
     },
     "comun-06": {
@@ -56,22 +56,22 @@
     },
     "comun-11": {
       "pool5": 13,
-      "activeCount": 61,
+      "activeCount": 71,
       "deficit": 0
     },
     "comun-12": {
       "pool5": 12,
-      "activeCount": 45,
+      "activeCount": 51,
       "deficit": 0
     },
     "comun-13": {
       "pool5": 30,
-      "activeCount": 43,
+      "activeCount": 62,
       "deficit": 0
     },
     "comun-14": {
       "pool5": 17,
-      "activeCount": 20,
+      "activeCount": 30,
       "deficit": 0
     },
     "comun-15": {

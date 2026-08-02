@@ -122,12 +122,20 @@ for (const question of questions) {
     fail(`Pregunta del RD 607/2026 sin contexto temporal correcto: ${question.id}`);
   }
   const activeInCurrentBank = question.active === true || (question.active !== false && question.origin?.historical !== true);
-  if (activeInCurrentBank && question.source?.lawId && !question.source.anchorId) {
+  if (activeInCurrentBank && question.source?.lawId && question.source?.kind !== 'official_exam' && !question.source.anchorId) {
     fail(`Pregunta activa con norma pero sin ancla exacta: ${question.id}`);
   }
   if (question.source) {
     if (question.source.kind === 'official_exam') {
       if (!question.source.reference) fail(`Examen oficial sin referencia: ${question.id}`);
+      if (question.source.answerKeyOption) {
+        const expected = String(question.source.answerKeyOption).toUpperCase();
+        const stored = String(question.correctOptionId).toUpperCase();
+        if (expected !== stored) fail(`Clave distinta de la plantilla oficial en ${question.id}: ${stored} != ${expected}`);
+      }
+      if (question.id.startsWith('m1c-2025-') && (!question.source.answerKeyFile || !question.source.answerKeyUrl)) {
+        fail(`Pregunta M1 2025 sin plantilla oficial trazable: ${question.id}`);
+      }
       continue;
     }
     if (question.source.kind === 'bibliografia' || question.source.kind === 'referencia') {

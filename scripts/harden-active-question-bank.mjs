@@ -129,7 +129,7 @@ for (const question of questions.filter(item => item.optionMigration?.source ===
 let deactivated = 0;
 for (const question of questions) {
   const active = question.active === true || (question.active !== false && question.origin?.historical !== true);
-  if (!active || !question.source?.lawId || question.source.anchorId) continue;
+  if (!active || !question.source?.lawId || question.source.anchorId || question.source.kind === 'official_exam') continue;
   question.active = false;
   question.editorialStatus = 'pending-current-law-and-anchor-review';
   question.sourceReview = {
