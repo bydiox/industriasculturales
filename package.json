@@ -39,6 +39,7 @@
     "content:audit:options": "node scripts/audit-option-quality.mjs",
     "content:audit:editorial": "node scripts/audit-editorial-focus.mjs",
     "content:audit:exam-gaps": "node scripts/audit-exam-ready-gaps.mjs",
+    "content:audit:official": "node scripts/audit-official-questions.mjs",
     "content:test:options": "node scripts/test-option-quality.mjs",
     "content:audit:sources": "node scripts/audit-source-relevance.mjs",
     "content:validate:sources": "node scripts/validate-bibliography.mjs",
