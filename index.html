@@ -79,6 +79,11 @@
           <strong id="story-progress-summary"></strong>
         </div>
         <aside id="story-progress-panel" class="story-progress-panel" aria-live="polite"></aside>
+        <div class="reader-font-controls story-font-controls" aria-label="Tamaño de letra">
+          <span>Letra</span>
+          <button type="button" data-reader-font="-1" aria-label="Reducir tamaño de letra">−</button>
+          <button type="button" data-reader-font="1" aria-label="Aumentar tamaño de letra">+</button>
+        </div>
         <aside id="story-general-guides" class="story-general-guides" aria-label="Guías generales del modo Historia"></aside>
         <div id="unit-list" class="unit-list"></div>
       </section>
@@ -114,6 +119,11 @@
             <button id="study-prev" class="secondary" type="button">← Documento anterior</button>
             <button id="study-next" class="secondary" type="button">Documento siguiente →</button>
           </div>
+          <div class="reader-font-controls" aria-label="Tamaño de letra">
+            <span>Letra</span>
+            <button type="button" data-reader-font="-1" aria-label="Reducir tamaño de letra">−</button>
+            <button type="button" data-reader-font="1" aria-label="Aumentar tamaño de letra">+</button>
+          </div>
         </div>
         <header class="study-reader-title"><span class="guide-kicker">Biblioteca de estudio</span><h2 id="study-page-title"></h2><p id="study-page-subtitle"></p></header>
         <div class="study-reader-layout">
@@ -130,7 +140,7 @@
         <div id="law-catalog-grid" class="law-catalog-grid"></div>
       </div>
       <div id="law-document-view" class="law-reader-page" hidden>
-        <div class="study-reader-toolbar"><div class="study-reader-nav"><button id="law-back-catalog" class="secondary" type="button">← Estudio</button><button id="back-home-law" class="secondary" type="button">Inicio</button></div><div id="law-section-nav" class="law-section-nav" hidden><button id="law-section-prev" class="secondary" type="button" data-law-section="prev" aria-label="Apartado anterior">↑</button><span id="law-section-label" data-law-section="label">Apartado 1</span><button id="law-section-next" class="secondary" type="button" data-law-section="next" aria-label="Apartado siguiente">↓</button></div></div>
+        <div class="study-reader-toolbar"><div class="study-reader-nav"><button id="law-back-catalog" class="secondary" type="button">← Estudio</button><button id="back-home-law" class="secondary" type="button">Inicio</button></div><div class="study-reader-nav"><div id="law-section-nav" class="law-section-nav" hidden><button id="law-section-prev" class="secondary" type="button" data-law-section="prev" aria-label="Apartado anterior">↑</button><span id="law-section-label" data-law-section="label">Apartado 1</span><button id="law-section-next" class="secondary" type="button" data-law-section="next" aria-label="Apartado siguiente">↓</button></div><div class="reader-font-controls" aria-label="Tamaño de letra"><span>Letra</span><button type="button" data-reader-font="-1" aria-label="Reducir tamaño de letra">−</button><button type="button" data-reader-font="1" aria-label="Aumentar tamaño de letra">+</button></div></div></div>
         <header class="study-reader-title"><span class="guide-kicker">Texto jurídico</span><h2 id="law-page-title"></h2><p id="law-page-subtitle"></p></header>
         <article id="law-page-content" class="law-page-content"></article>
       </div>
@@ -168,7 +178,7 @@
           <h2 id="law-reference-title">Norma</h2>
           <p id="law-reference-subtitle"></p>
         </div>
-        <button id="law-reference-close" class="secondary compact-action" type="button">Cerrar</button>
+        <div class="law-reference-head-actions"><div class="reader-font-controls" aria-label="Tamaño de letra"><span>Letra</span><button type="button" data-reader-font="-1" aria-label="Reducir tamaño de letra">−</button><button type="button" data-reader-font="1" aria-label="Aumentar tamaño de letra">+</button></div><button id="law-reference-close" class="secondary compact-action" type="button">Cerrar</button></div>
       </div>
       <article id="law-reference-body" class="law-reference-body"></article>
     </div>

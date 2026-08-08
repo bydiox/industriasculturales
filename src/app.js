@@ -46,6 +46,7 @@ const THEME_COLORS = {
   dark: '#101318'
 };
 const THEME_PREFERENCES = ['system', 'light', 'dark'];
+const READER_FONT_KEY = 'm3-reader-font-step';
 
 let cloudSaveTimer = null;
 let practicalTimer = null;
@@ -69,6 +70,31 @@ function saveThemePreference(preference) {
 }
 
 let themePreference = loadThemePreference();
+
+function getReaderFontStep() {
+  try {
+    const value = Number.parseInt(localStorage.getItem(READER_FONT_KEY) || '0', 10);
+    return Number.isFinite(value) ? Math.max(-4, Math.min(8, value)) : 0;
+  } catch {
+    return 0;
+  }
+}
+
+function applyReaderFont() {
+  const step = getReaderFontStep();
+  document.documentElement.style.setProperty('--m3-reader-font-step', String(step));
+  document.documentElement.dataset.readerFontStep = String(step);
+}
+
+function adjustReaderFont(delta) {
+  const next = Math.max(-4, Math.min(8, getReaderFontStep() + Number(delta || 0)));
+  try {
+    localStorage.setItem(READER_FONT_KEY, String(next));
+  } catch {
+    // Si localStorage no está disponible, el tamaño sigue funcionando durante esta carga.
+  }
+  applyReaderFont();
+}
 
 function systemPrefersDark() {
   return window.matchMedia?.('(prefers-color-scheme: dark)').matches;
@@ -2418,6 +2444,13 @@ $('#study-catalog-list').addEventListener('click', event => {
   if (button) openStudyDocument(button.dataset.studyDoc);
 });
 document.addEventListener('click', event => {
+  const fontButton = event.target.closest('[data-reader-font]');
+  if (fontButton) {
+    event.preventDefault();
+    event.stopPropagation();
+    adjustReaderFont(Number(fontButton.dataset.readerFont || 0));
+    return;
+  }
   const lawLink = event.target.closest('a[data-law-id]');
   if (lawLink) {
     event.preventDefault();
@@ -2478,6 +2511,7 @@ $('#home-guidance').addEventListener('click', event => {
 });
 
 applyTheme(themePreference);
+applyReaderFont();
 const colorSchemeQuery = window.matchMedia?.('(prefers-color-scheme: dark)');
 const updateSystemTheme = () => {
   if (themePreference === 'system') applyTheme(themePreference);
