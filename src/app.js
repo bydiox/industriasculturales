@@ -1809,10 +1809,18 @@ function renderStory() {
               const read = readingItemIsRead(unit, itemId);
               const canToggleReading = canMarkReading || read;
               const explanation = state.content.simpleExplanations?.[law.lawId] || '';
+              const lawScope = lawStudyScope(law.lawId);
+              const lawWeight = lawExamWeight(law.lawId);
               return `<article class="unit-law-link is-law ${read ? 'is-read' : ''}">
                 <span class="reading-type">Legislación</span>${studyScopeBadge(lawStudyScope(law.lawId))}
                 <strong>${escapeHtml(law.title)}</strong>
                 ${explanation ? `<small>${escapeHtml(explanation)}</small>` : ''}
+                <details class="unit-law-intro">
+                  <summary>Antes de leer</summary>
+                  <div><strong>Qué regula</strong><p>${escapeHtml(explanation || law.title)}</p></div>
+                  <div><strong>Por qué entra</strong><p>Esta norma forma parte del material asociado a este mundo y sus preguntas.</p></div>
+                  <div><strong>En qué fijarte</strong><p>${escapeHtml(lawScope.study)}${lawWeight ? ` Aporta aproximadamente un ${formatExamWeight(lawWeight)} del examen.` : ''}</p></div>
+                </details>
                 <div class="unit-reading-actions">
                   <button class="secondary compact-action" type="button" data-story-law-open="${escapeHtml(law.lawId)}">Abrir</button>
                   <button class="secondary compact-action mark-read-action" type="button" data-mark-reading-item="${escapeHtml(itemId)}" data-reading-unit="${escapeHtml(unit.id)}" aria-pressed="${read ? 'true' : 'false'}" ${canToggleReading ? '' : 'disabled'}>${read ? 'Quitar leído' : canMarkReading ? 'Marcar leído' : 'Bloqueado'}</button>
