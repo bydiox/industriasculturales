@@ -2136,8 +2136,14 @@ function renderQuestion() {
   setQuizBodyHidden(showingIntro);
   if (showingIntro) return;
   const origin = $('#question-origin');
-  if (question.origin && state.mode === 'examen' && state.examType === 'historico') {
-    origin.textContent = `${question.origin.label} · Pregunta ${question.origin.questionNumber} · material histórico de comparación`;
+  const isOfficial = question.source?.kind === 'official_exam' || question.origin?.type === 'official_exam';
+  const historicalOrigin = question.origin && state.mode === 'examen' && state.examType === 'historico';
+  origin.classList.toggle('is-official', isOfficial);
+  if (isOfficial || historicalOrigin) {
+    const details = isOfficial
+      ? [question.origin?.label || question.origin?.examId || question.source?.reference, question.origin?.questionNumber ? `Pregunta ${question.origin.questionNumber}` : ''].filter(Boolean).join(' · ')
+      : `${question.origin.label || 'Convocatoria anterior'} · Pregunta ${question.origin.questionNumber} · material histórico de comparación`;
+    origin.innerHTML = `${isOfficial ? '<span class="official-question-badge">Pregunta oficial</span>' : ''}${details ? `<span>${escapeHtml(details)}</span>` : ''}`;
     origin.hidden = false;
   } else {
     origin.textContent = '';

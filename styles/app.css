@@ -227,6 +227,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .feedback { border-left: 3px solid #f0b52d; padding: 10px 14px; background: #202a35; }
 .question-origin { margin: 10px 0 14px; padding: 8px 10px; border: 1px solid #3d4b5a; border-radius: 8px; color: #f0c96b; font-size: .82rem; }
+.question-origin.is-official { display: flex; align-items: center; flex-wrap: wrap; gap: 7px 10px; border-color: #4c8a66; background: #17261e; color: #c5e8d1; }
+.official-question-badge { display: inline-flex; align-items: center; min-height: 24px; padding: 2px 8px; border: 1px solid #72bc8a; border-radius: 999px; background: #1d3a29; color: #b9edc8; font-size: .72rem; font-weight: 850; letter-spacing: .04em; text-transform: uppercase; }
 .question-context { margin: 10px 0 18px; padding: 14px 16px; border-left: 3px solid #55b7c9; border-radius: 10px; background: #132731; color: #d7e8ed; white-space: pre-line; font-size: .94rem; line-height: 1.5; }
 .official-material { margin-top: 26px; padding: 14px 16px; border: 1px solid #334353; border-radius: 10px; background: #151d26; }
 .official-material p { color: #b9c4cf; }
@@ -334,6 +336,21 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .study-page-content h2 { font-size: 1.4rem; }
 .study-page-content h3 { font-size: 1.15rem; }
 .study-page-content p, .study-page-content li { color: #d0d7df; line-height: 1.62; }
+.study-page-content .study-guide-panel { margin: 1.2rem 0; padding: .9rem 1rem; border: 1px solid #355160; border-left: 4px solid #55b7c9; border-radius: 10px; background: #15232b; }
+.study-page-content .study-guide-panel h2,
+.study-page-content .study-guide-panel h3 { margin-top: .15rem; color: #83d5df; }
+.study-page-content .study-guide-panel p:last-child,
+.study-page-content .study-guide-panel ul:last-child,
+.study-page-content .study-guide-panel ol:last-child,
+.study-page-content .study-guide-panel dl:last-child { margin-bottom: 0; }
+.study-page-content .study-guide-traps { border-left-color: #e6ae4c; background: #29251b; }
+.study-page-content .study-guide-traps h2,
+.study-page-content .study-guide-traps h3 { color: #f0c96b; }
+.study-page-content .study-guide-review { border-left-color: #a99af0; }
+.study-page-content .study-guide-review h2,
+.study-page-content .study-guide-review h3 { color: #c4b8ff; }
+.study-page-content .study-guide-glossary dt { margin-top: .7rem; color: #83d5df; font-weight: 800; }
+.study-page-content .study-guide-glossary dd { margin: .2rem 0 0 1rem; color: #d0d7df; }
 .study-page-content ul, .study-page-content ol { padding-left: 1.35rem; }
 .study-page-content blockquote { margin: 1rem 0; padding: .8rem 1rem; border-left: 3px solid #d9961f; background: #202a35; color: #d0d7df; }
 .study-page-content code { padding: .1em .3em; border-radius: 4px; background: #202a35; color: #f0c96b; }
@@ -461,7 +478,9 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .study-page-content li,
 .study-page-content blockquote,
 .study-page-content td,
-.study-page-content th { font-size: calc(1rem + (var(--m3-reader-font-step, 0) * .5px)) !important; }
+.study-page-content th,
+.study-page-content dt,
+.study-page-content dd { font-size: calc(1rem + (var(--m3-reader-font-step, 0) * .5px)) !important; }
 .study-page-content h1 { font-size: calc(1.7rem + (var(--m3-reader-font-step, 0) * .5px)) !important; }
 .study-page-content h2 { font-size: calc(1.4rem + (var(--m3-reader-font-step, 0) * .5px)) !important; }
 .study-page-content h3 { font-size: calc(1.15rem + (var(--m3-reader-font-step, 0) * .5px)) !important; }
@@ -728,6 +747,21 @@ html[data-color-theme="light"] .practical-checklist label { color: #2d3744; }
 html[data-color-theme="light"] .free-filter-count,
 html[data-color-theme="light"] .question-context { background: #eef6ff; border-color: #96c5e8; }
 html[data-color-theme="light"] .question-origin { background: #fff5dd; border-color: #dcb764; color: #7d5400; }
+html[data-color-theme="light"] .question-origin.is-official { background: #e8f7ec; border-color: #69b37d; color: #245b35; }
+html[data-color-theme="light"] .official-question-badge { background: #d8f0df; border-color: #5b9f6d; color: #245b35; }
+html[data-color-theme="light"] .study-page-content .study-guide-panel { background: #eff8fa; border-color: #b5d5dc; }
+html[data-color-theme="light"] .study-page-content .study-guide-panel h2,
+html[data-color-theme="light"] .study-page-content .study-guide-panel h3,
+html[data-color-theme="light"] .study-page-content .study-guide-glossary dt { color: #17677b; }
+html[data-color-theme="light"] .study-page-content .study-guide-panel p,
+html[data-color-theme="light"] .study-page-content .study-guide-panel li,
+html[data-color-theme="light"] .study-page-content .study-guide-glossary dd { color: #283744; }
+html[data-color-theme="light"] .study-page-content .study-guide-traps { background: #fff7e7; border-left-color: #d89112; }
+html[data-color-theme="light"] .study-page-content .study-guide-traps h2,
+html[data-color-theme="light"] .study-page-content .study-guide-traps h3 { color: #805400; }
+html[data-color-theme="light"] .study-page-content .study-guide-review { background: #f3f0ff; border-left-color: #8776d0; }
+html[data-color-theme="light"] .study-page-content .study-guide-review h2,
+html[data-color-theme="light"] .study-page-content .study-guide-review h3 { color: #5f4fa0; }
 html[data-color-theme="light"] .law-page-content p.articulo,
 html[data-color-theme="light"] .law-reference-body p.articulo { background: #eef6ff; color: #17202a; border-left-color: #438ec1; }
 html[data-color-theme="light"] .law-page-content p.titulo,
