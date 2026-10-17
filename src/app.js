@@ -1382,12 +1382,43 @@ function renderLawContext(law, compact = false) {
       ? (lawShowFullText ? 'Ahora estás viendo la norma completa para consulta.' : 'Por defecto no se muestra el texto completo, porque esta fuente solo debe usarse con el alcance indicado.')
     : (lawScope?.note || 'La app conserva el texto completo hasta que el alcance parcial esté verificado.');
   if (compact) return `<span class="law-context law-context-compact"><span class="law-context-text">${escapeHtml(simpleSummary)}</span><span class="exam-weight-chip">${escapeHtml(weightText)}</span></span>`;
-  return `<div class="law-context">
-    <div><strong>Resumen sencillo</strong><p>${escapeHtml(simpleSummary)}</p></div>
-    <div><strong>Alcance de estudio</strong><p>${studyScopeBadge(scope)} ${escapeHtml(scope.study)} ${escapeHtml(scopeNote)}</p>${hasDefaultStudyCut ? `<button class="secondary compact-action law-scope-toggle" type="button" data-toggle-law-full>${lawShowFullText ? 'Ver solo lo que entra' : 'Ver norma completa'}</button>` : ''}</div>
+  const editorial = state.content.studyEditorial?.laws?.[law.lawId];
+  const profile = editorial && state.content.studyEditorial?.profiles?.[editorial.profile];
+  const focus = editorial?.focus?.map(item => `<li>${escapeHtml(item)}</li>`).join('') || '';
+  const introduction = editorial ? `<section class="law-editorial-intro" aria-labelledby="law-editorial-intro-${escapeHtml(law.lawId)}">
+    <span class="law-editorial-eyebrow">Antes de leer</span>
+    <h2 id="law-editorial-intro-${escapeHtml(law.lawId)}">La idea que organiza esta lectura</h2>
+    <p class="law-editorial-lead">${escapeHtml(editorial.bridge)}</p>
+    ${profile ? `<p class="law-editorial-lens"><strong>Cómo mirarla:</strong> ${escapeHtml(profile)}</p>` : ''}
+    ${focus ? `<div class="law-editorial-focus"><strong>Mientras lees, busca esto</strong><ul>${focus}</ul></div>` : ''}
+    ${editorial.example ? `<div class="law-editorial-example"><strong>Llévalo al mundo cultural</strong><p>${escapeHtml(editorial.example)}</p></div>` : ''}
+  </section>` : '';
+  return `${introduction}<div class="law-context law-context-reading">
+    <div><strong>En una frase</strong><p>${escapeHtml(simpleSummary)}</p></div>
+    <div><strong>Qué debes estudiar</strong><p>${studyScopeBadge(scope)} ${escapeHtml(scope.study)} ${escapeHtml(scopeNote)}</p>${hasDefaultStudyCut ? `<button class="secondary compact-action law-scope-toggle" type="button" data-toggle-law-full>${lawShowFullText ? 'Ver solo lo que entra' : 'Ver norma completa'}</button>` : ''}</div>
     <div><strong>Peso orientativo</strong><p>${escapeHtml(weightText)}</p></div>
   </div>`;
 
+}
+
+function renderLawEditorialEnd(law) {
+  const editorial = state.content.studyEditorial?.laws?.[law.lawId];
+  if (!editorial) return '';
+  const list = items => items.map(item => `<li>${escapeHtml(item)}</li>`).join('');
+  const terms = editorial.terms.map(item => `<div><dt>${escapeHtml(item.term)}</dt><dd>${escapeHtml(item.meaning)}</dd></div>`).join('');
+  return `<section class="law-editorial-end" aria-labelledby="law-editorial-end-${escapeHtml(law.lawId)}">
+    <header>
+      <span class="law-editorial-eyebrow">Al terminar</span>
+      <h2 id="law-editorial-end-${escapeHtml(law.lawId)}">Qué debes llevarte de esta lectura</h2>
+      <p>No intentes retener cada frase a la vez. Comprueba primero que puedes explicar estas ideas con tus propias palabras.</p>
+    </header>
+    <div class="law-editorial-panels">
+      <section class="law-editorial-panel is-summary"><h3>Resumen y claves</h3><ul>${list(editorial.keys)}</ul></section>
+      <section class="law-editorial-panel is-terms"><h3>Términos clave</h3><dl>${terms}</dl></section>
+      <section class="law-editorial-panel is-traps"><h3>Posibles trampas de test</h3><ul>${list(editorial.traps)}</ul></section>
+      <section class="law-editorial-panel is-review"><h3>Repaso final</h3><ol>${list(editorial.review)}</ol><p class="law-editorial-review-note">Si alguna respuesta no sale con claridad, vuelve solo al apartado correspondiente antes de hacer el test.</p></section>
+    </div>
+  </section>`;
 }
 
 function lawDisplayFile(law, showFull = false) {
@@ -1551,7 +1582,7 @@ async function openLawDocument(lawId, anchorId = null, fromStory = false) {
     const main = parsed.querySelector('main') || parsed.body;
     main.querySelectorAll('script, style').forEach(node => node.remove());
     normaliseLawLabels(main);
-    $('#law-page-content').innerHTML = `${renderLawContext(law)}${lawBodyForStudy(main, law, lawShowFullText).innerHTML}`;
+    $('#law-page-content').innerHTML = `${renderLawContext(law)}${lawBodyForStudy(main, law, lawShowFullText).innerHTML}${renderLawEditorialEnd(law)}`;
     $('#law-page-content').querySelector('[data-toggle-law-full]')?.addEventListener('click', () => {
       lawShowFullText = !lawShowFullText;
       openLawDocument(law.lawId, null, lawReturnToStory);

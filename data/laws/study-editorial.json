@@ -1,0 +1,612 @@
+{
+  "schemaVersion": 1,
+  "audience": "Opositora de Gestión de Industrias Culturales y Creativas con formación humanística y experiencia cultural, pero sin formación jurídica especializada.",
+  "profiles": {
+    "constitucional": "Lee buscando la arquitectura del Estado: quién puede hacer qué, con qué límites y qué protección tiene cada derecho.",
+    "union-europea": "Separa siempre valores y objetivos, competencias, instituciones y tipos de norma. Son planos distintos y el test suele cruzarlos.",
+    "empleo-publico": "Traduce cada precepto a una relación laboral concreta: a quién afecta, qué derecho u obligación crea y quién toma la decisión.",
+    "administrativo": "Sigue la secuencia de la actuación pública: órgano competente, inicio, trámite, decisión, efectos y posible revisión.",
+    "institucional-cultural": "No memorices un organigrama como una lista aislada: relaciona cada centro con su misión, dirección y modelo de funcionamiento.",
+    "laboral": "Distingue la regla laboral general de las especialidades del empleo público y del trabajo artístico.",
+    "prevencion": "Piensa en una producción cultural real: espacio, equipo, empresas concurrentes, emergencia y personas expuestas al riesgo.",
+    "contratacion": "Lee cada figura como una decisión de gestión: qué se contrata, quién puede contratar, qué procedimiento se usa y qué límites existen.",
+    "cultura-tercer-sector": "Relaciona la forma jurídica o el incentivo con la actividad cultural que permite sostener, financiar o proteger.",
+    "patrimonio": "Distingue qué se protege, mediante qué instrumento y qué administración o institución interviene.",
+    "igualdad-accesibilidad": "Convierte los principios generales en obligaciones concretas de programación, empleo, acceso y participación cultural.",
+    "economico": "Sigue el recorrido del dinero público: previsión, autorización, gasto, ayuda, control y rendición de cuentas.",
+    "espectaculos": "Lee la norma desde la seguridad del público, del personal y del espacio, no como un manual de producción escénica.",
+    "estadistica": "Distingue quién produce la información oficial, con qué garantías y para qué puede utilizarse."
+  },
+  "laws": {
+    "ce-1978": {
+      "profile": "constitucional",
+      "bridge": "Es el mapa general al que regresan casi todos los temas comunes. Para entenderla, piensa en cuatro capas: principios, derechos, instituciones y organización territorial.",
+      "focus": ["Distingue valores superiores, principios y derechos: no son categorías intercambiables.", "Relaciona cada institución con su composición, función y control."],
+      "example": "Un teatro estatal forma parte de la Administración y debe actuar con legalidad, objetividad e igualdad; al mismo tiempo, su programación se desarrolla dentro de derechos como el acceso a la cultura y la libertad de creación.",
+      "keys": ["La Constitución vincula a ciudadanía y poderes públicos.", "Los derechos tienen distintos niveles de protección y no todos siguen el mismo procedimiento de garantía.", "Corona, Cortes, Gobierno, Poder Judicial y organización territorial cumplen funciones diferentes.", "Los números de artículo ayudan a localizar, pero primero debe comprenderse la regla."],
+      "terms": [{"term": "Estado social y democrático de Derecho", "meaning": "Modelo basado en legalidad, participación democrática y acción pública orientada a hacer efectivos derechos y bienestar."}, {"term": "Derecho fundamental", "meaning": "Derecho con la protección reforzada prevista por la Constitución."}, {"term": "Reserva de ley", "meaning": "Materia que debe regularse mediante una norma con rango de ley."}],
+      "traps": ["Confundir valores superiores con los principios del artículo 9.3.", "Atribuir al Rey decisiones que requieren refrendo o corresponden al Gobierno.", "Tratar todos los derechos como si tuvieran idéntica protección."],
+      "review": ["¿Qué diferencia hay entre valor, principio y derecho?", "¿Qué institución legisla, cuál dirige la política y cuál ejerce la función jurisdiccional?", "¿Qué idea expresa la sujeción de ciudadanía y poderes públicos al ordenamiento?"]
+    },
+    "ley-50-1997": {
+      "profile": "constitucional",
+      "bridge": "Desarrolla cómo se compone y actúa el Gobierno. Ayuda a pasar del esquema constitucional a su funcionamiento cotidiano.",
+      "focus": ["Separa Gobierno, Consejo de Ministros, Presidencia y departamentos ministeriales.", "Fíjate en iniciativa legislativa, potestad reglamentaria y planificación normativa."],
+      "example": "Cuando Cultura impulsa una norma, el ministerio prepara el expediente, pero la aprobación puede corresponder al Consejo de Ministros según el tipo de disposición.",
+      "keys": ["El Gobierno dirige la política y la Administración civil y militar.", "La Presidencia coordina la acción del Gobierno.", "La elaboración de normas sigue trámites y controles, no es una decisión informal."],
+      "terms": [{"term": "Potestad reglamentaria", "meaning": "Capacidad del Gobierno para aprobar reglamentos dentro de la Constitución y las leyes."}, {"term": "Consejo de Ministros", "meaning": "Órgano colegiado del Gobierno que adopta las decisiones atribuidas por el ordenamiento."}],
+      "traps": ["Confundir funciones del Gobierno con atribuciones de las Cortes.", "Confundir anteproyecto, proyecto de ley y reglamento."],
+      "review": ["¿Qué diferencia hay entre función ejecutiva y potestad reglamentaria?", "¿Qué papel desempeña el Consejo de Ministros?"]
+    },
+    "eu-teu-2012": {
+      "profile": "union-europea",
+      "bridge": "El Tratado de la Unión Europea contiene la identidad política de la Unión: valores, objetivos, instituciones y principios básicos.",
+      "focus": ["Diferencia valores de la Unión, objetivos y principios de atribución, subsidiariedad y proporcionalidad.", "Identifica las instituciones sin atribuir a una las funciones de otra."],
+      "example": "Una política cultural europea no nace porque la Unión tenga una competencia ilimitada: debe actuar dentro de las competencias atribuidas por los tratados.",
+      "keys": ["La Unión solo actúa en las competencias que los Estados le han atribuido.", "Subsidiariedad y proporcionalidad limitan cómo ejerce sus competencias.", "Adhesión y retirada siguen procedimientos distintos."],
+      "terms": [{"term": "Atribución", "meaning": "La Unión dispone únicamente de las competencias conferidas por los tratados."}, {"term": "Subsidiariedad", "meaning": "En ámbitos no exclusivos, la Unión interviene cuando los objetivos se alcanzan mejor a escala europea."}],
+      "traps": ["Confundir objetivos con competencias.", "Presentar a la Unión como titular de una competencia general."],
+      "review": ["¿Qué limita el principio de atribución?", "¿Cuándo entra en juego la subsidiariedad?"]
+    },
+    "eu-tfeu-2012": {
+      "profile": "union-europea",
+      "bridge": "El TFUE desarrolla el funcionamiento práctico de la Unión: categorías de competencias, políticas e instrumentos jurídicos.",
+      "focus": ["Distingue competencias exclusivas, compartidas y de apoyo.", "Memoriza la diferencia funcional entre reglamento, directiva, decisión, recomendación y dictamen."],
+      "example": "En cultura, la Unión apoya y complementa la acción estatal; no sustituye sin más la política cultural de cada Estado.",
+      "keys": ["El reglamento es general, obligatorio y directamente aplicable.", "La directiva obliga respecto al resultado y requiere actuación nacional para su incorporación.", "Recomendaciones y dictámenes no son vinculantes.", "La cultura se sitúa en la acción de apoyo, coordinación o complemento."],
+      "terms": [{"term": "Derecho derivado", "meaning": "Normas aprobadas por las instituciones de la Unión a partir de los tratados."}, {"term": "Directiva", "meaning": "Acto que obliga sobre el resultado a los Estados destinatarios, dejando la forma y los medios a las autoridades nacionales."}],
+      "traps": ["Decir que una directiva es directamente aplicable en los mismos términos que un reglamento.", "Confundir decisión vinculante con recomendación no vinculante."],
+      "review": ["¿Qué instrumento se aplica directamente y con alcance general?", "¿Qué diferencia una competencia compartida de una de apoyo?"]
+    },
+    "rdleg-5-2015": {
+      "profile": "empleo-publico",
+      "bridge": "El TREBEP ofrece el marco común del empleo público. Úsalo para ordenar tipos de personal, derechos, deberes, acceso y situaciones, no para aprender una lista descontextualizada.",
+      "focus": ["Distingue personal funcionario, interino, laboral y eventual.", "Relaciona acceso, carrera, evaluación, derechos, deberes y régimen disciplinario."],
+      "example": "Una trabajadora laboral fija de un organismo cultural pertenece al empleo público, pero su relación se rige también por la legislación laboral y el convenio aplicable.",
+      "keys": ["Empleado público no equivale siempre a funcionario.", "El acceso responde a igualdad, mérito y capacidad, además de publicidad.", "Los derechos se acompañan de deberes y principios de conducta.", "El TREBEP es marco básico; para personal laboral debe leerse junto al convenio y la normativa laboral."],
+      "terms": [{"term": "Personal laboral", "meaning": "Empleado público vinculado mediante contrato de trabajo, fijo, indefinido o temporal según corresponda."}, {"term": "Personal eventual", "meaning": "Personal que realiza funciones expresamente calificadas de confianza o asesoramiento especial."}, {"term": "Código de conducta", "meaning": "Principios éticos y de actuación que orientan el desempeño público."}],
+      "traps": ["Equiparar personal laboral fijo y funcionario de carrera.", "Confundir pérdida de la condición de funcionario con extinción de un contrato laboral.", "Aplicar automáticamente al personal laboral una regla exclusiva del personal funcionario."],
+      "review": ["¿Qué clases de empleados públicos reconoce el TREBEP?", "¿Qué principios rigen el acceso?", "¿Cuándo hay que acudir además al convenio colectivo?"]
+    },
+    "convenio-iv": {
+      "profile": "empleo-publico",
+      "bridge": "Es la norma laboral más cercana a la plaza. Conviene imaginar la vida profesional dentro de un centro del INAEM: clasificación, movilidad, jornada, permisos, carrera y disciplina.",
+      "focus": ["Distingue grupos profesionales, familias y especialidades.", "Separa órganos de seguimiento, sistemas de provisión, movilidad y régimen de jornada o permisos."],
+      "example": "Un cambio de puesto dentro de un centro cultural puede afectar a funciones, grupo, especialidad y sistema de provisión; no es una decisión informal de programación.",
+      "keys": ["El Convenio regula condiciones del personal laboral de la AGE.", "Clasificación profesional y funciones no son lo mismo que una categoría histórica ya desaparecida.", "Jornada, permisos, movilidad y provisión tienen requisitos y procedimientos propios.", "Las comisiones previstas en el Convenio cumplen funciones distintas."],
+      "terms": [{"term": "Grupo profesional", "meaning": "Marco de clasificación ligado a responsabilidad, conocimientos y contenido general de la prestación."}, {"term": "Movilidad funcional", "meaning": "Cambio de funciones dentro de los límites y condiciones establecidos."}, {"term": "Comisión paritaria", "meaning": "Órgano de representación de las partes para interpretar y seguir el convenio."}],
+      "traps": ["Confundir grupo profesional, familia profesional y especialidad.", "Mezclar movilidad, promoción y provisión de puestos.", "Atribuir a cualquier comisión las funciones de la Comisión Paritaria."],
+      "review": ["¿Qué regula el Convenio que no resuelve por sí solo el TREBEP?", "¿Qué diferencia hay entre clasificación, movilidad y promoción?", "¿Qué órgano interpreta el Convenio?"]
+    },
+    "ley-53-1984": {
+      "profile": "empleo-publico",
+      "bridge": "Responde a una pregunta práctica: cuándo puede compatibilizarse un empleo público con otra actividad sin comprometer imparcialidad y dedicación.",
+      "focus": ["Distingue actividad pública y privada.", "Fíjate en prohibiciones, autorización o reconocimiento de compatibilidad y límites económicos o funcionales."],
+      "example": "Una empleada de un teatro público que quiera impartir una actividad remunerada fuera de su puesto debe comprobar si es compatible y quién debe reconocerla.",
+      "keys": ["La compatibilidad no se presume: debe encajar en la ley y, cuando proceda, reconocerse.", "El interés público, la imparcialidad y el cumplimiento del puesto principal son el centro de la norma.", "Hay actividades exceptuadas y actividades incompatibles."],
+      "terms": [{"term": "Compatibilidad", "meaning": "Autorización o reconocimiento para ejercer otra actividad en los casos permitidos."}, {"term": "Actividad privada", "meaning": "Trabajo o prestación fuera del sector público sometido a límites para evitar conflictos."}],
+      "traps": ["Pensar que cualquier actividad ocasional es automáticamente compatible.", "Confundir autorización previa con comunicación posterior."],
+      "review": ["¿Por qué la compatibilidad no es automática?", "¿Qué riesgos trata de evitar la ley?"]
+    },
+    "rd-364-1995": {
+      "profile": "empleo-publico",
+      "bridge": "Desarrolla procedimientos de ingreso y provisión en la AGE. Interesa por el recorrido administrativo, no por memorizar cada formulario.",
+      "focus": ["Distingue ingreso, provisión y promoción.", "Identifica órganos, requisitos, fases y sistemas selectivos."],
+      "example": "Una convocatoria para cubrir puestos en un organismo cultural debe respetar las reglas de acceso y las fases previstas, aunque el perfil sea artístico o técnico.",
+      "keys": ["La selección se sujeta a convocatoria, requisitos y procedimiento.", "Oposición, concurso y concurso-oposición no son equivalentes.", "Ingreso y provisión de un puesto responden a momentos distintos."],
+      "terms": [{"term": "Oposición", "meaning": "Sistema basado en superar pruebas para acreditar capacidad y conocimientos."}, {"term": "Concurso-oposición", "meaning": "Sistema que combina pruebas y valoración de méritos."}],
+      "traps": ["Confundir acceso inicial con provisión de un puesto ya dentro de la Administración.", "Intercambiar concurso y concurso-oposición."],
+      "review": ["¿Qué diferencia hay entre ingreso y provisión?", "¿Qué combina un concurso-oposición?"]
+    },
+    "ley-39-2015": {
+      "profile": "administrativo",
+      "bridge": "Es el guion de cómo se relacionan las personas con la Administración y cómo se construye una decisión administrativa válida.",
+      "focus": ["Sigue el procedimiento desde iniciación hasta resolución, notificación y recurso.", "Distingue personas interesadas, representación, registros, plazos, silencio y validez del acto."],
+      "example": "Una compañía solicita una ayuda cultural: presenta la solicitud, subsana si falta documentación, recibe notificaciones, formula alegaciones y puede recurrir la resolución.",
+      "keys": ["El procedimiento protege derechos y ordena la decisión pública.", "Plazos, notificaciones y silencio tienen reglas propias.", "Nulidad y anulabilidad no producen los mismos efectos.", "La relación electrónica depende del sujeto y de la obligación legal aplicable."],
+      "terms": [{"term": "Persona interesada", "meaning": "Quien promueve el procedimiento o puede resultar afectado en los términos legales."}, {"term": "Silencio administrativo", "meaning": "Efecto que la ley atribuye a la falta de resolución expresa en plazo."}, {"term": "Subsanación", "meaning": "Corrección de defectos o aportación de documentos requeridos en una solicitud."}],
+      "traps": ["Confundir plazo para resolver con plazo para recurrir o subsanar.", "Suponer que el silencio siempre es positivo.", "Equiparar nulidad de pleno derecho y anulabilidad."],
+      "review": ["¿Quién tiene condición de interesado?", "¿Qué diferencia hay entre notificación y publicación?", "¿Qué efectos puede tener el silencio?"]
+    },
+    "ley-40-2015": {
+      "profile": "administrativo",
+      "bridge": "Mientras la Ley 39 explica el procedimiento, la Ley 40 explica quién actúa dentro del sector público y cómo se relacionan sus órganos y entidades.",
+      "focus": ["Distingue órgano, unidad, organismo público y otras entidades del sector público institucional.", "Fíjate en competencia, delegación, avocación, encomienda, suplencia y órganos colegiados."],
+      "example": "El INAEM puede tramitar un asunto mediante sus órganos competentes; que una unidad prepare el expediente no significa que sea quien resuelve.",
+      "keys": ["La competencia corresponde al órgano que la norma determina.", "Delegación, avocación, encomienda y suplencia tienen finalidades distintas.", "La ley organiza relaciones internas e interadministrativas.", "Responsabilidad y régimen sancionador siguen principios específicos."],
+      "terms": [{"term": "Competencia", "meaning": "Conjunto de atribuciones que el ordenamiento asigna a un órgano."}, {"term": "Delegación", "meaning": "Ejercicio de una competencia por otro órgano en los términos legales, sin cambiar su titularidad."}, {"term": "Encomienda de gestión", "meaning": "Encargo de actividades materiales o técnicas sin cesión de la titularidad de la competencia."}],
+      "traps": ["Confundir delegación con encomienda de gestión.", "Atribuir la resolución a la unidad que solo instruye o informa.", "Mezclar sector público institucional con Administración territorial."],
+      "review": ["¿Qué diferencia hay entre titularidad y ejercicio de la competencia?", "¿Qué no puede hacer una encomienda de gestión?", "¿Cómo se distingue un órgano de una entidad?"]
+    },
+    "rd-2491-1996": {
+      "profile": "institucional-cultural",
+      "bridge": "Explica la estructura histórica del INAEM. Debe leerse junto a las reorganizaciones posteriores para separar funciones que continúan de organigramas ya modificados.",
+      "focus": ["Retén naturaleza, fines y grandes áreas funcionales.", "Contrasta cualquier órgano concreto con la estructura vigente indicada por la app."],
+      "example": "La misión de fomentar las artes escénicas puede seguir siendo útil para entender el organismo aunque una unidad concreta haya cambiado de nombre o adscripción.",
+      "keys": ["El INAEM es un organismo público del ámbito cultural estatal.", "Sus funciones combinan fomento, gestión de centros y apoyo a las artes escénicas y musicales.", "La estructura de 1996 no debe memorizarse como organigrama vigente sin contraste."],
+      "terms": [{"term": "Organismo autónomo", "meaning": "Entidad pública con personalidad y régimen propios para realizar funciones administrativas determinadas."}, {"term": "Adscripción", "meaning": "Vinculación orgánica de una entidad a un departamento u órgano."}],
+      "traps": ["Dar por vigente todo el organigrama de 1996.", "Confundir misión institucional con distribución actual de competencias."],
+      "review": ["¿Qué funciones generales cumple el INAEM?", "¿Qué dato debe contrastarse con la reorganización vigente?"]
+    },
+    "rd-1028-2025": {
+      "profile": "institucional-cultural",
+      "bridge": "Es la referencia para entender la reorganización reciente del INAEM y evitar respuestas basadas en estructuras antiguas.",
+      "focus": ["Identifica qué funciones se reorganizan y dónde quedan.", "Distingue fomento cultural de gestión de centros y unidades de producción."],
+      "example": "Al responder quién gestiona un centro o quién tramita una ayuda, no basta recordar un estatuto antiguo: hay que aplicar la estructura posterior.",
+      "keys": ["La reorganización actualiza la distribución de funciones.", "No todas las funciones culturales permanecen en la misma unidad.", "Debe prevalecer la estructura vigente frente al organigrama histórico."],
+      "terms": [{"term": "Reorganización", "meaning": "Redistribución normativa de órganos o funciones dentro de la estructura administrativa."}, {"term": "Unidad de producción", "meaning": "Centro dedicado a crear, producir o exhibir actividad artística dentro del INAEM."}],
+      "traps": ["Responder con un órgano suprimido o modificado.", "Confundir funciones de fomento con gestión directa de centros."],
+      "review": ["¿Qué problema resuelve esta reforma?", "¿Qué dos grandes clases de funciones conviene separar?"]
+    },
+    "rd-323-2024": {
+      "profile": "institucional-cultural",
+      "bridge": "Sitúa el Ministerio de Cultura y sus órganos. Es el marco para saber dónde encaja el INAEM dentro de la Administración estatal.",
+      "focus": ["Distingue órganos superiores y directivos.", "Ubica competencias culturales sin memorizar unidades que no entren en el alcance."],
+      "example": "Una política de artes escénicas se desarrolla dentro de una estructura ministerial: ministerio, secretarías y organismos no son niveles equivalentes.",
+      "keys": ["La estructura orgánica reparte competencias dentro del Ministerio.", "El INAEM se vincula al departamento conforme a la estructura vigente.", "Órgano superior y órgano directivo no son sinónimos."],
+      "terms": [{"term": "Órgano superior", "meaning": "Nivel político superior de la organización ministerial."}, {"term": "Órgano directivo", "meaning": "Órgano que desarrolla y ejecuta la acción dentro de la estructura administrativa."}],
+      "traps": ["Confundir una dirección general con un organismo autónomo.", "Usar una estructura anterior como si fuera actual."],
+      "review": ["¿Dónde se ubica el INAEM?", "¿Qué diferencia hay entre órgano superior y directivo?"]
+    },
+    "rd-1009-2023": {
+      "profile": "institucional-cultural",
+      "bridge": "Ofrece el marco general de los departamentos ministeriales sobre el que después se concreta la estructura de Cultura.",
+      "focus": ["Úsalo para situar departamentos y adscripciones.", "No conviertas el real decreto general en una lista completa para memorizar."],
+      "example": "Antes de estudiar un centro cultural concreto, conviene saber qué departamento existe y qué organismos quedan vinculados a él.",
+      "keys": ["La norma establece la estructura básica departamental.", "Las normas específicas desarrollan después cada ministerio.", "La adscripción no equivale a identidad entre ministerio y organismo."],
+      "terms": [{"term": "Departamento ministerial", "meaning": "Área de la Administración General del Estado dirigida por una persona titular de un ministerio."}, {"term": "Estructura básica", "meaning": "Organización general que después puede ser desarrollada por normas específicas."}],
+      "traps": ["Buscar aquí detalles que corresponden al real decreto específico de Cultura.", "Confundir adscripción con dependencia funcional absoluta."],
+      "review": ["¿Para qué sirve esta norma dentro del tema?", "¿Qué debe consultarse para el detalle de Cultura?"]
+    },
+    "ley-50-1984": {
+      "profile": "institucional-cultural",
+      "bridge": "Para esta oposición interesa por el precepto que crea el INAEM, no como ley presupuestaria completa.",
+      "focus": ["Localiza el origen jurídico del organismo.", "Relaciona creación, naturaleza y finalidad institucional."],
+      "example": "Una pregunta puede pedir qué norma creó el INAEM, sin exigir estudiar todos los Presupuestos de 1985.",
+      "keys": ["La relevancia está concentrada en la creación del INAEM.", "El resto de la ley no se convierte por ello en temario principal.", "Creación jurídica y estructura vigente son momentos distintos."],
+      "terms": [{"term": "Creación legal", "meaning": "Nacimiento de una entidad mediante una norma con rango suficiente."}, {"term": "Ley de Presupuestos", "meaning": "Ley anual que aprueba previsiones económicas y puede contener determinadas disposiciones organizativas."}],
+      "traps": ["Estudiar la ley presupuestaria completa.", "Confundir la norma de creación con la regulación vigente de la estructura."],
+      "review": ["¿Por qué aparece esta ley en el tema del INAEM?", "¿Qué otra norma debe consultarse para la estructura actual?"]
+    },
+    "orden-cul-2039-2011-cdn": {
+      "profile": "institucional-cultural",
+      "bridge": "Explica la misión y el modelo de dirección del Centro Dramático Nacional. Conviene relacionar la norma con la función de un teatro público de creación y exhibición.",
+      "focus": ["Retén fines, dirección y Plan Director.", "Distingue misión artística de gestión administrativa cotidiana."],
+      "example": "La programación del CDN responde a una misión pública y a una dirección artística enmarcada en un Plan Director.",
+      "keys": ["El CDN es una unidad de producción teatral del INAEM.", "El Plan Director ordena el proyecto artístico y de gestión.", "La dirección tiene funciones artísticas y de coordinación definidas."],
+      "terms": [{"term": "Plan Director", "meaning": "Documento que articula el proyecto artístico y de gestión de la dirección del centro."}, {"term": "Unidad de producción", "meaning": "Centro público que crea y exhibe actividad artística."}],
+      "traps": ["Confundir el CDN con la CNTC.", "Atribuir al centro una misión ajena al teatro contemporáneo y la creación escénica."],
+      "review": ["¿Cuál es la misión básica del CDN?", "¿Qué función cumple el Plan Director?"]
+    },
+    "orden-cul-3355-2010-cntc": {
+      "profile": "institucional-cultural",
+      "bridge": "Sitúa la Compañía Nacional de Teatro Clásico como institución especializada en el patrimonio dramático clásico.",
+      "focus": ["Relaciona repertorio clásico, investigación, creación y difusión.", "Retén dirección y Plan Director sin convertir el estatuto en organigrama vigente completo."],
+      "example": "Montar y difundir textos del Siglo de Oro forma parte de una misión pública distinta de la programación general de un centro dramático.",
+      "keys": ["La CNTC trabaja sobre el patrimonio teatral clásico.", "Creación, investigación y difusión forman parte de su misión.", "Su dirección se articula mediante un proyecto o Plan Director."],
+      "terms": [{"term": "Patrimonio dramático", "meaning": "Conjunto de obras y tradiciones teatrales que se conservan, estudian y representan."}, {"term": "Repertorio", "meaning": "Conjunto de obras que una compañía prepara o mantiene para su representación."}],
+      "traps": ["Confundir CNTC y CDN.", "Reducir su misión a conservar textos sin representarlos ni difundirlos."],
+      "review": ["¿Qué distingue a la CNTC del CDN?", "¿Qué dimensiones reúne su misión?"]
+    },
+    "orden-cul-451-2011-zarzuela": {
+      "profile": "institucional-cultural",
+      "bridge": "Define la misión del Teatro de la Zarzuela y su relación con el patrimonio lírico español.",
+      "focus": ["Relaciona zarzuela, lírica española, recuperación patrimonial y difusión.", "Distingue el centro de otras unidades musicales del INAEM."],
+      "example": "Recuperar una partitura lírica española y llevarla a escena encaja en una misión que combina conservación activa y producción artística.",
+      "keys": ["El Teatro de la Zarzuela es una unidad de producción del INAEM.", "Su identidad se vincula a la lírica española y la zarzuela.", "La recuperación patrimonial se realiza también mediante producción y exhibición."],
+      "terms": [{"term": "Lírica española", "meaning": "Tradición escénico-musical española que incluye la zarzuela y otras formas líricas."}, {"term": "Recuperación patrimonial", "meaning": "Investigación, puesta en valor y nueva difusión de obras del patrimonio."}],
+      "traps": ["Confundir la Zarzuela con la OCNE o el CNDM.", "Presentarla únicamente como sala de exhibición."],
+      "review": ["¿Qué patrimonio centra su misión?", "¿Cómo se materializa su labor de recuperación?"]
+    },
+    "rd-1245-2002": {
+      "profile": "institucional-cultural",
+      "bridge": "Regula la organización y funcionamiento de la Orquesta Nacional de España y permite entender su estructura estable.",
+      "focus": ["Distingue Orquesta, Coro, dirección y órganos de funcionamiento.", "Relaciona actividad artística con organización institucional."],
+      "example": "La preparación de una temporada sinfónico-coral combina decisiones artísticas con una estructura organizativa estable.",
+      "keys": ["La OCNE integra formaciones y estructura propias.", "Dirección artística y gestión institucional no son idénticas.", "El reglamento vigente debe prevalecer frente a referencias organizativas anteriores."],
+      "terms": [{"term": "Formación estable", "meaning": "Conjunto artístico permanente integrado en una institución pública."}, {"term": "Reglamento de organización", "meaning": "Norma que distribuye órganos, funciones y reglas de funcionamiento."}],
+      "traps": ["Confundir OCNE con JONDE.", "Aplicar una norma histórica anterior en lugar del reglamento vigente."],
+      "review": ["¿Qué formaciones integra la OCNE?", "¿Qué regula este real decreto además de la actividad artística?"]
+    },
+    "orden-17-10-1983": {
+      "profile": "institucional-cultural",
+      "bridge": "Explica el origen y finalidad formativa de la Joven Orquesta Nacional de España.",
+      "focus": ["Retén la finalidad de perfeccionamiento de jóvenes músicos.", "Distingue una orquesta joven formativa de una formación profesional estable."],
+      "example": "Una gira de la JONDE tiene dimensión artística, pero también forma parte de un proceso de formación y perfeccionamiento orquestal.",
+      "keys": ["La JONDE tiene finalidad formativa y de perfeccionamiento.", "No equivale a la Orquesta Nacional de España.", "Su actividad combina formación y práctica orquestal."],
+      "terms": [{"term": "Joven orquesta", "meaning": "Proyecto formativo que ofrece experiencia orquestal avanzada a jóvenes intérpretes."}, {"term": "Perfeccionamiento", "meaning": "Formación especializada posterior a la enseñanza musical básica o superior."}],
+      "traps": ["Confundir JONDE y OCNE.", "Reducir su función a ofrecer conciertos sin dimensión educativa."],
+      "review": ["¿Cuál es la finalidad principal de la JONDE?", "¿En qué se diferencia de la OCNE?"]
+    },
+    "orden-cul-3359-2011-cndm": {
+      "profile": "institucional-cultural",
+      "bridge": "El CNDM se entiende como centro de difusión musical con programación propia y atención a distintos repertorios.",
+      "focus": ["Retén fines de difusión, programación y apoyo a la creación.", "Distingue un centro de difusión de una orquesta o compañía estable."],
+      "example": "Un ciclo de músicas históricas o de creación contemporánea responde a una lógica de programación y difusión, no a la estructura de una única formación estable.",
+      "keys": ["El CNDM programa y difunde música.", "Puede trabajar con repertorios, ciclos y artistas diversos.", "No es una compañía ni una orquesta estable."],
+      "terms": [{"term": "Difusión musical", "meaning": "Programación y acercamiento de repertorios e intérpretes a distintos públicos."}, {"term": "Ciclo", "meaning": "Conjunto de conciertos relacionados por un criterio artístico o temático."}],
+      "traps": ["Confundir CNDM y OCNE.", "Atribuirle la misión específica de la Zarzuela."],
+      "review": ["¿Qué caracteriza a un centro de difusión musical?", "¿Qué lo distingue de una formación estable?"]
+    },
+    "orden-cul-3065-2010-bne": {
+      "profile": "institucional-cultural",
+      "bridge": "Regula el Ballet Nacional de España como compañía orientada al patrimonio y la creación de la danza española.",
+      "focus": ["Relaciona danza española, conservación, creación y difusión.", "Distingue BNE de la Compañía Nacional de Danza."],
+      "example": "Una producción basada en flamenco o escuela bolera puede conservar patrimonio y, a la vez, incorporar creación contemporánea.",
+      "keys": ["El BNE se centra en las formas de la danza española.", "Conservación y creación no son objetivos incompatibles.", "La compañía difunde este patrimonio dentro y fuera de España."],
+      "terms": [{"term": "Danza española", "meaning": "Conjunto de tradiciones y estilos que incluye, entre otros, flamenco, folclore, escuela bolera y danza estilizada."}, {"term": "Compañía nacional", "meaning": "Unidad artística pública estable con misión de creación y difusión."}],
+      "traps": ["Confundir BNE y CND.", "Reducir su misión al folclore o al flamenco exclusivamente."],
+      "review": ["¿Qué campo artístico identifica al BNE?", "¿Cómo combina patrimonio y creación?"]
+    },
+    "orden-cul-1993-2010-cnd": {
+      "profile": "institucional-cultural",
+      "bridge": "Define la Compañía Nacional de Danza como unidad de creación y difusión coreográfica con repertorio amplio.",
+      "focus": ["Retén creación, repertorio y difusión de la danza.", "Distingue su misión de la especialización del Ballet Nacional de España."],
+      "example": "La CND puede trabajar repertorio clásico y creación contemporánea sin asumir la misión específica de preservar las formas de danza española del BNE.",
+      "keys": ["La CND es una compañía pública de danza.", "Su repertorio puede integrar distintas corrientes coreográficas.", "BNE y CND tienen identidades institucionales diferentes."],
+      "terms": [{"term": "Repertorio coreográfico", "meaning": "Conjunto de obras de danza que una compañía interpreta o incorpora."}, {"term": "Creación coreográfica", "meaning": "Proceso de concepción y composición de una obra de danza."}],
+      "traps": ["Intercambiar las misiones de CND y BNE.", "Identificar CND exclusivamente con danza española."],
+      "review": ["¿Qué amplitud tiene el repertorio de la CND?", "¿Cuál es la diferencia básica con el BNE?"]
+    },
+    "rd-992-2014-cte": {
+      "profile": "institucional-cultural",
+      "bridge": "Interesa para situar al Centro de Tecnología del Espectáculo como centro formativo y de referencia del sector técnico escénico.",
+      "focus": ["Retén su calificación institucional y ámbito profesional.", "No estudies esta norma como un temario completo de oficios técnicos."],
+      "example": "El CTE forma y conecta perfiles técnicos del espectáculo, pero la norma no sustituye el aprendizaje del vocabulario básico de escena.",
+      "keys": ["El CTE se califica como Centro de Referencia Nacional.", "Su ámbito se relaciona con las artes escénicas y las actividades culturales.", "La relevancia para M3 es institucional y formativa."],
+      "terms": [{"term": "Centro de Referencia Nacional", "meaning": "Centro especializado que desarrolla innovación, experimentación y referencia para la formación profesional de un sector."}, {"term": "Familia profesional", "meaning": "Agrupación de cualificaciones y actividades profesionales relacionadas."}],
+      "traps": ["Convertir la norma en examen de cualificaciones profesionales.", "Confundir el CTE con una unidad de producción artística."],
+      "review": ["¿Qué calificación tiene el CTE?", "¿Qué dimensión interesa para esta oposición?"]
+    },
+    "rdleg-2-2015-et": {
+      "profile": "laboral",
+      "bridge": "Es la base de la relación laboral común. Para M3 debe leerse pensando también en personal laboral público y en las especialidades artísticas.",
+      "focus": ["Distingue contrato, modalidades, jornada, suspensión, extinción y representación.", "Separa la regla general de las especialidades del convenio o del régimen artístico."],
+      "example": "La contratación de una persona trabajadora en un centro cultural parte del Estatuto, pero puede estar condicionada por el convenio colectivo o por una relación laboral especial.",
+      "keys": ["El contrato genera derechos y obligaciones recíprocos.", "Suspensión y extinción no son lo mismo.", "Representación unitaria y sindical siguen vías diferentes.", "La norma general puede ser completada por convenio o normativa especial."],
+      "terms": [{"term": "Suspensión", "meaning": "Interrupción temporal de obligaciones principales sin extinguir el vínculo laboral."}, {"term": "Extinción", "meaning": "Finalización de la relación laboral por una causa legal."}, {"term": "Convenio colectivo", "meaning": "Acuerdo negociado que regula condiciones de trabajo dentro de su ámbito."}],
+      "traps": ["Confundir suspensión con extinción.", "Aplicar una modalidad contractual sin atender a su causa.", "Mezclar representación sindical y representación unitaria."],
+      "review": ["¿Qué diferencia hay entre suspensión y extinción?", "¿Qué puede añadir un convenio colectivo?", "¿Qué formas de representación deben distinguirse?"]
+    },
+    "lo-11-1985-lols": {
+      "profile": "laboral",
+      "bridge": "Desarrolla la libertad sindical: quién puede sindicarse, cómo se organiza la acción sindical y qué protección existe.",
+      "focus": ["Distingue derecho individual y actividad de las organizaciones sindicales.", "Relaciona secciones, delegados y representatividad."],
+      "example": "En un organismo cultural, la plantilla puede ejercer derechos sindicales sin que ello se confunda con las funciones del comité de empresa.",
+      "keys": ["La libertad sindical incluye dimensión individual y colectiva.", "La representación sindical no es idéntica a la representación unitaria.", "La mayor representatividad produce efectos jurídicos específicos."],
+      "terms": [{"term": "Sección sindical", "meaning": "Organización de las personas afiliadas a un sindicato dentro de la empresa o centro de trabajo."}, {"term": "Delegado sindical", "meaning": "Representante sindical en los supuestos previstos por la ley."}],
+      "traps": ["Confundir delegado sindical con delegado de personal.", "Reducir la libertad sindical al derecho de afiliación."],
+      "review": ["¿Qué dimensiones comprende la libertad sindical?", "¿Qué diferencia hay entre representación sindical y unitaria?"]
+    },
+    "rdl-17-1977": {
+      "profile": "laboral",
+      "bridge": "Aporta reglas sobre huelga y conflictos colectivos que deben leerse junto a la Constitución y la doctrina aplicable.",
+      "focus": ["Distingue titularidad, convocatoria, desarrollo y efectos de la huelga.", "Separa huelga, cierre patronal y procedimiento de conflicto colectivo."],
+      "example": "Una huelga en un teatro público puede afectar a la función programada, pero su tratamiento jurídico no se reduce a una incidencia de producción.",
+      "keys": ["La huelga es un derecho fundamental con límites y procedimiento.", "Los servicios esenciales pueden justificar garantías específicas.", "Huelga y conflicto colectivo no son términos equivalentes."],
+      "terms": [{"term": "Huelga", "meaning": "Cese colectivo y concertado del trabajo para la defensa de intereses laborales."}, {"term": "Servicios esenciales", "meaning": "Servicios cuya garantía puede exigir medidas para proteger derechos o bienes constitucionales de la comunidad."}],
+      "traps": ["Confundir servicios mínimos con plantilla habitual.", "Presentar cualquier conflicto como huelga."],
+      "review": ["¿Qué distingue una huelga de un conflicto colectivo?", "¿Por qué pueden establecerse servicios mínimos?"]
+    },
+    "ley-9-2017-lcsp": {
+      "profile": "contratacion",
+      "bridge": "Es la norma central cuando una institución cultural compra suministros, encarga servicios o contrata una obra. Conviene seguir la vida del contrato desde la necesidad hasta su ejecución.",
+      "focus": ["Distingue tipos de contrato, órganos, expediente y procedimientos de adjudicación.", "Fíjate en publicidad, solvencia, criterios, ejecución, modificación y extinción."],
+      "example": "Contratar la producción técnica de un festival exige justificar la necesidad, definir prestaciones, tramitar el expediente y seleccionar la oferta conforme a criterios previamente establecidos.",
+      "keys": ["La contratación pública busca satisfacer una necesidad pública con transparencia e igualdad.", "Tipo de contrato y procedimiento de adjudicación son decisiones diferentes.", "Presupuesto base, valor estimado y precio no son sinónimos.", "La ejecución también está sometida a reglas y control."],
+      "terms": [{"term": "Órgano de contratación", "meaning": "Órgano con competencia para celebrar el contrato en nombre de la entidad."}, {"term": "Valor estimado", "meaning": "Magnitud calculada conforme a la ley para determinar régimen y umbrales, normalmente sin IVA."}, {"term": "Criterio de adjudicación", "meaning": "Elemento previamente definido para comparar ofertas y seleccionar la mejor relación calidad-precio."}],
+      "traps": ["Confundir valor estimado, presupuesto base y precio.", "Confundir contrato menor con procedimiento abierto.", "Pensar que la oferta más barata siempre debe resultar adjudicataria."],
+      "review": ["¿Qué diferencia hay entre tipo de contrato y procedimiento?", "¿Qué magnitudes económicas no deben confundirse?", "¿Qué función cumple el órgano de contratación?"]
+    },
+    "rd-1435-1985": {
+      "profile": "laboral",
+      "bridge": "Regula la relación laboral especial de artistas en espectáculos públicos dentro de su marco temporal. Debe leerse con la advertencia de vigencia que muestra la app.",
+      "focus": ["Identifica ámbito subjetivo, forma del contrato, duración y derechos u obligaciones.", "Distingue régimen vigente y reforma posterior."],
+      "example": "La contratación de una intérprete para una producción escénica puede quedar dentro de la relación laboral especial, no como una prestación mercantil elegida libremente por las partes.",
+      "keys": ["Es una relación laboral especial, no una exclusión del Derecho del Trabajo.", "El ámbito depende de la actividad y de las funciones realizadas.", "Forma, duración y extinción tienen especialidades.", "La respuesta debe respetar el contexto temporal indicado."],
+      "terms": [{"term": "Relación laboral especial", "meaning": "Relación laboral sometida a regulación específica por las características de la actividad."}, {"term": "Actividad artística", "meaning": "Prestación vinculada a la creación o ejecución artística dentro del ámbito definido por la norma."}],
+      "traps": ["Confundir contrato artístico con contrato mercantil.", "Aplicar una reforma futura como si ya rigiera el supuesto preguntado."],
+      "review": ["¿Por qué esta relación es laboral y especial?", "¿Qué dato temporal debe comprobarse antes de responder?"]
+    },
+    "rd-607-2026": {
+      "profile": "laboral",
+      "bridge": "Introduce un nuevo marco artístico cuya aplicación debe situarse temporalmente. En Historia sirve para reconocer el cambio sin desplazar automáticamente el régimen aplicable al test.",
+      "focus": ["Compara el régimen nuevo con el anterior solo en los puntos señalados.", "Comprueba entrada en vigor y contexto temporal antes de elegir respuesta."],
+      "example": "Una regla anunciada para el nuevo régimen no puede usarse para resolver un supuesto sometido todavía al marco anterior.",
+      "keys": ["La norma representa una reforma del régimen laboral artístico.", "Conocer una reforma no significa aplicarla antes de su vigencia.", "Las preguntas deben indicar o permitir deducir el marco temporal."],
+      "terms": [{"term": "Entrada en vigor", "meaning": "Momento desde el que una norma comienza a producir efectos jurídicos."}, {"term": "Régimen transitorio", "meaning": "Reglas que ordenan el paso entre una regulación anterior y otra nueva."}],
+      "traps": ["Aplicar automáticamente el texto más reciente.", "Confundir publicación con plena aplicabilidad."],
+      "review": ["¿Qué debe comprobarse antes de aplicar esta reforma?", "¿Por qué publicación y vigencia pueden no coincidir?"]
+    },
+    "rdl-5-2022": {
+      "profile": "laboral",
+      "bridge": "Actualiza aspectos de la relación laboral artística. Interesa por los cambios concretos conectados con la contratación cultural.",
+      "focus": ["Identifica a quién amplía o precisa el régimen artístico.", "Separa modificaciones laborales de medidas de protección social reguladas en otras normas."],
+      "example": "En una producción participan intérpretes y personal técnico o auxiliar; la reforma obliga a comprobar qué perfiles quedan comprendidos por cada regla.",
+      "keys": ["La reforma adapta el régimen laboral artístico.", "El ámbito personal debe leerse con precisión.", "No toda actividad realizada en un teatro se convierte por ello en relación artística especial."],
+      "terms": [{"term": "Ámbito subjetivo", "meaning": "Conjunto de personas a quienes se aplica una norma."}, {"term": "Personal técnico o auxiliar", "meaning": "Perfiles de apoyo cuya inclusión depende de las condiciones definidas legalmente."}],
+      "traps": ["Incluir automáticamente a todo el personal de una institución cultural.", "Confundir reforma laboral y régimen de Seguridad Social."],
+      "review": ["¿Qué aspecto del régimen modifica esta norma?", "¿Por qué debe comprobarse el perfil profesional concreto?"]
+    },
+    "rdl-1-2023": {
+      "profile": "laboral",
+      "bridge": "Aporta medidas de protección social e incentivos relacionados con las personas artistas. Debe estudiarse por efectos, no como una ley general de Seguridad Social.",
+      "focus": ["Distingue incentivo a la contratación y protección social.", "Identifica colectivos y condiciones de aplicación."],
+      "example": "La intermitencia del trabajo artístico explica que existan medidas específicas, pero cada beneficio exige cumplir sus requisitos.",
+      "keys": ["La norma responde a particularidades del empleo artístico.", "Incentivo y prestación son figuras distintas.", "La pertenencia al sector cultural no basta por sí sola para acceder a cada medida."],
+      "terms": [{"term": "Incentivo a la contratación", "meaning": "Medida que favorece determinadas contrataciones mediante beneficios previstos legalmente."}, {"term": "Protección social", "meaning": "Cobertura frente a situaciones de necesidad mediante el sistema correspondiente."}],
+      "traps": ["Confundir bonificación, prestación y compatibilidad.", "Aplicar una medida sin verificar destinatarios y requisitos."],
+      "review": ["¿Qué dos grandes clases de medidas contiene?", "¿Qué debe comprobarse antes de aplicar un incentivo?"]
+    },
+    "ley-31-1995": {
+      "profile": "prevencion",
+      "bridge": "Es el marco general para prevenir daños en el trabajo. En cultura debe imaginarse en montajes, ensayos, oficinas, almacenes y funciones.",
+      "focus": ["Relaciona derecho a la protección, deber empresarial y principios preventivos.", "Distingue evaluación, planificación, información, formación, vigilancia y emergencia."],
+      "example": "Antes de un montaje escénico deben evaluarse riesgos de altura, cargas, electricidad y coordinación, y después planificar medidas, responsables y formación.",
+      "keys": ["La prevención debe integrarse en la actividad y anticiparse al daño.", "Evaluar no es lo mismo que implantar medidas.", "Información, formación y consulta cumplen funciones distintas.", "La persona trabajadora también tiene obligaciones preventivas."],
+      "terms": [{"term": "Riesgo laboral", "meaning": "Posibilidad de que una persona trabajadora sufra un daño derivado del trabajo."}, {"term": "Evaluación de riesgos", "meaning": "Proceso para identificar y valorar riesgos que no se han podido evitar."}, {"term": "Planificación preventiva", "meaning": "Organización de medidas, medios, responsables y plazos para controlar los riesgos."}],
+      "traps": ["Confundir evaluación con planificación.", "Presentar el EPI como primera medida frente a la protección colectiva.", "Reducir la prevención a reaccionar después del accidente."],
+      "review": ["¿Qué diferencia hay entre evaluar y planificar?", "¿Qué principios orientan la elección de medidas?", "¿Qué derechos de información y formación existen?"]
+    },
+    "rd-39-1997": {
+      "profile": "prevencion",
+      "bridge": "Desarrolla cómo se organiza la prevención en la empresa o entidad y qué funciones corresponden a los distintos niveles preventivos.",
+      "focus": ["Distingue modalidades de organización preventiva.", "Relaciona evaluación, planificación y capacidades o funciones preventivas."],
+      "example": "Un centro cultural puede recurrir a recursos preventivos propios o externos según su situación, pero la responsabilidad de integrar la prevención no desaparece.",
+      "keys": ["La prevención puede organizarse mediante distintas modalidades.", "La elección depende de características y riesgos de la organización.", "Servicio de prevención y responsabilidad empresarial no son equivalentes."],
+      "terms": [{"term": "Servicio de prevención", "meaning": "Conjunto de medios humanos y materiales para realizar actividades preventivas."}, {"term": "Modalidad preventiva", "meaning": "Forma elegida legalmente para organizar los recursos de prevención."}],
+      "traps": ["Pensar que contratar un servicio ajeno elimina toda responsabilidad de la entidad.", "Confundir funciones básicas, intermedias y superiores."],
+      "review": ["¿Qué organiza este reglamento?", "¿Por qué un servicio externo no sustituye la integración preventiva?"]
+    },
+    "rd-393-2007": {
+      "profile": "prevencion",
+      "bridge": "Ordena la autoprotección ante emergencias. En un espacio cultural ayuda a pensar en riesgos, medios, evacuación y coordinación externa.",
+      "focus": ["Distingue plan de autoprotección, plan de emergencia y respuesta concreta.", "Identifica responsabilidades, implantación, mantenimiento y simulacros."],
+      "example": "Un teatro necesita prever cómo detectar una emergencia, avisar, evacuar público y personal, coordinar equipos y facilitar la intervención exterior.",
+      "keys": ["La autoprotección se prepara antes de la emergencia.", "El plan debe implantarse, mantenerse y actualizarse.", "Evacuación, confinamiento y primera intervención responden a situaciones distintas."],
+      "terms": [{"term": "Plan de autoprotección", "meaning": "Documento y sistema organizativo para prevenir y controlar riesgos y responder a emergencias."}, {"term": "Implantación", "meaning": "Puesta en práctica mediante organización, formación, información y ejercicios."}],
+      "traps": ["Confundir redactar el plan con tenerlo implantado.", "Aplicar siempre evacuación sin valorar el tipo de emergencia."],
+      "review": ["¿Qué convierte un documento en un plan realmente implantado?", "¿Qué respuestas distintas puede prever una emergencia?"]
+    },
+    "rd-171-2004": {
+      "profile": "prevencion",
+      "bridge": "Regula la coordinación cuando varias empresas o profesionales coinciden en un centro. Es especialmente reconocible en montajes, giras y festivales.",
+      "focus": ["Distingue empresario titular, principal y empresas concurrentes.", "Relaciona intercambio de información, instrucciones, medios de coordinación y vigilancia."],
+      "example": "En un montaje coinciden personal del teatro, empresa de sonido y compañía visitante: cada una conserva obligaciones y todas deben coordinarse.",
+      "keys": ["La concurrencia no borra las responsabilidades de cada empresa.", "La coordinación exige información suficiente y medios adecuados.", "Titular y principal no son siempre la misma figura."],
+      "terms": [{"term": "Concurrencia", "meaning": "Coincidencia de personas trabajadoras de varias empresas en un mismo centro."}, {"term": "Empresario titular", "meaning": "Quien tiene capacidad de poner a disposición y gestionar el centro de trabajo."}, {"term": "Medio de coordinación", "meaning": "Instrumento elegido para intercambiar información y controlar riesgos concurrentes."}],
+      "traps": ["Pensar que solo responde la empresa titular.", "Confundir empresario titular y principal.", "Reducir la coordinación a entregar un documento."],
+      "review": ["¿Quiénes deben coordinarse en un montaje?", "¿Qué diferencia hay entre titular y principal?", "¿Para qué sirven los medios de coordinación?"]
+    },
+    "rd-486-1997": {
+      "profile": "prevencion",
+      "bridge": "Fija condiciones mínimas de seguridad y salud de los lugares de trabajo. No enseña escenografía: ayuda a reconocer condiciones seguras del espacio.",
+      "focus": ["Fíjate en dimensiones, circulación, orden, iluminación, ambiente y servicios.", "Separa condiciones del lugar de las reglas específicas de equipos o EPI."],
+      "example": "Una zona de carga de un teatro debe permitir circulación segura, orden y condiciones ambientales adecuadas aunque no forme parte del escenario visible.",
+      "keys": ["El lugar de trabajo debe mantenerse seguro y adecuado.", "Iluminación de seguridad y artística tienen finalidades distintas.", "Las condiciones ambientales se valoran desde la salud laboral."],
+      "terms": [{"term": "Lugar de trabajo", "meaning": "Área del centro, edificada o no, en la que las personas deben permanecer o acceder por su trabajo."}, {"term": "Vía de circulación", "meaning": "Zona destinada al desplazamiento seguro de personas o vehículos."}],
+      "traps": ["Confundir iluminación laboral con diseño de iluminación escénica.", "Aplicar la norma de equipos a una condición del edificio."],
+      "review": ["¿Qué dimensiones del espacio regula?", "¿Qué diferencia hay entre lugar y equipo de trabajo?"]
+    },
+    "rd-1215-1997": {
+      "profile": "prevencion",
+      "bridge": "Se centra en que los equipos puestos a disposición sean adecuados y se utilicen de forma segura.",
+      "focus": ["Relaciona elección, utilización, mantenimiento y comprobación.", "Distingue equipo de trabajo de lugar de trabajo y de EPI."],
+      "example": "Una plataforma elevadora o un equipo de maquinaria escénica necesita adecuación, comprobaciones e instrucciones, además de personal formado.",
+      "keys": ["El equipo debe ser adecuado al trabajo y al riesgo.", "Algunos equipos requieren comprobaciones iniciales o periódicas.", "La información y la formación deben adaptarse al uso real."],
+      "terms": [{"term": "Equipo de trabajo", "meaning": "Máquina, aparato, instrumento o instalación utilizada en el trabajo."}, {"term": "Comprobación", "meaning": "Verificación de instalación, funcionamiento o conservación cuando la seguridad lo exige."}],
+      "traps": ["Confundir equipo de trabajo con EPI.", "Pensar que el marcado o la compra sustituyen mantenimiento y uso seguro."],
+      "review": ["¿Qué convierte a un equipo en adecuado?", "¿Cuándo son necesarias comprobaciones?"]
+    },
+    "rd-773-1997": {
+      "profile": "prevencion",
+      "bridge": "Regula la protección individual cuando el riesgo no ha podido evitarse o limitarse suficientemente por otros medios.",
+      "focus": ["Entiende el EPI como última barrera dentro de una jerarquía preventiva.", "Fíjate en elección, compatibilidad, entrega, uso y mantenimiento."],
+      "example": "En un montaje en altura, el arnés no sustituye la planificación ni la protección colectiva; completa las medidas cuando persiste el riesgo.",
+      "keys": ["El EPI se usa cuando otras medidas no bastan.", "Debe ser adecuado al riesgo y a la persona.", "Varios EPI simultáneos deben ser compatibles.", "La empresa proporciona y la persona utiliza conforme a instrucciones."],
+      "terms": [{"term": "EPI", "meaning": "Equipo de protección individual llevado o sujetado para proteger frente a uno o varios riesgos."}, {"term": "Compatibilidad", "meaning": "Capacidad de varios equipos para funcionar juntos sin reducir su eficacia."}],
+      "traps": ["Elegir EPI antes que protección colectiva.", "Confundir proporcionar el equipo con garantizar por sí solo la protección."],
+      "review": ["¿Cuándo debe recurrirse a un EPI?", "¿Qué ocurre cuando se usan varios simultáneamente?"]
+    },
+    "rd-314-2006": {
+      "profile": "espectaculos",
+      "bridge": "El Código Técnico fija exigencias básicas de los edificios. En M3 interesa para seguridad, evacuación, accesibilidad y adecuación funcional, no para calcular estructuras.",
+      "focus": ["Relaciona exigencias básicas con seguridad de utilización, incendio y accesibilidad.", "No confundas edificio teatral con técnica escénica."],
+      "example": "La evacuación de una sala, la compartimentación o un itinerario accesible son cuestiones del edificio aunque condicionen la producción cultural.",
+      "keys": ["El CTE establece exigencias básicas del edificio.", "Seguridad en caso de incendio y seguridad de utilización son ámbitos distintos.", "La accesibilidad se integra en las condiciones del edificio."],
+      "terms": [{"term": "Exigencia básica", "meaning": "Condición mínima que debe cumplir el edificio para satisfacer los requisitos establecidos."}, {"term": "Documento Básico", "meaning": "Parte del CTE que desarrolla reglas y procedimientos para un ámbito concreto."}],
+      "traps": ["Convertir el CTE en manual de maquinaria escénica.", "Confundir seguridad del edificio y prevención de un equipo de trabajo."],
+      "review": ["¿Qué regula el CTE en un teatro?", "¿Qué cuestiones técnicas quedan fuera de su finalidad?"]
+    },
+    "rd-2816-1982": {
+      "profile": "espectaculos",
+      "bridge": "Aporta reglas generales históricas sobre espectáculos y locales. Debe leerse con su alcance y vigencia, especialmente para seguridad y funcionamiento.",
+      "focus": ["Distingue condiciones del local, organización del espectáculo y medidas de seguridad.", "No uses esta norma para explicar todos los oficios escénicos."],
+      "example": "Aforo, salidas, comportamiento del público o condiciones del local afectan a la celebración de una función, pero no explican cómo se realiza un cambio de decorado.",
+      "keys": ["La norma se centra en seguridad y funcionamiento de espectáculos y locales.", "Su carácter antiguo exige atender a las advertencias de vigencia.", "No sustituye la normativa técnica y preventiva posterior."],
+      "terms": [{"term": "Aforo", "meaning": "Número máximo de personas admitido en un espacio según sus condiciones y autorización."}, {"term": "Local de espectáculos", "meaning": "Espacio destinado a la celebración de actividades abiertas al público bajo las condiciones aplicables."}],
+      "traps": ["Dar por vigentes sin contraste todas sus previsiones.", "Usarla como fuente de técnica artística."],
+      "review": ["¿Qué tipo de cuestiones regula?", "¿Por qué debe leerse junto a normativa posterior?"]
+    },
+    "ley-50-2002": {
+      "profile": "cultura-tercer-sector",
+      "bridge": "Permite entender la fundación como patrimonio organizado para fines de interés general, figura frecuente en cultura.",
+      "focus": ["Distingue dotación, fines, patronato y protectorado.", "Separa fundación de asociación y de sociedad mercantil."],
+      "example": "Una fundación cultural puede gestionar actividades o patrimonio, pero no pertenece a socios: se articula alrededor de fines de interés general y una dotación.",
+      "keys": ["La fundación carece de socios.", "El patrimonio se afecta de modo duradero a fines de interés general.", "El Patronato gobierna y representa la fundación.", "El Protectorado ejerce las funciones públicas previstas."],
+      "terms": [{"term": "Dotación", "meaning": "Bienes y derechos destinados de forma adecuada y suficiente al cumplimiento de los fines fundacionales."}, {"term": "Patronato", "meaning": "Órgano de gobierno y representación de la fundación."}, {"term": "Protectorado", "meaning": "Órgano administrativo que ejerce control y apoyo en los términos legales."}],
+      "traps": ["Hablar de socios de una fundación.", "Confundir Patronato y Protectorado."],
+      "review": ["¿Qué elemento sustituye a la base asociativa?", "¿Qué diferencia hay entre Patronato y Protectorado?"]
+    },
+    "lo-1-2002": {
+      "profile": "cultura-tercer-sector",
+      "bridge": "Explica la asociación como unión voluntaria de personas para fines comunes, incluida una gran parte del tejido cultural.",
+      "focus": ["Relaciona personas asociadas, estatutos, asamblea y órgano de representación.", "Distingue asociación de fundación."],
+      "example": "Una asociación cultural nace de personas que comparten un proyecto; su órgano soberano es la asamblea, no un patronato fundacional.",
+      "keys": ["La asociación se basa en personas que se organizan voluntariamente.", "Los estatutos establecen sus reglas básicas.", "La Asamblea General y el órgano de representación cumplen funciones distintas."],
+      "terms": [{"term": "Asamblea General", "meaning": "Órgano supremo de gobierno formado por las personas asociadas."}, {"term": "Estatutos", "meaning": "Reglas internas que ordenan fines, órganos, derechos y funcionamiento."}],
+      "traps": ["Confundir asamblea con patronato.", "Afirmar que toda asociación necesita una dotación patrimonial fundacional."],
+      "review": ["¿Cuál es la base personal de la asociación?", "¿Qué órgano reúne a las personas asociadas?"]
+    },
+    "ley-49-2002": {
+      "profile": "cultura-tercer-sector",
+      "bridge": "Conecta entidades sin fines lucrativos y mecenazgo mediante un régimen fiscal e incentivos. Para M3 interesa saber quién puede acogerse y qué operaciones generan beneficios.",
+      "focus": ["Distingue entidad beneficiaria, donativo, convenio de colaboración y patrocinio publicitario.", "Separa régimen fiscal de la entidad e incentivo de quien aporta."],
+      "example": "Una empresa puede apoyar un festival mediante donación, convenio de colaboración o patrocinio; la forma elegida cambia el tratamiento jurídico y fiscal.",
+      "keys": ["No toda entidad cultural aplica automáticamente el régimen especial.", "Donación, convenio de colaboración y patrocinio son figuras diferentes.", "Los incentivos dependen de requisitos y beneficiarios previstos."],
+      "terms": [{"term": "Mecenazgo", "meaning": "Participación privada en actividades de interés general mediante las formas reconocidas legalmente."}, {"term": "Convenio de colaboración empresarial", "meaning": "Compromiso de ayuda económica a cambio de difundir la participación del colaborador en los términos legales."}, {"term": "Donativo", "meaning": "Aportación gratuita e irrevocable que puede generar deducción si cumple requisitos."}],
+      "traps": ["Confundir convenio de colaboración y contrato de patrocinio publicitario.", "Suponer que cualquier aportación da derecho a la misma deducción."],
+      "review": ["¿Qué figuras de apoyo privado deben distinguirse?", "¿Quién obtiene el incentivo en una donación?"]
+    },
+    "ley-27-2014": {
+      "profile": "cultura-tercer-sector",
+      "bridge": "Aparece como apoyo fiscal al mecenazgo. No debe estudiarse como un curso completo de Impuesto sobre Sociedades.",
+      "focus": ["Limita la lectura a incentivos y conexiones señaladas con actividades culturales.", "Distingue deducción, bonificación y exención."],
+      "example": "Una empresa que financia una actividad cultural puede tener un tratamiento fiscal concreto, pero no toda aportación se califica igual.",
+      "keys": ["La relevancia es parcial y fiscal.", "Los beneficios exigen encaje legal y requisitos.", "Debe leerse junto a la Ley 49/2002 cuando se trate de mecenazgo."],
+      "terms": [{"term": "Deducción", "meaning": "Cantidad que reduce la cuota tributaria en los casos establecidos."}, {"term": "Exención", "meaning": "Supuesto en el que una renta o hecho queda liberado de tributación conforme a la ley."}],
+      "traps": ["Confundir deducción y exención.", "Estudiar todo el impuesto como materia principal."],
+      "review": ["¿Por qué aparece esta ley en el temario cultural?", "¿Qué conceptos fiscales no deben confundirse?"]
+    },
+    "rdl-6-2023": {
+      "profile": "cultura-tercer-sector",
+      "bridge": "Modifica aspectos del régimen de mecenazgo. Interesa por los cambios que afectan a las figuras ya estudiadas, no como norma independiente completa.",
+      "focus": ["Lee cada modificación junto al precepto de la Ley 49/2002 que altera.", "Identifica cambios en incentivos o modalidades de colaboración."],
+      "example": "Para resolver una pregunta sobre una deducción o convenio, hay que usar la redacción resultante tras la reforma, no dos normas como respuestas incompatibles.",
+      "keys": ["Es una norma modificadora.", "La regla final se obtiene integrando reforma y texto modificado.", "Su estudio se limita al impacto en mecenazgo."],
+      "terms": [{"term": "Norma modificadora", "meaning": "Norma que cambia, añade o suprime partes de otra regulación."}, {"term": "Texto vigente", "meaning": "Redacción aplicable después de integrar las modificaciones en la norma de base."}],
+      "traps": ["Memorizar a la vez la redacción antigua y la nueva sin contexto.", "Tratar la reforma como una ley completa de mecenazgo."],
+      "review": ["¿Cómo debe estudiarse una norma modificadora?", "¿Qué ley de base completa esta reforma?"]
+    },
+    "rdleg-1-1996": {
+      "profile": "cultura-tercer-sector",
+      "bridge": "Es la norma central de propiedad intelectual. Para una gestora cultural, el eje es quién tiene derechos, cuáles son y cómo se usan legítimamente las obras.",
+      "focus": ["Distingue autoría, derechos morales, explotación, límites y duración.", "Separa autor, artista intérprete, productor y entidad de gestión."],
+      "example": "Programar una obra, grabar una función y difundirla en línea pueden requerir derechos diferentes aunque partan del mismo espectáculo.",
+      "keys": ["La autoría nace por la creación de una obra original.", "Derechos morales y patrimoniales tienen naturaleza distinta.", "Reproducción, distribución, comunicación pública y transformación son actos diferentes.", "Los límites permiten determinados usos sin convertir la obra en libre."],
+      "terms": [{"term": "Derecho moral", "meaning": "Facultad personal vinculada a la autoría, como reconocimiento e integridad de la obra."}, {"term": "Comunicación pública", "meaning": "Acceso de una pluralidad de personas a la obra sin distribución previa de ejemplares a cada una."}, {"term": "Transformación", "meaning": "Adaptación, traducción u otra modificación de la que deriva una obra distinta."}],
+      "traps": ["Confundir propiedad del soporte con propiedad intelectual de la obra.", "Confundir reproducción y comunicación pública.", "Suponer que citar la autoría autoriza cualquier uso."],
+      "review": ["¿Qué derechos de explotación deben distinguirse?", "¿Qué diferencia hay entre autor e intérprete?", "¿Qué adquiere quien compra un cuadro o una partitura física?"]
+    },
+    "rdl-24-2021": {
+      "profile": "cultura-tercer-sector",
+      "bridge": "Adapta propiedad intelectual al mercado digital. Se estudia como actualización de reglas sobre usos en línea, plataformas y determinados derechos.",
+      "focus": ["Relaciona la reforma con el texto refundido de propiedad intelectual.", "Distingue acceso digital, reproducción, comunicación y licencias."],
+      "example": "Subir una grabación escénica a una plataforma no es solo archivar un fichero: puede implicar reproducción y comunicación pública.",
+      "keys": ["La reforma responde al entorno digital.", "Las plataformas y usos en línea no eliminan los derechos previos.", "La norma modifica el texto de base y debe leerse integrada con él."],
+      "terms": [{"term": "Mercado único digital", "meaning": "Marco europeo para facilitar actividades digitales preservando derechos y reglas comunes."}, {"term": "Licencia", "meaning": "Autorización para utilizar derechos en condiciones determinadas."}],
+      "traps": ["Pensar que contenido accesible en internet es de libre uso.", "Confundir enlace, copia y comunicación pública sin atender al supuesto."],
+      "review": ["¿Qué problema actualiza esta reforma?", "¿Qué actos de explotación puede implicar una difusión digital?"]
+    },
+    "ley-16-1985": {
+      "profile": "patrimonio",
+      "bridge": "Organiza la protección del patrimonio histórico español. Conviene estudiar categorías, niveles de protección y obligaciones, no solo nombres de bienes.",
+      "focus": ["Distingue bienes muebles, inmuebles y categorías de protección.", "Relaciona declaración, inventario, conservación, exportación y competencias."],
+      "example": "Un edificio teatral histórico, un archivo musical o una escenografía conservada pueden plantear protecciones y obligaciones diferentes.",
+      "keys": ["La protección depende de la naturaleza y categoría del bien.", "Declaración e inventario producen efectos específicos.", "Propiedad privada y protección patrimonial pueden coexistir.", "Conservar, investigar y difundir forman parte de la tutela patrimonial."],
+      "terms": [{"term": "Bien de Interés Cultural", "meaning": "Categoría de especial protección para bienes relevantes del patrimonio histórico."}, {"term": "Inventario General", "meaning": "Instrumento de identificación y protección de determinados bienes muebles."}],
+      "traps": ["Confundir bien inventariado y Bien de Interés Cultural.", "Pensar que protección patrimonial exige siempre titularidad pública."],
+      "review": ["¿Qué categorías y tipos de bienes deben distinguirse?", "¿Qué efectos puede producir una declaración de protección?"]
+    },
+    "ley-10-2015": {
+      "profile": "patrimonio",
+      "bridge": "Protege prácticas, conocimientos y expresiones vivas. Ayuda a comprender que patrimonio no significa únicamente objeto o edificio.",
+      "focus": ["Distingue patrimonio inmaterial de bienes materiales asociados.", "Relaciona comunidad portadora, transmisión, documentación y salvaguardia."],
+      "example": "Una tradición musical o escénica se protege favoreciendo su transmisión y continuidad, no congelándola como una pieza de museo.",
+      "keys": ["El patrimonio inmaterial se mantiene vivo mediante comunidades y transmisión.", "Salvaguardar no equivale a inmovilizar.", "Documentación y difusión deben respetar a las comunidades portadoras."],
+      "terms": [{"term": "Salvaguardia", "meaning": "Medidas para garantizar viabilidad, transmisión, identificación, documentación y revitalización del patrimonio inmaterial."}, {"term": "Comunidad portadora", "meaning": "Grupo que reconoce, practica y transmite una manifestación cultural."}],
+      "traps": ["Aplicar únicamente categorías de patrimonio inmueble.", "Confundir salvaguardia con impedir toda evolución de la práctica."],
+      "review": ["¿Qué hace inmaterial a este patrimonio?", "¿Qué papel cumple la comunidad portadora?"]
+    },
+    "rd-620-1987": {
+      "profile": "patrimonio",
+      "bridge": "Regula los museos de titularidad estatal y el sistema correspondiente. Interesa por funciones, órganos y servicios básicos.",
+      "focus": ["Relaciona conservación, investigación, documentación y difusión.", "Distingue museo, colección, titularidad y gestión."],
+      "example": "Un museo estatal no se limita a exhibir: conserva fondos, los documenta, investiga y facilita acceso y difusión.",
+      "keys": ["Las funciones museísticas van más allá de la exposición.", "Titularidad y gestión pueden ser conceptos diferentes.", "Fondos, inventario y documentación sostienen la actividad pública del museo."],
+      "terms": [{"term": "Colección estable", "meaning": "Conjunto de bienes culturales conservado y ordenado con vocación de permanencia."}, {"term": "Sistema Español de Museos", "meaning": "Marco de cooperación e integración de instituciones conforme a la regulación."}],
+      "traps": ["Reducir museo a sala de exhibición.", "Confundir museo estatal con cualquier centro de arte."],
+      "review": ["¿Qué funciones básicas cumple un museo?", "¿Qué diferencia puede haber entre titularidad y gestión?"]
+    },
+    "ley-12-1989": {
+      "profile": "estadistica",
+      "bridge": "Da el marco de la estadística estatal. Para cultura ayuda a interpretar por qué los datos oficiales tienen garantías, planificación y deberes específicos.",
+      "focus": ["Distingue estadística oficial, secreto estadístico y planificación.", "Relaciona recogida de datos, finalidad y difusión de resultados."],
+      "example": "El Anuario de Estadísticas Culturales utiliza operaciones y fuentes oficiales; los datos individuales no se publican como si fueran resultados agregados.",
+      "keys": ["La estadística oficial se somete a planificación y garantías.", "El secreto estadístico protege datos individuales.", "Resultados agregados y datos identificables no son equivalentes."],
+      "terms": [{"term": "Secreto estadístico", "meaning": "Protección de los datos personales o individualizados obtenidos con fines estadísticos."}, {"term": "Plan Estadístico Nacional", "meaning": "Instrumento que ordena las operaciones estadísticas estatales de un periodo."}],
+      "traps": ["Confundir secreto estadístico con falta de transparencia de resultados agregados.", "Tratar cualquier encuesta como estadística oficial."],
+      "review": ["¿Qué protege el secreto estadístico?", "¿Qué función tiene la planificación estadística?"]
+    },
+    "lo-3-2007": {
+      "profile": "igualdad-accesibilidad",
+      "bridge": "Convierte la igualdad formal en obligaciones de actuación. En cultura afecta al empleo, la creación, la representación y las políticas públicas.",
+      "focus": ["Distingue discriminación directa e indirecta, acción positiva y presencia equilibrada.", "Relaciona transversalidad, planes de igualdad y actuación pública."],
+      "example": "Una programación puede no excluir expresamente a las creadoras y, aun así, reproducir una desventaja que conviene analizar con perspectiva de género.",
+      "keys": ["Igualdad de trato e igualdad de oportunidades se proyectan sobre políticas y empleo.", "Discriminación indirecta puede surgir de una medida aparentemente neutra.", "Acción positiva busca corregir desigualdades de hecho.", "La perspectiva de género debe integrarse transversalmente."],
+      "terms": [{"term": "Discriminación indirecta", "meaning": "Desventaja particular causada por una disposición o práctica aparentemente neutra, salvo justificación objetiva y proporcionada."}, {"term": "Acción positiva", "meaning": "Medida específica y temporal destinada a corregir desigualdades de hecho."}, {"term": "Presencia equilibrada", "meaning": "Composición en la que cada sexo se mantiene dentro de los límites previstos legalmente."}],
+      "traps": ["Confundir acción positiva con discriminación prohibida.", "Buscar intención discriminatoria cuando la figura examinada es indirecta.", "Reducir la transversalidad a un plan aislado."],
+      "review": ["¿Qué diferencia hay entre discriminación directa e indirecta?", "¿Para qué sirve una acción positiva?", "¿Qué significa integrar la igualdad transversalmente?"]
+    },
+    "rdleg-1-2013": {
+      "profile": "igualdad-accesibilidad",
+      "bridge": "Reúne derechos y obligaciones sobre discapacidad e inclusión. En cultura debe trasladarse al acceso a espacios, contenidos, empleo y participación.",
+      "focus": ["Distingue igualdad de oportunidades, accesibilidad universal, ajustes razonables y discriminación.", "Relaciona barreras físicas, sensoriales, cognitivas y sociales."],
+      "example": "Una función accesible puede requerir itinerario físico, información comprensible, subtitulado o audiodescripción según las necesidades y el contexto.",
+      "keys": ["La discapacidad se entiende en interacción con barreras.", "Accesibilidad universal y ajuste razonable son instrumentos diferentes.", "La inclusión exige participación en condiciones de igualdad.", "La denegación de ajustes puede constituir discriminación."],
+      "terms": [{"term": "Accesibilidad universal", "meaning": "Condición que deben cumplir entornos, procesos, bienes y servicios para ser utilizables por todas las personas."}, {"term": "Ajuste razonable", "meaning": "Adaptación necesaria en un caso particular que no imponga una carga desproporcionada."}],
+      "traps": ["Confundir accesibilidad general con ajuste individual.", "Reducir discapacidad a una característica médica sin considerar barreras."],
+      "review": ["¿Qué diferencia hay entre accesibilidad y ajuste razonable?", "¿Qué papel tienen las barreras?"]
+    },
+    "rd-193-2023": {
+      "profile": "igualdad-accesibilidad",
+      "bridge": "Concreta condiciones básicas de accesibilidad y no discriminación para el acceso y uso de bienes y servicios a disposición del público.",
+      "focus": ["Traslada las obligaciones generales a servicios ofrecidos al público.", "Piensa en información, atención, canales y ajustes, no solo en rampas."],
+      "example": "La venta de entradas, la atención en sala y la información de una actividad cultural también forman parte de la experiencia accesible.",
+      "keys": ["La accesibilidad afecta a bienes y servicios abiertos al público.", "Incluye comunicación, información y atención.", "Las medidas deben contemplar distintas necesidades."],
+      "terms": [{"term": "Bienes y servicios a disposición del público", "meaning": "Oferta abierta a usuarios o consumidores, también cuando se presta por canales digitales."}, {"term": "No discriminación", "meaning": "Garantía de acceso y trato sin desventaja por motivo de discapacidad."}],
+      "traps": ["Reducir toda accesibilidad a eliminación de barreras arquitectónicas.", "Olvidar canales digitales y comunicación."],
+      "review": ["¿Qué dimensiones de un servicio cultural deben ser accesibles?", "¿Por qué no basta con el acceso físico?"]
+    },
+    "conv-onu-2006": {
+      "profile": "igualdad-accesibilidad",
+      "bridge": "Aporta el enfoque de derechos humanos: las personas con discapacidad son titulares de derechos y las barreras del entorno condicionan su participación.",
+      "focus": ["Distingue accesibilidad, diseño universal y ajustes razonables.", "Relaciona participación cultural con igualdad y autonomía."],
+      "example": "El acceso a la cultura comprende asistir, participar, crear y disfrutar de materiales y espacios en formatos accesibles.",
+      "keys": ["La Convención adopta un enfoque de derechos.", "La participación plena depende también de eliminar barreras.", "La cultura aparece como ámbito de participación y desarrollo."],
+      "terms": [{"term": "Diseño universal", "meaning": "Diseño utilizable por todas las personas en la mayor medida posible sin adaptación especializada."}, {"term": "Ajuste razonable", "meaning": "Modificación necesaria para un caso concreto sin carga desproporcionada."}],
+      "traps": ["Presentar accesibilidad como concesión voluntaria.", "Confundir diseño universal y ajuste individual."],
+      "review": ["¿Qué enfoque adopta la Convención?", "¿Qué derechos culturales reconoce o protege?"]
+    },
+    "ley-7-2021": {
+      "profile": "igualdad-accesibilidad",
+      "bridge": "Aparece como marco de sostenibilidad y transición ecológica. Para M3 interesa su traducción a políticas y actividad cultural, no el sector energético completo.",
+      "focus": ["Retén principios y objetivos aplicables a la acción pública.", "Relaciona sostenibilidad con planificación, contratación, movilidad y gestión de recursos."],
+      "example": "Una gira o festival puede incorporar reducción de desplazamientos, eficiencia energética y gestión de residuos dentro de una política cultural sostenible.",
+      "keys": ["La transición ecológica orienta políticas públicas.", "Mitigación y adaptación responden a problemas diferentes.", "La cultura puede integrar sostenibilidad sin convertirse en política energética."],
+      "terms": [{"term": "Mitigación", "meaning": "Reducción de emisiones o aumento de sumideros para limitar el cambio climático."}, {"term": "Adaptación", "meaning": "Medidas para reducir vulnerabilidad y responder a efectos climáticos."}],
+      "traps": ["Confundir mitigación y adaptación.", "Estudiar capítulos sectoriales sin conexión con el temario cultural."],
+      "review": ["¿Qué diferencia hay entre mitigar y adaptarse?", "¿Cómo puede trasladarse la sostenibilidad a una actividad cultural?"]
+    },
+    "ley-47-2003": {
+      "profile": "economico",
+      "bridge": "Es el marco de la actividad económico-financiera estatal. Conviene seguir el ciclo presupuestario y distinguir autorización, gestión y control.",
+      "focus": ["Distingue presupuesto, crédito, gasto, ingreso y control.", "Relaciona fases del gasto con órganos y documentos."],
+      "example": "Programar una producción no basta para gastar: debe existir crédito y tramitarse las fases correspondientes antes del pago.",
+      "keys": ["El presupuesto autoriza y limita la actividad económica pública.", "Crédito presupuestario y dinero disponible no son expresiones equivalentes.", "La gestión del gasto sigue fases diferenciadas.", "Control interno y externo cumplen funciones distintas."],
+      "terms": [{"term": "Crédito presupuestario", "meaning": "Asignación individualizada de gasto aprobada en el presupuesto."}, {"term": "Compromiso de gasto", "meaning": "Acto por el que se acuerda realizar un gasto previamente autorizado por importe determinado."}, {"term": "Reconocimiento de la obligación", "meaning": "Declaración de que existe una deuda exigible tras acreditar la prestación o derecho."}],
+      "traps": ["Confundir autorización, compromiso, obligación y pago.", "Pensar que una necesidad artística permite gastar sin crédito."],
+      "review": ["¿Qué limita el crédito presupuestario?", "¿Qué fases recorre un gasto antes del pago?"]
+    },
+    "ley-38-2003": {
+      "profile": "economico",
+      "bridge": "Regula cómo se conceden, justifican y controlan ayudas públicas. En cultura es central para compañías, festivales, asociaciones y creación.",
+      "focus": ["Distingue subvención, contrato, premio y convenio.", "Sigue concesión, obligaciones, justificación, control y reintegro."],
+      "example": "Una compañía beneficiaria de una ayuda debe realizar la actividad y justificarla; la concesión no cierra el expediente ni elimina el control.",
+      "keys": ["La subvención financia una actividad o situación sin contraprestación contractual directa.", "Concesión directa y concurrencia competitiva no son lo mismo.", "La persona beneficiaria asume obligaciones de realización y justificación.", "Incumplimientos pueden producir reintegro y, en su caso, sanción."],
+      "terms": [{"term": "Beneficiario", "meaning": "Persona o entidad que realiza la actividad o se encuentra en la situación que fundamenta la subvención."}, {"term": "Concurrencia competitiva", "meaning": "Procedimiento que compara solicitudes conforme a criterios previamente fijados."}, {"term": "Reintegro", "meaning": "Devolución de fondos por las causas previstas, con los intereses correspondientes cuando proceda."}],
+      "traps": ["Confundir subvención y contrato público.", "Confundir reintegro con sanción.", "Pensar que justificar equivale únicamente a presentar facturas."],
+      "review": ["¿Qué distingue una subvención de un contrato?", "¿Qué obligaciones conserva el beneficiario tras cobrar?", "¿Qué diferencia hay entre reintegro y sanción?"]
+    }
+  }
+}

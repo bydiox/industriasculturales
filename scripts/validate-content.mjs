@@ -32,7 +32,7 @@ const readSourceHtml = async (file, context) => {
   }
 };
 
-const [questions, manifest, syllabus, studyPlan, editorialRules, sourcePolicy, examConfig, lawScopes] = await Promise.all([
+const [questions, manifest, syllabus, studyPlan, editorialRules, sourcePolicy, examConfig, lawScopes, historyReading, studyEditorial] = await Promise.all([
   readJson('data/questions.json'),
   readJson('data/laws/laws-manifest.json'),
   readJson('data/syllabus.json'),
@@ -40,7 +40,9 @@ const [questions, manifest, syllabus, studyPlan, editorialRules, sourcePolicy, e
   readJson('data/editorial-rules.json'),
   readJson('data/topic-source-policy.json').catch(() => ({ topics: {} })),
   readJson('data/exam-config.json'),
-  readJson('data/law-scopes.json').catch(() => ({ laws: {}, default: { mode: 'full' } }))
+  readJson('data/law-scopes.json').catch(() => ({ laws: {}, default: { mode: 'full' } })),
+  readJson('data/history-reading.json'),
+  readJson('data/laws/study-editorial.json')
 ]);
 const lawMap = new Map(manifest.laws.map(law => [law.lawId, law]));
 const officialTopicIds = new Set(syllabus.topics.map(topic => topic.id));
@@ -53,6 +55,26 @@ const assignedTopicIds = new Set();
 const editorialRuleIds = new Set();
 const criticalRulesByTopic = new Map();
 const scopeByLaw = new Map(Object.entries(lawScopes.laws || {}));
+
+if (!Number.isFinite(studyEditorial.schemaVersion)) fail('La capa editorial de las lecturas no declara schemaVersion.');
+const historyLawIds = new Set(Object.values(historyReading.units || {}).flatMap(unit => unit.lawIds || []));
+for (const lawId of historyLawIds) {
+  const editorial = studyEditorial.laws?.[lawId];
+  if (!editorial) {
+    fail(`Lectura de Historia sin apoyo editorial: ${lawId}`);
+    continue;
+  }
+  if (!studyEditorial.profiles?.[editorial.profile]) fail(`Perfil editorial inexistente en ${lawId}: ${editorial.profile}`);
+  if (!editorial.bridge?.trim()) fail(`Lectura sin explicación inicial: ${lawId}`);
+  if (!Array.isArray(editorial.focus) || editorial.focus.length < 1) fail(`Lectura sin foco de estudio: ${lawId}`);
+  if (!editorial.example?.trim()) fail(`Lectura sin ejemplo cultural: ${lawId}`);
+  if (!Array.isArray(editorial.keys) || editorial.keys.length < 2) fail(`Lectura sin claves finales suficientes: ${lawId}`);
+  if (!Array.isArray(editorial.terms) || editorial.terms.length < 1 || editorial.terms.some(item => !item.term?.trim() || !item.meaning?.trim())) {
+    fail(`Lectura sin términos clave válidos: ${lawId}`);
+  }
+  if (!Array.isArray(editorial.traps) || editorial.traps.length < 1) fail(`Lectura sin trampas de test: ${lawId}`);
+  if (!Array.isArray(editorial.review) || editorial.review.length < 1) fail(`Lectura sin repaso final: ${lawId}`);
+}
 
 for (const rule of editorialRules.rules) {
   if (editorialRuleIds.has(rule.id)) fail(`ID de regla editorial duplicado: ${rule.id}`);
